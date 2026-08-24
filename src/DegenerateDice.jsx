@@ -1,132 +1,104 @@
 import React, { useState } from 'react';
-import './NeonArcade.css';
 
-export default function DegenerateDice({ initialSurvivors = [], onAdvanceToRoulette }) {
-    // Combine survivors with extra teams to make 10 active teams on the grid
-    const [activeTeams, setActiveTeams] = useState([
-        initialSurvivors[0] || 'Celtics',
-        initialSurvivors[1] || 'Dodgers',
-        initialSurvivors[2] || 'Lakers',
-        initialSurvivors[3] || 'Chiefs',
-        initialSurvivors[4] || 'Storm',
-        'Yankees', 'Warriors', 'Eagles', 'Heat', 'Aces'
-    ]);
+export default function DegenerateDice() {
+  const [bankroll, setBankroll] = useState(10000);
+  const [betAmount, setBetAmount] = useState(100);
+  const [diceResult, setDiceResult] = useState(null);
+  const [gameStatus, setGameStatus] = useState('Place your bet and roll the dice.');
+  const [history, setHistory] = useState([]);
 
-    const [rollsLeft, setRollsLeft] = useState(5);
-    const [diceResult, setDiceResult] = useState({ die1: 3, die2: 4, total: 7 });
-    const [rolling, setRolling] = useState(false);
-    const [laserChaos, setLaserChaos] = useState(false);
-    const [manualPickMode, setManualPickMode] = useState(false);
-    const [survivorPool, setSurvivorPool] = useState([]);
-    const [statusMessage, setStatusMessage] = useState('DEGENERATE GRID ACTIVE - ROLL THE BONES (5 ROLLS REMAINING)');
+  const rollDice = () => {
+    if (bankroll < betAmount) {
+      setGameStatus('Insufficient bankroll for this wager!');
+      return;
+    }
 
-    const rollBones = () => {
-        if (rollsLeft <= 0 || rolling) return;
+    const d1 = Math.floor(Math.random() * 6) + 1;
+    const d2 = Math.floor(Math.random() * 6) + 1;
+    const total = d1 + d2;
+    setDiceResult({ d1, d2, total });
 
-        setRolling(true);
-        setStatusMessage('ROLLING THE BONES ACROSS THE GRID...');
+    let outcomeText = '';
+    let payout = 0;
 
-        setTimeout(() => {
-            const d1 = Math.floor(Math.random() * 6) + 1;
-            const d2 = Math.floor(Math.random() * 6) + 1;
-            const total = d1 + d2;
-            setDiceResult({ die1: d1, die2: d2, total });
-            setRolling(false);
-            setRollsLeft(prev => prev - 1);
+    if (total === 7 || total === 11) {
+      payout = betAmount * 2;
+      setBankroll(prev => prev + payout);
+      outcomeText = `Rolled ${total}! Natural Win! +$${payout}`;
+    } else if (total === 2 || total === 3 || total === 12) {
+      setBankroll(prev => prev - betAmount);
+      outcomeText = `Rolled ${total}! Craps! Lost $${betAmount}`;
+    } else {
+      payout = Math.round(betAmount * 0.5);
+      setBankroll(prev => prev + payout);
+      outcomeText = `Rolled ${total}! Point established / Minor Win +$${payout}`;
+    }
 
-            // Check for 7 or 11 (NEON LASER LIGHT CHAOS)
-            if (total === 7 || total === 11) {
-                setLaserChaos(true);
-                setManualPickMode(true);
-                setStatusMessage(`JACKPOT! ROLLED A ${total}! NEON LASERS FIRING! CHOOSE ANY TEAM TO ADVANCE.`);
-                setTimeout(() => setLaserChaos(false), 2500); // laser effect duration
-            } else {
-                // Standard number hit: eliminate/advance logic based on active pool
-                if (activeTeams.length > 0) {
-                    const selectedTeam = activeTeams[0]; // Take first team for this roll slot
-                    setSurvivorPool(prev => [...prev, selectedTeam]);
-                    setActiveTeams(prev => prev.slice(1)); // Remove from active pool, bring next team up
+    setGameStatus(outcomeText);
+    setHistory(prev => [{ roll: total, text: outcomeText, time: new Date().toLocaleTimeString() }, ...prev.slice(0, 4)]);
+  };
 
-                    if (rollsLeft - 1 === 0) {
-                        setStatusMessage('5 ROLLS COMPLETE! TRANSITIONING TO ROULETTE ELIMINATION.');
-                    } else {
-                        setStatusMessage(`ROLLED A ${total}! ${selectedTeam} LOCKED IN. ${rollsLeft - 1} ROLLS LEFT.`);
-                    }
-                }
-            }
-        }, 800);
-    };
+  return (
+    <div className="max-w-4xl mx-auto space-y-6">
+      <div className="bg-slate-900 border border-purple-500/30 rounded-lg p-6 shadow-xl shadow-purple-950/20">
+        <h2 className="text-xl font-bold text-purple-400 mb-2">Degenerate Gauntlet: Dice Survival</h2>
+        <p className="text-sm text-slate-400 mb-4">High-variance dice simulation and point tracking.</p>
 
-    const handleManualPick = (team) => {
-        setSurvivorPool(prev => [...prev, team]);
-        setActiveTeams(prev => prev.filter(t => t !== team));
-        setManualPickMode(false);
-        setStatusMessage(`MANUAL PICK SECURED: ${team}! READY FOR NEXT ROLL.`);
-    };
-
-    return (
-        <div className={`degenerate-arcade-container ${laserChaos ? 'laser-chaos-active' : ''}`}>
-            <div className="arcade-header">
-                <h2>Phase 2: Degenerate Dice Survival</h2>
-                <span className="arcade-sub">Rolls Remaining: {rollsLeft} / 5</span>
-            </div>
-
-            <div className={`dice-arena ${laserChaos ? 'laser-shake' : ''}`}>
-                <div className={`dice-box ${rolling ? 'shake' : ''}`}>
-                    <div className="die">{diceResult.die1}</div>
-                    <div className="die">{diceResult.die2}</div>
-                </div>
-                <div className="dice-total-display">
-                    DICE TOTAL: <span>{diceResult.total}</span> {(diceResult.total === 7 || diceResult.total === 11) && <strong className="jackpot-alert">⚡ CRITICAL SEVEN / ELEVEN ⚡</strong>}
-                </div>
-            </div>
-
-            {manualPickMode && (
-                <div className="manual-pick-box">
-                    <p className="pick-prompt">🚨 LASER CHAOS ACTIVE! SELECT ONE TEAM TO ADVANCE 🚨</p>
-                    <div className="manual-team-grid">
-                        {activeTeams.map(team => (
-                            <button key={team} className="deg-btn active" onClick={() => handleManualPick(team)}>
-                                {team}
-                            </button>
-                        ))}
-                    </div>
-                </div>
-            )}
-
-            <div className="arcade-controls">
-                <button
-                    className="roll-action-btn"
-                    onClick={rollBones}
-                    disabled={rolling || manualPickMode || rollsLeft <= 0}
-                >
-                    {rolling ? 'ROLLING...' : rollsLeft <= 0 ? 'GRID LOCKED' : 'ROLL THE BONES'}
-                </button>
-
-                <div className="outcome-banner win">
-                    {statusMessage}
-                </div>
-            </div>
-
-            <div className="survivors-preview-bar">
-                <span>Locked Survivors ({survivorPool.length}):</span>
-                <div className="mini-chips">
-                    {survivorPool.map((team, i) => (
-                        <span key={i} className="mini-chip">{team}</span>
-                    ))}
-                </div>
-            </div>
-
-            {rollsLeft === 0 && (
-                <div className="fiasco-footer-action">
-                    <button
-                        className="roll-action-btn"
-                        onClick={() => onAdvanceToRoulette(survivorPool)}
-                    >
-                        ENTER PHASE 3: ROULETTE ELIMINATION WHEEL ➔
-                    </button>
-                </div>
-            )}
+        <div className="flex flex-wrap items-center justify-between gap-4 bg-slate-950 p-4 rounded-md border border-slate-800 mb-6">
+          <div>
+            <span className="text-xs text-slate-400 block">Current Bankroll</span>
+            <span className="text-2xl font-mono text-cyan-400">${bankroll.toLocaleString()}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-slate-300">Wager ($):</label>
+            <input 
+              type="number" 
+              value={betAmount} 
+              onChange={(e) => setBetAmount(Number(e.target.value))}
+              className="bg-slate-900 border border-slate-700 text-white px-3 py-1 rounded w-28 font-mono"
+            />
+          </div>
         </div>
-    );
+
+        <div className="text-center py-8 bg-slate-950/50 rounded-lg border border-slate-800 mb-6">
+          {diceResult ? (
+            <div className="flex justify-center gap-6 mb-4">
+              <div className="w-16 h-16 bg-slate-900 border-2 border-purple-400 rounded-xl flex items-center justify-center text-3xl font-bold font-mono text-white shadow-lg">
+                {diceResult.d1}
+              </div>
+              <div className="w-16 h-16 bg-slate-900 border-2 border-purple-400 rounded-xl flex items-center justify-center text-3xl font-bold font-mono text-white shadow-lg">
+                {diceResult.d2}
+              </div>
+            </div>
+          ) : (
+            <div className="text-slate-500 text-lg mb-4">Ready to Roll</div>
+          )}
+          <div className="text-lg font-semibold text-purple-300">{gameStatus}</div>
+        </div>
+
+        <div className="flex justify-center">
+          <button 
+            onClick={rollDice}
+            className="px-8 py-3 bg-purple-600 hover:bg-purple-500 text-white font-bold rounded-lg shadow-lg shadow-purple-900/40 transition-all text-lg"
+          >
+            Roll Dice
+          </button>
+        </div>
+      </div>
+
+      {history.length > 0 && (
+        <div className="bg-slate-900 border border-slate-800 rounded-lg p-4">
+          <h3 className="text-sm font-semibold text-slate-300 mb-3">Recent Rolls</h3>
+          <div className="space-y-2">
+            {history.map((h, idx) => (
+              <div key={idx} className="flex justify-between text-xs font-mono text-slate-400 bg-slate-950 p-2 rounded">
+                <span>{h.text}</span>
+                <span className="text-slate-500">{h.time}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
 }
