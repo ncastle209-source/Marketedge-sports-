@@ -1,0 +1,60 @@
+.roast-submission-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    max-width: 380px;
+    align-items: center;
+}
+
+.official-page-callout {
+    background: rgba(0, 240, 255, 0.08);
+    border: 1px dashed #00f0ff;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: #ccc;
+}
+
+.official-page-callout a {
+    color: #00f0ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.official-page-callout a:hover {
+    text-decoration: underline;
+}
+
+.roast-input-field {
+    width: 100%;
+    padding: 10px 14px;
+    background: rgba(0, 0, 0, 0.8);
+    border: 1px solid #555;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 0.9rem;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.roast-input-field:focus {
+    border-color: #00ffcc;
+    box-shadow: 0 0 8px rgba(0, 255, 204, 0.3);
+}
+
+.verify-roast-btn {
+    background: #ff007f;
+    color: #fff;
+    border-color: #ff007f;
+    box-shadow: 0 0 15px rgba(255, 0, 127, 0.4);
+    width: 100%;
+}
+
+.verify-roast-btn:hover {
+    background: rgba(255, 0, 127, 0.8);
+    box-shadow: 0 0 20px rgba(255, 0, 127, 0.7);
+}

@@ -1,0 +1,56 @@
+.vl-records-container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.record-badge {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 6px;
+    padding: 8px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 170px;
+}
+
+.record-badge.heavy-hitter {
+    border: 1px solid #00ffcc;
+    box-shadow: 0 0 10px rgba(0, 255, 204, 0.2);
+}
+
+.record-badge.official-plays {
+    border: 1px solid #00f0ff;
+    box-shadow: 0 0 10px rgba(0, 240, 255, 0.2);
+}
+
+.record-label {
+    font-size: 0.65rem;
+    color: #888;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.record-stats {
+    font-size: 0.95rem;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.record-badge.heavy-hitter .rate {
+    color: #00ffcc;
+    margin-left: 4px;
+    font-size: 0.85rem;
+}
+
+.record-badge.official-plays .rate {
+    color: #00f0ff;
+    margin-left: 4px;
+    font-size: 0.85rem;
+}
+
+.sub-title-tag {
+    font-size: 0.8rem;
+    color: #aaa;
+}

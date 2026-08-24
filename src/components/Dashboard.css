@@ -1,0 +1,130 @@
+.vl-dashboard-shell {
+    min-height: 100vh;
+    background: radial-gradient(circle at 50% 20%, #081418 0%, #04080a 100%);
+    color: #e0e0e0;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vl-dashboard-header {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(7, 14, 16, 0.9);
+    border: 1px solid rgba(0, 255, 204, 0.25);
+    box-shadow: 0 0 25px rgba(0, 255, 204, 0.1);
+    border-radius: 12px;
+    padding: 15px 25px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.vl-brand-group h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: #00ffcc;
+    text-shadow: 0 0 10px rgba(0, 255, 204, 0.6);
+    letter-spacing: 1px;
+}
+
+.vl-subtitle {
+    font-size: 0.75rem;
+    color: #00f0ff;
+    letter-spacing: 1px;
+}
+
+.vl-hud-stats {
+    display: flex;
+    gap: 20px;
+}
+
+.hud-metric {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.hud-label {
+    font-size: 0.65rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.hud-value {
+    font-size: 0.95rem;
+    font-weight: bold;
+}
+
+.hud-value.bankroll {
+    color: #00ffcc;
+    text-shadow: 0 0 6px rgba(0, 255, 204, 0.4);
+}
+
+.hud-value.status {
+    color: #00f0ff;
+    font-size: 0.85rem;
+    margin-top: 2px;
+}
+
+.vl-dashboard-nav {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.vl-nav-tab {
+    flex: 1;
+    min-width: 140px;
+    background: rgba(7, 14, 16, 0.7);
+    border: 1px solid rgba(0, 255, 204, 0.2);
+    color: #aaa;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+.vl-nav-tab:hover {
+    border-color: #00ffcc;
+    color: #fff;
+    background: rgba(0, 255, 204, 0.05);
+}
+
+.vl-nav-tab.active {
+    background: rgba(0, 255, 204, 0.12);
+    border-color: #00ffcc;
+    color: #00ffcc;
+    box-shadow: 0 0 12px rgba(0, 255, 204, 0.3);
+}
+
+/* Degenerate hours arcade tab special highlight */
+.vl-nav-tab.arcade-tab.active {
+    background: rgba(255, 0, 127, 0.12);
+    border-color: #ff007f;
+    color: #ff007f;
+    box-shadow: 0 0 12px rgba(255, 0, 127, 0.3);
+}
+
+.vl-dashboard-content {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+}

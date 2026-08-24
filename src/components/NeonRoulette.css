@@ -1,0 +1,206 @@
+.vl-neon-roulette-container {
+    background: linear-gradient(135deg, #0b0b14 0%, #121224 100%);
+    border: 1px solid rgba(0, 240, 255, 0.3);
+    box-shadow: 0 0 20px rgba(0, 240, 255, 0.15);
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 460px;
+    color: #e0e0e0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.vl-roulette-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 10px;
+}
+
+.vl-roulette-header h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: #00f0ff;
+    text-shadow: 0 0 8px rgba(0, 240, 255, 0.5);
+}
+
+.vl-bankroll-tag {
+    font-size: 0.95rem;
+    color: #fff;
+}
+
+.vl-wheel-display-box {
+    background: #05050a;
+    border: 1px solid #ff007f;
+    box-shadow: inset 0 0 10px rgba(255, 0, 127, 0.2);
+    border-radius: 6px;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.vl-wheel-hud {
+    font-size: 1.3rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #fff;
+    text-shadow: 0 0 10px #ff007f;
+}
+
+.spin-anim {
+    animation: pulse-glow 0.6s infinite alternate;
+}
+
+@keyframes pulse-glow {
+    0% {
+        opacity: 0.4;
+        text-shadow: 0 0 2px #ff007f;
+    }
+
+    100% {
+        opacity: 1;
+        text-shadow: 0 0 15px #ff007f;
+    }
+}
+
+.vl-roulette-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+    margin-bottom: 12px;
+}
+
+.vl-grid-btn {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 4px;
+    padding: 12px 0;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 0.2s ease;
+}
+
+.vl-grid-btn.red {
+    border-color: rgba(255, 0, 127, 0.5);
+}
+
+.vl-grid-btn.black {
+    border-color: rgba(0, 240, 255, 0.5);
+}
+
+.vl-grid-btn:hover {
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 0 8px rgba(0, 240, 255, 0.3);
+}
+
+.chip-badge {
+    font-size: 0.7rem;
+    color: #00f0ff;
+    margin-top: 2px;
+}
+
+.vl-outside-bets {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 6px;
+    margin-bottom: 15px;
+}
+
+.vl-side-btn {
+    background: transparent;
+    border: 1px solid rgba(0, 240, 255, 0.3);
+    color: #00f0ff;
+    padding: 8px 0;
+    font-size: 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.vl-side-btn:hover {
+    background: rgba(0, 240, 255, 0.1);
+    box-shadow: 0 0 6px rgba(0, 240, 255, 0.4);
+}
+
+.vl-chip-selector {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.vl-chip-btn {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #bbb;
+    padding: 6px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.vl-chip-btn.active {
+    border-color: #00f0ff;
+    color: #00f0ff;
+    box-shadow: 0 0 8px rgba(0, 240, 255, 0.4);
+    background: rgba(0, 240, 255, 0.05);
+}
+
+.vl-action-deck {
+    display: flex;
+    gap: 10px;
+}
+
+.vl-btn-spin {
+    flex: 2;
+    background: #ff007f;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(255, 0, 127, 0.4);
+    text-transform: uppercase;
+}
+
+.vl-btn-spin:hover:not(:disabled) {
+    background: #ff3399;
+    box-shadow: 0 0 15px rgba(255, 0, 127, 0.7);
+}
+
+.vl-btn-clear {
+    flex: 1;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #aaa;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.vl-btn-clear:hover {
+    border-color: #fff;
+    color: #fff;
+}
+
+.vl-result-banner {
+    margin-top: 12px;
+    padding-top: 8px;
+    border-top: 1px dashed rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+}
+
+.vl-result-banner .win {
+    color: #00ffcc;
+}
+
+.vl-result-banner .loss {
+    color: #ff3366;
+}
