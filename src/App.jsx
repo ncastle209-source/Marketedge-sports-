@@ -1,64 +1,12 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { SharpTrapEngine } from './analytics';
 import AddGameModal from './AddGameModal';
+import { evaluateSharpTrap } from './services/api';
 
 const initialSampleGames = [
-  {
-    id: 1,
-    gameId: 'npb-chiba-fukuoka',
-    matchup: 'Chiba Lotte Marines vs. Fukuoka Hawks',
-    sport: 'NPB',
-    secondsToKickoff: 6 * 3600,
-    fairSpread: -1.5,
-    liveOdds: {
-      spread: -3.5,
-      publicBetPct: 0.72,
-      lineMovedOppositePublic: true,
-      volumeSurgeConfirmed: true
-    }
-  },
-  {
-    id: 2,
-    gameId: 'mlb-yankees-red-sox',
-    matchup: 'New York Yankees vs. Boston Red Sox',
-    sport: 'MLB',
-    secondsToKickoff: 90 * 60,
-    fairSpread: 1.5,
-    liveOdds: {
-      spread: 1.5,
-      publicBetPct: 0.54,
-      lineMovedOppositePublic: false,
-      volumeSurgeConfirmed: false
-    }
-  },
-  {
-    id: 3,
-    gameId: 'wnba-aces-liberty',
-    matchup: 'Las Vegas Aces vs. New York Liberty',
-    sport: 'WNBA',
-    secondsToKickoff: 20 * 60,
-    fairSpread: -2.5,
-    liveOdds: {
-      spread: -2.5,
-      publicBetPct: 0.67,
-      lineMovedOppositePublic: true,
-      volumeSurgeConfirmed: true
-    }
-  },
-  {
-    id: 4,
-    gameId: 'soccer-united-arsenal',
-    matchup: 'Manchester United vs. Arsenal',
-    sport: 'EFL/Soccer',
-    secondsToKickoff: 30 * 3600,
-    fairSpread: 0.5,
-    liveOdds: {
-      spread: 0.5,
-      publicBetPct: 0.68,
-      lineMovedOppositePublic: false,
-      volumeSurgeConfirmed: false
-    }
-  }
+  { id: 1, gameId: 'npb-chiba-fukuoka', matchup: 'Chiba Lotte Marines vs. Fukuoka Hawks', sport: 'NPB', secondsToKickoff: 6 * 3600, fairSpread: -1.5 },
+  { id: 2, gameId: 'mlb-yankees-red-sox', matchup: 'New York Yankees vs. Boston Red Sox', sport: 'MLB', secondsToKickoff: 90 * 60, fairSpread: 1.5 },
+  { id: 3, gameId: 'wnba-aces-liberty', matchup: 'Las Vegas Aces vs. New York Liberty', sport: 'WNBA', secondsToKickoff: 20 * 60, fairSpread: -2.5 },
+  { id: 4, gameId: 'soccer-united-arsenal', matchup: 'Manchester United vs. Arsenal', sport: 'EFL/Soccer', secondsToKickoff: 30 * 3600, fairSpread: 0.5 }
 ];
 
 const triggerLabels = {
@@ -69,53 +17,15 @@ const triggerLabels = {
   t5_active: 'T5'
 };
 
-function createBrowserRedisClient() {
-  const readRecord = (key) => {
-    const raw = localStorage.getItem(key);
-    if (!raw) return null;
-
-    try {
-      const record = JSON.parse(raw);
-      if (record.expiresAt && record.expiresAt <= Date.now()) {
-        localStorage.removeItem(key);
-        return null;
-      }
-      return record;
-    } catch {
-      localStorage.removeItem(key);
-      return null;
-    }
-  };
-
-  return {
-    async get(key) {
-      return readRecord(key)?.value ?? null;
-    },
-
-    async set(key, value, ...options) {
-      if (options.includes('NX') && readRecord(key)) return null;
-
-      const expiresIndex = options.indexOf('EX');
-      const expiresInSeconds = expiresIndex >= 0
-        ? Number(options[expiresIndex + 1])
-        : null;
-
-      localStorage.setItem(key, JSON.stringify({
-        value: String(value),
-        expiresAt: expiresInSeconds ? Date.now() + expiresInSeconds * 1000 : null
-      }));
-
-      return 'OK';
-    },
-
-    seed(key, value) {
-      localStorage.setItem(key, JSON.stringify({ value: String(value), expiresAt: null }));
-    }
-  };
+function getPollingWindow(secondsToKickoff) {
+  if (secondsToKickoff > 24 * 3600) return { active: false, message: 'Outside 24-hour entry gate.' };
+  if (secondsToKickoff >= 8 * 3600) return { active: true, frequency: 'Every 4 hours' };
+  if (secondsToKickoff >= 2 * 3600) return { active: true, frequency: 'Every 1 hour' };
+  if (secondsToKickoff >= 30 * 60) return { active: true, frequency: 'Every 30 minutes' };
+  return { active: true, frequency: 'Every 5 minutes' };
 }
 
-export default function App({ redisClient: injectedRedisClient, apiClient: injectedApiClient } = {}) {
-  const runtimeDependencies = globalThis.__SHARP_TRAP_DEPENDENCIES__ || {};
+export default function App() {
   const [games, setGames] = useState(() => {
     const saved = localStorage.getItem('vegas_games');
     return saved ? JSON.parse(saved) : initialSampleGames;
@@ -127,71 +37,37 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
   const [isEvaluating, setIsEvaluating] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
-  const fallbackRedisClient = useMemo(() => createBrowserRedisClient(), []);
-  const redisClient = injectedRedisClient || runtimeDependencies.redisClient || fallbackRedisClient;
-  const fallbackApiClient = useMemo(() => ({
-    async getLiveOdds(gameId) {
-      const game = games.find((candidate) => String(candidate.gameId) === String(gameId));
-      if (!game?.liveOdds) {
-        throw new Error('No rotational odds response is available for this matchup.');
-      }
-      return game.liveOdds;
-    }
-  }), [games]);
-  const apiClient = injectedApiClient || runtimeDependencies.apiClient || fallbackApiClient;
-
   useEffect(() => {
     localStorage.setItem('vegas_games', JSON.stringify(games));
   }, [games]);
 
   useEffect(() => {
-    if (!selectedGame || redisClient !== fallbackRedisClient || selectedGame.fairSpread == null) return;
-    fallbackRedisClient.seed(
-      'game:' + selectedGame.gameId + ':fair_spread',
-      selectedGame.fairSpread
-    );
-  }, [fallbackRedisClient, redisClient, selectedGame]);
+    if (!selectedGame) return undefined;
 
-  const engine = useMemo(() => {
-    if (!selectedGame) return null;
-    return new SharpTrapEngine(selectedGame, redisClient, apiClient);
-  }, [apiClient, redisClient, selectedGame]);
-
-  const pollingWindow = useMemo(() => {
-    if (!engine || selectedGame?.secondsToKickoff == null) return null;
-    return engine.getPollingInterval(selectedGame.secondsToKickoff);
-  }, [engine, selectedGame]);
-
-  useEffect(() => {
-    if (!engine) return undefined;
-
-    let cancelled = false;
+    const controller = new AbortController();
     setIsEvaluating(true);
     setEvaluation(null);
     setEvaluationError(null);
 
-    const runEvaluation = async () => {
-      try {
-        const result = await engine.evaluateSharpTrap();
-        if (!cancelled) setEvaluation(result);
-      } catch (error) {
-        if (!cancelled) {
-          setEvaluationError(error instanceof Error ? error.message : 'Sharp Trap evaluation failed.');
-        }
-      } finally {
-        if (!cancelled) setIsEvaluating(false);
-      }
-    };
+    evaluateSharpTrap(selectedGame, { signal: controller.signal })
+      .then((result) => setEvaluation(result))
+      .catch((error) => {
+        if (error.name !== 'AbortError') setEvaluationError(error.message);
+      })
+      .finally(() => {
+        if (!controller.signal.aborted) setIsEvaluating(false);
+      });
 
-    runEvaluation();
-    return () => {
-      cancelled = true;
-    };
-  }, [engine]);
+    return () => controller.abort();
+  }, [selectedGame]);
 
   const filteredGames = selectedSport === 'ALL'
     ? games
     : games.filter((game) => game.sport === selectedSport);
+  const pollingWindow = useMemo(
+    () => selectedGame ? getPollingWindow(selectedGame.secondsToKickoff) : null,
+    [selectedGame]
+  );
 
   const handleAddGame = (newGame) => {
     const normalizedGame = {
@@ -199,21 +75,13 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
       gameId: newGame.gameId || String(newGame.id),
       secondsToKickoff: Number(newGame.secondsToKickoff),
       fairSpread: Number(newGame.fairSpread),
-      liveOdds: {
-        spread: Number(newGame.liveOdds?.spread),
-        publicBetPct: Number(newGame.liveOdds?.publicBetPct),
-        lineMovedOppositePublic: Boolean(newGame.liveOdds?.lineMovedOppositePublic),
-        volumeSurgeConfirmed: Boolean(newGame.liveOdds?.volumeSurgeConfirmed)
-      }
+      actualSpread: Number(newGame.actualSpread)
     };
-
     setGames((previousGames) => [normalizedGame, ...previousGames]);
     setSelectedGame(normalizedGame);
   };
 
-  const statusMessage = evaluationError
-    || evaluation?.status
-    || (isEvaluating ? 'EVALUATING_SHARP_TRAP' : 'READY');
+  const statusMessage = evaluationError || evaluation?.status || (isEvaluating ? 'EVALUATING_SHARP_TRAP' : 'READY');
 
   return (
     <div style={{ minHeight: '100vh', backgroundColor: '#0b132b', color: '#e0fbfc', padding: '20px', fontFamily: 'system-ui, sans-serif' }}>
@@ -222,10 +90,7 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
           <h1 style={{ margin: 0, fontSize: '1.8rem', color: '#6fffe9' }}>Vegas Leverage</h1>
           <span style={{ fontSize: '0.85rem', color: '#8d99ae' }}>Sharp Trap Evaluation Dashboard</span>
         </div>
-        <button
-          onClick={() => setIsModalOpen(true)}
-          style={{ background: '#48cae4', color: '#0b132b', border: 'none', padding: '8px 14px', borderRadius: '6px', fontWeight: 'bold', cursor: 'pointer', fontSize: '0.9rem' }}
-        >
+        <button onClick={() => setIsModalOpen(true)} style={{ background: '#48cae4', color: '#0b132b', border: 'none', padding: '8px 14px', borderRadius: '6px', fontWeight: 'bold', cursor: 'pointer', fontSize: '0.9rem' }}>
           + Add Matchup
         </button>
       </header>
@@ -235,24 +100,15 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
           <h3 style={{ fontSize: '1rem', color: '#8d99ae', margin: 0 }}>Active Slate Matchups:</h3>
           <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
             {['ALL', 'MLB', 'NPB', 'WNBA', 'EFL/Soccer', 'NFL', 'NBA'].map((sport) => (
-              <button
-                key={sport}
-                onClick={() => setSelectedSport(sport)}
-                style={{ background: selectedSport === sport ? '#48cae4' : '#1c2541', color: selectedSport === sport ? '#0b132b' : '#8d99ae', border: '1px solid #3a506b', padding: '4px 10px', borderRadius: '4px', fontSize: '0.8rem', fontWeight: 'bold', cursor: 'pointer' }}
-              >
+              <button key={sport} onClick={() => setSelectedSport(sport)} style={{ background: selectedSport === sport ? '#48cae4' : '#1c2541', color: selectedSport === sport ? '#0b132b' : '#8d99ae', border: '1px solid #3a506b', padding: '4px 10px', borderRadius: '4px', fontSize: '0.8rem', fontWeight: 'bold', cursor: 'pointer' }}>
                 {sport}
               </button>
             ))}
           </div>
         </div>
-
         <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
           {filteredGames.map((game) => (
-            <button
-              key={game.gameId}
-              onClick={() => setSelectedGame(game)}
-              style={{ background: selectedGame?.gameId === game.gameId ? '#3a506b' : '#1c2541', color: '#fff', border: '1px solid #48cae4', padding: '10px 16px', borderRadius: '6px', cursor: 'pointer', fontWeight: selectedGame?.gameId === game.gameId ? 'bold' : 'normal', flex: '1 1 200px', textAlign: 'left' }}
-            >
+            <button key={game.gameId} onClick={() => setSelectedGame(game)} style={{ background: selectedGame?.gameId === game.gameId ? '#3a506b' : '#1c2541', color: '#fff', border: '1px solid #48cae4', padding: '10px 16px', borderRadius: '6px', cursor: 'pointer', fontWeight: selectedGame?.gameId === game.gameId ? 'bold' : 'normal', flex: '1 1 200px', textAlign: 'left' }}>
               <div style={{ fontSize: '0.75rem', color: '#48cae4', marginBottom: '2px' }}>{game.sport}</div>
               <div style={{ fontSize: '0.9rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{game.matchup}</div>
             </button>
@@ -267,23 +123,13 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
               <h2 style={{ fontSize: '1.2rem', color: '#48cae4', margin: 0 }}>{selectedGame.matchup}</h2>
               <p style={{ color: '#8d99ae', fontSize: '0.9rem', margin: '8px 0 0' }}>{selectedGame.sport} · {selectedGame.gameId}</p>
             </div>
-            {pollingWindow && (
-              <div style={{ color: pollingWindow.active ? '#6fffe9' : '#ffb703', fontSize: '0.85rem', textAlign: 'right' }}>
-                {pollingWindow.active ? pollingWindow.frequency : pollingWindow.message}
-              </div>
-            )}
+            {pollingWindow && <div style={{ color: pollingWindow.active ? '#6fffe9' : '#ffb703', fontSize: '0.85rem', textAlign: 'right' }}>{pollingWindow.active ? pollingWindow.frequency : pollingWindow.message}</div>}
           </div>
 
           <div style={{ marginTop: '20px', background: '#0b132b', borderRadius: '6px', padding: '15px' }}>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '10px', marginBottom: '15px' }}>
-              <div>
-                <span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>Evaluation Status</span>
-                <strong style={{ color: evaluationError ? '#ff6b6b' : '#6fffe9' }}>{statusMessage}</strong>
-              </div>
-              <div>
-                <span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>State Hash</span>
-                <strong style={{ color: '#fff', fontSize: '0.75rem', wordBreak: 'break-all' }}>{evaluation?.stateHash || '—'}</strong>
-              </div>
+              <div><span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>Evaluation Status</span><strong style={{ color: evaluationError ? '#ff6b6b' : '#6fffe9' }}>{statusMessage}</strong></div>
+              <div><span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>State Hash</span><strong style={{ color: '#fff', fontSize: '0.75rem', wordBreak: 'break-all' }}>{evaluation?.stateHash || '—'}</strong></div>
             </div>
 
             {evaluation?.status === 'EVALUATED_SUCCESSFULLY' && (
@@ -295,11 +141,7 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
                   <div><span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>Tier</span><strong>{evaluation.tier}</strong></div>
                 </div>
                 <div style={{ display: 'grid', gap: '8px' }}>
-                  {Object.entries(evaluation.triggers).map(([trigger, active]) => (
-                    <div key={trigger} style={{ color: active ? '#6fffe9' : '#8d99ae' }}>
-                      {active ? '✓' : '○'} {triggerLabels[trigger] || trigger.toUpperCase()} {active ? 'ACTIVE' : 'INACTIVE'}
-                    </div>
-                  ))}
+                  {Object.entries(evaluation.triggers).map(([trigger, active]) => <div key={trigger} style={{ color: active ? '#6fffe9' : '#8d99ae' }}>{active ? '✓' : '○'} {triggerLabels[trigger] || trigger.toUpperCase()} {active ? 'ACTIVE' : 'INACTIVE'}</div>)}
                 </div>
               </>
             )}
@@ -307,11 +149,7 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
         </section>
       )}
 
-      <AddGameModal
-        isOpen={isModalOpen}
-        onClose={() => setIsModalOpen(false)}
-        onAddGame={handleAddGame}
-      />
+      <AddGameModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} onAddGame={handleAddGame} />
     </div>
   );
 }
