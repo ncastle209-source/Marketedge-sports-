@@ -1,64 +1,65 @@
-import { createServer } from 'node:http';
-import { URL } from 'node:url';
+import express from 'express';
 import Redis from 'ioredis';
 import { SharpTrapEngine } from '../src/analytics.js';
-import { RotationalOddsApiClient } from './rotational-api.js';
+import { RotatingApiClient } from './rotational-api.js';
 
-const port = Number(process.env.PORT || 5000);
+const app = express();
+app.use(express.json({ limit: '32kb' }));
+
 const redisUrl = process.env.REDIS_URL;
 if (!redisUrl) throw new Error('Missing required environment variable: REDIS_URL');
 
 const redis = new Redis(redisUrl, { maxRetriesPerRequest: 3, enableReadyCheck: true });
 redis.on('error', (error) => console.error('Redis error:', error));
-const oddsApi = new RotationalOddsApiClient();
+const apiClient = new RotatingApiClient();
 
-function sendJson(response, statusCode, payload) {
-  response.writeHead(statusCode, { 'Content-Type': 'application/json; charset=utf-8', 'Access-Control-Allow-Origin': '*' });
-  response.end(JSON.stringify(payload));
-}
-
-async function evaluateSharpTrap(url) {
-  const gameId = url.searchParams.get('gameId');
-  const sport = url.searchParams.get('sport');
-  const secondsToKickoff = Number(url.searchParams.get('secondsToKickoff'));
-  const fairSpread = Number(url.searchParams.get('fairSpread'));
-
-  if (!gameId || !sport || !Number.isFinite(secondsToKickoff)) {
-    return { statusCode: 400, body: { error: 'gameId, sport, and secondsToKickoff are required.' } };
+app.get('/api/health', async (_req, res) => {
+  try {
+    await redis.ping();
+    res.json({ status: 'ok', redis: 'ready', oddsApi: 'configured', apiKeys: apiClient.keyCount });
+  } catch (error) {
+    res.status(503).json({ status: 'error', error: error.message });
   }
-
-  if (Number.isFinite(fairSpread)) {
-    await redis.set('game:' + gameId + ':fair_spread', String(fairSpread), 'NX');
-  }
-
-  const engine = new SharpTrapEngine({ gameId, sport, secondsToKickoff }, redis, oddsApi);
-  return { statusCode: 200, body: await engine.evaluateSharpTrap() };
-}
-
-async function start() {
-  await redis.ping();
-  const server = createServer(async (request, response) => {
-    const url = new URL(request.url, 'http://' + (request.headers.host || 'localhost'));
-    try {
-      if (url.pathname === '/api/health') {
-        return sendJson(response, 200, { status: 'ok', redis: 'ready', rotationalApi: 'configured' });
-      }
-      if (request.method === 'GET' && url.pathname === '/api/evaluate-sharp-trap') {
-        const result = await evaluateSharpTrap(url);
-        return sendJson(response, result.statusCode, result.body);
-      }
-      return sendJson(response, 404, { error: 'Not found' });
-    } catch (error) {
-      console.error('Sharp Trap request failed:', error);
-      return sendJson(response, 502, { error: error.message });
-    }
-  });
-
-  server.listen(port, () => console.log('Sharp Trap production server listening on port ' + port));
-}
-
-start().catch((error) => {
-  console.error('Production server failed to start:', error);
-  redis.disconnect();
-  process.exitCode = 1;
 });
+
+app.post('/api/evaluate-game', async (req, res) => {
+  try {
+    const { gameId, sport, secondsToKickoff, fairSpread } = req.body || {};
+    if (!gameId || !sport || !Number.isFinite(Number(secondsToKickoff))) {
+      return res.status(400).json({ error: 'gameId, sport, and numeric secondsToKickoff are required.' });
+    }
+
+    if (Number.isFinite(Number(fairSpread))) {
+      await redis.set('game:' + gameId + ':fair_spread', String(Number(fairSpread)), 'NX');
+    }
+
+    const gameData = {
+      gameId: String(gameId),
+      sport: String(sport),
+      secondsToKickoff: Number(secondsToKickoff)
+    };
+    const engine = new SharpTrapEngine(gameData, redis, apiClient);
+    const result = await engine.evaluateSharpTrap();
+    return res.json(result);
+  } catch (error) {
+    console.error('Evaluation error:', error);
+    return res.status(502).json({ error: error.message });
+  }
+});
+
+app.use((_req, res) => res.status(404).json({ error: 'Not found' }));
+
+const port = Number(process.env.PORT || 3000);
+const server = app.listen(port, () => {
+  console.log('Sharp Trap production server running on port ' + port);
+});
+
+async function shutdown(signal) {
+  console.log(signal + ' received; shutting down.');
+  server.close(() => {
+    redis.quit().finally(() => process.exit(0));
+  });
+}
+
+process.on('SIGTERM', () => shutdown('SIGTERM'));
+process.on('SIGINT', () => shutdown('SIGINT'));
