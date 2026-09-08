@@ -1,138 +1,72 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export default function AddGameModal({ isOpen, onClose, onAddGame }) {
-    const [matchup, setMatchup] = useState('');
-    const [sport, setSport] = useState('MLB');
-    const [initialLine, setInitialLine] = useState(-110);
-    const [currentLine, setCurrentLine] = useState(-115);
-    const [handlePercentage, setHandlePercentage] = useState(75);
-    const [ticketPercentage, setTicketPercentage] = useState(35);
+  const [matchup, setMatchup] = useState('');
+  const [gameId, setGameId] = useState('');
+  const [sport, setSport] = useState('MLB');
+  const [secondsToKickoff, setSecondsToKickoff] = useState(7200);
+  const [fairSpread, setFairSpread] = useState(-1.5);
+  const [actualSpread, setActualSpread] = useState(-3.5);
+  const [publicBetPct, setPublicBetPct] = useState(65);
+  const [lineMovedOppositePublic, setLineMovedOppositePublic] = useState(false);
+  const [volumeSurgeConfirmed, setVolumeSurgeConfirmed] = useState(false);
 
-    if (!isOpen) return null;
+  if (!isOpen) return null;
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        if (!matchup) return;
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    const normalizedGameId = gameId.trim() || sport.toLowerCase() + '-' + Date.now();
 
-        const newGame = {
-            id: Date.now(),
-            matchup,
-            sport,
-            initialLine: Number(initialLine),
-            currentLine: Number(currentLine),
-            handlePercentage: Number(handlePercentage),
-            ticketPercentage: Number(ticketPercentage),
-            estimatedWinProb: 60 // Default matrix estimate
-        };
+    onAddGame({
+      id: Date.now(),
+      gameId: normalizedGameId,
+      matchup,
+      sport,
+      secondsToKickoff: Number(secondsToKickoff),
+      fairSpread: Number(fairSpread),
+      liveOdds: {
+        spread: Number(actualSpread),
+        publicBetPct: Number(publicBetPct) / 100,
+        lineMovedOppositePublic,
+        volumeSurgeConfirmed
+      }
+    });
 
-        onAddGame(newGame);
-        onClose();
-        // Reset form
-        setMatchup('');
-    };
+    setMatchup('');
+    setGameId('');
+    setSecondsToKickoff(7200);
+    setFairSpread(-1.5);
+    setActualSpread(-3.5);
+    setPublicBetPct(65);
+    setLineMovedOppositePublic(false);
+    setVolumeSurgeConfirmed(false);
+    onClose();
+  };
 
-    return (
-        <div style={{
-            position: 'fixed', top: 0, left: 0, right: 0, bottom: 0,
-            backgroundColor: 'rgba(11, 19, 43, 0.85)', display: 'flex',
-            justifyContent: 'center', alignItems: 'center', zIndex: 1000, padding: '20px'
-        }}>
-            <div style={{
-                background: '#1c2541', border: '1px solid #48cae4', borderRadius: '8px',
-                padding: '25px', width: '100%', maxWidth: '450px', color: '#e0fbfc'
-            }}>
-                <h2 style={{ color: '#6fffe9', marginTop: 0, marginBottom: '15px', fontSize: '1.3rem' }}>➕ Add Custom Slate Matchup</h2>
+  const inputStyle = { width: '100%', boxSizing: 'border-box', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' };
+  const labelStyle = { fontSize: '0.8rem', color: '#8d99ae', display: 'block', marginBottom: '4px' };
 
-                <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                    <div>
-                        <label style={{ fontSize: '0.85rem', color: '#8d99ae', display: 'block', marginBottom: '4px' }}>Matchup (e.g., Dodgers vs. Giants)</label>
-                        <input
-                            type="text"
-                            value={matchup}
-                            onChange={(e) => setMatchup(e.target.value)}
-                            placeholder="Team A vs. Team B"
-                            required
-                            style={{ width: '100%', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' }}
-                        />
-                    </div>
-
-                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                        <div>
-                            <label style={{ fontSize: '0.85rem', color: '#8d99ae', display: 'block', marginBottom: '4px' }}>Sport / League</label>
-                            <select
-                                value={sport}
-                                onChange={(e) => setSport(e.target.value)}
-                                style={{ width: '100%', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' }}
-                            >
-                                <option value="MLB">MLB</option>
-                                <option value="NPB">NPB</option>
-                                <option value="WNBA">WNBA</option>
-                                <option value="EFL/Soccer">EFL/Soccer</option>
-                                <option value="NFL">NFL</option>
-                                <option value="NBA">NBA</option>
-                            </select>
-                        </div>
-                        <div>
-                            <label style={{ fontSize: '0.85rem', color: '#8d99ae', display: 'block', marginBottom: '4px' }}>Initial Line</label>
-                            <input
-                                type="number"
-                                value={initialLine}
-                                onChange={(e) => setInitialLine(e.target.value)}
-                                style={{ width: '100%', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' }}
-                            />
-                        </div>
-                    </div>
-
-                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                        <div>
-                            <label style={{ fontSize: '0.85rem', color: '#8d99ae', display: 'block', marginBottom: '4px' }}>Current Line</label>
-                            <input
-                                type="number"
-                                value={currentLine}
-                                onChange={(e) => setCurrentLine(e.target.value)}
-                                style={{ width: '100%', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' }}
-                            />
-                        </div>
-                        <div>
-                            <label style={{ fontSize: '0.85rem', color: '#8d99ae', display: 'block', marginBottom: '4px' }}>Sharp Handle %</label>
-                            <input
-                                type="number"
-                                min="0" max="100"
-                                value={handlePercentage}
-                                onChange={(e) => setHandlePercentage(e.target.value)}
-                                style={{ width: '100%', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' }}
-                            />
-                        </div>
-                    </div>
-
-                    <div>
-                        <label style={{ fontSize: '0.85rem', color: '#8d99ae', display: 'block', marginBottom: '4px' }}>Public Ticket %</label>
-                        <input
-                            type="number"
-                            min="0" max="100"
-                            value={ticketPercentage}
-                            onChange={(e) => setTicketPercentage(e.target.value)}
-                            style={{ width: '100%', background: '#0b132b', border: '1px solid #3a506b', color: '#fff', padding: '8px', borderRadius: '4px' }}
-                        />
-                    </div>
-
-                    <div style={{ display: 'flex', gap: '10px', marginTop: '15px' }}>
-                        <button
-                            type="button"
-                            onClick={onClose}
-                            style={{ flex: 1, background: '#3a506b', color: '#fff', border: 'none', padding: '10px', borderRadius: '4px', cursor: 'pointer', fontWeight: 'bold' }}
-                        >
-                            Cancel
-                        </button>
-                        <button
-                            type="submit"
-                            style={{ flex: 1, background: '#48cae4', color: '#0b132b', border: 'none', padding: '10px', borderRadius: '4px', cursor: 'pointer', fontWeight: 'bold' }}
-                        >
-                            Add Matchup
-                        </button>
-                    </div>
-                </form>
-            </div>
+  return (
+    <div style={{ position: 'fixed', inset: 0, background: 'rgba(0, 0, 0, 0.75)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '20px', zIndex: 10 }}>
+      <div style={{ background: '#1c2541', border: '1px solid #48cae4', borderRadius: '8px', padding: '25px', width: '100%', maxWidth: '480px', maxHeight: '90vh', overflowY: 'auto' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
+          <h2 style={{ margin: 0, color: '#6fffe9' }}>Add Sharp Trap Matchup</h2>
+          <button type="button" onClick={onClose} style={{ background: 'transparent', border: 'none', color: '#8d99ae', fontSize: '1.4rem', cursor: 'pointer' }}>×</button>
         </div>
-    );
+
+        <form onSubmit={handleSubmit} style={{ display: 'grid', gap: '12px' }}>
+          <label style={labelStyle}>Matchup<input required value={matchup} onChange={(event) => setMatchup(event.target.value)} style={inputStyle} placeholder="Team A vs. Team B" /></label>
+          <label style={labelStyle}>Game ID<input value={gameId} onChange={(event) => setGameId(event.target.value)} style={inputStyle} placeholder="Optional stable provider ID" /></label>
+          <label style={labelStyle}>Sport / League<select value={sport} onChange={(event) => setSport(event.target.value)} style={inputStyle}><option value="MLB">MLB</option><option value="NPB">NPB</option><option value="WNBA">WNBA</option><option value="EFL/Soccer">EFL/Soccer</option><option value="NFL">NFL</option><option value="NBA">NBA</option></select></label>
+          <label style={labelStyle}>Seconds to kickoff<input required type="number" min="0" value={secondsToKickoff} onChange={(event) => setSecondsToKickoff(event.target.value)} style={inputStyle} /></label>
+          <label style={labelStyle}>Fair spread baseline<input required type="number" step="0.5" value={fairSpread} onChange={(event) => setFairSpread(event.target.value)} style={inputStyle} /></label>
+          <label style={labelStyle}>Current live spread<input required type="number" step="0.5" value={actualSpread} onChange={(event) => setActualSpread(event.target.value)} style={inputStyle} /></label>
+          <label style={labelStyle}>Public bet percentage<input required type="number" min="0" max="100" step="1" value={publicBetPct} onChange={(event) => setPublicBetPct(event.target.value)} style={inputStyle} /></label>
+          <label style={{ color: '#e0fbfc', fontSize: '0.85rem' }}><input type="checkbox" checked={lineMovedOppositePublic} onChange={(event) => setLineMovedOppositePublic(event.target.checked)} /> Line moved opposite public action</label>
+          <label style={{ color: '#e0fbfc', fontSize: '0.85rem' }}><input type="checkbox" checked={volumeSurgeConfirmed} onChange={(event) => setVolumeSurgeConfirmed(event.target.checked)} /> Volume surge confirmed</label>
+          <button type="submit" style={{ background: '#48cae4', color: '#0b132b', border: 'none', padding: '10px', borderRadius: '6px', fontWeight: 'bold', cursor: 'pointer', marginTop: '5px' }}>Add Matchup</button>
+        </form>
+      </div>
+    </div>
+  );
 }
