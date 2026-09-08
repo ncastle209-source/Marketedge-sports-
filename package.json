@@ -13,6 +13,7 @@
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
+    "express": "^5.1.0",
     "ioredis": "^5.4.1"
   },
   "devDependencies": {
