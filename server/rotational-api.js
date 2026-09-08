@@ -4,127 +4,97 @@ function requireEnv(name) {
   return value;
 }
 
-function parseBoolean(value, fieldName) {
-  if (typeof value === 'boolean') return value;
-  if (value === 'true' || value === '1') return true;
-  if (value === 'false' || value === '0') return false;
-  throw new Error('Invalid boolean field from rotational API: ' + fieldName);
+function parseApiKeys() {
+  const keys = requireEnv('ODDS_API_KEYS')
+    .split(',')
+    .map((key) => key.trim())
+    .filter(Boolean);
+  if (keys.length === 0) throw new Error('ODDS_API_KEYS must contain at least one API key.');
+  return keys;
 }
 
-function loadApiKeys() {
-  const configuredPool = process.env.ROTATIONAL_API_KEYS;
-  if (configuredPool) {
-    let keys;
-    try {
-      keys = configuredPool.trim().startsWith('[')
-        ? JSON.parse(configuredPool)
-        : configuredPool.split(',');
-    } catch (error) {
-      throw new Error('ROTATIONAL_API_KEYS must be a comma-separated list or JSON array.');
-    }
+function parseProviderPayload(payload) {
+  const odds = payload.data || payload.odds || payload;
+  const spread = Number(odds.spread);
+  let publicBetPct = Number(odds.publicBetPct ?? odds.public_bet_pct);
+  if (publicBetPct > 1) publicBetPct /= 100;
 
-    const normalizedKeys = keys
-      .map((key) => String(key).trim())
-      .filter(Boolean);
-    if (normalizedKeys.length > 0) return normalizedKeys;
+  if (!Number.isFinite(spread) || !Number.isFinite(publicBetPct) || publicBetPct < 0 || publicBetPct > 1) {
+    throw new Error('Odds API returned an invalid spread or publicBetPct.');
   }
 
-  return [requireEnv('ROTATIONAL_API_KEY')];
+  const parseBoolean = (value, fieldName) => {
+    if (typeof value === 'boolean') return value;
+    if (value === 'true' || value === '1') return true;
+    if (value === 'false' || value === '0') return false;
+    throw new Error('Odds API returned an invalid ' + fieldName + ' value.');
+  };
+
+  return {
+    spread,
+    publicBetPct,
+    lineMovedOppositePublic: parseBoolean(odds.lineMovedOppositePublic ?? odds.line_moved_opposite_public, 'lineMovedOppositePublic'),
+    volumeSurgeConfirmed: parseBoolean(odds.volumeSurgeConfirmed ?? odds.volume_surge_confirmed, 'volumeSurgeConfirmed')
+  };
 }
 
-function retryAfterMs(response) {
-  const retryAfter = response.headers.get('retry-after');
-  if (!retryAfter) return 0;
-  const seconds = Number(retryAfter);
-  if (Number.isFinite(seconds)) return Math.max(0, seconds * 1000);
-  const retryAt = Date.parse(retryAfter);
-  return Number.isFinite(retryAt) ? Math.max(0, retryAt - Date.now()) : 0;
-}
-
-function wait(milliseconds) {
-  return milliseconds > 0 ? new Promise((resolve) => setTimeout(resolve, milliseconds)) : Promise.resolve();
-}
-
-export class RotationalOddsApiClient {
-  constructor({ baseUrl = requireEnv('ROTATIONAL_API_URL'), apiKeys = loadApiKeys(), path = process.env.ROTATIONAL_API_PATH || '/live-odds', timeoutMs = Number(process.env.ROTATIONAL_API_TIMEOUT_MS || 10000), maxAttempts = Number(process.env.ROTATIONAL_API_MAX_ATTEMPTS || apiKeys.length) } = {}) {
-    if (!Array.isArray(apiKeys) || apiKeys.length === 0) throw new Error('At least one rotational odds API key is required.');
-    this.baseUrl = baseUrl;
-    this.apiKeys = apiKeys;
-    this.path = path;
+export class RotatingApiClient {
+  constructor({ apiKeys = parseApiKeys(), oddsApiUrl = requireEnv('ODDS_API_URL'), apiKeyHeader = process.env.ODDS_API_KEY_HEADER || 'X-API-Key', timeoutMs = Number(process.env.ODDS_API_TIMEOUT_MS || 10000) } = {}) {
+    this.keys = apiKeys;
+    this.keyCount = apiKeys.length;
+    this.currentIndex = 0;
+    this.oddsApiUrl = oddsApiUrl;
+    this.apiKeyHeader = apiKeyHeader;
     this.timeoutMs = timeoutMs;
-    this.maxAttempts = Math.max(1, Math.min(maxAttempts, apiKeys.length));
-    this.nextKeyIndex = 0;
   }
 
-  getNextApiKey() {
-    const apiKey = this.apiKeys[this.nextKeyIndex];
-    this.nextKeyIndex = (this.nextKeyIndex + 1) % this.apiKeys.length;
-    return apiKey;
+  getNextKey() {
+    const key = this.keys[this.currentIndex];
+    this.currentIndex = (this.currentIndex + 1) % this.keys.length;
+    return key;
   }
 
-  async requestLiveOdds(gameId, sport, apiKey) {
-    const endpoint = new URL(this.path, this.baseUrl.endsWith('/') ? this.baseUrl : this.baseUrl + '/');
-    endpoint.searchParams.set('game_id', gameId);
-    endpoint.searchParams.set('sport', sport);
-
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), this.timeoutMs);
-    let response;
-    let payload;
-    try {
-      response = await fetch(endpoint, { headers: { Accept: 'application/json', Authorization: 'Bearer ' + apiKey }, signal: controller.signal });
-      const text = await response.text();
-      payload = text ? JSON.parse(text) : {};
-    } catch (error) {
-      if (error.name === 'AbortError') throw new Error('Rotational odds API timed out.');
-      throw new Error('Rotational odds API request failed: ' + error.message);
-    } finally {
-      clearTimeout(timeout);
+  buildUrl(gameId, sport) {
+    const encodedGameId = encodeURIComponent(gameId);
+    const encodedSport = encodeURIComponent(sport);
+    if (this.oddsApiUrl.includes('{gameId}') || this.oddsApiUrl.includes('{sport}')) {
+      return this.oddsApiUrl.replaceAll('{gameId}', encodedGameId).replaceAll('{sport}', encodedSport);
     }
-
-    if (response.status === 401 || response.status === 403 || response.status === 429) {
-      const error = new Error('Rotational odds API returned HTTP ' + response.status + '.');
-      error.retryableKeyFailure = true;
-      error.status = response.status;
-      error.retryAfterMs = retryAfterMs(response);
-      return { response, payload, error };
-    }
-
-    if (!response.ok) throw new Error('Rotational odds API returned HTTP ' + response.status + '.');
-    return { response, payload };
-  }
-
-  normalizeOdds(payload) {
-    const odds = payload.data || payload.odds || payload;
-    const spread = Number(odds.spread);
-    let publicBetPct = Number(odds.publicBetPct ?? odds.public_bet_pct);
-    if (publicBetPct > 1) publicBetPct /= 100;
-    if (!Number.isFinite(spread) || !Number.isFinite(publicBetPct) || publicBetPct < 0 || publicBetPct > 1) {
-      throw new Error('Rotational odds API returned an invalid spread or publicBetPct.');
-    }
-
-    return {
-      spread,
-      publicBetPct,
-      lineMovedOppositePublic: parseBoolean(odds.lineMovedOppositePublic ?? odds.line_moved_opposite_public, 'lineMovedOppositePublic'),
-      volumeSurgeConfirmed: parseBoolean(odds.volumeSurgeConfirmed ?? odds.volume_surge_confirmed, 'volumeSurgeConfirmed')
-    };
+    const url = new URL(this.oddsApiUrl);
+    url.searchParams.set('game_id', gameId);
+    url.searchParams.set('sport', sport);
+    return url.toString();
   }
 
   async getLiveOdds(gameId, sport) {
-    let lastKeyError;
-    for (let attempt = 0; attempt < this.maxAttempts; attempt += 1) {
-      const apiKey = this.getNextApiKey();
-      const result = await this.requestLiveOdds(gameId, sport, apiKey);
-      if (!result.error) return this.normalizeOdds(result.payload);
+    let lastError;
+    for (let attempt = 0; attempt < this.keys.length; attempt += 1) {
+      const apiKey = this.getNextKey();
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), this.timeoutMs);
+      try {
+        const response = await fetch(this.buildUrl(gameId, sport), {
+          headers: { Accept: 'application/json', [this.apiKeyHeader]: apiKey },
+          signal: controller.signal
+        });
+        const text = await response.text();
+        const payload = text ? JSON.parse(text) : {};
 
-      lastKeyError = result.error;
-      await wait(result.error.retryAfterMs);
+        if (response.ok) return parseProviderPayload(payload);
+
+        lastError = new Error('Odds API returned HTTP ' + response.status + '.');
+        if (![401, 403, 429].includes(response.status)) throw lastError;
+        console.warn('Odds API key request failed with HTTP ' + response.status + '; rotating key.');
+      } catch (error) {
+        if (error.name === 'AbortError') lastError = new Error('Odds API request timed out.');
+        else if (!lastError || error.message !== lastError.message) lastError = error;
+        if (attempt === this.keys.length - 1) break;
+        console.warn('Odds API request failed; rotating key: ' + lastError.message);
+      } finally {
+        clearTimeout(timeout);
+      }
     }
 
-    const exhausted = new Error('All rotational odds API keys were unavailable or rate-limited.');
-    exhausted.status = lastKeyError?.status;
-    exhausted.retryAfterMs = lastKeyError?.retryAfterMs;
-    throw exhausted;
+    throw new Error('All configured odds API keys failed or were rate-limited. Last error: ' + (lastError?.message || 'unknown error'));
   }
 }
