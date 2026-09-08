@@ -1,17 +1,18 @@
-const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://your-replit-backend-subdomain.replit.app/api' 
-  : 'http://localhost:5000/api';
+export async function evaluateSharpTrap(game, options = {}) {
+  const params = new URLSearchParams({
+    gameId: String(game.gameId),
+    sport: String(game.sport),
+    secondsToKickoff: String(game.secondsToKickoff),
+  });
 
-export async function fetchMatrixSlates(fallbackData = []) {
-  try {
-    const response = await fetch(`${API_BASE_URL}/matrix`);
-    if (!response.ok) {
-      throw new Error('Failed to fetch live matrix data from backend');
-    }
-    const data = await response.json();
-    return data;
-  } catch (err) {
-    console.warn('Backend matrix endpoint unreachable. Using local fallback state:', err);
-    return fallbackData;
+  if (Number.isFinite(Number(game.fairSpread))) {
+    params.set('fairSpread', String(game.fairSpread));
   }
+
+  const response = await fetch('/api/evaluate-sharp-trap?' + params.toString(), options);
+  const payload = await response.json().catch(() => ({}));
+  if (!response.ok) {
+    throw new Error(payload.error || 'Sharp Trap evaluation request failed.');
+  }
+  return payload;
 }
