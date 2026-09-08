@@ -61,6 +61,14 @@ const initialSampleGames = [
   }
 ];
 
+const triggerLabels = {
+  t1_active: 'T1',
+  t2_active: 'T2',
+  t3_active: 'T3',
+  t4_active: 'T4',
+  t5_active: 'T5'
+};
+
 function createBrowserRedisClient() {
   const readRecord = (key) => {
     const raw = localStorage.getItem(key);
@@ -267,8 +275,15 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
           </div>
 
           <div style={{ marginTop: '20px', background: '#0b132b', borderRadius: '6px', padding: '15px' }}>
-            <div style={{ color: evaluationError ? '#ff6b6b' : '#6fffe9', fontWeight: 'bold', marginBottom: '8px' }}>
-              {statusMessage}
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '10px', marginBottom: '15px' }}>
+              <div>
+                <span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>Evaluation Status</span>
+                <strong style={{ color: evaluationError ? '#ff6b6b' : '#6fffe9' }}>{statusMessage}</strong>
+              </div>
+              <div>
+                <span style={{ color: '#8d99ae', display: 'block', fontSize: '0.8rem' }}>State Hash</span>
+                <strong style={{ color: '#fff', fontSize: '0.75rem', wordBreak: 'break-all' }}>{evaluation?.stateHash || '—'}</strong>
+              </div>
             </div>
 
             {evaluation?.status === 'EVALUATED_SUCCESSFULLY' && (
@@ -282,7 +297,7 @@ export default function App({ redisClient: injectedRedisClient, apiClient: injec
                 <div style={{ display: 'grid', gap: '8px' }}>
                   {Object.entries(evaluation.triggers).map(([trigger, active]) => (
                     <div key={trigger} style={{ color: active ? '#6fffe9' : '#8d99ae' }}>
-                      {active ? '✓' : '○'} {trigger.replace('_active', '').toUpperCase()}
+                      {active ? '✓' : '○'} {triggerLabels[trigger] || trigger.toUpperCase()} {active ? 'ACTIVE' : 'INACTIVE'}
                     </div>
                   ))}
                 </div>
