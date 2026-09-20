@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T19:52:27.252291+00:00",
+  "pulled_at": "2026-09-20T19:59:23.612555+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -211,6 +211,17 @@
                 "er": null
               },
               {
+                "player": "Austin Warren",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "Brett Baty",
                 "team": "New York Mets",
                 "ab": 1,
@@ -410,7 +421,7 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "0.1",
+                "ip": "0.2",
                 "k": 1,
                 "er": 0
               },
@@ -539,7 +550,7 @@
                 "player": "Brandon Lowe",
                 "team": "Pittsburgh Pirates",
                 "ab": 3,
-                "h": 0,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -560,7 +571,7 @@
               {
                 "player": "Oneil Cruz",
                 "team": "Pittsburgh Pirates",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 1,
                 "rbi": 1,
@@ -696,6 +707,17 @@
                 "er": null
               },
               {
+                "player": "Edward Cabrera",
+                "team": "Chicago Cubs",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "Ian Happ",
                 "team": "Chicago Cubs",
                 "ab": 4,
@@ -808,7 +830,7 @@
               {
                 "player": "Matt Shaw",
                 "team": "Chicago Cubs",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -819,7 +841,7 @@
               {
                 "player": "Elly De La Cruz",
                 "team": "Cincinnati Reds",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -867,8 +889,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "3.2",
-                "k": 4,
+                "ip": "4.0",
+                "k": 5,
                 "er": 4
               },
               {
@@ -907,7 +929,18 @@
               {
                 "player": "Will Banfield",
                 "team": "Cincinnati Reds",
-                "ab": 2,
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Carlos Jorge",
+                "team": "Cincinnati Reds",
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -944,6 +977,17 @@
                 "h": 1,
                 "hr": 1,
                 "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "H\u00e9ctor Rodr\u00edguez",
+                "team": "Cincinnati Reds",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -1078,11 +1122,11 @@
               {
                 "player": "Jack Perkins",
                 "team": "Athletics",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
                 "k": 0,
                 "er": 0
               },
@@ -1100,7 +1144,7 @@
               {
                 "player": "Chase DeLauter",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1144,7 +1188,7 @@
               {
                 "player": "Jo Adell",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1155,7 +1199,7 @@
               {
                 "player": "Jos\u00e9 Ram\u00edrez",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1166,8 +1210,8 @@
               {
                 "player": "Steven Kwan",
                 "team": "Cleveland Guardians",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -1210,7 +1254,7 @@
             {
               "side": "away",
               "name": "Boston Red Sox",
-              "score": 0,
+              "score": 1,
               "record": "84-71"
             },
             {
@@ -1271,7 +1315,7 @@
               {
                 "player": "Adley Rutschman",
                 "team": "Boston Red Sox",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -1282,10 +1326,10 @@
               {
                 "player": "Trevor Story",
                 "team": "Boston Red Sox",
-                "ab": 3,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
+                "ab": 4,
+                "h": 1,
+                "hr": 1,
+                "rbi": 1,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -1315,8 +1359,8 @@
               {
                 "player": "Caleb Durbin",
                 "team": "Boston Red Sox",
-                "ab": 3,
-                "h": 1,
+                "ab": 4,
+                "h": 2,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -1348,7 +1392,7 @@
               {
                 "player": "Nick Sogard",
                 "team": "Boston Red Sox",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1385,9 +1429,9 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "0.0",
-                "k": 0,
-                "er": 0
+                "ip": "0.2",
+                "k": 1,
+                "er": 1
               },
               {
                 "player": "Ryan Vilade",
@@ -1430,6 +1474,17 @@
                 "hr": null,
                 "rbi": null,
                 "ip": "1.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Kevin Kelly",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
                 "k": 0,
                 "er": 0
               },
@@ -1524,7 +1579,7 @@
             {
               "side": "away",
               "name": "Atlanta Braves",
-              "score": 0,
+              "score": 4,
               "record": "91-64"
             },
             {
@@ -1618,10 +1673,10 @@
               {
                 "player": "Ozzie Albies",
                 "team": "Atlanta Braves",
-                "ab": 2,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
-                "rbi": 0,
+                "rbi": 1,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -1629,10 +1684,10 @@
               {
                 "player": "Mike Yastrzemski",
                 "team": "Atlanta Braves",
-                "ab": 2,
-                "h": 1,
-                "hr": 0,
-                "rbi": 0,
+                "ab": 3,
+                "h": 2,
+                "hr": 1,
+                "rbi": 3,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -1745,7 +1800,7 @@
                 "rbi": null,
                 "ip": "0.0",
                 "k": 0,
-                "er": 0
+                "er": 4
               },
               {
                 "player": "Christian Walker",
@@ -2068,6 +2123,17 @@
                 "er": null
               },
               {
+                "player": "Will Dion",
+                "team": "Washington Nationals",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "CJ Abrams",
                 "team": "Washington Nationals",
                 "ab": 3,
@@ -2162,7 +2228,7 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "5.0",
+                "ip": "5.1",
                 "k": 8,
                 "er": 2
               },
@@ -2180,7 +2246,7 @@
               {
                 "player": "Jordan Walker",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2224,7 +2290,7 @@
               {
                 "player": "Alec Burleson",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2268,7 +2334,7 @@
               {
                 "player": "Iv\u00e1n Herrera",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
+                "ab": 3,
                 "h": 1,
                 "hr": 1,
                 "rbi": 1,
@@ -2319,6 +2385,17 @@
                 "player": "Ernie Clement",
                 "team": "Toronto Blue Jays",
                 "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Charles McAdoo",
+                "team": "Toronto Blue Jays",
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2492,6 +2569,17 @@
                 "er": null
               },
               {
+                "player": "Robert Garcia",
+                "team": "Texas Rangers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "Nicky Lopez",
                 "team": "Texas Rangers",
                 "ab": 2,
@@ -2621,7 +2709,7 @@
               {
                 "player": "J.P. Crawford",
                 "team": "Seattle Mariners",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2680,8 +2768,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "2.2",
-                "k": 3,
+                "ip": "3.0",
+                "k": 4,
                 "er": 0
               },
               {
@@ -2735,7 +2823,7 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "3.0",
+                "ip": "3.1",
                 "k": 4,
                 "er": 0
               },
@@ -2786,7 +2874,7 @@
               {
                 "player": "Connor Norby",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,

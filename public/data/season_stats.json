@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T19:52:28.457276+00:00",
+  "pulled_at": "2026-09-20T19:59:24.625867+00:00",
   "teams": {
     "nfl": [],
     "ncaaf": [],
@@ -57,7 +57,7 @@
       "awayRecord": null,
       "tickets": 0.0,
       "handle": 0.0,
-      "advancedScore": 64.5
+      "advancedScore": 65.0
     },
     {
       "matchup": "Cleveland Browns vs. Tampa Bay Buccaneers",
@@ -67,7 +67,7 @@
       "awayRecord": null,
       "tickets": 0.0,
       "handle": 0.0,
-      "advancedScore": 56.0
+      "advancedScore": 60.0
     },
     {
       "matchup": "Green Bay Packers vs. New York Jets",
@@ -77,7 +77,7 @@
       "awayRecord": null,
       "tickets": 0.0,
       "handle": 0.0,
-      "advancedScore": 60.0
+      "advancedScore": 56.0
     },
     {
       "matchup": "New England Patriots vs. Pittsburgh Steelers",
@@ -97,7 +97,7 @@
       "awayRecord": null,
       "tickets": 0.0,
       "handle": 0.0,
-      "advancedScore": 59.5
+      "advancedScore": 54.5
     },
     {
       "matchup": "Denver Broncos vs. Jacksonville Jaguars",
@@ -330,16 +330,6 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Cleveland Browns vs. Pittsburgh Steelers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
       "matchup": "Indianapolis Colts vs. Washington Commanders",
       "sport": "NFL",
       "period": "fulltime",
@@ -450,6 +440,16 @@
       "advancedScore": 50.0
     },
     {
+      "matchup": "Denver Broncos vs. Pittsburgh Steelers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
       "matchup": "Houston Texans vs. Philadelphia Eagles",
       "sport": "NFL",
       "period": "fulltime",
@@ -481,6 +481,16 @@
     },
     {
       "matchup": "Los Angeles Rams vs. Seattle Seahawks",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Cleveland Browns vs. Pittsburgh Steelers",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -801,16 +811,6 @@
     },
     {
       "matchup": "Indianapolis Colts vs. Tennessee Titans",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "New England Patriots vs. New York Jets",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
