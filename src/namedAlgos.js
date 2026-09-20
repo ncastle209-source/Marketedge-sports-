@@ -10,12 +10,16 @@ function cardMetrics(game = {}) {
   const handle = pct(game.handlePercentage ?? game.handlePct);
   const spread = Number(game.currentSpread ?? game.currentLine);
   const open = Number(game.openSpread);
+  const model = Number(game.modelSpread);
   const divergence = handle != null && tickets != null ? handle - tickets : null;
   return {
     tickets,
     handle,
     spread: Number.isFinite(spread) ? spread : null,
     open: Number.isFinite(open) ? open : null,
+    model: Number.isFinite(model) ? model : null,
+    edge: game.modelEdge ?? null,
+    source: game.modelSource || null,
     divergence,
     rlm: Boolean(game.lineMovedOppositePublic),
     surge: Boolean(game.volumeSurgeConfirmed),
@@ -76,7 +80,7 @@ export function evaluatePublicTrapGuardrail(game) {
 
 export function evaluateSharpTrapCard(game = {}) {
   const actual = Number(game.currentSpread ?? game.currentLine ?? game.actualSpread);
-  const fair = Number(game.fairSpread);
+  const fair = Number(game.modelSpread ?? game.fairSpread);
   const tickets = pct(game.ticketPercentage ?? game.ticketPct ?? game.publicBetPct);
   const publicPct = tickets == null ? null : tickets / 100;
   const t1 = Number.isFinite(actual) && Number.isFinite(fair) && Math.abs(actual - fair) >= 2;
@@ -92,6 +96,8 @@ export function evaluateSharpTrapCard(game = {}) {
     count,
     triggers: { t1, t2, t3, t4, t5 },
     period,
+    modelSource: game.modelSource || null,
+    modelEdge: game.modelEdge ?? null,
   };
 }
 
