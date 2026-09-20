@@ -1,6 +1,10 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import AddGameModal from './AddGameModal';
 import { evaluateSharpTrap } from './services/api';
+import OfficialPlaysFeed from './components/OfficialPlaysFeed';
+import AlphaPlayReport from './components/AlphaPlayReport';
+import SteamTracker from './SteamTracker';
+import AnalyticsView from './components/AnalyticsView';
 
 const initialSampleGames = [
   { id: 1, gameId: 'npb-chiba-fukuoka', matchup: 'Chiba Lotte Marines vs. Fukuoka Hawks', sport: 'NPB', secondsToKickoff: 6 * 3600, fairSpread: -1.5 },
@@ -168,6 +172,28 @@ export default function App() {
           </div>
         </section>
       )}
+
+
+      <OfficialPlaysFeed games={games} bankroll={10000} onSelectGame={setSelectedGame} />
+      {selectedGame && (
+        <>
+          <SteamTracker
+            handle={Number(selectedGame.handlePercentage) || 0}
+            tickets={Number(selectedGame.ticketPercentage) || 0}
+            team={selectedGame.matchup}
+          />
+          <AlphaPlayReport
+            game={selectedGame}
+            matrixScore={Number(selectedGame.ticketPercentage) >= 80 ? 96 : 70}
+            rlm={{ message: selectedGame.lineMovedOppositePublic ? 'RLM flagged by cascade.' : '' }}
+            moneySplit={{
+              diff: Math.round((Number(selectedGame.handlePercentage || 0) - Number(selectedGame.ticketPercentage || 0)) * 10) / 10,
+            }}
+            bankrollData={{ recommendedRisk: 150, unitSizeEquivalent: '1.5u' }}
+          />
+        </>
+      )}
+      <AnalyticsView />
 
       <AddGameModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} onAddGame={handleAddGame} />
     </div>
