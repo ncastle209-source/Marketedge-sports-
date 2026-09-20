@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T15:38:35.541708+00:00",
+  "pulled_at": "2026-09-20T15:53:16.362305+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -207,13 +207,13 @@
             {
               "side": "away",
               "name": "Toronto Blue Jays",
-              "score": null,
+              "score": 0,
               "record": "76-79"
             },
             {
               "side": "home",
               "name": "Texas Rangers",
-              "score": null,
+              "score": 0,
               "record": "78-77"
             }
           ],

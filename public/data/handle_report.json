@@ -1,0 +1,146 @@
+{
+  "attempts": [
+    {
+      "source": "actionnetwork",
+      "sport": "mlb",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "actionnetwork",
+      "sport": "ncaaf",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "actionnetwork",
+      "sport": "nfl",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "actionnetwork",
+      "sport": "wnba",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "actionnetwork",
+      "filled_this_step": 0
+    },
+    {
+      "source": "covers",
+      "sport": "mlb",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "covers",
+      "sport": "ncaaf",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "covers",
+      "sport": "nfl",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "covers",
+      "sport": "wnba",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "covers",
+      "filled_this_step": 0
+    },
+    {
+      "source": "oddsshark",
+      "sport": "mlb",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "source": "oddsshark",
+      "sport": "ncaaf",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "source": "oddsshark",
+      "sport": "nfl",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "source": "oddsshark",
+      "sport": "wnba",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "source": "oddsshark",
+      "filled_this_step": 0
+    },
+    {
+      "source": "vegasinsider",
+      "sport": "mlb",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "vegasinsider",
+      "sport": "ncaaf",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "vegasinsider",
+      "sport": "nfl",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "vegasinsider",
+      "sport": "wnba",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "vegasinsider",
+      "filled_this_step": 0
+    },
+    {
+      "source": "sportsbettingdime",
+      "sport": "mlb",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "source": "sportsbettingdime",
+      "sport": "ncaaf",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "source": "sportsbettingdime",
+      "sport": "nfl",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "sportsbettingdime",
+      "sport": "wnba",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "sportsbettingdime",
+      "filled_this_step": 0
+    }
+  ],
+  "filled": 0,
+  "still_missing": 213
+}
