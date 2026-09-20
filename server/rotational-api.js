@@ -1,3 +1,4 @@
+import { getLiveOddsFromSlate } from './slate-odds.js';
 function requireEnv(name) {
   const value = process.env[name];
   if (!value) throw new Error('Missing required environment variable: ' + name);
@@ -67,6 +68,11 @@ export class RotatingApiClient {
   }
 
   async getLiveOdds(gameId, sport) {
+    try {
+      return await getLiveOddsFromSlate(gameId, sport);
+    } catch (slateError) {
+      console.warn('Cascade slate miss, falling back to odds API:', slateError.message);
+    }
     let lastError;
     for (let attempt = 0; attempt < this.keys.length; attempt += 1) {
       const apiKey = this.getNextKey();

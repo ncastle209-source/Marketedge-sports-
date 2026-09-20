@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T14:26:46.732091+00:00",
+  "pulled_at": "2026-09-20T14:28:30.057653+00:00",
   "count": 590,
   "splits": {
     "atp": {
@@ -9364,7 +9364,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T14:26:26+00:00",
+            "as_of": "2026-09-20T14:27:27+00:00",
             "away_depth_at_price_usd": 7809.47,
             "away_depth_usd": 7809.47,
             "away_odds": 111,
@@ -10695,7 +10695,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T14:26:26+00:00",
+            "as_of": "2026-09-20T14:27:27+00:00",
             "away_depth_at_price_usd": 10250.0,
             "away_depth_usd": 10250.0,
             "away_odds": 144,
@@ -33718,7 +33718,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T14:26:26+00:00",
+            "as_of": "2026-09-20T14:28:25+00:00",
             "away_depth_at_price_usd": 7809.47,
             "away_depth_usd": 7809.47,
             "away_odds": 111,
@@ -35049,7 +35049,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T14:26:26+00:00",
+            "as_of": "2026-09-20T14:28:25+00:00",
             "away_depth_at_price_usd": 10250.0,
             "away_depth_usd": 10250.0,
             "away_odds": 144,
