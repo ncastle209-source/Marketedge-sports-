@@ -73,7 +73,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "824381",
@@ -123,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "824139",
@@ -173,7 +173,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Delayed Start"
     },
     {
       "eventId": "823001",
@@ -254,9 +254,26 @@
       "eventId": "823975",
       "home": "Los Angeles Angels",
       "away": "Minnesota Twins",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Chris Segal",
+      "crew": [
+        {
+          "name": "Chris Segal",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Laz Diaz",
+          "type": "First Base"
+        },
+        {
+          "name": "Austin Jones",
+          "type": "Second Base"
+        },
+        {
+          "name": "Erich Bacchus",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823896",
@@ -395,7 +412,7 @@
     },
     {
       "gamePk": 823975,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823975"
     },
     {
