@@ -98,7 +98,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Delayed Start"
     },
     {
       "eventId": "822922",
@@ -7160,7 +7160,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1312,
-    "gameFiles": 1199
+    "splitsKeys": 1323,
+    "gameFiles": 1210
   }
 }

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T17:27:47.524766+00:00",
+  "pulled_at": "2026-09-20T17:37:09.376342+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -48,7 +48,7 @@
               {
                 "player": "Brandon Marsh",
                 "team": "Philadelphia Phillies",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -70,11 +70,11 @@
               {
                 "player": "Cristopher S\u00e1nchez",
                 "team": "Philadelphia Phillies",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
                 "k": 0,
                 "er": 0
               },
@@ -169,7 +169,7 @@
               {
                 "player": "Bo Bichette",
                 "team": "New York Mets",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -217,8 +217,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "1.0",
-                "k": 1,
+                "ip": "1.1",
+                "k": 2,
                 "er": 2
               },
               {
@@ -246,7 +246,7 @@
               {
                 "player": "Francisco Lindor",
                 "team": "New York Mets",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -257,7 +257,7 @@
               {
                 "player": "Juan Soto",
                 "team": "New York Mets",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -769,7 +769,7 @@
           "league": "mlb",
           "eventId": "824381",
           "name": "Athletics at Cleveland Guardians",
-          "status": "Pre-Game",
+          "status": "Delayed Start",
           "start": "2026-09-20T17:40:00Z",
           "teams": [
             {
@@ -785,7 +785,233 @@
               "record": "80-75"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "824381",
+            "players": [
+              {
+                "player": "Lawrence Butler",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jonah Heim",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Tommy White",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Donovan Walton",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Zack Gelof",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Alika Williams",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Denzel Clarke",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Henry Bolte",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Shea Langeliers",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jack Perkins",
+                "team": "Athletics",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Angel Genao",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chase DeLauter",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nathaniel Lowe",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Travis Bazzana",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Patrick Bailey",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jo Adell",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jos\u00e9 Ram\u00edrez",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Steven Kwan",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Angel Mart\u00ednez",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Gavin Williams",
+                "team": "Cleveland Guardians",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
