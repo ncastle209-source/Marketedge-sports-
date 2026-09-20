@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T16:24:22.518440+00:00",
+  "pulled_at": "2026-09-20T16:27:22.670279+00:00",
   "period": "fulltime",
   "count": 665,
   "splits": {
@@ -8950,7 +8950,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T16:23:49+00:00",
+            "as_of": "2026-09-20T16:26:26+00:00",
             "away_depth_at_price_usd": 7809.47,
             "away_depth_usd": 7809.47,
             "away_odds": 111,
@@ -16904,12 +16904,12 @@
         {
           "book": "kalshi",
           "prices": {
-            "as_of": "2026-09-20T16:23:49+00:00",
-            "away_depth_usd": 248.98,
-            "away_fee_cents": 1.6933,
-            "away_odds": -154,
-            "away_odds_raw": -143,
-            "away_prob": 59.0,
+            "as_of": "2026-09-20T16:26:26+00:00",
+            "away_depth_usd": 124.85,
+            "away_fee_cents": 1.7325000000000002,
+            "away_odds": -131,
+            "away_odds_raw": -122,
+            "away_prob": 55.0,
             "home_depth_usd": 217.74,
             "home_fee_cents": 1.7472,
             "home_odds": -116,
@@ -40626,7 +40626,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T16:23:49+00:00",
+            "as_of": "2026-09-20T16:26:26+00:00",
             "away_depth_at_price_usd": 7809.47,
             "away_depth_usd": 7809.47,
             "away_odds": 111,
@@ -48580,12 +48580,12 @@
         {
           "book": "kalshi",
           "prices": {
-            "as_of": "2026-09-20T16:23:49+00:00",
-            "away_depth_usd": 248.98,
-            "away_fee_cents": 1.6933,
-            "away_odds": -154,
-            "away_odds_raw": -143,
-            "away_prob": 59.0,
+            "as_of": "2026-09-20T16:26:26+00:00",
+            "away_depth_usd": 124.85,
+            "away_fee_cents": 1.7325000000000002,
+            "away_odds": -131,
+            "away_odds_raw": -122,
+            "away_prob": 55.0,
             "home_depth_usd": 217.74,
             "home_fee_cents": 1.7472,
             "home_odds": -116,
@@ -68518,6 +68518,24 @@
       "awayPitcher": "Patrick Sandoval"
     },
     {
+      "gameId": "wnba-golden-state-valkyries-seattle-storm",
+      "matchup": "Golden State Valkyries vs. Seattle Storm",
+      "sport": "WNBA",
+      "period": "fulltime",
+      "home": "Seattle Storm",
+      "away": "Golden State Valkyries",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/basketball/h2h/golden-state-valkyries-jJ2zZYLs/seattle-storm-I13pnDkc/#Uacn37NP",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "historyPoints": 1
+    },
+    {
       "gameId": "wnba-connecticut-sun-minnesota-lynx",
       "matchup": "Connecticut Sun vs. Minnesota Lynx",
       "sport": "WNBA",
@@ -68603,24 +68621,6 @@
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/basketball/h2h/las-vegas-aces-nZjYLTCd/seattle-storm-I13pnDkc/#phH5yeUp",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "historyPoints": 1
-    },
-    {
-      "gameId": "wnba-golden-state-valkyries-seattle-storm",
-      "matchup": "Golden State Valkyries vs. Seattle Storm",
-      "sport": "WNBA",
-      "period": "fulltime",
-      "home": "Seattle Storm",
-      "away": "Golden State Valkyries",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/basketball/h2h/golden-state-valkyries-jJ2zZYLs/seattle-storm-I13pnDkc/#Uacn37NP",
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,

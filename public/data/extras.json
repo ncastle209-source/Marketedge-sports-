@@ -6980,10 +6980,7 @@
       "kickoff_return_yards": "0"
     }
   ],
-  "cfbd": {
-    "skipped": true,
-    "reason": "add repo secret CFBD_API_KEY"
-  },
+  "cfbd": null,
   "nflPenalties": null,
   "pitchers": [
     {
