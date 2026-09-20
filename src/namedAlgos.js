@@ -22,7 +22,6 @@ function cardMetrics(game = {}) {
   };
 }
 
-/** Underdog value: public on the favorite, money or RLM on the dog. */
 export function evaluateDoggies(game) {
   const m = cardMetrics(game);
   const publicOnFavorite = m.tickets != null && m.tickets >= 65;
@@ -39,7 +38,6 @@ export function evaluateDoggies(game) {
   };
 }
 
-/** Ticket vs handle + RLM on the posted number. */
 export function evaluateMarketDeficiency(game) {
   const m = cardMetrics(game);
   const split = m.divergence != null && Math.abs(m.divergence) >= 12;
@@ -56,7 +54,6 @@ export function evaluateMarketDeficiency(game) {
   };
 }
 
-/** Block 70%+ public plays unless sharp confirmation exists. */
 export function evaluatePublicTrapGuardrail(game) {
   const m = cardMetrics(game);
   const crowded = m.tickets != null && m.tickets >= 70;
@@ -71,9 +68,30 @@ export function evaluatePublicTrapGuardrail(game) {
     reason: suppressed
       ? 'Public tickets >= 70% with no RLM or handle confirmation.'
       : bearTrap
-        ? 'Bear Trap: public >= 80%. Fade only if deficiency/Doggies also fire.'
+        ? 'Bear Trap: public >= 80%.'
         : 'Guardrail clear.',
     metrics: m,
+  };
+}
+
+export function evaluateSharpTrapCard(game = {}) {
+  const actual = Number(game.currentSpread ?? game.currentLine ?? game.actualSpread);
+  const fair = Number(game.fairSpread);
+  const tickets = pct(game.ticketPercentage ?? game.ticketPct ?? game.publicBetPct);
+  const publicPct = tickets == null ? null : tickets / 100;
+  const t1 = Number.isFinite(actual) && Number.isFinite(fair) && Math.abs(actual - fair) >= 2;
+  const t2 = publicPct != null && publicPct >= 0.65;
+  const t3 = Boolean(game.lineMovedOppositePublic);
+  const t4 = Boolean(game.volumeSurgeConfirmed);
+  const t5 = Number(game.secondsToKickoff) <= 1800 && t1 && t2 && t3 && t4;
+  const count = [t1, t2, t3, t4, t5].filter(Boolean).length;
+  const period = String(game.period || 'fulltime');
+  return {
+    name: period === '2h' || period === '2H' ? 'SharpTrap2H' : 'SharpTrapFG',
+    fire: count > 0,
+    count,
+    triggers: { t1, t2, t3, t4, t5 },
+    period,
   };
 }
 
@@ -81,6 +99,7 @@ export function evaluateNamedAlgos(game) {
   const doggies = evaluateDoggies(game);
   const deficiency = evaluateMarketDeficiency(game);
   const guardrail = evaluatePublicTrapGuardrail(game);
-  const vipOk = guardrail.allowed && (doggies.fire || deficiency.fire);
-  return { doggies, deficiency, guardrail, vipOk };
+  const sharp = evaluateSharpTrapCard(game);
+  const vipOk = guardrail.allowed && (doggies.fire || deficiency.fire || sharp.fire);
+  return { doggies, deficiency, guardrail, sharp, vipOk };
 }

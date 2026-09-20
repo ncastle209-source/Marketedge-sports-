@@ -48,23 +48,36 @@ export default function App() {
   }, [games]);
 
   useEffect(() => { // LOAD_CASCADE_SLATE
-    fetch('/data/gamecards.json', { cache: 'no-store' })
-      .then((r) => (r.ok ? r.json() : null))
-      .then((payload) => {
+    Promise.all([
+      fetch('/data/gamecards.json', { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+      fetch('/data/gamecards_2h.json', { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+    ]).then(([full, half]) => {
+      const rows = [];
+      for (const payload of [full, half]) {
         const incoming = payload && payload.games;
-        if (!Array.isArray(incoming) || !incoming.length) return;
-        const next = incoming.slice(0, 80).map((g, i) => ({
-          id: i + 1,
-          gameId: g.gameId || ('g-' + i),
-          matchup: g.matchup,
-          sport: g.sport,
-          secondsToKickoff: 6 * 3600,
-          fairSpread: 0,
-        }));
-        setGames(next);
-        setSelectedGame(next[0]);
-      })
-      .catch(() => {});
+        if (!Array.isArray(incoming)) continue;
+        incoming.forEach((g, i) => {
+          rows.push({
+            ...g,
+            id: rows.length + 1,
+            gameId: g.gameId || ('g-' + i),
+            matchup: g.matchup,
+            sport: g.sport,
+            period: g.period || payload.period || 'fulltime',
+            secondsToKickoff: Number(g.secondsToKickoff) || 6 * 3600,
+            fairSpread: g.fairSpread == null ? undefined : Number(g.fairSpread),
+            ticketPercentage: g.ticketPercentage ?? (g.ticketPct != null ? g.ticketPct * 100 : undefined),
+            handlePercentage: g.handlePercentage ?? (g.handlePct != null ? g.handlePct * 100 : undefined),
+            publicBetPct: g.publicBetPct ?? g.ticketPct,
+            currentSpread: g.currentSpread ?? g.currentLine,
+            currentLine: g.currentLine ?? g.currentSpread,
+          });
+        });
+      }
+      if (!rows.length) return;
+      setGames(rows);
+      setSelectedGame(rows[0]);
+    });
   }, []);
 
   useEffect(() => {
@@ -125,7 +138,7 @@ export default function App() {
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', flexWrap: 'wrap', gap: '10px' }}>
           <h3 style={{ fontSize: '1rem', color: '#8d99ae', margin: 0 }}>Active Slate Matchups:</h3>
           <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
-            {['ALL', 'MLB', 'NPB', 'WNBA', 'EFL/Soccer', 'NFL', 'NBA'].map((sport) => (
+            {['ALL', 'NFL', 'NCAAF', 'MLB', 'WNBA', 'ATP', 'WTA'].map((sport) => (
               <button key={sport} onClick={() => setSelectedSport(sport)} style={{ background: selectedSport === sport ? '#48cae4' : '#1c2541', color: selectedSport === sport ? '#0b132b' : '#8d99ae', border: '1px solid #3a506b', padding: '4px 10px', borderRadius: '4px', fontSize: '0.8rem', fontWeight: 'bold', cursor: 'pointer' }}>
                 {sport}
               </button>
