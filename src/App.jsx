@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import AddGameModal from './AddGameModal';
 import { evaluateSharpTrap } from './services/api';
 import NamedAlgoBoard from './NamedAlgoBoard';
+import BettingMetricsBoard from './BettingMetricsBoard';
 import OfficialPlaysFeed from './components/OfficialPlaysFeed';
 import AlphaPlayReport from './components/AlphaPlayReport';
 import SteamTracker from './SteamTracker';
@@ -196,6 +197,7 @@ export default function App() {
       )}
       <AnalyticsView />
 
+      {selectedGame && <BettingMetricsBoard game={selectedGame} />}
       {selectedGame && <NamedAlgoBoard game={selectedGame} />}
       <AddGameModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} onAddGame={handleAddGame} />
     </div>
