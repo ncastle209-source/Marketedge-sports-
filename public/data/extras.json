@@ -23,7 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Game Over"
     },
     {
       "eventId": "823329",
@@ -73,7 +73,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824381",
@@ -123,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824139",
@@ -223,7 +223,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Manager challenge"
     },
     {
       "eventId": "824300",
@@ -273,7 +273,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "823896",
@@ -298,7 +298,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "823247",
@@ -323,7 +323,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "825028",
@@ -348,22 +348,42 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "824789",
       "home": "Baltimore Orioles",
       "away": "Milwaukee Brewers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Alan Porter",
+      "crew": [
+        {
+          "name": "Alan Porter",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jim Wolf",
+          "type": "First Base"
+        },
+        {
+          "name": "Roberto Ortiz",
+          "type": "Second Base"
+        },
+        {
+          "name": "Alex MacKay",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 823570,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823570"
+      "status": "O",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823570",
+      "playCount": 79,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823329,
@@ -372,8 +392,11 @@
     },
     {
       "gamePk": 824462,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824462"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824462",
+      "playCount": 76,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824381,
@@ -382,8 +405,11 @@
     },
     {
       "gamePk": 822922,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822922"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822922",
+      "playCount": 65,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824139,
@@ -402,7 +428,7 @@
     },
     {
       "gamePk": 822844,
-      "status": "I",
+      "status": "M",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822844"
     },
     {
@@ -412,27 +438,27 @@
     },
     {
       "gamePk": 823975,
-      "status": "P",
+      "status": "M",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823975"
     },
     {
       "gamePk": 823896,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823896"
     },
     {
       "gamePk": 823247,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823247"
     },
     {
       "gamePk": 825028,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=825028"
     },
     {
       "gamePk": 824789,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824789"
     }
   ],
@@ -7160,7 +7186,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1367,
-    "gameFiles": 1254
+    "splitsKeys": 1492,
+    "gameFiles": 1379
   }
 }

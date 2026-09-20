@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T19:59:23.612555+00:00",
+  "pulled_at": "2026-09-20T20:29:40.699789+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,20 +25,20 @@
           "league": "mlb",
           "eventId": "823570",
           "name": "Philadelphia Phillies at New York Mets",
-          "status": "In Progress",
+          "status": "Game Over",
           "start": "2026-09-20T17:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Philadelphia Phillies",
               "score": 7,
-              "record": "85-70"
+              "record": "86-70"
             },
             {
               "side": "home",
               "name": "New York Mets",
               "score": 2,
-              "record": "71-84"
+              "record": "71-85"
             }
           ],
           "source": "statsapi.mlb.com",
@@ -55,6 +55,17 @@
                 "ip": null,
                 "k": null,
                 "er": null
+              },
+              {
+                "player": "Jos\u00e9 Alvarado",
+                "team": "Philadelphia Phillies",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 0
               },
               {
                 "player": "Justin Crawford",
@@ -81,7 +92,7 @@
               {
                 "player": "Bryce Harper",
                 "team": "Philadelphia Phillies",
-                "ab": 4,
+                "ab": 5,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -103,7 +114,7 @@
               {
                 "player": "Alec Bohm",
                 "team": "Philadelphia Phillies",
-                "ab": 4,
+                "ab": 5,
                 "h": 2,
                 "hr": 0,
                 "rbi": 1,
@@ -112,9 +123,20 @@
                 "er": null
               },
               {
+                "player": "Chase Shugart",
+                "team": "Philadelphia Phillies",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "Bryson Stott",
                 "team": "Philadelphia Phillies",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -147,7 +169,7 @@
               {
                 "player": "Luis Arraez",
                 "team": "Philadelphia Phillies",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 2,
@@ -167,6 +189,17 @@
                 "er": null
               },
               {
+                "player": "Derek Hill",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
                 "player": "Luis Torrens",
                 "team": "New York Mets",
                 "ab": 2,
@@ -180,7 +213,7 @@
               {
                 "player": "Bo Bichette",
                 "team": "New York Mets",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 1,
                 "rbi": 1,
@@ -189,9 +222,20 @@
                 "er": null
               },
               {
+                "player": "Christopher Morel",
+                "team": "New York Mets",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
                 "player": "Francisco Alvarez",
                 "team": "New York Mets",
-                "ab": 3,
+                "ab": 4,
                 "h": 2,
                 "hr": 0,
                 "rbi": 0,
@@ -202,8 +246,8 @@
               {
                 "player": "Mark Vientos",
                 "team": "New York Mets",
-                "ab": 3,
-                "h": 0,
+                "ab": 4,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -217,7 +261,7 @@
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
-                "ip": "0.0",
+                "ip": "1.2",
                 "k": 0,
                 "er": 0
               },
@@ -246,7 +290,7 @@
               {
                 "player": "Carson Benge",
                 "team": "New York Mets",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -301,7 +345,7 @@
               {
                 "player": "Marcus Semien",
                 "team": "New York Mets",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -312,7 +356,7 @@
               {
                 "player": "Francisco Lindor",
                 "team": "New York Mets",
-                "ab": 4,
+                "ab": 5,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -334,8 +378,8 @@
               {
                 "player": "A.J. Ewing",
                 "team": "New York Mets",
-                "ab": 1,
-                "h": 1,
+                "ab": 2,
+                "h": 2,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -362,7 +406,7 @@
             {
               "side": "home",
               "name": "Pittsburgh Pirates",
-              "score": 2,
+              "score": 4,
               "record": "78-77"
             }
           ],
@@ -370,6 +414,17 @@
           "box": {
             "eventId": "823329",
             "players": [
+              {
+                "player": "Jose Cuas",
+                "team": "Kansas City Royals",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 1,
+                "er": 0
+              },
               {
                 "player": "Tyler Tolbert",
                 "team": "Kansas City Royals",
@@ -384,7 +439,7 @@
               {
                 "player": "Salvador Perez",
                 "team": "Kansas City Royals",
-                "ab": 3,
+                "ab": 4,
                 "h": 2,
                 "hr": 0,
                 "rbi": 1,
@@ -439,7 +494,7 @@
               {
                 "player": "Michael Massey",
                 "team": "Kansas City Royals",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -492,6 +547,17 @@
                 "er": 2
               },
               {
+                "player": "Nate Pearson",
+                "team": "Kansas City Royals",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 1,
+                "er": 2
+              },
+              {
                 "player": "Maikel Garcia",
                 "team": "Kansas City Royals",
                 "ab": 4,
@@ -514,9 +580,20 @@
                 "er": null
               },
               {
+                "player": "Anthony Gose",
+                "team": "Kansas City Royals",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "Bobby Witt Jr.",
                 "team": "Kansas City Royals",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -527,7 +604,7 @@
               {
                 "player": "Spencer Horwitz",
                 "team": "Pittsburgh Pirates",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 1,
@@ -545,6 +622,17 @@
                 "ip": "1.0",
                 "k": 1,
                 "er": 1
+              },
+              {
+                "player": "Ronny Simon",
+                "team": "Pittsburgh Pirates",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
               },
               {
                 "player": "Brandon Lowe",
@@ -582,7 +670,7 @@
               {
                 "player": "Jake Mangum",
                 "team": "Pittsburgh Pirates",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -608,8 +696,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "2.0",
-                "k": 0,
+                "ip": "3.0",
+                "k": 1,
                 "er": 2
               },
               {
@@ -626,8 +714,8 @@
               {
                 "player": "Konnor Griffin",
                 "team": "Pittsburgh Pirates",
-                "ab": 4,
-                "h": 0,
+                "ab": 5,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -637,8 +725,8 @@
               {
                 "player": "Ryan O'Hearn",
                 "team": "Pittsburgh Pirates",
-                "ab": 2,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -648,7 +736,7 @@
               {
                 "player": "Nick Gonzales",
                 "team": "Pittsburgh Pirates",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -659,10 +747,10 @@
               {
                 "player": "Rafael Flores Jr.",
                 "team": "Pittsburgh Pirates",
-                "ab": 2,
-                "h": 1,
-                "hr": 0,
-                "rbi": 0,
+                "ab": 3,
+                "h": 2,
+                "hr": 1,
+                "rbi": 2,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -675,20 +763,20 @@
           "league": "mlb",
           "eventId": "824462",
           "name": "Chicago Cubs at Cincinnati Reds",
-          "status": "In Progress",
+          "status": "Final",
           "start": "2026-09-20T17:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago Cubs",
               "score": 9,
-              "record": "86-69"
+              "record": "87-69"
             },
             {
               "side": "home",
               "name": "Cincinnati Reds",
               "score": 1,
-              "record": "72-83"
+              "record": "72-84"
             }
           ],
           "source": "statsapi.mlb.com",
@@ -698,7 +786,7 @@
               {
                 "player": "Michael Conforto",
                 "team": "Chicago Cubs",
-                "ab": 4,
+                "ab": 5,
                 "h": 1,
                 "hr": 1,
                 "rbi": 1,
@@ -720,7 +808,7 @@
               {
                 "player": "Ian Happ",
                 "team": "Chicago Cubs",
-                "ab": 4,
+                "ab": 5,
                 "h": 2,
                 "hr": 0,
                 "rbi": 1,
@@ -753,7 +841,7 @@
               {
                 "player": "Pedro Ram\u00edrez",
                 "team": "Chicago Cubs",
-                "ab": 4,
+                "ab": 5,
                 "h": 3,
                 "hr": 0,
                 "rbi": 2,
@@ -817,10 +905,21 @@
                 "er": 1
               },
               {
+                "player": "Colin Rea",
+                "team": "Chicago Cubs",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "Nico Hoerner",
                 "team": "Chicago Cubs",
-                "ab": 3,
-                "h": 0,
+                "ab": 4,
+                "h": 1,
                 "hr": 0,
                 "rbi": 1,
                 "ip": null,
@@ -863,7 +962,7 @@
               {
                 "player": "Sal Stewart",
                 "team": "Cincinnati Reds",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -960,9 +1059,31 @@
                 "er": 5
               },
               {
+                "player": "Graham Ashcraft",
+                "team": "Cincinnati Reds",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 0
+              },
+              {
                 "player": "Tyler Stephenson",
                 "team": "Cincinnati Reds",
-                "ab": 3,
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Juan Brito",
+                "team": "Cincinnati Reds",
+                "ab": 0,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -973,7 +1094,7 @@
               {
                 "player": "JJ Bleday",
                 "team": "Cincinnati Reds",
-                "ab": 2,
+                "ab": 3,
                 "h": 1,
                 "hr": 1,
                 "rbi": 1,
@@ -1023,7 +1144,7 @@
               {
                 "player": "Lawrence Butler",
                 "team": "Athletics",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1034,7 +1155,7 @@
               {
                 "player": "Jonah Heim",
                 "team": "Athletics",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1045,7 +1166,7 @@
               {
                 "player": "Tommy White",
                 "team": "Athletics",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1056,8 +1177,8 @@
               {
                 "player": "Donovan Walton",
                 "team": "Athletics",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -1067,8 +1188,8 @@
               {
                 "player": "Zack Gelof",
                 "team": "Athletics",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -1078,7 +1199,7 @@
               {
                 "player": "Alika Williams",
                 "team": "Athletics",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1089,7 +1210,7 @@
               {
                 "player": "Denzel Clarke",
                 "team": "Athletics",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1100,7 +1221,7 @@
               {
                 "player": "Henry Bolte",
                 "team": "Athletics",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1111,7 +1232,7 @@
               {
                 "player": "Shea Langeliers",
                 "team": "Athletics",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1126,14 +1247,14 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "1.0",
-                "k": 0,
+                "ip": "3.0",
+                "k": 3,
                 "er": 0
               },
               {
                 "player": "Angel Genao",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1155,7 +1276,7 @@
               {
                 "player": "Nathaniel Lowe",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1166,7 +1287,7 @@
               {
                 "player": "Travis Bazzana",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1177,7 +1298,7 @@
               {
                 "player": "Patrick Bailey",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1210,7 +1331,7 @@
               {
                 "player": "Steven Kwan",
                 "team": "Cleveland Guardians",
-                "ab": 1,
+                "ab": 2,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -1221,7 +1342,7 @@
               {
                 "player": "Angel Mart\u00ednez",
                 "team": "Cleveland Guardians",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1236,8 +1357,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "1.0",
-                "k": 3,
+                "ip": "3.1",
+                "k": 6,
                 "er": 0
               }
             ],
@@ -1248,20 +1369,20 @@
           "league": "mlb",
           "eventId": "822922",
           "name": "Boston Red Sox at Tampa Bay Rays",
-          "status": "In Progress",
+          "status": "Final",
           "start": "2026-09-20T17:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Boston Red Sox",
               "score": 1,
-              "record": "84-71"
+              "record": "84-72"
             },
             {
               "side": "home",
               "name": "Tampa Bay Rays",
               "score": 5,
-              "record": "94-60"
+              "record": "95-60"
             }
           ],
           "source": "statsapi.mlb.com",
@@ -1381,7 +1502,7 @@
               {
                 "player": "Jarren Duran",
                 "team": "Boston Red Sox",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1480,11 +1601,11 @@
               {
                 "player": "Kevin Kelly",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
                 "k": 0,
                 "er": 0
               },
@@ -1594,9 +1715,20 @@
             "eventId": "824139",
             "players": [
               {
+                "player": "AJ Smith-Shawver",
+                "team": "Atlanta Braves",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 4,
+                "er": 0
+              },
+              {
                 "player": "Michael Harris II",
                 "team": "Atlanta Braves",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1629,7 +1761,7 @@
               {
                 "player": "Brewer Hicklen",
                 "team": "Atlanta Braves",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1640,7 +1772,7 @@
               {
                 "player": "Drake Baldwin",
                 "team": "Atlanta Braves",
-                "ab": 2,
+                "ab": 3,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -1651,7 +1783,7 @@
               {
                 "player": "Matt Olson",
                 "team": "Atlanta Braves",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1695,7 +1827,7 @@
               {
                 "player": "Ha-Seong Kim",
                 "team": "Atlanta Braves",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1717,7 +1849,7 @@
               {
                 "player": "Isaac Paredes",
                 "team": "Houston Astros",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1728,7 +1860,7 @@
               {
                 "player": "Nick Allen",
                 "team": "Houston Astros",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1739,7 +1871,7 @@
               {
                 "player": "Cam Smith",
                 "team": "Houston Astros",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1761,7 +1893,7 @@
               {
                 "player": "Brice Matthews",
                 "team": "Houston Astros",
-                "ab": 2,
+                "ab": 3,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -1783,7 +1915,7 @@
               {
                 "player": "Jeremy Pe\u00f1a",
                 "team": "Houston Astros",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -1805,13 +1937,24 @@
               {
                 "player": "Christian Walker",
                 "team": "Houston Astros",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
                 "k": null,
                 "er": null
+              },
+              {
+                "player": "Miguel Ullola",
+                "team": "Houston Astros",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 0,
+                "er": 0
               },
               {
                 "player": "Yainer Diaz",
@@ -1827,8 +1970,8 @@
               {
                 "player": "Yordan Alvarez",
                 "team": "Houston Astros",
-                "ab": 3,
-                "h": 1,
+                "ab": 4,
+                "h": 2,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -2103,7 +2246,7 @@
             {
               "side": "home",
               "name": "St. Louis Cardinals",
-              "score": 2,
+              "score": 3,
               "record": "75-80"
             }
           ],
@@ -2129,14 +2272,25 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "0.2",
+                "ip": "1.2",
                 "k": 0,
                 "er": 0
               },
               {
+                "player": "Abimelec Ortiz",
+                "team": "Washington Nationals",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
                 "player": "CJ Abrams",
                 "team": "Washington Nationals",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 1,
                 "rbi": 2,
@@ -2147,7 +2301,7 @@
               {
                 "player": "Nasim Nu\u00f1ez",
                 "team": "Washington Nationals",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2159,6 +2313,17 @@
                 "player": "Andr\u00e9s Chaparro",
                 "team": "Washington Nationals",
                 "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jorbit Vivas",
+                "team": "Washington Nationals",
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2191,7 +2356,7 @@
               {
                 "player": "James Wood",
                 "team": "Washington Nationals",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2213,13 +2378,24 @@
               {
                 "player": "Jacob Young",
                 "team": "Washington Nationals",
-                "ab": 1,
+                "ab": 2,
                 "h": 1,
                 "hr": 0,
                 "rbi": 1,
                 "ip": null,
                 "k": null,
                 "er": null
+              },
+              {
+                "player": "Erik Tolman",
+                "team": "Washington Nationals",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 0,
+                "er": 1
               },
               {
                 "player": "Jake Irvin",
@@ -2235,7 +2411,7 @@
               {
                 "player": "Bryan Torres",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2257,7 +2433,7 @@
               {
                 "player": "Nathan Church",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2268,8 +2444,8 @@
               {
                 "player": "Jos\u00e9 Ferm\u00edn",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
-                "h": 1,
+                "ab": 3,
+                "h": 2,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -2279,7 +2455,7 @@
               {
                 "player": "JJ Wetherholt",
                 "team": "St. Louis Cardinals",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 1,
@@ -2301,7 +2477,7 @@
               {
                 "player": "Thomas Saggese",
                 "team": "St. Louis Cardinals",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2316,9 +2492,20 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "6.0",
+                "ip": "7.0",
                 "k": 3,
                 "er": 3
+              },
+              {
+                "player": "Luis Gastelum",
+                "team": "St. Louis Cardinals",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 2,
+                "er": 0
               },
               {
                 "player": "Leo Bernal",
@@ -2334,10 +2521,10 @@
               {
                 "player": "Iv\u00e1n Herrera",
                 "team": "St. Louis Cardinals",
-                "ab": 3,
-                "h": 1,
-                "hr": 1,
-                "rbi": 1,
+                "ab": 4,
+                "h": 2,
+                "hr": 2,
+                "rbi": 2,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -2350,7 +2537,7 @@
           "league": "mlb",
           "eventId": "822844",
           "name": "Toronto Blue Jays at Texas Rangers",
-          "status": "In Progress",
+          "status": "Manager challenge",
           "start": "2026-09-20T18:35:00Z",
           "teams": [
             {
@@ -2384,7 +2571,7 @@
               {
                 "player": "Ernie Clement",
                 "team": "Toronto Blue Jays",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2406,7 +2593,7 @@
               {
                 "player": "Andr\u00e9s Gim\u00e9nez",
                 "team": "Toronto Blue Jays",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2417,8 +2604,8 @@
               {
                 "player": "Brandon Valenzuela",
                 "team": "Toronto Blue Jays",
-                "ab": 1,
-                "h": 0,
+                "ab": 2,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -2446,6 +2633,17 @@
                 "ip": null,
                 "k": null,
                 "er": null
+              },
+              {
+                "player": "Mason Fluharty",
+                "team": "Toronto Blue Jays",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 0,
+                "er": 0
               },
               {
                 "player": "Sean Keys",
@@ -2498,8 +2696,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "1.0",
-                "k": 1,
+                "ip": "2.1",
+                "k": 2,
                 "er": 2
               },
               {
@@ -2516,8 +2714,8 @@
               {
                 "player": "Evan Carter",
                 "team": "Texas Rangers",
-                "ab": 1,
-                "h": 0,
+                "ab": 2,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -2549,7 +2747,7 @@
               {
                 "player": "Alejandro Osuna",
                 "team": "Texas Rangers",
-                "ab": 2,
+                "ab": 3,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -2560,7 +2758,7 @@
               {
                 "player": "Corey Seager",
                 "team": "Texas Rangers",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2575,7 +2773,7 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "0.2",
+                "ip": "1.2",
                 "k": 0,
                 "er": 0
               },
@@ -2593,8 +2791,19 @@
               {
                 "player": "Josh Jung",
                 "team": "Texas Rangers",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Justin Foscue",
+                "team": "Texas Rangers",
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -2604,7 +2813,7 @@
               {
                 "player": "Ezequiel Duran",
                 "team": "Texas Rangers",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2626,7 +2835,7 @@
               {
                 "player": "Danny Jansen",
                 "team": "Texas Rangers",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2648,7 +2857,7 @@
             {
               "side": "away",
               "name": "Seattle Mariners",
-              "score": 0,
+              "score": 1,
               "record": "72-83"
             },
             {
@@ -2665,7 +2874,7 @@
               {
                 "player": "Josh Naylor",
                 "team": "Seattle Mariners",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2676,7 +2885,7 @@
               {
                 "player": "Cole Young",
                 "team": "Seattle Mariners",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2687,7 +2896,7 @@
               {
                 "player": "Lazaro Montes",
                 "team": "Seattle Mariners",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2720,10 +2929,10 @@
               {
                 "player": "Dominic Canzone",
                 "team": "Seattle Mariners",
-                "ab": 1,
-                "h": 0,
+                "ab": 2,
+                "h": 1,
                 "hr": 0,
-                "rbi": 0,
+                "rbi": 1,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -2753,7 +2962,7 @@
               {
                 "player": "Julio Rodr\u00edguez",
                 "team": "Seattle Mariners",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2768,14 +2977,25 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "3.0",
-                "k": 4,
+                "ip": "5.0",
+                "k": 5,
+                "er": 0
+              },
+              {
+                "player": "Ryan Feltner",
+                "team": "Colorado Rockies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
                 "er": 0
               },
               {
                 "player": "Adael Amador",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -2797,7 +3017,7 @@
               {
                 "player": "Cole Carrigg",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -2808,7 +3028,7 @@
               {
                 "player": "Hunter Goodman",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2823,14 +3043,14 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "3.1",
-                "k": 4,
-                "er": 0
+                "ip": "5.0",
+                "k": 5,
+                "er": 1
               },
               {
                 "player": "Jordan Beck",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2841,7 +3061,7 @@
               {
                 "player": "Brett Sullivan",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2863,7 +3083,7 @@
               {
                 "player": "TJ Rumfield",
                 "team": "Colorado Rockies",
-                "ab": 1,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2890,7 +3110,7 @@
           "league": "mlb",
           "eventId": "823975",
           "name": "Minnesota Twins at Los Angeles Angels",
-          "status": "Warmup",
+          "status": "In Progress",
           "start": "2026-09-20T20:07:00Z",
           "teams": [
             {
@@ -2913,12 +3133,12 @@
               {
                 "player": "Dean Kremer",
                 "team": "Minnesota Twins",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
-                "k": 0,
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
                 "er": 0
               },
               {
@@ -2946,7 +3166,7 @@
               {
                 "player": "Kody Clemens",
                 "team": "Minnesota Twins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2957,7 +3177,7 @@
               {
                 "player": "Brooks Lee",
                 "team": "Minnesota Twins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2968,7 +3188,7 @@
               {
                 "player": "Walker Jenkins",
                 "team": "Minnesota Twins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -2979,7 +3199,7 @@
               {
                 "player": "Josh Bell",
                 "team": "Minnesota Twins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3001,8 +3221,8 @@
               {
                 "player": "Alan Roden",
                 "team": "Minnesota Twins",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -3012,7 +3232,7 @@
               {
                 "player": "Royce Lewis",
                 "team": "Minnesota Twins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3045,7 +3265,7 @@
               {
                 "player": "Zach Neto",
                 "team": "Los Angeles Angels",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3056,12 +3276,12 @@
               {
                 "player": "Ryan Johnson",
                 "team": "Los Angeles Angels",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
-                "k": 0,
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.2",
+                "k": 2,
                 "er": 0
               },
               {
@@ -3100,7 +3320,7 @@
               {
                 "player": "Vaughn Grissom",
                 "team": "Los Angeles Angels",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3111,7 +3331,7 @@
               {
                 "player": "Wade Meckler",
                 "team": "Los Angeles Angels",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3138,13 +3358,13 @@
           "league": "mlb",
           "eventId": "823896",
           "name": "San Francisco Giants at Los Angeles Dodgers",
-          "status": "Warmup",
+          "status": "In Progress",
           "start": "2026-09-20T20:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "San Francisco Giants",
-              "score": 0,
+              "score": 1,
               "record": "64-91"
             },
             {
@@ -3183,7 +3403,7 @@
               {
                 "player": "Scott Bandura",
                 "team": "San Francisco Giants",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3194,18 +3414,18 @@
               {
                 "player": "Matt Wilkinson",
                 "team": "San Francisco Giants",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
                 "k": 0,
                 "er": 0
               },
               {
                 "player": "Andrew Knizner",
                 "team": "San Francisco Giants",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3216,10 +3436,10 @@
               {
                 "player": "Victor Bericoto",
                 "team": "San Francisco Giants",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
-                "rbi": 0,
+                "rbi": 1,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -3227,7 +3447,7 @@
               {
                 "player": "Jung Hoo Lee",
                 "team": "San Francisco Giants",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3238,7 +3458,7 @@
               {
                 "player": "Brett Harris",
                 "team": "San Francisco Giants",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3315,7 +3535,7 @@
               {
                 "player": "Tommy Edman",
                 "team": "Los Angeles Dodgers",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3326,7 +3546,7 @@
               {
                 "player": "Teoscar Hern\u00e1ndez",
                 "team": "Los Angeles Dodgers",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3337,7 +3557,7 @@
               {
                 "player": "Mookie Betts",
                 "team": "Los Angeles Dodgers",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3357,6 +3577,17 @@
                 "er": null
               },
               {
+                "player": "Emmet Sheehan",
+                "team": "Los Angeles Dodgers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 1,
+                "er": 0
+              },
+              {
                 "player": "Miguel Rojas",
                 "team": "Los Angeles Dodgers",
                 "ab": 0,
@@ -3370,13 +3601,13 @@
               {
                 "player": "Jack Dreyer",
                 "team": "Los Angeles Dodgers",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
-                "k": 0,
-                "er": 0
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 1
               }
             ],
             "source": "statsapi.mlb.com"
@@ -3386,7 +3617,7 @@
           "league": "mlb",
           "eventId": "823247",
           "name": "Miami Marlins at San Diego Padres",
-          "status": "Warmup",
+          "status": "In Progress",
           "start": "2026-09-20T20:10:00Z",
           "teams": [
             {
@@ -3409,7 +3640,7 @@
               {
                 "player": "Griffin Conine",
                 "team": "Miami Marlins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3420,7 +3651,7 @@
               {
                 "player": "Heriberto Hern\u00e1ndez",
                 "team": "Miami Marlins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3431,18 +3662,18 @@
               {
                 "player": "Sandy Alcantara",
                 "team": "Miami Marlins",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
                 "k": 0,
                 "er": 0
               },
               {
                 "player": "Jakob Marsee",
                 "team": "Miami Marlins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3453,7 +3684,7 @@
               {
                 "player": "Javier Sanoja",
                 "team": "Miami Marlins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3508,7 +3739,7 @@
               {
                 "player": "Otto Lopez",
                 "team": "Miami Marlins",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3519,11 +3750,11 @@
               {
                 "player": "Walker Buehler",
                 "team": "San Diego Padres",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
                 "k": 0,
                 "er": 0
               },
@@ -3541,7 +3772,7 @@
               {
                 "player": "Dustin Harris",
                 "team": "San Diego Padres",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3574,7 +3805,7 @@
               {
                 "player": "Manny Machado",
                 "team": "San Diego Padres",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3596,7 +3827,7 @@
               {
                 "player": "Fernando Tatis Jr.",
                 "team": "San Diego Padres",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3634,7 +3865,7 @@
           "league": "mlb",
           "eventId": "825028",
           "name": "New York Yankees at Arizona Diamondbacks",
-          "status": "Warmup",
+          "status": "In Progress",
           "start": "2026-09-20T20:10:00Z",
           "teams": [
             {
@@ -3646,7 +3877,7 @@
             {
               "side": "home",
               "name": "Arizona Diamondbacks",
-              "score": 0,
+              "score": 1,
               "record": "81-74"
             }
           ],
@@ -3657,7 +3888,7 @@
               {
                 "player": "Heliot Ramos",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3712,13 +3943,13 @@
               {
                 "player": "Will Warren",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
                 "k": 0,
-                "er": 0
+                "er": 1
               },
               {
                 "player": "Anthony Volpe",
@@ -3734,8 +3965,8 @@
               {
                 "player": "Cody Bellinger",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -3745,7 +3976,7 @@
               {
                 "player": "George Lombard Jr.",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3756,7 +3987,7 @@
               {
                 "player": "Luis Garc\u00eda Jr.",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3789,8 +4020,8 @@
               {
                 "player": "Lars Nootbaar",
                 "team": "Arizona Diamondbacks",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -3800,8 +4031,8 @@
               {
                 "player": "Ketel Marte",
                 "team": "Arizona Diamondbacks",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -3811,10 +4042,10 @@
               {
                 "player": "Geraldo Perdomo",
                 "team": "Arizona Diamondbacks",
-                "ab": 0,
-                "h": 0,
+                "ab": 1,
+                "h": 1,
                 "hr": 0,
-                "rbi": 0,
+                "rbi": 1,
                 "ip": null,
                 "k": null,
                 "er": null
@@ -3822,18 +4053,18 @@
               {
                 "player": "Corbin Burnes",
                 "team": "Arizona Diamondbacks",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
                 "k": 0,
                 "er": 0
               },
               {
                 "player": "Gabriel Moreno",
                 "team": "Arizona Diamondbacks",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3844,7 +4075,7 @@
               {
                 "player": "Corbin Carroll",
                 "team": "Arizona Diamondbacks",
-                "ab": 0,
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -3882,7 +4113,7 @@
           "league": "mlb",
           "eventId": "824789",
           "name": "Milwaukee Brewers at Baltimore Orioles",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-20T23:20:00Z",
           "teams": [
             {

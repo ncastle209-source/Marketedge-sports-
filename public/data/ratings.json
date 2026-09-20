@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T19:59:28.048584+00:00",
+  "pulled_at": "2026-09-20T20:29:43.439956+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -10,7 +10,7 @@
     "mlb": {
       "rays": {
         "name": "Rays",
-        "rating": 0.513,
+        "rating": 0.535,
         "source": "mlb-run-diff"
       },
       "nyy": {
@@ -20,7 +20,7 @@
       },
       "bos": {
         "name": "Red Sox",
-        "rating": 0.542,
+        "rating": 0.513,
         "source": "mlb-run-diff"
       },
       "sox": {
@@ -100,7 +100,7 @@
       },
       "phillies": {
         "name": "Phillies",
-        "rating": 0.155,
+        "rating": 0.186,
         "source": "mlb-run-diff"
       },
       "marlins": {
@@ -115,7 +115,7 @@
       },
       "mets": {
         "name": "Mets",
-        "rating": -0.232,
+        "rating": -0.263,
         "source": "mlb-run-diff"
       },
       "brewers": {
@@ -125,7 +125,7 @@
       },
       "cubs": {
         "name": "Cubs",
-        "rating": 0.929,
+        "rating": 0.974,
         "source": "mlb-run-diff"
       },
       "pirates": {
@@ -140,7 +140,7 @@
       },
       "reds": {
         "name": "Reds",
-        "rating": -1.0,
+        "rating": -1.045,
         "source": "mlb-run-diff"
       },
       "lad": {
