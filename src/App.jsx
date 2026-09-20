@@ -41,6 +41,26 @@ export default function App() {
     localStorage.setItem('vegas_games', JSON.stringify(games));
   }, [games]);
 
+  useEffect(() => { // LOAD_CASCADE_SLATE
+    fetch('/data/gamecards.json', { cache: 'no-store' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((payload) => {
+        const incoming = payload && payload.games;
+        if (!Array.isArray(incoming) || !incoming.length) return;
+        const next = incoming.slice(0, 80).map((g, i) => ({
+          id: i + 1,
+          gameId: g.gameId || ('g-' + i),
+          matchup: g.matchup,
+          sport: g.sport,
+          secondsToKickoff: 6 * 3600,
+          fairSpread: 0,
+        }));
+        setGames(next);
+        setSelectedGame(next[0]);
+      })
+      .catch(() => {});
+  }, []);
+
   useEffect(() => {
     if (!selectedGame) return undefined;
 

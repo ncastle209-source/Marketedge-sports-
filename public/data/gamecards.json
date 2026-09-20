@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T13:29:56.309707+00:00",
+  "pulled_at": "2026-09-20T13:44:16.673979+00:00",
   "count": 580,
   "games": [
     {
@@ -375,18 +375,6 @@
       "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/philadelphia-eagles-dGgVhRLK/#YaYpGyaC"
     },
     {
-      "gameId": "nfl-cleveland-browns-pittsburgh-steelers",
-      "matchup": "Cleveland Browns vs. Pittsburgh Steelers",
-      "sport": "NFL",
-      "home": "Pittsburgh Steelers",
-      "away": "Cleveland Browns",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/pittsburgh-steelers-AXWJxS6R/#KGWhEFTO"
-    },
-    {
       "gameId": "nfl-indianapolis-colts-washington-commanders",
       "matchup": "Indianapolis Colts vs. Washington Commanders",
       "sport": "NFL",
@@ -397,186 +385,6 @@
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/washington-commanders-pYobX5Ul/#AuC2YIEt"
-    },
-    {
-      "gameId": "nfl-arizona-cardinals-new-york-giants",
-      "matchup": "Arizona Cardinals vs. New York Giants",
-      "sport": "NFL",
-      "home": "New York Giants",
-      "away": "Arizona Cardinals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/new-york-giants-lIrBvlxF/#2ZYiWmkA"
-    },
-    {
-      "gameId": "nfl-baltimore-ravens-tennessee-titans",
-      "matchup": "Baltimore Ravens vs. Tennessee Titans",
-      "sport": "NFL",
-      "home": "Tennessee Titans",
-      "away": "Baltimore Ravens",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/tennessee-titans-nmgM9o38/#rgAAWdqg"
-    },
-    {
-      "gameId": "nfl-buffalo-bills-new-england-patriots",
-      "matchup": "Buffalo Bills vs. New England Patriots",
-      "sport": "NFL",
-      "home": "New England Patriots",
-      "away": "Buffalo Bills",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/new-england-patriots-G6oNfmi8/#jJDIUzE5"
-    },
-    {
-      "gameId": "nfl-chicago-bears-new-york-jets",
-      "matchup": "Chicago Bears vs. New York Jets",
-      "sport": "NFL",
-      "home": "New York Jets",
-      "away": "Chicago Bears",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-york-jets-Q9nr9QzE/#dGGQSErI"
-    },
-    {
-      "gameId": "nfl-cincinnati-bengals-jacksonville-jaguars",
-      "matchup": "Cincinnati Bengals vs. Jacksonville Jaguars",
-      "sport": "NFL",
-      "home": "Jacksonville Jaguars",
-      "away": "Cincinnati Bengals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/jacksonville-jaguars-QwhQ85IE/#S2wbA6Sj"
-    },
-    {
-      "gameId": "nfl-dallas-cowboys-houston-texans",
-      "matchup": "Dallas Cowboys vs. Houston Texans",
-      "sport": "NFL",
-      "home": "Houston Texans",
-      "away": "Dallas Cowboys",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/houston-texans-SIj9q2Q7/#f9VqY9Kc"
-    },
-    {
-      "gameId": "nfl-green-bay-packers-tampa-bay-buccaneers",
-      "matchup": "Green Bay Packers vs. Tampa Bay Buccaneers",
-      "sport": "NFL",
-      "home": "Tampa Bay Buccaneers",
-      "away": "Green Bay Packers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/tampa-bay-buccaneers-40on8pjK/#WWXUO5sp"
-    },
-    {
-      "gameId": "nfl-los-angeles-rams-philadelphia-eagles",
-      "matchup": "Los Angeles Rams vs. Philadelphia Eagles",
-      "sport": "NFL",
-      "home": "Philadelphia Eagles",
-      "away": "Los Angeles Rams",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/philadelphia-eagles-dGgVhRLK/#zmXaURJM"
-    },
-    {
-      "gameId": "nfl-miami-dolphins-minnesota-vikings",
-      "matchup": "Miami Dolphins vs. Minnesota Vikings",
-      "sport": "NFL",
-      "home": "Minnesota Vikings",
-      "away": "Miami Dolphins",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/miami-dolphins-WQivmqEf/minnesota-vikings-IsfjpsbD/#vcywNqCd"
-    },
-    {
-      "gameId": "nfl-denver-broncos-san-francisco-49ers",
-      "matchup": "Denver Broncos vs. San Francisco 49Ers",
-      "sport": "NFL",
-      "home": "San Francisco 49Ers",
-      "away": "Denver Broncos",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/san-francisco-49ers-jBnfYoFr/#pEUvs53S"
-    },
-    {
-      "gameId": "nfl-kansas-city-chiefs-las-vegas-raiders",
-      "matchup": "Kansas City Chiefs vs. Las Vegas Raiders",
-      "sport": "NFL",
-      "home": "Las Vegas Raiders",
-      "away": "Kansas City Chiefs",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/las-vegas-raiders-Ei4Qg76E/#WjOOpm43"
-    },
-    {
-      "gameId": "nfl-los-angeles-chargers-seattle-seahawks",
-      "matchup": "Los Angeles Chargers vs. Seattle Seahawks",
-      "sport": "NFL",
-      "home": "Seattle Seahawks",
-      "away": "Los Angeles Chargers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-chargers-K0iU7PXK/seattle-seahawks-f5h1oOee/#vHRWrRYF"
-    },
-    {
-      "gameId": "nfl-carolina-panthers-detroit-lions",
-      "matchup": "Carolina Panthers vs. Detroit Lions",
-      "sport": "NFL",
-      "home": "Detroit Lions",
-      "away": "Carolina Panthers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/detroit-lions-boZWV3E7/#tpGAyqRk"
-    },
-    {
-      "gameId": "nfl-atlanta-falcons-new-orleans-saints",
-      "matchup": "Atlanta Falcons vs. New Orleans Saints",
-      "sport": "NFL",
-      "home": "New Orleans Saints",
-      "away": "Atlanta Falcons",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/new-orleans-saints-lSi5prB1/#lAJIZMe2"
-    },
-    {
-      "gameId": "nfl-dallas-cowboys-tampa-bay-buccaneers",
-      "matchup": "Dallas Cowboys vs. Tampa Bay Buccaneers",
-      "sport": "NFL",
-      "home": "Tampa Bay Buccaneers",
-      "away": "Dallas Cowboys",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/tampa-bay-buccaneers-40on8pjK/#Iqb2sZE8"
     },
     {
       "gameId": "nfl-jacksonville-jaguars-philadelphia-eagles",
@@ -591,174 +399,6 @@
       "url": "https://www.oddsportal.com/american-football/h2h/jacksonville-jaguars-QwhQ85IE/philadelphia-eagles-dGgVhRLK/#jcdAuDqL"
     },
     {
-      "gameId": "nfl-cincinnati-bengals-miami-dolphins",
-      "matchup": "Cincinnati Bengals vs. Miami Dolphins",
-      "sport": "NFL",
-      "home": "Miami Dolphins",
-      "away": "Cincinnati Bengals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/miami-dolphins-WQivmqEf/#0Wstzi7r"
-    },
-    {
-      "gameId": "nfl-cleveland-browns-new-york-jets",
-      "matchup": "Cleveland Browns vs. New York Jets",
-      "sport": "NFL",
-      "home": "New York Jets",
-      "away": "Cleveland Browns",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/new-york-jets-Q9nr9QzE/#8GyrfCbE"
-    },
-    {
-      "gameId": "nfl-houston-texans-tennessee-titans",
-      "matchup": "Houston Texans vs. Tennessee Titans",
-      "sport": "NFL",
-      "home": "Tennessee Titans",
-      "away": "Houston Texans",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/tennessee-titans-nmgM9o38/#dfuLnUjl"
-    },
-    {
-      "gameId": "nfl-indianapolis-colts-pittsburgh-steelers",
-      "matchup": "Indianapolis Colts vs. Pittsburgh Steelers",
-      "sport": "NFL",
-      "home": "Pittsburgh Steelers",
-      "away": "Indianapolis Colts",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/pittsburgh-steelers-AXWJxS6R/#0OgkhjTQ"
-    },
-    {
-      "gameId": "nfl-las-vegas-raiders-new-england-patriots",
-      "matchup": "Las Vegas Raiders vs. New England Patriots",
-      "sport": "NFL",
-      "home": "New England Patriots",
-      "away": "Las Vegas Raiders",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/new-england-patriots-G6oNfmi8/#8dolYUye"
-    },
-    {
-      "gameId": "nfl-minnesota-vikings-new-orleans-saints",
-      "matchup": "Minnesota Vikings vs. New Orleans Saints",
-      "sport": "NFL",
-      "home": "New Orleans Saints",
-      "away": "Minnesota Vikings",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/new-orleans-saints-lSi5prB1/#tAqdW867"
-    },
-    {
-      "gameId": "nfl-new-york-giants-washington-commanders",
-      "matchup": "New York Giants vs. Washington Commanders",
-      "sport": "NFL",
-      "home": "Washington Commanders",
-      "away": "New York Giants",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/new-york-giants-lIrBvlxF/washington-commanders-pYobX5Ul/#4KrTp8L0"
-    },
-    {
-      "gameId": "nfl-denver-broncos-los-angeles-chargers",
-      "matchup": "Denver Broncos vs. Los Angeles Chargers",
-      "sport": "NFL",
-      "home": "Los Angeles Chargers",
-      "away": "Denver Broncos",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/los-angeles-chargers-K0iU7PXK/#CpnyqnjD"
-    },
-    {
-      "gameId": "nfl-arizona-cardinals-detroit-lions",
-      "matchup": "Arizona Cardinals vs. Detroit Lions",
-      "sport": "NFL",
-      "home": "Detroit Lions",
-      "away": "Arizona Cardinals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/detroit-lions-boZWV3E7/#2Dcnj3ct"
-    },
-    {
-      "gameId": "nfl-chicago-bears-green-bay-packers",
-      "matchup": "Chicago Bears vs. Green Bay Packers",
-      "sport": "NFL",
-      "home": "Green Bay Packers",
-      "away": "Chicago Bears",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/green-bay-packers-O6ksuA72/#lUeflsSh"
-    },
-    {
-      "gameId": "nfl-san-francisco-49ers-seattle-seahawks",
-      "matchup": "San Francisco 49Ers vs. Seattle Seahawks",
-      "sport": "NFL",
-      "home": "Seattle Seahawks",
-      "away": "San Francisco 49Ers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/seattle-seahawks-f5h1oOee/#dfa2nLd5"
-    },
-    {
-      "gameId": "nfl-atlanta-falcons-baltimore-ravens",
-      "matchup": "Atlanta Falcons vs. Baltimore Ravens",
-      "sport": "NFL",
-      "home": "Baltimore Ravens",
-      "away": "Atlanta Falcons",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/baltimore-ravens-pUern3T0/#U7cApaRH"
-    },
-    {
-      "gameId": "nfl-buffalo-bills-los-angeles-rams",
-      "matchup": "Buffalo Bills vs. Los Angeles Rams",
-      "sport": "NFL",
-      "home": "Los Angeles Rams",
-      "away": "Buffalo Bills",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/los-angeles-rams-z7hZioyR/#xY0IrwdU"
-    },
-    {
-      "gameId": "nfl-denver-broncos-seattle-seahawks",
-      "matchup": "Denver Broncos vs. Seattle Seahawks",
-      "sport": "NFL",
-      "home": "Seattle Seahawks",
-      "away": "Denver Broncos",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/seattle-seahawks-f5h1oOee/#QTuS2tsn"
-    },
-    {
       "gameId": "nfl-houston-texans-jacksonville-jaguars",
       "matchup": "Houston Texans vs. Jacksonville Jaguars",
       "sport": "NFL",
@@ -769,162 +409,6 @@
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/jacksonville-jaguars-QwhQ85IE/#bsvz1KBb"
-    },
-    {
-      "gameId": "nfl-atlanta-falcons-chicago-bears",
-      "matchup": "Atlanta Falcons vs. Chicago Bears",
-      "sport": "NFL",
-      "home": "Chicago Bears",
-      "away": "Atlanta Falcons",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/chicago-bears-2clovUM8/#67srabtB"
-    },
-    {
-      "gameId": "nfl-baltimore-ravens-cleveland-browns",
-      "matchup": "Baltimore Ravens vs. Cleveland Browns",
-      "sport": "NFL",
-      "home": "Cleveland Browns",
-      "away": "Baltimore Ravens",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cleveland-browns-KfzTWqa1/#EXpjcxBN"
-    },
-    {
-      "gameId": "nfl-carolina-panthers-philadelphia-eagles",
-      "matchup": "Carolina Panthers vs. Philadelphia Eagles",
-      "sport": "NFL",
-      "home": "Philadelphia Eagles",
-      "away": "Carolina Panthers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/philadelphia-eagles-dGgVhRLK/#rkzNByQG"
-    },
-    {
-      "gameId": "nfl-indianapolis-colts-tennessee-titans",
-      "matchup": "Indianapolis Colts vs. Tennessee Titans",
-      "sport": "NFL",
-      "home": "Tennessee Titans",
-      "away": "Indianapolis Colts",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/tennessee-titans-nmgM9o38/#A3WLiGYp"
-    },
-    {
-      "gameId": "nfl-new-england-patriots-new-york-jets",
-      "matchup": "New England Patriots vs. New York Jets",
-      "sport": "NFL",
-      "home": "New York Jets",
-      "away": "New England Patriots",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/new-england-patriots-G6oNfmi8/new-york-jets-Q9nr9QzE/#2BY6FJQi"
-    },
-    {
-      "gameId": "nfl-new-orleans-saints-new-york-giants",
-      "matchup": "New Orleans Saints vs. New York Giants",
-      "sport": "NFL",
-      "home": "New York Giants",
-      "away": "New Orleans Saints",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/new-orleans-saints-lSi5prB1/new-york-giants-lIrBvlxF/#AyxFDce4"
-    },
-    {
-      "gameId": "nfl-pittsburgh-steelers-tampa-bay-buccaneers",
-      "matchup": "Pittsburgh Steelers vs. Tampa Bay Buccaneers",
-      "sport": "NFL",
-      "home": "Tampa Bay Buccaneers",
-      "away": "Pittsburgh Steelers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/pittsburgh-steelers-AXWJxS6R/tampa-bay-buccaneers-40on8pjK/#jFwV9FfT"
-    },
-    {
-      "gameId": "nfl-arizona-cardinals-los-angeles-rams",
-      "matchup": "Arizona Cardinals vs. Los Angeles Rams",
-      "sport": "NFL",
-      "home": "Los Angeles Rams",
-      "away": "Arizona Cardinals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/los-angeles-rams-z7hZioyR/#KUT04gIj"
-    },
-    {
-      "gameId": "nfl-buffalo-bills-las-vegas-raiders",
-      "matchup": "Buffalo Bills vs. Las Vegas Raiders",
-      "sport": "NFL",
-      "home": "Las Vegas Raiders",
-      "away": "Buffalo Bills",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/las-vegas-raiders-Ei4Qg76E/#KlKfQzuA"
-    },
-    {
-      "gameId": "nfl-kansas-city-chiefs-los-angeles-chargers",
-      "matchup": "Kansas City Chiefs vs. Los Angeles Chargers",
-      "sport": "NFL",
-      "home": "Los Angeles Chargers",
-      "away": "Kansas City Chiefs",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/los-angeles-chargers-K0iU7PXK/#COGnSdAc"
-    },
-    {
-      "gameId": "nfl-dallas-cowboys-green-bay-packers",
-      "matchup": "Dallas Cowboys vs. Green Bay Packers",
-      "sport": "NFL",
-      "home": "Green Bay Packers",
-      "away": "Dallas Cowboys",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/green-bay-packers-O6ksuA72/#SEN2OE9M"
-    },
-    {
-      "gameId": "nfl-san-francisco-49ers-washington-commanders",
-      "matchup": "San Francisco 49Ers vs. Washington Commanders",
-      "sport": "NFL",
-      "home": "Washington Commanders",
-      "away": "San Francisco 49Ers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/washington-commanders-pYobX5Ul/#Op9YIhXq"
-    },
-    {
-      "gameId": "nfl-chicago-bears-new-england-patriots",
-      "matchup": "Chicago Bears vs. New England Patriots",
-      "sport": "NFL",
-      "home": "New England Patriots",
-      "away": "Chicago Bears",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-england-patriots-G6oNfmi8/#A17tHW1d"
     },
     {
       "gameId": "nfl-new-orleans-saints-pittsburgh-steelers",
@@ -939,37 +423,13 @@
       "url": "https://www.oddsportal.com/american-football/h2h/new-orleans-saints-lSi5prB1/pittsburgh-steelers-AXWJxS6R/#x8aSvzf3"
     },
     {
-      "gameId": "nfl-atlanta-falcons-san-francisco-49ers",
-      "matchup": "Atlanta Falcons vs. San Francisco 49Ers",
-      "sport": "NFL",
-      "home": "San Francisco 49Ers",
-      "away": "Atlanta Falcons",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/san-francisco-49ers-jBnfYoFr/#ALczwEOF"
-    },
-    {
-      "gameId": "nfl-baltimore-ravens-cincinnati-bengals",
-      "matchup": "Baltimore Ravens vs. Cincinnati Bengals",
-      "sport": "NFL",
-      "home": "Cincinnati Bengals",
-      "away": "Baltimore Ravens",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cincinnati-bengals-bwahmpRr/#GKP7K58l"
-    },
-    {
       "gameId": "nfl-atlanta-falcons-cincinnati-bengals",
       "matchup": "Atlanta Falcons vs. Cincinnati Bengals",
       "sport": "NFL",
       "home": "Cincinnati Bengals",
       "away": "Atlanta Falcons",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/cincinnati-bengals-bwahmpRr/#KhYcmGak"
@@ -981,7 +441,7 @@
       "home": "New England Patriots",
       "away": "Detroit Lions",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/detroit-lions-boZWV3E7/new-england-patriots-G6oNfmi8/#jDdbP9C6"
@@ -993,7 +453,7 @@
       "home": "San Francisco 49Ers",
       "away": "Minnesota Vikings",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/san-francisco-49ers-jBnfYoFr/#nehxa7af"
@@ -1005,7 +465,7 @@
       "home": "Los Angeles Rams",
       "away": "Green Bay Packers",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/los-angeles-rams-z7hZioyR/#2oahePbJ"
@@ -1017,7 +477,7 @@
       "home": "Detroit Lions",
       "away": "Chicago Bears",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/detroit-lions-boZWV3E7/#d8Yy3yIP"
@@ -1029,7 +489,7 @@
       "home": "Philadelphia Eagles",
       "away": "Dallas Cowboys",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/philadelphia-eagles-dGgVhRLK/#hhZ6cFum"
@@ -1041,7 +501,7 @@
       "home": "Kansas City Chiefs",
       "away": "Buffalo Bills",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/kansas-city-chiefs-vienoNr7/#0IxFegAa"
@@ -1053,7 +513,7 @@
       "home": "Pittsburgh Steelers",
       "away": "Denver Broncos",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/pittsburgh-steelers-AXWJxS6R/#YVzNgXvC"
@@ -1065,10 +525,22 @@
       "home": "Philadelphia Eagles",
       "away": "Houston Texans",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/philadelphia-eagles-dGgVhRLK/#rFsPsn3E"
+    },
+    {
+      "gameId": "nfl-chicago-bears-green-bay-packers",
+      "matchup": "Chicago Bears vs. Green Bay Packers",
+      "sport": "NFL",
+      "home": "Green Bay Packers",
+      "away": "Chicago Bears",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/green-bay-packers-O6ksuA72/#lE9dPwmm"
     },
     {
       "gameId": "nfl-buffalo-bills-denver-broncos",
@@ -1077,7 +549,7 @@
       "home": "Denver Broncos",
       "away": "Buffalo Bills",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/denver-broncos-l22ZmPbl/#dvD4NHHa"
@@ -1089,10 +561,670 @@
       "home": "Seattle Seahawks",
       "away": "Los Angeles Rams",
       "source": "oddsportal",
-      "held_line": true,
+      "held_line": false,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/seattle-seahawks-f5h1oOee/#UiBCLenC"
+    },
+    {
+      "gameId": "nfl-cleveland-browns-pittsburgh-steelers",
+      "matchup": "Cleveland Browns vs. Pittsburgh Steelers",
+      "sport": "NFL",
+      "home": "Pittsburgh Steelers",
+      "away": "Cleveland Browns",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/pittsburgh-steelers-AXWJxS6R/#KGWhEFTO"
+    },
+    {
+      "gameId": "nfl-arizona-cardinals-new-york-giants",
+      "matchup": "Arizona Cardinals vs. New York Giants",
+      "sport": "NFL",
+      "home": "New York Giants",
+      "away": "Arizona Cardinals",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/new-york-giants-lIrBvlxF/#2ZYiWmkA"
+    },
+    {
+      "gameId": "nfl-baltimore-ravens-tennessee-titans",
+      "matchup": "Baltimore Ravens vs. Tennessee Titans",
+      "sport": "NFL",
+      "home": "Tennessee Titans",
+      "away": "Baltimore Ravens",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/tennessee-titans-nmgM9o38/#rgAAWdqg"
+    },
+    {
+      "gameId": "nfl-buffalo-bills-new-england-patriots",
+      "matchup": "Buffalo Bills vs. New England Patriots",
+      "sport": "NFL",
+      "home": "New England Patriots",
+      "away": "Buffalo Bills",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/new-england-patriots-G6oNfmi8/#jJDIUzE5"
+    },
+    {
+      "gameId": "nfl-chicago-bears-new-york-jets",
+      "matchup": "Chicago Bears vs. New York Jets",
+      "sport": "NFL",
+      "home": "New York Jets",
+      "away": "Chicago Bears",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-york-jets-Q9nr9QzE/#dGGQSErI"
+    },
+    {
+      "gameId": "nfl-cincinnati-bengals-jacksonville-jaguars",
+      "matchup": "Cincinnati Bengals vs. Jacksonville Jaguars",
+      "sport": "NFL",
+      "home": "Jacksonville Jaguars",
+      "away": "Cincinnati Bengals",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/jacksonville-jaguars-QwhQ85IE/#S2wbA6Sj"
+    },
+    {
+      "gameId": "nfl-dallas-cowboys-houston-texans",
+      "matchup": "Dallas Cowboys vs. Houston Texans",
+      "sport": "NFL",
+      "home": "Houston Texans",
+      "away": "Dallas Cowboys",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/houston-texans-SIj9q2Q7/#f9VqY9Kc"
+    },
+    {
+      "gameId": "nfl-green-bay-packers-tampa-bay-buccaneers",
+      "matchup": "Green Bay Packers vs. Tampa Bay Buccaneers",
+      "sport": "NFL",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Green Bay Packers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/tampa-bay-buccaneers-40on8pjK/#WWXUO5sp"
+    },
+    {
+      "gameId": "nfl-los-angeles-rams-philadelphia-eagles",
+      "matchup": "Los Angeles Rams vs. Philadelphia Eagles",
+      "sport": "NFL",
+      "home": "Philadelphia Eagles",
+      "away": "Los Angeles Rams",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/philadelphia-eagles-dGgVhRLK/#zmXaURJM"
+    },
+    {
+      "gameId": "nfl-miami-dolphins-minnesota-vikings",
+      "matchup": "Miami Dolphins vs. Minnesota Vikings",
+      "sport": "NFL",
+      "home": "Minnesota Vikings",
+      "away": "Miami Dolphins",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/miami-dolphins-WQivmqEf/minnesota-vikings-IsfjpsbD/#vcywNqCd"
+    },
+    {
+      "gameId": "nfl-denver-broncos-san-francisco-49ers",
+      "matchup": "Denver Broncos vs. San Francisco 49Ers",
+      "sport": "NFL",
+      "home": "San Francisco 49Ers",
+      "away": "Denver Broncos",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/san-francisco-49ers-jBnfYoFr/#pEUvs53S"
+    },
+    {
+      "gameId": "nfl-kansas-city-chiefs-las-vegas-raiders",
+      "matchup": "Kansas City Chiefs vs. Las Vegas Raiders",
+      "sport": "NFL",
+      "home": "Las Vegas Raiders",
+      "away": "Kansas City Chiefs",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/las-vegas-raiders-Ei4Qg76E/#WjOOpm43"
+    },
+    {
+      "gameId": "nfl-los-angeles-chargers-seattle-seahawks",
+      "matchup": "Los Angeles Chargers vs. Seattle Seahawks",
+      "sport": "NFL",
+      "home": "Seattle Seahawks",
+      "away": "Los Angeles Chargers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-chargers-K0iU7PXK/seattle-seahawks-f5h1oOee/#vHRWrRYF"
+    },
+    {
+      "gameId": "nfl-carolina-panthers-detroit-lions",
+      "matchup": "Carolina Panthers vs. Detroit Lions",
+      "sport": "NFL",
+      "home": "Detroit Lions",
+      "away": "Carolina Panthers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/detroit-lions-boZWV3E7/#tpGAyqRk"
+    },
+    {
+      "gameId": "nfl-atlanta-falcons-new-orleans-saints",
+      "matchup": "Atlanta Falcons vs. New Orleans Saints",
+      "sport": "NFL",
+      "home": "New Orleans Saints",
+      "away": "Atlanta Falcons",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/new-orleans-saints-lSi5prB1/#lAJIZMe2"
+    },
+    {
+      "gameId": "nfl-dallas-cowboys-tampa-bay-buccaneers",
+      "matchup": "Dallas Cowboys vs. Tampa Bay Buccaneers",
+      "sport": "NFL",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Dallas Cowboys",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/tampa-bay-buccaneers-40on8pjK/#Iqb2sZE8"
+    },
+    {
+      "gameId": "nfl-cincinnati-bengals-miami-dolphins",
+      "matchup": "Cincinnati Bengals vs. Miami Dolphins",
+      "sport": "NFL",
+      "home": "Miami Dolphins",
+      "away": "Cincinnati Bengals",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/miami-dolphins-WQivmqEf/#0Wstzi7r"
+    },
+    {
+      "gameId": "nfl-cleveland-browns-new-york-jets",
+      "matchup": "Cleveland Browns vs. New York Jets",
+      "sport": "NFL",
+      "home": "New York Jets",
+      "away": "Cleveland Browns",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/new-york-jets-Q9nr9QzE/#8GyrfCbE"
+    },
+    {
+      "gameId": "nfl-houston-texans-tennessee-titans",
+      "matchup": "Houston Texans vs. Tennessee Titans",
+      "sport": "NFL",
+      "home": "Tennessee Titans",
+      "away": "Houston Texans",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/tennessee-titans-nmgM9o38/#dfuLnUjl"
+    },
+    {
+      "gameId": "nfl-indianapolis-colts-pittsburgh-steelers",
+      "matchup": "Indianapolis Colts vs. Pittsburgh Steelers",
+      "sport": "NFL",
+      "home": "Pittsburgh Steelers",
+      "away": "Indianapolis Colts",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/pittsburgh-steelers-AXWJxS6R/#0OgkhjTQ"
+    },
+    {
+      "gameId": "nfl-las-vegas-raiders-new-england-patriots",
+      "matchup": "Las Vegas Raiders vs. New England Patriots",
+      "sport": "NFL",
+      "home": "New England Patriots",
+      "away": "Las Vegas Raiders",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/new-england-patriots-G6oNfmi8/#8dolYUye"
+    },
+    {
+      "gameId": "nfl-minnesota-vikings-new-orleans-saints",
+      "matchup": "Minnesota Vikings vs. New Orleans Saints",
+      "sport": "NFL",
+      "home": "New Orleans Saints",
+      "away": "Minnesota Vikings",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/new-orleans-saints-lSi5prB1/#tAqdW867"
+    },
+    {
+      "gameId": "nfl-new-york-giants-washington-commanders",
+      "matchup": "New York Giants vs. Washington Commanders",
+      "sport": "NFL",
+      "home": "Washington Commanders",
+      "away": "New York Giants",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/new-york-giants-lIrBvlxF/washington-commanders-pYobX5Ul/#4KrTp8L0"
+    },
+    {
+      "gameId": "nfl-denver-broncos-los-angeles-chargers",
+      "matchup": "Denver Broncos vs. Los Angeles Chargers",
+      "sport": "NFL",
+      "home": "Los Angeles Chargers",
+      "away": "Denver Broncos",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/los-angeles-chargers-K0iU7PXK/#CpnyqnjD"
+    },
+    {
+      "gameId": "nfl-arizona-cardinals-detroit-lions",
+      "matchup": "Arizona Cardinals vs. Detroit Lions",
+      "sport": "NFL",
+      "home": "Detroit Lions",
+      "away": "Arizona Cardinals",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/detroit-lions-boZWV3E7/#2Dcnj3ct"
+    },
+    {
+      "gameId": "nfl-san-francisco-49ers-seattle-seahawks",
+      "matchup": "San Francisco 49Ers vs. Seattle Seahawks",
+      "sport": "NFL",
+      "home": "Seattle Seahawks",
+      "away": "San Francisco 49Ers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/seattle-seahawks-f5h1oOee/#dfa2nLd5"
+    },
+    {
+      "gameId": "nfl-atlanta-falcons-baltimore-ravens",
+      "matchup": "Atlanta Falcons vs. Baltimore Ravens",
+      "sport": "NFL",
+      "home": "Baltimore Ravens",
+      "away": "Atlanta Falcons",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/baltimore-ravens-pUern3T0/#U7cApaRH"
+    },
+    {
+      "gameId": "nfl-buffalo-bills-los-angeles-rams",
+      "matchup": "Buffalo Bills vs. Los Angeles Rams",
+      "sport": "NFL",
+      "home": "Los Angeles Rams",
+      "away": "Buffalo Bills",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/los-angeles-rams-z7hZioyR/#xY0IrwdU"
+    },
+    {
+      "gameId": "nfl-denver-broncos-seattle-seahawks",
+      "matchup": "Denver Broncos vs. Seattle Seahawks",
+      "sport": "NFL",
+      "home": "Seattle Seahawks",
+      "away": "Denver Broncos",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/seattle-seahawks-f5h1oOee/#QTuS2tsn"
+    },
+    {
+      "gameId": "nfl-atlanta-falcons-chicago-bears",
+      "matchup": "Atlanta Falcons vs. Chicago Bears",
+      "sport": "NFL",
+      "home": "Chicago Bears",
+      "away": "Atlanta Falcons",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/chicago-bears-2clovUM8/#67srabtB"
+    },
+    {
+      "gameId": "nfl-baltimore-ravens-cleveland-browns",
+      "matchup": "Baltimore Ravens vs. Cleveland Browns",
+      "sport": "NFL",
+      "home": "Cleveland Browns",
+      "away": "Baltimore Ravens",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cleveland-browns-KfzTWqa1/#EXpjcxBN"
+    },
+    {
+      "gameId": "nfl-carolina-panthers-philadelphia-eagles",
+      "matchup": "Carolina Panthers vs. Philadelphia Eagles",
+      "sport": "NFL",
+      "home": "Philadelphia Eagles",
+      "away": "Carolina Panthers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/philadelphia-eagles-dGgVhRLK/#rkzNByQG"
+    },
+    {
+      "gameId": "nfl-indianapolis-colts-tennessee-titans",
+      "matchup": "Indianapolis Colts vs. Tennessee Titans",
+      "sport": "NFL",
+      "home": "Tennessee Titans",
+      "away": "Indianapolis Colts",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/tennessee-titans-nmgM9o38/#A3WLiGYp"
+    },
+    {
+      "gameId": "nfl-new-england-patriots-new-york-jets",
+      "matchup": "New England Patriots vs. New York Jets",
+      "sport": "NFL",
+      "home": "New York Jets",
+      "away": "New England Patriots",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/new-england-patriots-G6oNfmi8/new-york-jets-Q9nr9QzE/#2BY6FJQi"
+    },
+    {
+      "gameId": "nfl-new-orleans-saints-new-york-giants",
+      "matchup": "New Orleans Saints vs. New York Giants",
+      "sport": "NFL",
+      "home": "New York Giants",
+      "away": "New Orleans Saints",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/new-orleans-saints-lSi5prB1/new-york-giants-lIrBvlxF/#AyxFDce4"
+    },
+    {
+      "gameId": "nfl-pittsburgh-steelers-tampa-bay-buccaneers",
+      "matchup": "Pittsburgh Steelers vs. Tampa Bay Buccaneers",
+      "sport": "NFL",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Pittsburgh Steelers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/pittsburgh-steelers-AXWJxS6R/tampa-bay-buccaneers-40on8pjK/#jFwV9FfT"
+    },
+    {
+      "gameId": "nfl-arizona-cardinals-los-angeles-rams",
+      "matchup": "Arizona Cardinals vs. Los Angeles Rams",
+      "sport": "NFL",
+      "home": "Los Angeles Rams",
+      "away": "Arizona Cardinals",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/los-angeles-rams-z7hZioyR/#KUT04gIj"
+    },
+    {
+      "gameId": "nfl-buffalo-bills-las-vegas-raiders",
+      "matchup": "Buffalo Bills vs. Las Vegas Raiders",
+      "sport": "NFL",
+      "home": "Las Vegas Raiders",
+      "away": "Buffalo Bills",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/las-vegas-raiders-Ei4Qg76E/#KlKfQzuA"
+    },
+    {
+      "gameId": "nfl-kansas-city-chiefs-los-angeles-chargers",
+      "matchup": "Kansas City Chiefs vs. Los Angeles Chargers",
+      "sport": "NFL",
+      "home": "Los Angeles Chargers",
+      "away": "Kansas City Chiefs",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/los-angeles-chargers-K0iU7PXK/#COGnSdAc"
+    },
+    {
+      "gameId": "nfl-dallas-cowboys-green-bay-packers",
+      "matchup": "Dallas Cowboys vs. Green Bay Packers",
+      "sport": "NFL",
+      "home": "Green Bay Packers",
+      "away": "Dallas Cowboys",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/green-bay-packers-O6ksuA72/#SEN2OE9M"
+    },
+    {
+      "gameId": "nfl-san-francisco-49ers-washington-commanders",
+      "matchup": "San Francisco 49Ers vs. Washington Commanders",
+      "sport": "NFL",
+      "home": "Washington Commanders",
+      "away": "San Francisco 49Ers",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/washington-commanders-pYobX5Ul/#Op9YIhXq"
+    },
+    {
+      "gameId": "nfl-chicago-bears-new-england-patriots",
+      "matchup": "Chicago Bears vs. New England Patriots",
+      "sport": "NFL",
+      "home": "New England Patriots",
+      "away": "Chicago Bears",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-england-patriots-G6oNfmi8/#A17tHW1d"
+    },
+    {
+      "gameId": "nfl-atlanta-falcons-san-francisco-49ers",
+      "matchup": "Atlanta Falcons vs. San Francisco 49Ers",
+      "sport": "NFL",
+      "home": "San Francisco 49Ers",
+      "away": "Atlanta Falcons",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/san-francisco-49ers-jBnfYoFr/#ALczwEOF"
+    },
+    {
+      "gameId": "nfl-baltimore-ravens-cincinnati-bengals",
+      "matchup": "Baltimore Ravens vs. Cincinnati Bengals",
+      "sport": "NFL",
+      "home": "Cincinnati Bengals",
+      "away": "Baltimore Ravens",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cincinnati-bengals-bwahmpRr/#GKP7K58l"
+    },
+    {
+      "gameId": "ncaaf-arkansas-state-tcu",
+      "matchup": "Arkansas State vs. Tcu",
+      "sport": "NCAAF",
+      "home": "Tcu",
+      "away": "Arkansas State",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/arkansas-state-WAqY8bdl/tcu-IRT8CHih/#MHCDZ1ZQ"
+    },
+    {
+      "gameId": "ncaaf-east-texas-a-m-tulsa",
+      "matchup": "East Texas A M vs. Tulsa",
+      "sport": "NCAAF",
+      "home": "Tulsa",
+      "away": "East Texas A M",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/east-texas-a-m-W8X5d8uP/tulsa-zoVpTzMi/#8n8TNJh5"
+    },
+    {
+      "gameId": "ncaaf-louisiana-lafayette-uab",
+      "matchup": "Louisiana Lafayette vs. Uab",
+      "sport": "NCAAF",
+      "home": "Uab",
+      "away": "Louisiana Lafayette",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/louisiana-lafayette-00I3tqFM/uab-U7UlSfyb/#t06yMcNH"
+    },
+    {
+      "gameId": "ncaaf-texas-utsa",
+      "matchup": "Texas vs. Utsa",
+      "sport": "NCAAF",
+      "home": "Utsa",
+      "away": "Texas",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/texas-nekkBFyB/utsa-rqihXvNg/#060iNXq4"
+    },
+    {
+      "gameId": "ncaaf-boise-state-south-dakota-coyotes",
+      "matchup": "Boise State vs. South Dakota Coyotes",
+      "sport": "NCAAF",
+      "home": "South Dakota Coyotes",
+      "away": "Boise State",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/boise-state-G020VaYD/south-dakota-coyotes-jDPzM2y3/#tMNqBLi2"
+    },
+    {
+      "gameId": "ncaaf-james-madison-san-diego-state",
+      "matchup": "James Madison vs. San Diego State",
+      "sport": "NCAAF",
+      "home": "San Diego State",
+      "away": "James Madison",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/james-madison-pSKBbLEq/san-diego-state-CUAB9bNh/#ttEwX2EL"
+    },
+    {
+      "gameId": "ncaaf-arizona-northern-illinois",
+      "matchup": "Arizona vs. Northern Illinois",
+      "sport": "NCAAF",
+      "home": "Northern Illinois",
+      "away": "Arizona",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/arizona-jNpTD0JK/northern-illinois-Q37biVdJ/#ITBQOpL8"
+    },
+    {
+      "gameId": "ncaaf-cs-sacramento-north-dakota-state",
+      "matchup": "Cs Sacramento vs. North Dakota State",
+      "sport": "NCAAF",
+      "home": "North Dakota State",
+      "away": "Cs Sacramento",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/cs-sacramento-SSrsZBKH/north-dakota-state-fT7coUnQ/#xY0Z0BCN"
+    },
+    {
+      "gameId": "ncaaf-fresno-state-san-jose-state",
+      "matchup": "Fresno State vs. San Jose State",
+      "sport": "NCAAF",
+      "home": "San Jose State",
+      "away": "Fresno State",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/fresno-state-xUD5sUGo/san-jose-state-fg0G8Ixa/#CO49Rtxq"
+    },
+    {
+      "gameId": "ncaaf-montana-grizzlies-oregon-state",
+      "matchup": "Montana Grizzlies vs. Oregon State",
+      "sport": "NCAAF",
+      "home": "Oregon State",
+      "away": "Montana Grizzlies",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/montana-grizzlies-06i485xi/oregon-state-ADYI7UBC/#8SFVYOq9"
+    },
+    {
+      "gameId": "ncaaf-purdue-ucla",
+      "matchup": "Purdue vs. Ucla",
+      "sport": "NCAAF",
+      "home": "Ucla",
+      "away": "Purdue",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/purdue-O0QFE0pP/ucla-rBYhREj4/#rqXkMo03"
     },
     {
       "gameId": "ncaaf-coastal-carolina-liberty-flames",
@@ -1929,7 +2061,7 @@
       "home": "Kansas State",
       "away": "Kansas",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/kansas-ju4zo70i/kansas-state-UV2vpRFc/#UTIoeYCO"
@@ -1941,7 +2073,7 @@
       "home": "Penn State",
       "away": "Michigan",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/michigan-fyJPd2qM/penn-state-4zYM6lRI/#xE0BGuu2"
@@ -1953,7 +2085,7 @@
       "home": "Oregon",
       "away": "Nebraska",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/nebraska-tKuyD1bF/oregon-WMZE8Ad6/#xYj5xN1L"
@@ -1965,7 +2097,7 @@
       "home": "Virginia",
       "away": "Duke",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/duke-QysBRlHb/virginia-SfdC6OZ1/#08L3feN6"
@@ -1977,7 +2109,7 @@
       "home": "Texas A M",
       "away": "Alabama",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/texas-a-m-UJvfAZjH/#WA2TAG7m"
@@ -1989,7 +2121,7 @@
       "home": "Utah",
       "away": "Houston",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/houston-d4aWSoGA/utah-8roAPhLG/#My3u9Fgc"
@@ -2001,7 +2133,7 @@
       "home": "Michigan",
       "away": "Indiana",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/indiana-zuGiQq0T/michigan-fyJPd2qM/#MZw0YVM8"
@@ -2013,7 +2145,7 @@
       "home": "Texas",
       "away": "Ole Miss",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/ole-miss-4bMYjKyd/texas-nekkBFyB/#GhyAA7D4"
@@ -2025,7 +2157,7 @@
       "home": "Georgia",
       "away": "Florida Gators",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/florida-gators-rwRINn1H/georgia-jXH9tlWi/#INQmlZIN"
@@ -2037,7 +2169,7 @@
       "home": "Florida State",
       "away": "Clemson",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/clemson-dUIMKguJ/florida-state-K81FIpvo/#xOLRIpOE"
@@ -2049,7 +2181,7 @@
       "home": "Usc Trojans",
       "away": "Ohio State",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/ohio-state-bLNX9CCm/usc-trojans-0tbHXbql/#AitWI5uC"
@@ -2367,138 +2499,6 @@
       "url": "https://www.oddsportal.com/american-football/h2h/kennesaw-state-b10GXshJ/tennessee-4nSxCeM4/#htcqPgFi"
     },
     {
-      "gameId": "ncaaf-arkansas-state-tcu",
-      "matchup": "Arkansas State vs. Tcu",
-      "sport": "NCAAF",
-      "home": "Tcu",
-      "away": "Arkansas State",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/arkansas-state-WAqY8bdl/tcu-IRT8CHih/#MHCDZ1ZQ"
-    },
-    {
-      "gameId": "ncaaf-east-texas-a-m-tulsa",
-      "matchup": "East Texas A M vs. Tulsa",
-      "sport": "NCAAF",
-      "home": "Tulsa",
-      "away": "East Texas A M",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/east-texas-a-m-W8X5d8uP/tulsa-zoVpTzMi/#8n8TNJh5"
-    },
-    {
-      "gameId": "ncaaf-louisiana-lafayette-uab",
-      "matchup": "Louisiana Lafayette vs. Uab",
-      "sport": "NCAAF",
-      "home": "Uab",
-      "away": "Louisiana Lafayette",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/louisiana-lafayette-00I3tqFM/uab-U7UlSfyb/#t06yMcNH"
-    },
-    {
-      "gameId": "ncaaf-texas-utsa",
-      "matchup": "Texas vs. Utsa",
-      "sport": "NCAAF",
-      "home": "Utsa",
-      "away": "Texas",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/texas-nekkBFyB/utsa-rqihXvNg/#060iNXq4"
-    },
-    {
-      "gameId": "ncaaf-boise-state-south-dakota-coyotes",
-      "matchup": "Boise State vs. South Dakota Coyotes",
-      "sport": "NCAAF",
-      "home": "South Dakota Coyotes",
-      "away": "Boise State",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/boise-state-G020VaYD/south-dakota-coyotes-jDPzM2y3/#tMNqBLi2"
-    },
-    {
-      "gameId": "ncaaf-james-madison-san-diego-state",
-      "matchup": "James Madison vs. San Diego State",
-      "sport": "NCAAF",
-      "home": "San Diego State",
-      "away": "James Madison",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/james-madison-pSKBbLEq/san-diego-state-CUAB9bNh/#ttEwX2EL"
-    },
-    {
-      "gameId": "ncaaf-arizona-northern-illinois",
-      "matchup": "Arizona vs. Northern Illinois",
-      "sport": "NCAAF",
-      "home": "Northern Illinois",
-      "away": "Arizona",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/arizona-jNpTD0JK/northern-illinois-Q37biVdJ/#ITBQOpL8"
-    },
-    {
-      "gameId": "ncaaf-cs-sacramento-north-dakota-state",
-      "matchup": "Cs Sacramento vs. North Dakota State",
-      "sport": "NCAAF",
-      "home": "North Dakota State",
-      "away": "Cs Sacramento",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/cs-sacramento-SSrsZBKH/north-dakota-state-fT7coUnQ/#xY0Z0BCN"
-    },
-    {
-      "gameId": "ncaaf-fresno-state-san-jose-state",
-      "matchup": "Fresno State vs. San Jose State",
-      "sport": "NCAAF",
-      "home": "San Jose State",
-      "away": "Fresno State",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/fresno-state-xUD5sUGo/san-jose-state-fg0G8Ixa/#CO49Rtxq"
-    },
-    {
-      "gameId": "ncaaf-montana-grizzlies-oregon-state",
-      "matchup": "Montana Grizzlies vs. Oregon State",
-      "sport": "NCAAF",
-      "home": "Oregon State",
-      "away": "Montana Grizzlies",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/montana-grizzlies-06i485xi/oregon-state-ADYI7UBC/#8SFVYOq9"
-    },
-    {
-      "gameId": "ncaaf-purdue-ucla",
-      "matchup": "Purdue vs. Ucla",
-      "sport": "NCAAF",
-      "home": "Ucla",
-      "away": "Purdue",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/purdue-O0QFE0pP/ucla-rBYhREj4/#rqXkMo03"
-    },
-    {
       "gameId": "ncaaf-alabama-lsu",
       "matchup": "Alabama vs. Lsu",
       "sport": "NCAAF",
@@ -2583,6 +2583,126 @@
       "url": "https://www.oddsportal.com/american-football/h2h/duke-QysBRlHb/miami-fl-MNKHbOE9/#xbEDix0d"
     },
     {
+      "gameId": "mlb-chicago-white-sox-detroit-tigers",
+      "matchup": "Chicago White Sox vs. Detroit Tigers",
+      "sport": "MLB",
+      "home": "Detroit Tigers",
+      "away": "Chicago White Sox",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/detroit-tigers-0QIlt8pi/#fqJA6Ar1"
+    },
+    {
+      "gameId": "mlb-baltimore-orioles-milwaukee-brewers",
+      "matchup": "Baltimore Orioles vs. Milwaukee Brewers",
+      "sport": "MLB",
+      "home": "Milwaukee Brewers",
+      "away": "Baltimore Orioles",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/baltimore-orioles-EcZwBi3N/milwaukee-brewers-CGzqC60o/#nLfMS0a3"
+    },
+    {
+      "gameId": "mlb-boston-red-sox-tampa-bay-rays",
+      "matchup": "Boston Red Sox vs. Tampa Bay Rays",
+      "sport": "MLB",
+      "home": "Tampa Bay Rays",
+      "away": "Boston Red Sox",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/tampa-bay-rays-GCHgI4hp/#0CnZ6Jxp"
+    },
+    {
+      "gameId": "mlb-new-york-mets-philadelphia-phillies",
+      "matchup": "New York Mets vs. Philadelphia Phillies",
+      "sport": "MLB",
+      "home": "Philadelphia Phillies",
+      "away": "New York Mets",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/new-york-mets-I5wWW4UM/philadelphia-phillies-QTNHA4p4/#KE2z5c7d"
+    },
+    {
+      "gameId": "mlb-athletics-cleveland-guardians",
+      "matchup": "Athletics vs. Cleveland Guardians",
+      "sport": "MLB",
+      "home": "Cleveland Guardians",
+      "away": "Athletics",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/cleveland-guardians-4K05MrFG/#8E7fE1pA"
+    },
+    {
+      "gameId": "mlb-chicago-cubs-cincinnati-reds",
+      "matchup": "Chicago Cubs vs. Cincinnati Reds",
+      "sport": "MLB",
+      "home": "Cincinnati Reds",
+      "away": "Chicago Cubs",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/chicago-cubs-j7ZnBQFi/cincinnati-reds-EkWXj6U9/#0l4nGNFc"
+    },
+    {
+      "gameId": "mlb-kansas-city-royals-pittsburgh-pirates",
+      "matchup": "Kansas City Royals vs. Pittsburgh Pirates",
+      "sport": "MLB",
+      "home": "Pittsburgh Pirates",
+      "away": "Kansas City Royals",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/kansas-city-royals-IL2QbgJ4/pittsburgh-pirates-tr9K2SqG/#4t13CuFM"
+    },
+    {
+      "gameId": "mlb-texas-rangers-toronto-blue-jays",
+      "matchup": "Texas Rangers vs. Toronto Blue Jays",
+      "sport": "MLB",
+      "home": "Toronto Blue Jays",
+      "away": "Texas Rangers",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/texas-rangers-f3GcHO7j/toronto-blue-jays-zcDLaZ3b/#0Or7Rako"
+    },
+    {
+      "gameId": "mlb-atlanta-braves-houston-astros",
+      "matchup": "Atlanta Braves vs. Houston Astros",
+      "sport": "MLB",
+      "home": "Houston Astros",
+      "away": "Atlanta Braves",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/houston-astros-lfZXonNq/#EZA28WDl"
+    },
+    {
+      "gameId": "mlb-st-louis-cardinals-washington-nationals",
+      "matchup": "St Louis Cardinals vs. Washington Nationals",
+      "sport": "MLB",
+      "home": "Washington Nationals",
+      "away": "St Louis Cardinals",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/st-louis-cardinals-IDVz16ES/washington-nationals-CE026gRp/#8zqVQvUF"
+    },
+    {
       "gameId": "mlb-arizona-diamondbacks-new-york-yankees",
       "matchup": "Arizona Diamondbacks vs. New York Yankees",
       "sport": "MLB",
@@ -2643,126 +2763,6 @@
       "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-angels-Mg9H0Flh/minnesota-twins-OjWW1naM/#EmjyNVSs"
     },
     {
-      "gameId": "mlb-new-york-mets-philadelphia-phillies",
-      "matchup": "New York Mets vs. Philadelphia Phillies",
-      "sport": "MLB",
-      "home": "Philadelphia Phillies",
-      "away": "New York Mets",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/new-york-mets-I5wWW4UM/philadelphia-phillies-QTNHA4p4/#dxizWQBC"
-    },
-    {
-      "gameId": "mlb-kansas-city-royals-pittsburgh-pirates",
-      "matchup": "Kansas City Royals vs. Pittsburgh Pirates",
-      "sport": "MLB",
-      "home": "Pittsburgh Pirates",
-      "away": "Kansas City Royals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/kansas-city-royals-IL2QbgJ4/pittsburgh-pirates-tr9K2SqG/#UPaJZ8Cm"
-    },
-    {
-      "gameId": "mlb-athletics-cleveland-guardians",
-      "matchup": "Athletics vs. Cleveland Guardians",
-      "sport": "MLB",
-      "home": "Cleveland Guardians",
-      "away": "Athletics",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/cleveland-guardians-4K05MrFG/#AuJnuVlQ"
-    },
-    {
-      "gameId": "mlb-boston-red-sox-tampa-bay-rays",
-      "matchup": "Boston Red Sox vs. Tampa Bay Rays",
-      "sport": "MLB",
-      "home": "Tampa Bay Rays",
-      "away": "Boston Red Sox",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/tampa-bay-rays-GCHgI4hp/#zN2RXns0"
-    },
-    {
-      "gameId": "mlb-chicago-cubs-cincinnati-reds",
-      "matchup": "Chicago Cubs vs. Cincinnati Reds",
-      "sport": "MLB",
-      "home": "Cincinnati Reds",
-      "away": "Chicago Cubs",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/chicago-cubs-j7ZnBQFi/cincinnati-reds-EkWXj6U9/#IoW0HRdJ"
-    },
-    {
-      "gameId": "mlb-atlanta-braves-houston-astros",
-      "matchup": "Atlanta Braves vs. Houston Astros",
-      "sport": "MLB",
-      "home": "Houston Astros",
-      "away": "Atlanta Braves",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/houston-astros-lfZXonNq/#I9AbWfNh"
-    },
-    {
-      "gameId": "mlb-chicago-white-sox-detroit-tigers",
-      "matchup": "Chicago White Sox vs. Detroit Tigers",
-      "sport": "MLB",
-      "home": "Detroit Tigers",
-      "away": "Chicago White Sox",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/detroit-tigers-0QIlt8pi/#OMuaUYi5"
-    },
-    {
-      "gameId": "mlb-st-louis-cardinals-washington-nationals",
-      "matchup": "St Louis Cardinals vs. Washington Nationals",
-      "sport": "MLB",
-      "home": "Washington Nationals",
-      "away": "St Louis Cardinals",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/st-louis-cardinals-IDVz16ES/washington-nationals-CE026gRp/#pdCjYGht"
-    },
-    {
-      "gameId": "mlb-texas-rangers-toronto-blue-jays",
-      "matchup": "Texas Rangers vs. Toronto Blue Jays",
-      "sport": "MLB",
-      "home": "Toronto Blue Jays",
-      "away": "Texas Rangers",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/texas-rangers-f3GcHO7j/toronto-blue-jays-zcDLaZ3b/#SUzgk3sh"
-    },
-    {
-      "gameId": "mlb-baltimore-orioles-milwaukee-brewers",
-      "matchup": "Baltimore Orioles vs. Milwaukee Brewers",
-      "sport": "MLB",
-      "home": "Milwaukee Brewers",
-      "away": "Baltimore Orioles",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/baltimore-orioles-EcZwBi3N/milwaukee-brewers-CGzqC60o/#42frU4tP"
-    },
-    {
       "gameId": "mlb-new-york-yankees-tampa-bay-rays",
       "matchup": "New York Yankees vs. Tampa Bay Rays",
       "sport": "MLB",
@@ -2817,7 +2817,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 93600.0,
             "away_depth_usd": 93600.0,
             "away_odds": -141,
@@ -2830,6 +2830,32 @@
             "home_outcome_id": "01a0b5a7-355f-7c01-b684-d0b435e65122",
             "home_prob": 48.1,
             "label": "Novig"
+          }
+        },
+        {
+          "book": "polymarket_us",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 3256.91,
+            "away_depth_usd": 3300.08,
+            "away_fee_cents": 1.610836,
+            "away_is_long": true,
+            "away_link": null,
+            "away_market_slug": "aec-cfb-ucla-mary-2026-09-26",
+            "away_odds": -187,
+            "away_odds_raw": -174,
+            "away_prob": 63.5,
+            "event_slug": "cfb-ucla-mary-2026-09-26",
+            "home_depth_at_price_usd": 2337.09,
+            "home_depth_usd": 2389.52,
+            "home_fee_cents": 1.728986,
+            "home_is_long": false,
+            "home_link": null,
+            "home_market_slug": "aec-cfb-ucla-mary-2026-09-26",
+            "home_odds": 107,
+            "home_odds_raw": 115,
+            "home_prob": 46.5,
+            "label": "Polymarket US"
           }
         }
       ],
@@ -3182,18 +3208,18 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 23400.0,
             "away_depth_usd": 23400.0,
             "away_odds": 285,
             "away_outcome_id": "01a0b7b1-1378-75d2-b0c0-eda0cfa181ee",
             "away_prob": 26.0,
             "event_id": "01a0b7b1-12fe-77f2-9d5f-3d0645c1b838",
-            "home_depth_at_price_usd": 74250.0,
-            "home_depth_usd": 74250.0,
-            "home_odds": -471,
+            "home_depth_at_price_usd": 4000.0,
+            "home_depth_usd": 4000.0,
+            "home_odds": -400,
             "home_outcome_id": "01a0b7b1-1378-75d2-b0c0-ed913dd2b187",
-            "home_prob": 82.5,
+            "home_prob": 80.0,
             "label": "Novig"
           }
         },
@@ -3800,6 +3826,24 @@
             "home_prob": 77.0,
             "label": "Kalshi",
             "ticker": "KXNCAAFGAME-26SEP26NIUGAST"
+          }
+        },
+        {
+          "book": "novig",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 42400.0,
+            "away_depth_usd": 42400.0,
+            "away_odds": 277,
+            "away_outcome_id": "01a0bde3-f2bd-7b33-b09b-68faca1f7c63",
+            "away_prob": 26.5,
+            "event_id": "01a0b5c2-b6ec-73b2-9be5-afee808280ed",
+            "home_depth_at_price_usd": 128800.0,
+            "home_depth_usd": 128800.0,
+            "home_odds": -413,
+            "home_outcome_id": "01a0bde3-f2bd-7b33-b09b-68e9375a3317",
+            "home_prob": 80.5,
+            "label": "Novig"
           }
         },
         {
@@ -4951,7 +4995,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 66400.0,
             "away_depth_usd": 66400.0,
             "away_odds": 141,
@@ -5045,6 +5089,32 @@
             "home_prob": 19.0,
             "label": "Kalshi",
             "ticker": "KXNCAAFGAME-26SEP26FAUULM"
+          }
+        },
+        {
+          "book": "polymarket_us",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 124.72,
+            "away_depth_usd": 124.72,
+            "away_fee_cents": 1.069605,
+            "away_is_long": true,
+            "away_link": null,
+            "away_market_slug": "aec-cfb-flatl-lamon-2026-09-26",
+            "away_odds": -458,
+            "away_odds_raw": -426,
+            "away_prob": 81.0,
+            "event_slug": "cfb-flatl-lamon-2026-09-26",
+            "home_depth_at_price_usd": 1377.0,
+            "home_depth_usd": 1379.92,
+            "home_fee_cents": 1.112,
+            "home_is_long": false,
+            "home_link": null,
+            "home_market_slug": "aec-cfb-flatl-lamon-2026-09-26",
+            "home_odds": 374,
+            "home_odds_raw": 400,
+            "home_prob": 20.0,
+            "label": "Polymarket US"
           }
         }
       ],
@@ -5752,18 +5822,18 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_at_price_usd": 34800.0,
-            "away_depth_usd": 34800.0,
-            "away_odds": 130,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 40850.0,
+            "away_depth_usd": 40850.0,
+            "away_odds": 133,
             "away_outcome_id": "01a0b6f0-c34b-7a82-bf5d-74fef4b437f5",
-            "away_prob": 43.5,
+            "away_prob": 42.9,
             "event_id": "01a0b6f0-c2b5-7330-84c3-1451243f5b70",
-            "home_depth_at_price_usd": 52400.0,
-            "home_depth_usd": 52400.0,
-            "home_odds": -190,
+            "home_depth_at_price_usd": 61750.0,
+            "home_depth_usd": 61750.0,
+            "home_odds": -186,
             "home_outcome_id": "01a0b6f0-c34b-7a82-bf5d-74eaac64e644",
-            "home_prob": 65.5,
+            "home_prob": 65.0,
             "label": "Novig"
           }
         },
@@ -11374,7 +11444,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 109275.0,
             "away_depth_usd": 109275.0,
             "away_odds": -239,
@@ -11517,18 +11587,18 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_at_price_usd": 5400.0,
-            "away_depth_usd": 5400.0,
-            "away_odds": -117,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 5350.0,
+            "away_depth_usd": 5350.0,
+            "away_odds": -115,
             "away_outcome_id": "01a0b6d5-69cf-76e3-976c-ff4265bfdcce",
-            "away_prob": 53.9,
+            "away_prob": 53.5,
             "event_id": "01a0b6d5-6945-7233-9070-0f0f40d6ad4f",
-            "home_depth_at_price_usd": 5200.0,
-            "home_depth_usd": 5200.0,
-            "home_odds": -108,
+            "home_depth_at_price_usd": 5150.0,
+            "home_depth_usd": 5150.0,
+            "home_odds": -106,
             "home_outcome_id": "01a0b6d5-69cf-76e3-976c-ff394caee873",
-            "home_prob": 51.9,
+            "home_prob": 51.5,
             "label": "Novig"
           }
         },
@@ -12330,6 +12400,24 @@
             "home_odds": -280,
             "home_prob": 73.7,
             "label": "Bovada"
+          }
+        },
+        {
+          "book": "novig",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 83475.0,
+            "away_depth_usd": 83475.0,
+            "away_odds": 217,
+            "away_outcome_id": "01a0b1e5-4793-79d0-a219-73ca1219dcfc",
+            "away_prob": 31.5,
+            "event_id": "01a0b1e5-4758-7943-8df4-cf914ceb855e",
+            "home_depth_at_price_usd": 204050.0,
+            "home_depth_usd": 204050.0,
+            "home_odds": -335,
+            "home_outcome_id": "01a0b1e5-4793-79d0-a219-73b61b5d7975",
+            "home_prob": 77.0,
+            "label": "Novig"
           }
         },
         {
@@ -14498,8 +14586,8 @@
         {
           "book": "kalshi",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_usd": 126.32,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_usd": 119.35,
             "away_fee_cents": 1.6128,
             "away_odds": -190,
             "away_odds_raw": -177,
@@ -14516,12 +14604,12 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_at_price_usd": 136800.0,
-            "away_depth_usd": 136800.0,
-            "away_odds": -133,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 271950.0,
+            "away_depth_usd": 271950.0,
+            "away_odds": -125,
             "away_outcome_id": "01a0b1e5-4579-76a2-8d4b-3b1fafedce2c",
-            "away_prob": 57.1,
+            "away_prob": 55.6,
             "event_id": "01a0b1e5-4517-7360-9976-f8e8e6547d2a",
             "home_depth_at_price_usd": 16214.1,
             "home_depth_usd": 16214.1,
@@ -14650,6 +14738,24 @@
             "home_prob": 37.0,
             "label": "Kalshi",
             "ticker": "KXUFCFIGHT-26SEP26AMAMAC"
+          }
+        },
+        {
+          "book": "novig",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 194600.0,
+            "away_depth_usd": 194600.0,
+            "away_odds": -228,
+            "away_outcome_id": "01a0b1e5-4723-7e31-858e-c17f2c3db382",
+            "away_prob": 69.5,
+            "event_id": "01a0b1e5-46ed-7481-903e-d12797502454",
+            "home_depth_at_price_usd": 107800.0,
+            "home_depth_usd": 107800.0,
+            "home_odds": 160,
+            "home_outcome_id": "01a0b1e5-4723-7e31-858e-c16cb6b7117d",
+            "home_prob": 38.5,
+            "label": "Novig"
           }
         },
         {
@@ -25088,7 +25194,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 93600.0,
             "away_depth_usd": 93600.0,
             "away_odds": -141,
@@ -25101,6 +25207,32 @@
             "home_outcome_id": "01a0b5a7-355f-7c01-b684-d0b435e65122",
             "home_prob": 48.1,
             "label": "Novig"
+          }
+        },
+        {
+          "book": "polymarket_us",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 3256.91,
+            "away_depth_usd": 3300.08,
+            "away_fee_cents": 1.610836,
+            "away_is_long": true,
+            "away_link": null,
+            "away_market_slug": "aec-cfb-ucla-mary-2026-09-26",
+            "away_odds": -187,
+            "away_odds_raw": -174,
+            "away_prob": 63.5,
+            "event_slug": "cfb-ucla-mary-2026-09-26",
+            "home_depth_at_price_usd": 2337.09,
+            "home_depth_usd": 2389.52,
+            "home_fee_cents": 1.728986,
+            "home_is_long": false,
+            "home_link": null,
+            "home_market_slug": "aec-cfb-ucla-mary-2026-09-26",
+            "home_odds": 107,
+            "home_odds_raw": 115,
+            "home_prob": 46.5,
+            "label": "Polymarket US"
           }
         }
       ],
@@ -25453,18 +25585,18 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 23400.0,
             "away_depth_usd": 23400.0,
             "away_odds": 285,
             "away_outcome_id": "01a0b7b1-1378-75d2-b0c0-eda0cfa181ee",
             "away_prob": 26.0,
             "event_id": "01a0b7b1-12fe-77f2-9d5f-3d0645c1b838",
-            "home_depth_at_price_usd": 74250.0,
-            "home_depth_usd": 74250.0,
-            "home_odds": -471,
+            "home_depth_at_price_usd": 4000.0,
+            "home_depth_usd": 4000.0,
+            "home_odds": -400,
             "home_outcome_id": "01a0b7b1-1378-75d2-b0c0-ed913dd2b187",
-            "home_prob": 82.5,
+            "home_prob": 80.0,
             "label": "Novig"
           }
         },
@@ -26071,6 +26203,24 @@
             "home_prob": 77.0,
             "label": "Kalshi",
             "ticker": "KXNCAAFGAME-26SEP26NIUGAST"
+          }
+        },
+        {
+          "book": "novig",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 42400.0,
+            "away_depth_usd": 42400.0,
+            "away_odds": 277,
+            "away_outcome_id": "01a0bde3-f2bd-7b33-b09b-68faca1f7c63",
+            "away_prob": 26.5,
+            "event_id": "01a0b5c2-b6ec-73b2-9be5-afee808280ed",
+            "home_depth_at_price_usd": 128800.0,
+            "home_depth_usd": 128800.0,
+            "home_odds": -413,
+            "home_outcome_id": "01a0bde3-f2bd-7b33-b09b-68e9375a3317",
+            "home_prob": 80.5,
+            "label": "Novig"
           }
         },
         {
@@ -27222,7 +27372,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 66400.0,
             "away_depth_usd": 66400.0,
             "away_odds": 141,
@@ -27316,6 +27466,32 @@
             "home_prob": 19.0,
             "label": "Kalshi",
             "ticker": "KXNCAAFGAME-26SEP26FAUULM"
+          }
+        },
+        {
+          "book": "polymarket_us",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 124.72,
+            "away_depth_usd": 124.72,
+            "away_fee_cents": 1.069605,
+            "away_is_long": true,
+            "away_link": null,
+            "away_market_slug": "aec-cfb-flatl-lamon-2026-09-26",
+            "away_odds": -458,
+            "away_odds_raw": -426,
+            "away_prob": 81.0,
+            "event_slug": "cfb-flatl-lamon-2026-09-26",
+            "home_depth_at_price_usd": 1377.0,
+            "home_depth_usd": 1379.92,
+            "home_fee_cents": 1.112,
+            "home_is_long": false,
+            "home_link": null,
+            "home_market_slug": "aec-cfb-flatl-lamon-2026-09-26",
+            "home_odds": 374,
+            "home_odds_raw": 400,
+            "home_prob": 20.0,
+            "label": "Polymarket US"
           }
         }
       ],
@@ -28023,18 +28199,18 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_at_price_usd": 34800.0,
-            "away_depth_usd": 34800.0,
-            "away_odds": 130,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 40850.0,
+            "away_depth_usd": 40850.0,
+            "away_odds": 133,
             "away_outcome_id": "01a0b6f0-c34b-7a82-bf5d-74fef4b437f5",
-            "away_prob": 43.5,
+            "away_prob": 42.9,
             "event_id": "01a0b6f0-c2b5-7330-84c3-1451243f5b70",
-            "home_depth_at_price_usd": 52400.0,
-            "home_depth_usd": 52400.0,
-            "home_odds": -190,
+            "home_depth_at_price_usd": 61750.0,
+            "home_depth_usd": 61750.0,
+            "home_odds": -186,
             "home_outcome_id": "01a0b6f0-c34b-7a82-bf5d-74eaac64e644",
-            "home_prob": 65.5,
+            "home_prob": 65.0,
             "label": "Novig"
           }
         },
@@ -33645,7 +33821,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
+            "as_of": "2026-09-20T13:43:26+00:00",
             "away_depth_at_price_usd": 109275.0,
             "away_depth_usd": 109275.0,
             "away_odds": -239,
@@ -33788,18 +33964,18 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_at_price_usd": 5400.0,
-            "away_depth_usd": 5400.0,
-            "away_odds": -117,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 5350.0,
+            "away_depth_usd": 5350.0,
+            "away_odds": -115,
             "away_outcome_id": "01a0b6d5-69cf-76e3-976c-ff4265bfdcce",
-            "away_prob": 53.9,
+            "away_prob": 53.5,
             "event_id": "01a0b6d5-6945-7233-9070-0f0f40d6ad4f",
-            "home_depth_at_price_usd": 5200.0,
-            "home_depth_usd": 5200.0,
-            "home_odds": -108,
+            "home_depth_at_price_usd": 5150.0,
+            "home_depth_usd": 5150.0,
+            "home_odds": -106,
             "home_outcome_id": "01a0b6d5-69cf-76e3-976c-ff394caee873",
-            "home_prob": 51.9,
+            "home_prob": 51.5,
             "label": "Novig"
           }
         },
@@ -34601,6 +34777,24 @@
             "home_odds": -280,
             "home_prob": 73.7,
             "label": "Bovada"
+          }
+        },
+        {
+          "book": "novig",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 83475.0,
+            "away_depth_usd": 83475.0,
+            "away_odds": 217,
+            "away_outcome_id": "01a0b1e5-4793-79d0-a219-73ca1219dcfc",
+            "away_prob": 31.5,
+            "event_id": "01a0b1e5-4758-7943-8df4-cf914ceb855e",
+            "home_depth_at_price_usd": 204050.0,
+            "home_depth_usd": 204050.0,
+            "home_odds": -335,
+            "home_outcome_id": "01a0b1e5-4793-79d0-a219-73b61b5d7975",
+            "home_prob": 77.0,
+            "label": "Novig"
           }
         },
         {
@@ -36769,8 +36963,8 @@
         {
           "book": "kalshi",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_usd": 126.32,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_usd": 119.35,
             "away_fee_cents": 1.6128,
             "away_odds": -190,
             "away_odds_raw": -177,
@@ -36787,12 +36981,12 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T13:29:26+00:00",
-            "away_depth_at_price_usd": 136800.0,
-            "away_depth_usd": 136800.0,
-            "away_odds": -133,
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 271950.0,
+            "away_depth_usd": 271950.0,
+            "away_odds": -125,
             "away_outcome_id": "01a0b1e5-4579-76a2-8d4b-3b1fafedce2c",
-            "away_prob": 57.1,
+            "away_prob": 55.6,
             "event_id": "01a0b1e5-4517-7360-9976-f8e8e6547d2a",
             "home_depth_at_price_usd": 16214.1,
             "home_depth_usd": 16214.1,
@@ -36921,6 +37115,24 @@
             "home_prob": 37.0,
             "label": "Kalshi",
             "ticker": "KXUFCFIGHT-26SEP26AMAMAC"
+          }
+        },
+        {
+          "book": "novig",
+          "prices": {
+            "as_of": "2026-09-20T13:43:26+00:00",
+            "away_depth_at_price_usd": 194600.0,
+            "away_depth_usd": 194600.0,
+            "away_odds": -228,
+            "away_outcome_id": "01a0b1e5-4723-7e31-858e-c17f2c3db382",
+            "away_prob": 69.5,
+            "event_id": "01a0b1e5-46ed-7481-903e-d12797502454",
+            "home_depth_at_price_usd": 107800.0,
+            "home_depth_usd": 107800.0,
+            "home_odds": 160,
+            "home_outcome_id": "01a0b1e5-4723-7e31-858e-c16cb6b7117d",
+            "home_prob": 38.5,
+            "label": "Novig"
           }
         },
         {
@@ -47317,18 +47529,6 @@
       "url": "https://theoddsgap.com/api/lineshop"
     },
     {
-      "gameId": "wnba-atlanta-dream-chicago-sky",
-      "matchup": "Atlanta Dream vs. Chicago Sky",
-      "sport": "WNBA",
-      "home": "Chicago Sky",
-      "away": "Atlanta Dream",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/basketball/h2h/atlanta-dream-z1xwbiiQ/chicago-sky-ltrDcXyK/#x6A0u4VI"
-    },
-    {
       "gameId": "wnba-golden-state-valkyries-seattle-storm",
       "matchup": "Golden State Valkyries vs. Seattle Storm",
       "sport": "WNBA",
@@ -47399,6 +47599,18 @@
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/basketball/h2h/las-vegas-aces-nZjYLTCd/seattle-storm-I13pnDkc/#phH5yeUp"
+    },
+    {
+      "gameId": "wnba-atlanta-dream-chicago-sky",
+      "matchup": "Atlanta Dream vs. Chicago Sky",
+      "sport": "WNBA",
+      "home": "Chicago Sky",
+      "away": "Atlanta Dream",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/basketball/h2h/atlanta-dream-z1xwbiiQ/chicago-sky-ltrDcXyK/#x6A0u4VI"
     }
   ]
 }
