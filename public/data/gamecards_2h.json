@@ -5579,5 +5579,9 @@
       "divergence": null,
       "historyPoints": 1
     }
-  ]
+  ],
+  "ratings": {
+    "priced": 0,
+    "missing": 213
+  }
 }

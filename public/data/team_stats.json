@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T16:11:19.801033+00:00",
+  "pulled_at": "2026-09-20T16:26:09.380054+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -229,13 +229,13 @@
             {
               "side": "away",
               "name": "Seattle Mariners",
-              "score": null,
+              "score": 0,
               "record": "72-83"
             },
             {
               "side": "home",
               "name": "Colorado Rockies",
-              "score": null,
+              "score": 0,
               "record": "57-98"
             }
           ],
