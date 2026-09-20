@@ -1,0 +1,53 @@
+{
+  "pulled_at": "2026-09-20T16:04:10.505480+00:00",
+  "lanes": {
+    "umpires": {
+      "ok": true,
+      "error": null
+    },
+    "savant": {
+      "ok": true,
+      "error": null
+    },
+    "weather": {
+      "ok": false,
+      "error": "403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
+    },
+    "injuries": {
+      "ok": true,
+      "error": null
+    },
+    "closeArchive": {
+      "ok": true,
+      "error": null
+    },
+    "nflverse": {
+      "ok": true,
+      "error": null
+    },
+    "cfbd": {
+      "ok": true,
+      "error": null
+    },
+    "nflPenalties": {
+      "ok": false,
+      "error": "403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams?limit=40"
+    },
+    "pitchers": {
+      "ok": true,
+      "error": null
+    },
+    "tennis": {
+      "ok": false,
+      "error": "403 https://site.api.espn.com/apis/site/v2/sports/tennis/atp/scoreboard"
+    },
+    "wnbaRest": {
+      "ok": false,
+      "error": "403 https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard"
+    },
+    "splitsHistory": {
+      "ok": true,
+      "error": null
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T15:53:16.362305+00:00",
+  "pulled_at": "2026-09-20T16:04:09.378399+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -223,7 +223,7 @@
           "league": "mlb",
           "eventId": "824300",
           "name": "Seattle Mariners at Colorado Rockies",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-20T19:10:00Z",
           "teams": [
             {
