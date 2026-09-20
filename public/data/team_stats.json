@@ -1,0 +1,357 @@
+{
+  "pulled_at": "2026-09-20T15:30:45.640933+00:00",
+  "leagues": {
+    "nfl": {
+      "ok": false,
+      "error": "espn 403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
+      "games": []
+    },
+    "ncaaf": {
+      "ok": false,
+      "error": "espn 403 https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard",
+      "games": []
+    },
+    "wnba": {
+      "ok": false,
+      "error": "espn 403 https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard",
+      "games": []
+    },
+    "mlb": {
+      "ok": true,
+      "count": 15,
+      "source": "statsapi.mlb.com",
+      "games": [
+        {
+          "league": "mlb",
+          "eventId": "823570",
+          "name": "Philadelphia Phillies at New York Mets",
+          "status": "Pre-Game",
+          "start": "2026-09-20T17:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Philadelphia Phillies",
+              "score": 0,
+              "record": "85-70"
+            },
+            {
+              "side": "home",
+              "name": "New York Mets",
+              "score": 0,
+              "record": "71-84"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "823329",
+          "name": "Kansas City Royals at Pittsburgh Pirates",
+          "status": "Pre-Game",
+          "start": "2026-09-20T17:35:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Kansas City Royals",
+              "score": 0,
+              "record": "67-88"
+            },
+            {
+              "side": "home",
+              "name": "Pittsburgh Pirates",
+              "score": 0,
+              "record": "78-77"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824462",
+          "name": "Chicago Cubs at Cincinnati Reds",
+          "status": "Pre-Game",
+          "start": "2026-09-20T17:40:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Chicago Cubs",
+              "score": 0,
+              "record": "86-69"
+            },
+            {
+              "side": "home",
+              "name": "Cincinnati Reds",
+              "score": 0,
+              "record": "72-83"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824381",
+          "name": "Athletics at Cleveland Guardians",
+          "status": "Pre-Game",
+          "start": "2026-09-20T17:40:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Athletics",
+              "score": 0,
+              "record": "61-94"
+            },
+            {
+              "side": "home",
+              "name": "Cleveland Guardians",
+              "score": 0,
+              "record": "80-75"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "822922",
+          "name": "Boston Red Sox at Tampa Bay Rays",
+          "status": "Pre-Game",
+          "start": "2026-09-20T17:40:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Boston Red Sox",
+              "score": 0,
+              "record": "84-71"
+            },
+            {
+              "side": "home",
+              "name": "Tampa Bay Rays",
+              "score": 0,
+              "record": "94-60"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824139",
+          "name": "Atlanta Braves at Houston Astros",
+          "status": "Pre-Game",
+          "start": "2026-09-20T18:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Atlanta Braves",
+              "score": 0,
+              "record": "91-64"
+            },
+            {
+              "side": "home",
+              "name": "Houston Astros",
+              "score": 0,
+              "record": "77-78"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824546",
+          "name": "Detroit Tigers at Chicago White Sox",
+          "status": "Pre-Game",
+          "start": "2026-09-20T18:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Detroit Tigers",
+              "score": 0,
+              "record": "73-82"
+            },
+            {
+              "side": "home",
+              "name": "Chicago White Sox",
+              "score": 0,
+              "record": "79-76"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "823001",
+          "name": "Washington Nationals at St. Louis Cardinals",
+          "status": "Pre-Game",
+          "start": "2026-09-20T18:15:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Washington Nationals",
+              "score": null,
+              "record": "73-82"
+            },
+            {
+              "side": "home",
+              "name": "St. Louis Cardinals",
+              "score": null,
+              "record": "75-80"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "822844",
+          "name": "Toronto Blue Jays at Texas Rangers",
+          "status": "Pre-Game",
+          "start": "2026-09-20T18:35:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Toronto Blue Jays",
+              "score": null,
+              "record": "76-79"
+            },
+            {
+              "side": "home",
+              "name": "Texas Rangers",
+              "score": null,
+              "record": "78-77"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824300",
+          "name": "Seattle Mariners at Colorado Rockies",
+          "status": "Scheduled",
+          "start": "2026-09-20T19:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Seattle Mariners",
+              "score": null,
+              "record": "72-83"
+            },
+            {
+              "side": "home",
+              "name": "Colorado Rockies",
+              "score": null,
+              "record": "57-98"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "823975",
+          "name": "Minnesota Twins at Los Angeles Angels",
+          "status": "Scheduled",
+          "start": "2026-09-20T20:07:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Minnesota Twins",
+              "score": null,
+              "record": "72-83"
+            },
+            {
+              "side": "home",
+              "name": "Los Angeles Angels",
+              "score": null,
+              "record": "60-95"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "823896",
+          "name": "San Francisco Giants at Los Angeles Dodgers",
+          "status": "Scheduled",
+          "start": "2026-09-20T20:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "San Francisco Giants",
+              "score": null,
+              "record": "64-91"
+            },
+            {
+              "side": "home",
+              "name": "Los Angeles Dodgers",
+              "score": null,
+              "record": "95-60"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "823247",
+          "name": "Miami Marlins at San Diego Padres",
+          "status": "Scheduled",
+          "start": "2026-09-20T20:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Miami Marlins",
+              "score": null,
+              "record": "76-79"
+            },
+            {
+              "side": "home",
+              "name": "San Diego Padres",
+              "score": null,
+              "record": "86-69"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "825028",
+          "name": "New York Yankees at Arizona Diamondbacks",
+          "status": "Scheduled",
+          "start": "2026-09-20T20:10:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "New York Yankees",
+              "score": null,
+              "record": "89-65"
+            },
+            {
+              "side": "home",
+              "name": "Arizona Diamondbacks",
+              "score": null,
+              "record": "81-74"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824789",
+          "name": "Milwaukee Brewers at Baltimore Orioles",
+          "status": "Scheduled",
+          "start": "2026-09-20T23:20:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Milwaukee Brewers",
+              "score": null,
+              "record": "97-58"
+            },
+            {
+              "side": "home",
+              "name": "Baltimore Orioles",
+              "score": null,
+              "record": "75-80"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        }
+      ]
+    }
+  }
+}
