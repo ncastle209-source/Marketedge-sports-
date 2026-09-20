@@ -4,6 +4,7 @@ import { evaluateSharpTrap } from './services/api';
 import NamedAlgoBoard from './NamedAlgoBoard';
 import BettingMetricsBoard from './BettingMetricsBoard';
 import StatsBoard from './StatsBoard';
+import AuditBoard from './AuditBoard';
 import OfficialPlaysFeed from './components/OfficialPlaysFeed';
 import AlphaPlayReport from './components/AlphaPlayReport';
 import SteamTracker from './SteamTracker';
@@ -214,6 +215,7 @@ export default function App() {
       {selectedGame && <BettingMetricsBoard game={selectedGame} />}
       {selectedGame && <NamedAlgoBoard game={selectedGame} />}
       <StatsBoard />
+      <AuditBoard />
       <AddGameModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} onAddGame={handleAddGame} />
     </div>
   );

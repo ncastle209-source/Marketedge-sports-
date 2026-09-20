@@ -70,7 +70,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-chicago-bears-minnesota-vikings",
@@ -115,7 +117,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -2.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Hunter Brown",
+      "awayPitcher": "Mart\u00edn P\u00e9rez"
     },
     {
       "gameId": "nfl-2h-cleveland-browns-tampa-bay-buccaneers",
@@ -143,7 +147,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-green-bay-packers-new-york-jets",
@@ -171,7 +177,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-new-england-patriots-pittsburgh-steelers",
@@ -199,7 +207,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "nfl-2h-phi-tennessee-titans",
@@ -272,7 +282,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -6.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-arizona-cardinals-seattle-seahawks",
@@ -334,7 +346,11 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -13.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": null,
+      "umpCrew": [],
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "nfl-2h-indianapolis-colts-kc",
@@ -390,7 +406,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-atlanta-falcons-green-bay-packers",
@@ -418,7 +436,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-buffalo-bills-los-angeles-chargers",
@@ -446,7 +466,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -6.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-carolina-panthers-cleveland-browns",
@@ -474,7 +496,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 2.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Gavin Williams",
+      "awayPitcher": "Jack Perkins"
     },
     {
       "gameId": "nfl-2h-cincinnati-bengals-pittsburgh-steelers",
@@ -502,7 +526,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -2.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "nfl-2h-detroit-lions-new-york-jets",
@@ -530,7 +556,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-houston-texans-indianapolis-colts",
@@ -575,7 +603,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -5.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-kc-miami-dolphins",
@@ -676,7 +706,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -13.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "nfl-2h-minnesota-vikings-tampa-bay-buccaneers",
@@ -704,7 +736,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-baltimore-ravens-dal",
@@ -760,7 +794,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -6.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-denver-broncos-los-angeles-rams",
@@ -788,7 +824,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -7.0,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-chicago-bears-phi",
@@ -906,7 +944,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "nfl-2h-atlanta-falcons-cincinnati-bengals",
@@ -923,7 +963,9 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": null,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Rhett Lowder",
+      "awayPitcher": "David Peterson"
     },
     {
       "gameId": "nfl-2h-detroit-lions-new-england-patriots",
@@ -951,7 +993,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -5.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-minnesota-vikings-sf",
@@ -979,7 +1023,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -13.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "nfl-2h-green-bay-packers-los-angeles-rams",
@@ -1007,7 +1053,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-chicago-bears-detroit-lions",
@@ -1086,7 +1134,9 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": null,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "nfl-2h-houston-texans-phi",
@@ -1131,7 +1181,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-buffalo-bills-denver-broncos",
@@ -1531,7 +1583,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "nfl-2h-arizona-cardinals-new-york-giants",
@@ -1559,7 +1613,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-baltimore-ravens-tennessee-titans",
@@ -1615,7 +1671,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -5.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-chicago-bears-new-york-jets",
@@ -1643,7 +1701,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-cincinnati-bengals-jacksonville-jaguars",
@@ -1699,7 +1759,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -2.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Hunter Brown",
+      "awayPitcher": "Mart\u00edn P\u00e9rez"
     },
     {
       "gameId": "nfl-2h-green-bay-packers-tampa-bay-buccaneers",
@@ -1727,7 +1789,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-los-angeles-rams-phi",
@@ -1800,7 +1864,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -13.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "nfl-2h-kc-las-vegas-raiders",
@@ -1890,7 +1956,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-dal-tampa-bay-buccaneers",
@@ -1918,7 +1986,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-cincinnati-bengals-miami-dolphins",
@@ -1974,7 +2044,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-houston-texans-tennessee-titans",
@@ -2030,7 +2102,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -6.0,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "nfl-2h-las-vegas-raiders-new-england-patriots",
@@ -2058,7 +2132,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -5.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-minnesota-vikings-new-orleans-saints",
@@ -2086,7 +2162,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -4.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-new-york-giants-washington-commanders",
@@ -2142,7 +2220,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -6.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-arizona-cardinals-detroit-lions",
@@ -2204,7 +2284,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Brandon Young",
+      "awayPitcher": "Jacob Misiorowski"
     },
     {
       "gameId": "nfl-2h-buffalo-bills-los-angeles-rams",
@@ -2232,7 +2314,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -7.0,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-denver-broncos-seattle-seahawks",
@@ -2277,7 +2361,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -4.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Davis Martin",
+      "awayPitcher": "Troy Melton"
     },
     {
       "gameId": "nfl-2h-baltimore-ravens-cleveland-browns",
@@ -2294,7 +2380,9 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": null,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Gavin Williams",
+      "awayPitcher": "Jack Perkins"
     },
     {
       "gameId": "nfl-2h-carolina-panthers-phi",
@@ -2378,7 +2466,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 3.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-new-orleans-saints-new-york-giants",
@@ -2406,7 +2496,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-pittsburgh-steelers-tampa-bay-buccaneers",
@@ -2434,7 +2526,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-arizona-cardinals-los-angeles-rams",
@@ -2462,7 +2556,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -7.0,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-buffalo-bills-las-vegas-raiders",
@@ -2507,7 +2603,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -6.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Ryan Johnson",
+      "awayPitcher": "Dean Kremer"
     },
     {
       "gameId": "nfl-2h-dal-green-bay-packers",
@@ -2535,7 +2633,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -8.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "nfl-2h-sf-washington-commanders",
@@ -2580,7 +2680,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -5.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "nfl-2h-atlanta-falcons-sf",
@@ -2608,7 +2710,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -13.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "nfl-2h-baltimore-ravens-cincinnati-bengals",
@@ -2625,7 +2729,9 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": null,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Rhett Lowder",
+      "awayPitcher": "David Peterson"
     },
     {
       "gameId": "ncaaf-2h-arkansas-state-tcu",
@@ -2793,7 +2899,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 4.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "ncaaf-2h-arizona-northern-illinois",
@@ -2877,7 +2985,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -4.0,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "ncaaf-2h-montana-grizzlies-oregon-state",
@@ -3101,7 +3211,9 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": null,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Tomoyuki Sugano",
+      "awayPitcher": "Kade Anderson"
     },
     {
       "gameId": "ncaaf-2h-boston-college-virginia-tech",
@@ -3230,7 +3342,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -37.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jacob deGrom",
+      "awayPitcher": "Spencer Miles"
     },
     {
       "gameId": "ncaaf-2h-san-diego-state-toledo",
@@ -3286,7 +3400,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -37.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jacob deGrom",
+      "awayPitcher": "Spencer Miles"
     },
     {
       "gameId": "ncaaf-2h-kentucky-south-alabama",
@@ -3583,7 +3699,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 13.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "ncaaf-2h-tcu-ucf",
@@ -3667,7 +3785,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -18.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Hunter Brown",
+      "awayPitcher": "Mart\u00edn P\u00e9rez"
     },
     {
       "gameId": "ncaaf-2h-auburn-vanderbilt",
@@ -4120,7 +4240,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -37.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jacob deGrom",
+      "awayPitcher": "Spencer Miles"
     },
     {
       "gameId": "ncaaf-2h-oregon-usc-trojans",
@@ -4461,7 +4583,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -37.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jacob deGrom",
+      "awayPitcher": "Spencer Miles"
     },
     {
       "gameId": "ncaaf-2h-alabama-georgia",
@@ -4618,7 +4742,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 12.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Corbin Burnes",
+      "awayPitcher": "Will Warren"
     },
     {
       "gameId": "ncaaf-2h-clemson-miami-fl",
@@ -4858,7 +4984,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Jonah Tong",
+      "awayPitcher": "Cristopher S\u00e1nchez"
     },
     {
       "gameId": "mlb-2h-colorado-rockies-seattle-mariners",
@@ -4903,7 +5031,11 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": null,
+      "umpCrew": [],
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "mlb-2h-lad-san-francisco-giants",
@@ -4931,7 +5063,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Walker Buehler",
+      "awayPitcher": "Sandy Alcantara"
     },
     {
       "gameId": "mlb-2h-los-angeles-angels-minnesota-twins",
@@ -5004,7 +5138,28 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": "Brian Walsh",
+      "umpCrew": [
+        {
+          "name": "Brian Walsh",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Chad Fairchild",
+          "type": "First Base"
+        },
+        {
+          "name": "Bill Miller",
+          "type": "Second Base"
+        },
+        {
+          "name": "Chad Whitson",
+          "type": "Third Base"
+        }
+      ],
+      "homePitcher": "Lake Bachar",
+      "awayPitcher": "Michael Wacha"
     },
     {
       "gameId": "mlb-2h-athletics-cleveland-guardians",
@@ -5032,7 +5187,28 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": "Stu Scheurwater",
+      "umpCrew": [
+        {
+          "name": "Stu Scheurwater",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jordan Baker",
+          "type": "First Base"
+        },
+        {
+          "name": "Junior Valentine",
+          "type": "Second Base"
+        },
+        {
+          "name": "Rob Drake",
+          "type": "Third Base"
+        }
+      ],
+      "homePitcher": "Gavin Williams",
+      "awayPitcher": "Jack Perkins"
     },
     {
       "gameId": "mlb-2h-bos-tampa-bay-rays",
@@ -5060,7 +5236,28 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": "Adam Beck",
+      "umpCrew": [
+        {
+          "name": "Adam Beck",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Dan Iassogna",
+          "type": "First Base"
+        },
+        {
+          "name": "Brock Ballou",
+          "type": "Second Base"
+        },
+        {
+          "name": "Jeremie Rehak",
+          "type": "Third Base"
+        }
+      ],
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "mlb-2h-chicago-cubs-cincinnati-reds",
@@ -5088,7 +5285,28 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": 1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": "D.J. Reyburn",
+      "umpCrew": [
+        {
+          "name": "D.J. Reyburn",
+          "type": "Home Plate"
+        },
+        {
+          "name": "James Hoye",
+          "type": "First Base"
+        },
+        {
+          "name": "Sean Barber",
+          "type": "Second Base"
+        },
+        {
+          "name": "John Libka",
+          "type": "Third Base"
+        }
+      ],
+      "homePitcher": "Rhett Lowder",
+      "awayPitcher": "David Peterson"
     },
     {
       "gameId": "mlb-2h-atl-houston-astros",
@@ -5116,7 +5334,28 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "plateUmpire": "Edwin Moscoso",
+      "umpCrew": [
+        {
+          "name": "Edwin Moscoso",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Lance Barksdale",
+          "type": "First Base"
+        },
+        {
+          "name": "Lance Barrett",
+          "type": "Second Base"
+        },
+        {
+          "name": "Nic Lentz",
+          "type": "Third Base"
+        }
+      ],
+      "homePitcher": "Hunter Brown",
+      "awayPitcher": "Mart\u00edn P\u00e9rez"
     },
     {
       "gameId": "mlb-2h-chicago-white-sox-detroit-tigers",
@@ -5223,7 +5462,9 @@
       "volumeSurgeConfirmed": false,
       "divergence": null,
       "fairSpread": -1.5,
-      "historyPoints": 1
+      "historyPoints": 1,
+      "homePitcher": "Griffin Jax",
+      "awayPitcher": "Patrick Sandoval"
     },
     {
       "gameId": "wnba-2h-golden-state-valkyries-seattle-storm",
