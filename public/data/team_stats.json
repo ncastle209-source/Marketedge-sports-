@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T16:55:04.008254+00:00",
+  "pulled_at": "2026-09-20T17:06:31.297890+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -499,13 +499,13 @@
             {
               "side": "away",
               "name": "San Francisco Giants",
-              "score": null,
+              "score": 0,
               "record": "64-91"
             },
             {
               "side": "home",
               "name": "Los Angeles Dodgers",
-              "score": null,
+              "score": 0,
               "record": "95-60"
             }
           ],
