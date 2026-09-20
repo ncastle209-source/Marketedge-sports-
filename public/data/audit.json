@@ -407,10 +407,44 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-20T19:47:30.900187+00:00",
+      "gameId": "nfl-arizona-cardinals-seattle-seahawks",
+      "matchup": "Arizona Cardinals vs. Seattle Seahawks",
+      "sport": "NFL",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "lineTaken": 4.0,
+      "closeLine": 4.0,
+      "clv": 0.0,
+      "tickets": 37.0,
+      "handle": 52.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-20T19:47:30.907578+00:00",
+      "gameId": "nfl-2h-arizona-cardinals-seattle-seahawks",
+      "matchup": "Arizona Cardinals vs. Seattle Seahawks",
+      "sport": "NFL",
+      "period": "2h",
+      "engine": "deficiency",
+      "lineTaken": 4.0,
+      "closeLine": null,
+      "clv": null,
+      "tickets": 37.0,
+      "handle": 52.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 24,
-  "updated": "2026-09-20T17:37:12.599313+00:00"
+  "pending": 26,
+  "updated": "2026-09-20T19:47:30.907578+00:00"
 }

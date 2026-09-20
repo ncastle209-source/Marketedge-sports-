@@ -48,7 +48,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "824462",
@@ -73,7 +73,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "824381",
@@ -98,7 +98,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Delayed Start"
+      "status": "In Progress"
     },
     {
       "eventId": "822922",
@@ -123,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "824139",
@@ -148,7 +148,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824546",
@@ -198,7 +198,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "822844",
@@ -223,7 +223,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824300",
@@ -248,7 +248,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823975",
@@ -273,7 +273,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "823896",
@@ -298,7 +298,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "823247",
@@ -323,7 +323,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "825028",
@@ -348,7 +348,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "824789",
@@ -367,27 +367,27 @@
     },
     {
       "gamePk": 823329,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823329"
     },
     {
       "gamePk": 824462,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824462"
     },
     {
       "gamePk": 824381,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824381"
     },
     {
       "gamePk": 822922,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822922"
     },
     {
       "gamePk": 824139,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824139"
     },
     {
@@ -397,17 +397,17 @@
     },
     {
       "gamePk": 823001,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823001"
     },
     {
       "gamePk": 822844,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822844"
     },
     {
       "gamePk": 824300,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824300"
     },
     {
@@ -444,7 +444,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 0
+    "count": 87
   },
   "nflverse": [
     {
@@ -7131,7 +7131,7 @@
     {
       "eventId": "823896",
       "homeTeam": "Los Angeles Dodgers",
-      "homePitcher": null,
+      "homePitcher": "Jack Dreyer",
       "awayTeam": "San Francisco Giants",
       "awayPitcher": "Matt Wilkinson"
     },
@@ -7160,7 +7160,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1323,
-    "gameFiles": 1210
+    "splitsKeys": 1367,
+    "gameFiles": 1254
   }
 }
