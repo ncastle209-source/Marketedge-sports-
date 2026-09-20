@@ -1,7 +1,7 @@
 {
-  "pulled_at": "2026-09-20T17:06:33.897743+00:00",
+  "pulled_at": "2026-09-20T17:12:53.260171+00:00",
   "books": {
-    "mlb": 30,
+    "mlb": 32,
     "nfl": 0,
     "ncaaf": 0,
     "wnba": 0
@@ -23,7 +23,17 @@
         "rating": 0.542,
         "source": "mlb-run-diff"
       },
+      "sox": {
+        "name": "White Sox",
+        "rating": 0.226,
+        "source": "mlb-run-diff"
+      },
       "blue-jays": {
+        "name": "Blue Jays",
+        "rating": -0.303,
+        "source": "mlb-run-diff"
+      },
+      "jays": {
         "name": "Blue Jays",
         "rating": -0.303,
         "source": "mlb-run-diff"

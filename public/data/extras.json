@@ -23,7 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "eventId": "823329",
@@ -48,7 +48,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "824462",
@@ -345,7 +345,7 @@
   "savant": [
     {
       "gamePk": 823570,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823570"
     },
     {

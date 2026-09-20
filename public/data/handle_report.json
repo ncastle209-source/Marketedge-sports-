@@ -32,29 +32,29 @@
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
-      "count": 0
+      "count": 15
     },
     {
       "source": "actionnetwork",
       "sport": "ncaaf",
       "ok": true,
-      "count": 0
+      "count": 58
     },
     {
       "source": "actionnetwork",
       "sport": "nfl",
       "ok": true,
-      "count": 0
+      "count": 16
     },
     {
       "source": "actionnetwork",
       "sport": "wnba",
       "ok": true,
-      "count": 0
+      "count": 5
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 0
+      "filled_this_step": 87
     },
     {
       "source": "covers",
@@ -169,6 +169,6 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 0,
-  "still_missing": 214
+  "filled": 87,
+  "still_missing": 127
 }
