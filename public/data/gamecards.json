@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-20T15:18:23.185334+00:00",
+  "pulled_at": "2026-09-20T15:21:12.273738+00:00",
   "period": "fulltime",
   "count": 630,
   "splits": {
@@ -70,14 +70,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-chicago-bears-minnesota-vikings",
@@ -113,13 +114,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 80133,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-cleveland-browns-tampa-bay-buccaneers",
@@ -138,14 +140,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-green-bay-packers-new-york-jets",
@@ -164,14 +167,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-new-england-patriots-pittsburgh-steelers",
@@ -190,14 +194,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 79855,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-philadelphia-eagles-tennessee-titans",
@@ -217,13 +222,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 7,
-      "openSpread": null,
+      "openSpread": 7.0,
       "currentLine": 7,
       "ticketCount": 79047,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 7.0
     },
     {
       "gameId": "nfl-denver-broncos-jacksonville-jaguars",
@@ -259,13 +265,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6.5,
-      "openSpread": null,
+      "openSpread": -6.5,
       "currentLine": -6.5,
       "ticketCount": 40662,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.5
     },
     {
       "gameId": "nfl-arizona-cardinals-seattle-seahawks",
@@ -316,14 +323,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -13,
-      "openSpread": null,
-      "currentLine": -13,
+      "currentSpread": -13.5,
+      "openSpread": -13.5,
+      "currentLine": -13.5,
       "ticketCount": 47770,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "nfl-indianapolis-colts-kansas-city-chiefs",
@@ -343,13 +351,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6,
-      "openSpread": null,
+      "openSpread": -6.0,
       "currentLine": -6,
       "ticketCount": 49967,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.0
     },
     {
       "gameId": "nfl-los-angeles-rams-new-york-giants",
@@ -368,14 +377,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-atlanta-falcons-green-bay-packers",
@@ -394,14 +404,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-buffalo-bills-los-angeles-chargers",
@@ -421,13 +432,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6.5,
-      "openSpread": null,
+      "openSpread": -6.5,
       "currentLine": -6.5,
       "ticketCount": 40662,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.5
     },
     {
       "gameId": "nfl-carolina-panthers-cleveland-browns",
@@ -447,13 +459,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 2.5,
-      "openSpread": null,
+      "openSpread": 2.5,
       "currentLine": 2.5,
       "ticketCount": 62003,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 2.5
     },
     {
       "gameId": "nfl-cincinnati-bengals-pittsburgh-steelers",
@@ -473,13 +486,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 80133,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-detroit-lions-new-york-jets",
@@ -498,14 +512,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-houston-texans-indianapolis-colts",
@@ -541,13 +556,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -5.5,
-      "openSpread": null,
+      "openSpread": -5.5,
       "currentLine": -5.5,
       "ticketCount": 60483,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -5.5
     },
     {
       "gameId": "nfl-kansas-city-chiefs-miami-dolphins",
@@ -583,13 +599,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -7,
-      "openSpread": null,
+      "openSpread": -7.0,
       "currentLine": -7,
       "ticketCount": 28646,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.0
     },
     {
       "gameId": "nfl-seattle-seahawks-washington-commanders",
@@ -609,13 +626,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4,
-      "openSpread": null,
+      "openSpread": 4.0,
       "currentLine": 4,
       "ticketCount": 44544,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.0
     },
     {
       "gameId": "nfl-arizona-cardinals-san-francisco-49ers",
@@ -634,14 +652,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -13,
-      "openSpread": null,
-      "currentLine": -13,
+      "currentSpread": -13.5,
+      "openSpread": -13.5,
+      "currentLine": -13.5,
       "ticketCount": 47770,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "nfl-minnesota-vikings-tampa-bay-buccaneers",
@@ -660,14 +679,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-baltimore-ravens-dallas-cowboys",
@@ -687,13 +707,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 55343,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "nfl-las-vegas-raiders-new-orleans-saints",
@@ -713,13 +734,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6.5,
-      "openSpread": null,
+      "openSpread": -6.5,
       "currentLine": -6.5,
       "ticketCount": 40662,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.5
     },
     {
       "gameId": "nfl-denver-broncos-los-angeles-rams",
@@ -739,13 +761,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -7,
-      "openSpread": null,
+      "openSpread": -7.0,
       "currentLine": -7,
       "ticketCount": 28646,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.0
     },
     {
       "gameId": "nfl-chicago-bears-philadelphia-eagles",
@@ -780,14 +803,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-indianapolis-colts-washington-commanders",
@@ -807,13 +831,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6,
-      "openSpread": null,
+      "openSpread": -6.0,
       "currentLine": -6,
       "ticketCount": 49967,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.0
     },
     {
       "gameId": "nfl-arizona-cardinals-new-york-giants",
@@ -832,14 +857,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-baltimore-ravens-tennessee-titans",
@@ -859,13 +885,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 7,
-      "openSpread": null,
+      "openSpread": 7.0,
       "currentLine": 7,
       "ticketCount": 79047,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 7.0
     },
     {
       "gameId": "nfl-buffalo-bills-new-england-patriots",
@@ -885,13 +912,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -5.5,
-      "openSpread": null,
+      "openSpread": -5.5,
       "currentLine": -5.5,
       "ticketCount": 60483,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -5.5
     },
     {
       "gameId": "nfl-chicago-bears-new-york-jets",
@@ -910,14 +938,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-cincinnati-bengals-jacksonville-jaguars",
@@ -937,13 +966,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 80133,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-dallas-cowboys-houston-texans",
@@ -963,13 +993,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 80133,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-green-bay-packers-tampa-bay-buccaneers",
@@ -988,14 +1019,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-los-angeles-rams-philadelphia-eagles",
@@ -1030,14 +1062,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -13,
-      "openSpread": null,
-      "currentLine": -13,
+      "currentSpread": -13.5,
+      "openSpread": -13.5,
+      "currentLine": -13.5,
       "ticketCount": 47770,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "nfl-denver-broncos-san-francisco-49ers",
@@ -1056,14 +1089,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -13,
-      "openSpread": null,
-      "currentLine": -13,
+      "currentSpread": -13.5,
+      "openSpread": -13.5,
+      "currentLine": -13.5,
       "ticketCount": 47770,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "nfl-kansas-city-chiefs-las-vegas-raiders",
@@ -1115,13 +1149,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 2.5,
-      "openSpread": null,
+      "openSpread": 2.5,
       "currentLine": 2.5,
       "ticketCount": 62003,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 2.5
     },
     {
       "gameId": "nfl-atlanta-falcons-new-orleans-saints",
@@ -1140,14 +1175,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-dallas-cowboys-tampa-bay-buccaneers",
@@ -1166,14 +1202,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-jacksonville-jaguars-philadelphia-eagles",
@@ -1193,13 +1230,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 55869,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-cincinnati-bengals-miami-dolphins",
@@ -1219,13 +1257,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 80133,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-cleveland-browns-new-york-jets",
@@ -1244,14 +1283,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-houston-texans-tennessee-titans",
@@ -1271,13 +1311,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 7,
-      "openSpread": null,
+      "openSpread": 7.0,
       "currentLine": 7,
       "ticketCount": 79047,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 7.0
     },
     {
       "gameId": "nfl-indianapolis-colts-pittsburgh-steelers",
@@ -1297,13 +1338,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6,
-      "openSpread": null,
+      "openSpread": -6.0,
       "currentLine": -6,
       "ticketCount": 49967,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.0
     },
     {
       "gameId": "nfl-las-vegas-raiders-new-england-patriots",
@@ -1323,13 +1365,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -5.5,
-      "openSpread": null,
+      "openSpread": -5.5,
       "currentLine": -5.5,
       "ticketCount": 60483,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -5.5
     },
     {
       "gameId": "nfl-minnesota-vikings-new-orleans-saints",
@@ -1349,13 +1392,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4.5,
-      "openSpread": null,
+      "openSpread": -4.5,
       "currentLine": -4.5,
       "ticketCount": 84601,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.5
     },
     {
       "gameId": "nfl-new-york-giants-washington-commanders",
@@ -1375,13 +1419,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -7,
-      "openSpread": null,
+      "openSpread": -7.0,
       "currentLine": -7,
       "ticketCount": 28646,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.0
     },
     {
       "gameId": "nfl-denver-broncos-los-angeles-chargers",
@@ -1401,13 +1446,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6.5,
-      "openSpread": null,
+      "openSpread": -6.5,
       "currentLine": -6.5,
       "ticketCount": 40662,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.5
     },
     {
       "gameId": "nfl-arizona-cardinals-detroit-lions",
@@ -1442,14 +1488,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-san-francisco-49ers-seattle-seahawks",
@@ -1484,14 +1531,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 79855,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-buffalo-bills-los-angeles-rams",
@@ -1511,13 +1559,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -7,
-      "openSpread": null,
+      "openSpread": -7.0,
       "currentLine": -7,
       "ticketCount": 28646,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.0
     },
     {
       "gameId": "nfl-denver-broncos-seattle-seahawks",
@@ -1569,13 +1618,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4.5,
-      "openSpread": null,
+      "openSpread": -4.5,
       "currentLine": -4.5,
       "ticketCount": 84601,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.5
     },
     {
       "gameId": "nfl-baltimore-ravens-cleveland-browns",
@@ -1611,13 +1661,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 2.5,
-      "openSpread": null,
+      "openSpread": 2.5,
       "currentLine": 2.5,
       "ticketCount": 62003,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 2.5
     },
     {
       "gameId": "nfl-indianapolis-colts-tennessee-titans",
@@ -1637,13 +1688,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 7,
-      "openSpread": null,
+      "openSpread": 7.0,
       "currentLine": 7,
       "ticketCount": 79047,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 7.0
     },
     {
       "gameId": "nfl-new-england-patriots-new-york-jets",
@@ -1662,14 +1714,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-new-orleans-saints-new-york-giants",
@@ -1688,14 +1741,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 79855,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-pittsburgh-steelers-tampa-bay-buccaneers",
@@ -1714,14 +1768,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-arizona-cardinals-los-angeles-rams",
@@ -1741,13 +1796,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -7,
-      "openSpread": null,
+      "openSpread": -7.0,
       "currentLine": -7,
       "ticketCount": 28646,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.0
     },
     {
       "gameId": "nfl-buffalo-bills-las-vegas-raiders",
@@ -1783,13 +1839,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6.5,
-      "openSpread": null,
+      "openSpread": -6.5,
       "currentLine": -6.5,
       "ticketCount": 40662,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.5
     },
     {
       "gameId": "nfl-dallas-cowboys-green-bay-packers",
@@ -1808,14 +1865,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-san-francisco-49ers-washington-commanders",
@@ -1851,13 +1909,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -5.5,
-      "openSpread": null,
+      "openSpread": -5.5,
       "currentLine": -5.5,
       "ticketCount": 60483,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -5.5
     },
     {
       "gameId": "nfl-new-orleans-saints-pittsburgh-steelers",
@@ -1876,14 +1935,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 79855,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-atlanta-falcons-san-francisco-49ers",
@@ -1902,14 +1962,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -13,
-      "openSpread": null,
-      "currentLine": -13,
+      "currentSpread": -13.5,
+      "openSpread": -13.5,
+      "currentLine": -13.5,
       "ticketCount": 47770,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "nfl-baltimore-ravens-cincinnati-bengals",
@@ -2008,14 +2069,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -9,
-      "openSpread": null,
-      "currentLine": -9,
+      "currentSpread": -8.5,
+      "openSpread": -8.5,
+      "currentLine": -8.5,
       "ticketCount": 73009,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "nfl-bengals-texans",
@@ -2035,13 +2097,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 80133,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-ravens-saints",
@@ -2077,13 +2140,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 7,
-      "openSpread": null,
+      "openSpread": 7.0,
       "currentLine": 7,
       "ticketCount": 79047,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 7.0
     },
     {
       "gameId": "nfl-chargers-raiders",
@@ -2135,13 +2199,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 55343,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "nfl-cardinals-seahawks",
@@ -2209,13 +2274,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -7,
-      "openSpread": null,
+      "openSpread": -7.0,
       "currentLine": -7,
       "ticketCount": 28646,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.0
     },
     {
       "gameId": "nfl-bills-lions",
@@ -2267,13 +2333,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -5.5,
-      "openSpread": null,
+      "openSpread": -5.5,
       "currentLine": -5.5,
       "ticketCount": 60483,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -5.5
     },
     {
       "gameId": "nfl-minnesota-vikings-san-francisco-49ers",
@@ -2292,14 +2359,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -13,
-      "openSpread": null,
-      "currentLine": -13,
+      "currentSpread": -13.5,
+      "openSpread": -13.5,
+      "currentLine": -13.5,
       "ticketCount": 47770,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "nfl-green-bay-packers-los-angeles-rams",
@@ -2318,14 +2386,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 3,
-      "openSpread": null,
-      "currentLine": 3,
+      "currentSpread": 3.5,
+      "openSpread": 3.5,
+      "currentLine": 3.5,
       "ticketCount": 64209,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "nfl-chicago-bears-detroit-lions",
@@ -2377,13 +2446,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -6,
-      "openSpread": null,
+      "openSpread": -6.0,
       "currentLine": -6,
       "ticketCount": 49967,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -6.0
     },
     {
       "gameId": "nfl-denver-broncos-pittsburgh-steelers",
@@ -2435,13 +2505,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 55869,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "nfl-los-angeles-rams-seattle-seahawks",
@@ -2477,13 +2548,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-east-texas-a-m-tulsa",
@@ -2503,13 +2575,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 706,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-louisiana-lafayette-uab",
@@ -2529,13 +2602,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 11.5,
-      "openSpread": null,
+      "openSpread": 11.5,
       "currentLine": 11.5,
       "ticketCount": 161,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 11.5
     },
     {
       "gameId": "ncaaf-texas-utsa",
@@ -2555,13 +2629,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 706,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-boise-state-south-dakota-coyotes",
@@ -2581,13 +2656,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 8,
-      "openSpread": null,
+      "openSpread": 8.0,
       "currentLine": 8,
       "ticketCount": 196,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 8.0
     },
     {
       "gameId": "ncaaf-james-madison-san-diego-state",
@@ -2607,13 +2683,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 156,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-arizona-northern-illinois",
@@ -2633,13 +2710,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 12.5,
-      "openSpread": null,
+      "openSpread": 12.5,
       "currentLine": 12.5,
       "ticketCount": 65,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 12.5
     },
     {
       "gameId": "ncaaf-cs-sacramento-north-dakota-state",
@@ -2659,13 +2737,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -13.5,
-      "openSpread": null,
+      "openSpread": -13.5,
       "currentLine": -13.5,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "ncaaf-fresno-state-san-jose-state",
@@ -2685,13 +2764,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "ncaaf-montana-grizzlies-oregon-state",
@@ -2711,13 +2791,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-purdue-ucla",
@@ -2779,13 +2860,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 3.5,
-      "openSpread": null,
+      "openSpread": 3.5,
       "currentLine": 3.5,
       "ticketCount": 90,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "ncaaf-navy-uab",
@@ -2805,13 +2887,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 11.5,
-      "openSpread": null,
+      "openSpread": 11.5,
       "currentLine": 11.5,
       "ticketCount": 161,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 11.5
     },
     {
       "gameId": "ncaaf-indiana-northwestern",
@@ -2879,13 +2962,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "ncaaf-baylor-colorado-buffaloes",
@@ -2921,13 +3005,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-colorado-state-rams-utsa",
@@ -2947,13 +3032,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -12.5,
-      "openSpread": null,
+      "openSpread": -12.5,
       "currentLine": -12.5,
       "ticketCount": 80,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -12.5
     },
     {
       "gameId": "ncaaf-illinois-ohio-state",
@@ -2973,13 +3059,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-louisville-wake-forest",
@@ -3015,13 +3102,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 151,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "ncaaf-tennessee-texas",
@@ -3041,13 +3129,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-kentucky-south-alabama",
@@ -3067,13 +3156,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -11.5,
-      "openSpread": null,
+      "openSpread": -11.5,
       "currentLine": -11.5,
       "ticketCount": 530,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -11.5
     },
     {
       "gameId": "ncaaf-maryland-ucla",
@@ -3109,13 +3199,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-notre-dame-purdue",
@@ -3135,13 +3226,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 27.5,
-      "openSpread": null,
+      "openSpread": 27.5,
       "currentLine": 27.5,
       "ticketCount": 151,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 27.5
     },
     {
       "gameId": "ncaaf-hawaii-wyoming",
@@ -3161,13 +3253,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 50,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-connecticut-miami-oh",
@@ -3187,13 +3280,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -3.5,
-      "openSpread": null,
+      "openSpread": -3.5,
       "currentLine": -3.5,
       "ticketCount": 70,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -3.5
     },
     {
       "gameId": "ncaaf-florida-gators-ole-miss",
@@ -3213,13 +3307,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 15.5,
-      "openSpread": null,
+      "openSpread": 15.5,
       "currentLine": 15.5,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 15.5
     },
     {
       "gameId": "ncaaf-georgia-oklahoma",
@@ -3239,13 +3334,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 65,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-iowa-michigan",
@@ -3265,13 +3361,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4.5,
-      "openSpread": null,
+      "openSpread": -4.5,
       "currentLine": -4.5,
       "ticketCount": 727,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.5
     },
     {
       "gameId": "ncaaf-iowa-state-utah",
@@ -3291,13 +3388,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-new-mexico-new-mexico-state",
@@ -3317,13 +3415,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 13.5,
-      "openSpread": null,
+      "openSpread": 13.5,
       "currentLine": 13.5,
       "ticketCount": 111,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 13.5
     },
     {
       "gameId": "ncaaf-tcu-ucf",
@@ -3343,13 +3442,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 3.5,
-      "openSpread": null,
+      "openSpread": 3.5,
       "currentLine": 3.5,
       "ticketCount": 111,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 3.5
     },
     {
       "gameId": "ncaaf-boise-state-western-michigan",
@@ -3369,13 +3469,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 8,
-      "openSpread": null,
+      "openSpread": 8.0,
       "currentLine": 8,
       "ticketCount": 196,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 8.0
     },
     {
       "gameId": "ncaaf-georgia-southern-houston",
@@ -3395,13 +3496,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -18.5,
-      "openSpread": null,
+      "openSpread": -18.5,
       "currentLine": -18.5,
       "ticketCount": 55,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -18.5
     },
     {
       "gameId": "ncaaf-auburn-vanderbilt",
@@ -3463,13 +3565,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-penn-state-wisconsin",
@@ -3489,13 +3592,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-delaware-fightin-virginia",
@@ -3515,13 +3619,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -20.5,
-      "openSpread": null,
+      "openSpread": -20.5,
       "currentLine": -20.5,
       "ticketCount": 100,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -20.5
     },
     {
       "gameId": "ncaaf-james-madison-old-dominion-monarchs",
@@ -3541,13 +3646,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 156,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-central-michigan-miami-fl",
@@ -3567,13 +3673,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -42,
-      "openSpread": null,
+      "openSpread": -42.0,
       "currentLine": -42,
       "ticketCount": 131,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -42.0
     },
     {
       "gameId": "ncaaf-charlotte-louisiana-lafayette",
@@ -3609,13 +3716,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 126,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "ncaaf-arkansas-state-kennesaw-state",
@@ -3635,13 +3743,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "ncaaf-cincinnati-bearcats-kansas-state",
@@ -3661,13 +3770,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-jacksonville-state-middle-tennessee-st",
@@ -3687,13 +3797,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-oklahoma-state-west-virginia",
@@ -3713,13 +3824,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 358,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "ncaaf-southern-miss-tulane",
@@ -3739,13 +3851,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -18.5,
-      "openSpread": null,
+      "openSpread": -18.5,
       "currentLine": -18.5,
       "ticketCount": 55,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -18.5
     },
     {
       "gameId": "ncaaf-appalachian-state-mountaineers-north-carolina-state",
@@ -3765,13 +3878,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -13.5,
-      "openSpread": null,
+      "openSpread": -13.5,
       "currentLine": -13.5,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "ncaaf-arizona-washington-state",
@@ -3791,13 +3905,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 12.5,
-      "openSpread": null,
+      "openSpread": 12.5,
       "currentLine": 12.5,
       "ticketCount": 65,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 12.5
     },
     {
       "gameId": "ncaaf-lsu-texas-a-m",
@@ -3817,13 +3932,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-oregon-usc-trojans",
@@ -3843,13 +3959,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 984,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "ncaaf-troy-utah-state",
@@ -3869,13 +3986,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 75,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "ncaaf-mississippi-st-missouri",
@@ -3952,14 +4070,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": 10.5,
-      "openSpread": null,
-      "currentLine": 10.5,
+      "currentSpread": 11.5,
+      "openSpread": 11.5,
+      "currentLine": 11.5,
       "ticketCount": 100,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 11.5
     },
     {
       "gameId": "ncaaf-fresno-state-rice",
@@ -3979,13 +4098,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-air-force-nevada",
@@ -4005,13 +4125,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 75,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-georgia-tech-stanford",
@@ -4031,13 +4152,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 65,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-minnesota-golden-gophers-washington-huskies",
@@ -4057,13 +4179,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -9.5,
-      "openSpread": null,
+      "openSpread": -9.5,
       "currentLine": -9.5,
       "ticketCount": 297,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -9.5
     },
     {
       "gameId": "ncaaf-sam-houston-state-texas-tech",
@@ -4083,13 +4206,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-florida-atlantic-louisiana-monroe",
@@ -4109,13 +4233,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 13.5,
-      "openSpread": null,
+      "openSpread": 13.5,
       "currentLine": 13.5,
       "ticketCount": 70,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 13.5
     },
     {
       "gameId": "ncaaf-missouri-state-southern-methodist",
@@ -4135,13 +4260,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -34.5,
-      "openSpread": null,
+      "openSpread": -34.5,
       "currentLine": -34.5,
       "ticketCount": 75,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -34.5
     },
     {
       "gameId": "ncaaf-clemson-miami-fl",
@@ -4161,13 +4287,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 277,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "ncaaf-north-carolina-notre-dame",
@@ -4213,13 +4340,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-alabama-georgia",
@@ -4239,13 +4367,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -19.5,
-      "openSpread": null,
+      "openSpread": -19.5,
       "currentLine": -19.5,
       "ticketCount": 126,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -19.5
     },
     {
       "gameId": "ncaaf-penn-state-usc-trojans",
@@ -4265,13 +4394,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 984,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "ncaaf-alabama-tennessee",
@@ -4291,13 +4421,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 706,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-auburn-georgia",
@@ -4317,13 +4448,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -9.5,
-      "openSpread": null,
+      "openSpread": -9.5,
       "currentLine": -9.5,
       "ticketCount": 75,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -9.5
     },
     {
       "gameId": "ncaaf-brigham-young-notre-dame",
@@ -4359,13 +4491,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -13.5,
-      "openSpread": null,
+      "openSpread": -13.5,
       "currentLine": -13.5,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "ncaaf-florida-state-miami-fl",
@@ -4385,13 +4518,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-indiana-ohio-state",
@@ -4411,13 +4545,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-kansas-kansas-state",
@@ -4437,13 +4572,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-michigan-penn-state",
@@ -4463,13 +4599,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -10,
-      "openSpread": null,
+      "openSpread": -10.0,
       "currentLine": -10,
       "ticketCount": 1423,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -10.0
     },
     {
       "gameId": "ncaaf-nebraska-oregon",
@@ -4489,13 +4626,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 267,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-duke-virginia",
@@ -4515,13 +4653,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -20.5,
-      "openSpread": null,
+      "openSpread": -20.5,
       "currentLine": -20.5,
       "ticketCount": 100,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -20.5
     },
     {
       "gameId": "ncaaf-alabama-texas-a-m",
@@ -4541,13 +4680,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-houston-utah",
@@ -4567,13 +4707,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-indiana-michigan",
@@ -4619,13 +4760,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 1666,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "ncaaf-florida-gators-georgia",
@@ -4645,13 +4787,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -9.5,
-      "openSpread": null,
+      "openSpread": -9.5,
       "currentLine": -9.5,
       "ticketCount": 75,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -9.5
     },
     {
       "gameId": "ncaaf-clemson-florida-state",
@@ -4697,13 +4840,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 984,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "ncaaf-appalachian-state-mountaineers-charlotte",
@@ -4723,13 +4867,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -13.5,
-      "openSpread": null,
+      "openSpread": -13.5,
       "currentLine": -13.5,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -13.5
     },
     {
       "gameId": "ncaaf-east-carolina-old-dominion-monarchs",
@@ -4749,13 +4894,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 156,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-florida-atlantic-florida-international",
@@ -4801,13 +4947,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-auburn-florida-gators",
@@ -4827,13 +4974,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 1666,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "ncaaf-connecticut-southern-miss",
@@ -4853,13 +5001,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 20,
-      "openSpread": null,
+      "openSpread": 20.0,
       "currentLine": 20,
       "ticketCount": 111,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 20.0
     },
     {
       "gameId": "ncaaf-delaware-state-south-florida",
@@ -4879,13 +5028,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-georgia-southern-jacksonville-state",
@@ -4905,13 +5055,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -8.5,
-      "openSpread": null,
+      "openSpread": -8.5,
       "currentLine": -8.5,
       "ticketCount": 55,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "ncaaf-georgia-state-panthers-ucf",
@@ -4931,13 +5082,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-memphis-ut-martin-skyhawks",
@@ -4973,13 +5125,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -8.5,
-      "openSpread": null,
+      "openSpread": -8.5,
       "currentLine": -8.5,
       "ticketCount": 55,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -8.5
     },
     {
       "gameId": "ncaaf-missouri-troy",
@@ -4999,13 +5152,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -3.5,
-      "openSpread": null,
+      "openSpread": -3.5,
       "currentLine": -3.5,
       "ticketCount": 701,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -3.5
     },
     {
       "gameId": "ncaaf-murray-state-racers-oklahoma-state",
@@ -5025,13 +5179,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "ncaaf-nicholls-state-sam-houston-state",
@@ -5051,13 +5206,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4,
-      "openSpread": null,
+      "openSpread": -4.0,
       "currentLine": -4,
       "ticketCount": 85,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.0
     },
     {
       "gameId": "ncaaf-ohio-south-alabama",
@@ -5077,13 +5233,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -11.5,
-      "openSpread": null,
+      "openSpread": -11.5,
       "currentLine": -11.5,
       "ticketCount": 530,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -11.5
     },
     {
       "gameId": "ncaaf-rice-western-michigan",
@@ -5103,13 +5260,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 8,
-      "openSpread": null,
+      "openSpread": 8.0,
       "currentLine": 8,
       "ticketCount": 196,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 8.0
     },
     {
       "gameId": "ncaaf-nebraska-north-dakota",
@@ -5129,13 +5287,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 267,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-washington-eagles-washington-huskies",
@@ -5155,13 +5314,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -9.5,
-      "openSpread": null,
+      "openSpread": -9.5,
       "currentLine": -9.5,
       "ticketCount": 297,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -9.5
     },
     {
       "gameId": "ncaaf-brigham-young-colorado-state-rams",
@@ -5181,13 +5341,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -27,
-      "openSpread": null,
+      "openSpread": -27.0,
       "currentLine": -27,
       "ticketCount": 348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -27.0
     },
     {
       "gameId": "ncaaf-colorado-buffaloes-northwestern",
@@ -5206,14 +5367,15 @@
       "publicBetPct": null,
       "ticketPercentage": null,
       "handlePercentage": null,
-      "currentSpread": -7,
-      "openSpread": null,
-      "currentLine": -7,
+      "currentSpread": -7.5,
+      "openSpread": -7.5,
+      "currentLine": -7.5,
       "ticketCount": 121,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -7.5
     },
     {
       "gameId": "ncaaf-lsu-ole-miss",
@@ -5249,13 +5411,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-michigan-state-notre-dame",
@@ -5275,13 +5438,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-new-mexico-oklahoma",
@@ -5301,13 +5465,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 13.5,
-      "openSpread": null,
+      "openSpread": 13.5,
       "currentLine": 13.5,
       "ticketCount": 111,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 13.5
     },
     {
       "gameId": "ncaaf-virginia-west-virginia",
@@ -5327,13 +5492,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 358,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "ncaaf-kennesaw-state-tennessee",
@@ -5353,13 +5519,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -4.5,
-      "openSpread": null,
+      "openSpread": -4.5,
       "currentLine": -4.5,
       "ticketCount": 65,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -4.5
     },
     {
       "gameId": "ncaaf-alabama-lsu",
@@ -5379,13 +5546,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -19.5,
-      "openSpread": null,
+      "openSpread": -19.5,
       "currentLine": -19.5,
       "ticketCount": 126,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -19.5
     },
     {
       "gameId": "ncaaf-brigham-young-utah",
@@ -5405,13 +5573,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -2.5,
-      "openSpread": null,
+      "openSpread": -2.5,
       "currentLine": -2.5,
       "ticketCount": 75,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -2.5
     },
     {
       "gameId": "ncaaf-georgia-ole-miss",
@@ -5431,13 +5600,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 5.5,
-      "openSpread": null,
+      "openSpread": 5.5,
       "currentLine": 5.5,
       "ticketCount": 65,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 5.5
     },
     {
       "gameId": "ncaaf-michigan-michigan-state",
@@ -5457,13 +5627,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 4.5,
-      "openSpread": null,
+      "openSpread": 4.5,
       "currentLine": 4.5,
       "ticketCount": 267,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 4.5
     },
     {
       "gameId": "ncaaf-ohio-state-oregon",
@@ -5483,13 +5654,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -37.5,
-      "openSpread": null,
+      "openSpread": -37.5,
       "currentLine": -37.5,
       "ticketCount": 146,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -37.5
     },
     {
       "gameId": "ncaaf-miami-fl-notre-dame",
@@ -5525,13 +5697,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -3.5,
-      "openSpread": null,
+      "openSpread": -3.5,
       "currentLine": -3.5,
       "ticketCount": 70,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -3.5
     },
     {
       "gameId": "mlb-arizona-diamondbacks-new-york-yankees",
@@ -5551,13 +5724,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 2090,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "mlb-colorado-rockies-seattle-mariners",
@@ -5593,13 +5767,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 1348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "mlb-los-angeles-dodgers-san-francisco-giants",
@@ -5619,13 +5794,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 1348,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "mlb-los-angeles-angels-minnesota-twins",
@@ -5661,13 +5837,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 1393,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "mlb-kansas-city-royals-pittsburgh-pirates",
@@ -5687,13 +5864,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 1110,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "mlb-athletics-cleveland-guardians",
@@ -5713,13 +5891,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 2039,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "mlb-boston-red-sox-tampa-bay-rays",
@@ -5739,13 +5918,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 1701,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "mlb-chicago-cubs-cincinnati-reds",
@@ -5765,13 +5945,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 1.5,
-      "openSpread": null,
+      "openSpread": 1.5,
       "currentLine": 1.5,
       "ticketCount": 1297,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 1.5
     },
     {
       "gameId": "mlb-atlanta-braves-houston-astros",
@@ -5791,13 +5972,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 1767,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "mlb-chicago-white-sox-detroit-tigers",
@@ -5817,13 +5999,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 1701,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "mlb-st-louis-cardinals-washington-nationals",
@@ -5891,13 +6074,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": -1.5,
-      "openSpread": null,
+      "openSpread": -1.5,
       "currentLine": -1.5,
       "ticketCount": 1701,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": -1.5
     },
     {
       "gameId": "wta-manchester-united-fulham",
@@ -8708,7 +8892,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T15:17:26+00:00",
+            "as_of": "2026-09-20T15:20:31+00:00",
             "away_depth_at_price_usd": 22536.0,
             "away_depth_usd": 22536.0,
             "away_odds": 733,
@@ -13088,7 +13272,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T15:17:26+00:00",
+            "as_of": "2026-09-20T15:20:31+00:00",
             "away_depth_at_price_usd": 97900.0,
             "away_depth_usd": 97900.0,
             "away_odds": -809,
@@ -36625,7 +36809,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T15:17:26+00:00",
+            "as_of": "2026-09-20T15:20:31+00:00",
             "away_depth_at_price_usd": 22536.0,
             "away_depth_usd": 22536.0,
             "away_odds": 733,
@@ -41005,7 +41189,7 @@
         {
           "book": "novig",
           "prices": {
-            "as_of": "2026-09-20T15:17:26+00:00",
+            "as_of": "2026-09-20T15:20:31+00:00",
             "away_depth_at_price_usd": 97900.0,
             "away_depth_usd": 97900.0,
             "away_odds": -809,
@@ -61783,13 +61967,14 @@
       "ticketPercentage": null,
       "handlePercentage": null,
       "currentSpread": 14.5,
-      "openSpread": null,
+      "openSpread": 14.5,
       "currentLine": 14.5,
       "ticketCount": 918,
       "splitsSource": "actionnetwork",
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": null
+      "divergence": null,
+      "fairSpread": 14.5
     },
     {
       "gameId": "wnba-indiana-fever-washington-mystics",
