@@ -23,7 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "823329",
@@ -262,25 +262,76 @@
       "eventId": "823896",
       "home": "Los Angeles Dodgers",
       "away": "San Francisco Giants",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Brennan Miller",
+      "crew": [
+        {
+          "name": "Brennan Miller",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ben May",
+          "type": "First Base"
+        },
+        {
+          "name": "Louie Krupa",
+          "type": "Second Base"
+        },
+        {
+          "name": "John Tumpane",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823247",
       "home": "San Diego Padres",
       "away": "Miami Marlins",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Nick Mahrley",
+      "crew": [
+        {
+          "name": "Nick Mahrley",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ryan Blakney",
+          "type": "First Base"
+        },
+        {
+          "name": "Marvin Hudson",
+          "type": "Second Base"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "825028",
       "home": "Arizona Diamondbacks",
       "away": "New York Yankees",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Cory Blaser",
+      "crew": [
+        {
+          "name": "Cory Blaser",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Andy Fletcher",
+          "type": "First Base"
+        },
+        {
+          "name": "Jansen Visconti",
+          "type": "Second Base"
+        },
+        {
+          "name": "Alex Tosi",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824789",
@@ -349,17 +400,17 @@
     },
     {
       "gamePk": 823896,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823896"
     },
     {
       "gamePk": 823247,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823247"
     },
     {
       "gamePk": 825028,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=825028"
     },
     {

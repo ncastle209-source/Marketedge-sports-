@@ -347,8 +347,25 @@
       "divergence": null,
       "fairSpread": -13.5,
       "historyPoints": 1,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "Nick Mahrley",
+      "umpCrew": [
+        {
+          "name": "Nick Mahrley",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ryan Blakney",
+          "type": "First Base"
+        },
+        {
+          "name": "Marvin Hudson",
+          "type": "Second Base"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "Walker Buehler",
       "awayPitcher": "Sandy Alcantara"
     },
@@ -5032,8 +5049,25 @@
       "divergence": null,
       "fairSpread": -1.5,
       "historyPoints": 1,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "Nick Mahrley",
+      "umpCrew": [
+        {
+          "name": "Nick Mahrley",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ryan Blakney",
+          "type": "First Base"
+        },
+        {
+          "name": "Marvin Hudson",
+          "type": "Second Base"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "Walker Buehler",
       "awayPitcher": "Sandy Alcantara"
     },

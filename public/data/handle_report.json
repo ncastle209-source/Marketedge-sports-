@@ -1,6 +1,34 @@
 {
   "attempts": [
     {
+      "source": "sharpapi",
+      "sport": "mlb",
+      "ok": false,
+      "error": "no SHARPAPI_KEY"
+    },
+    {
+      "source": "sharpapi",
+      "sport": "ncaaf",
+      "ok": false,
+      "error": "no SHARPAPI_KEY"
+    },
+    {
+      "source": "sharpapi",
+      "sport": "nfl",
+      "ok": false,
+      "error": "no SHARPAPI_KEY"
+    },
+    {
+      "source": "sharpapi",
+      "sport": "wnba",
+      "ok": false,
+      "error": "no SHARPAPI_KEY"
+    },
+    {
+      "source": "sharpapi",
+      "filled_this_step": 0
+    },
+    {
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
