@@ -7,7 +7,7 @@
   ],
   "period": "2h",
   "mode": "cascade",
-  "pulled_at": "2026-09-21T12:40:27.089839+00:00",
+  "pulled_at": "2026-09-21T18:32:50.704907+00:00",
   "results": {
     "nfl": {
       "sport": "nfl",
@@ -16,18 +16,18 @@
       "winner": "oddsportal",
       "from_cache": true,
       "hold_stats": {
-        "fresh": 80,
+        "fresh": 34,
         "reused": 0,
-        "carried": 39
+        "carried": 85
       },
       "event_count": 119,
-      "pulled_at": "2026-09-21T12:40:26.379986+00:00",
+      "pulled_at": "2026-09-21T18:32:49.849775+00:00",
       "attempts": [
         {
           "source": "oddsportal",
           "ok": true,
-          "count": 80,
-          "at": "2026-09-21T12:40:24.381421+00:00",
+          "count": 34,
+          "at": "2026-09-21T18:32:48.556753+00:00",
           "error": null
         }
       ],
@@ -43,7 +43,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/kansas-city-chiefs-vienoNr7/#OSq5bCX9",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -56,7 +56,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/new-york-giants-lIrBvlxF/#URBxt4Hr",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -69,7 +69,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/green-bay-packers-O6ksuA72/#2uApvrne",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -82,7 +82,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/los-angeles-chargers-K0iU7PXK/#A5DhxMG7",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -95,7 +95,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/cleveland-browns-KfzTWqa1/#zq5v0P8E",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -108,7 +108,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/pittsburgh-steelers-AXWJxS6R/#dbZk7tGs",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -121,7 +121,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/detroit-lions-boZWV3E7/new-york-jets-Q9nr9QzE/#8d3nb3wR",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -134,7 +134,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/indianapolis-colts-OOp2WPqe/#vufIhs1l",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -147,7 +147,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/jacksonville-jaguars-QwhQ85IE/new-england-patriots-G6oNfmi8/#n5cQjLV0",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -160,7 +160,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/miami-dolphins-WQivmqEf/#KIeYla0D",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -173,7 +173,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/new-york-giants-lIrBvlxF/tennessee-titans-nmgM9o38/#QFrKC2hK",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -186,7 +186,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/seattle-seahawks-f5h1oOee/washington-commanders-pYobX5Ul/#UBXc5Kpf",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -199,7 +199,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/san-francisco-49ers-jBnfYoFr/#xxy63bF6",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -212,7 +212,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/tampa-bay-buccaneers-40on8pjK/#UqgD1xpJ",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -225,7 +225,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/dallas-cowboys-S8sFw8iL/#hMWUJJam",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -238,7 +238,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/new-orleans-saints-lSi5prB1/#MwtaPuxQ",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -251,7 +251,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/los-angeles-rams-z7hZioyR/#0nzwIcUa",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -264,20 +264,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/philadelphia-eagles-dGgVhRLK/#YaYpGyaC",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Pittsburgh Steelers",
-          "away": "Cleveland Browns",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/pittsburgh-steelers-AXWJxS6R/#KGWhEFTO",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -290,202 +277,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/washington-commanders-pYobX5Ul/#AuC2YIEt",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New York Giants",
-          "away": "Arizona Cardinals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/new-york-giants-lIrBvlxF/#2ZYiWmkA",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tennessee Titans",
-          "away": "Baltimore Ravens",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/tennessee-titans-nmgM9o38/#rgAAWdqg",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New England Patriots",
-          "away": "Buffalo Bills",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/new-england-patriots-G6oNfmi8/#jJDIUzE5",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New York Jets",
-          "away": "Chicago Bears",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-york-jets-Q9nr9QzE/#dGGQSErI",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Jacksonville Jaguars",
-          "away": "Cincinnati Bengals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/jacksonville-jaguars-QwhQ85IE/#S2wbA6Sj",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Houston Texans",
-          "away": "Dallas Cowboys",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/houston-texans-SIj9q2Q7/#f9VqY9Kc",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tampa Bay Buccaneers",
-          "away": "Green Bay Packers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/tampa-bay-buccaneers-40on8pjK/#WWXUO5sp",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Philadelphia Eagles",
-          "away": "Los Angeles Rams",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/philadelphia-eagles-dGgVhRLK/#zmXaURJM",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Minnesota Vikings",
-          "away": "Miami Dolphins",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/miami-dolphins-WQivmqEf/minnesota-vikings-IsfjpsbD/#vcywNqCd",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "San Francisco 49Ers",
-          "away": "Denver Broncos",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/san-francisco-49ers-jBnfYoFr/#pEUvs53S",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Las Vegas Raiders",
-          "away": "Kansas City Chiefs",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/las-vegas-raiders-Ei4Qg76E/#WjOOpm43",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Seattle Seahawks",
-          "away": "Los Angeles Chargers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-chargers-K0iU7PXK/seattle-seahawks-f5h1oOee/#vHRWrRYF",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Detroit Lions",
-          "away": "Carolina Panthers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/detroit-lions-boZWV3E7/#tpGAyqRk",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New Orleans Saints",
-          "away": "Atlanta Falcons",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/new-orleans-saints-lSi5prB1/#lAJIZMe2",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tampa Bay Buccaneers",
-          "away": "Dallas Cowboys",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/tampa-bay-buccaneers-40on8pjK/#Iqb2sZE8",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -498,189 +290,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/jacksonville-jaguars-QwhQ85IE/philadelphia-eagles-dGgVhRLK/#jcdAuDqL",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Miami Dolphins",
-          "away": "Cincinnati Bengals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/miami-dolphins-WQivmqEf/#0Wstzi7r",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New York Jets",
-          "away": "Cleveland Browns",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/new-york-jets-Q9nr9QzE/#8GyrfCbE",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tennessee Titans",
-          "away": "Houston Texans",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/tennessee-titans-nmgM9o38/#dfuLnUjl",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Pittsburgh Steelers",
-          "away": "Indianapolis Colts",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/pittsburgh-steelers-AXWJxS6R/#0OgkhjTQ",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New England Patriots",
-          "away": "Las Vegas Raiders",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/new-england-patriots-G6oNfmi8/#8dolYUye",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New Orleans Saints",
-          "away": "Minnesota Vikings",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/new-orleans-saints-lSi5prB1/#tAqdW867",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Washington Commanders",
-          "away": "New York Giants",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/new-york-giants-lIrBvlxF/washington-commanders-pYobX5Ul/#4KrTp8L0",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Los Angeles Chargers",
-          "away": "Denver Broncos",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/los-angeles-chargers-K0iU7PXK/#CpnyqnjD",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Detroit Lions",
-          "away": "Arizona Cardinals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/detroit-lions-boZWV3E7/#2Dcnj3ct",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Green Bay Packers",
-          "away": "Chicago Bears",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/green-bay-packers-O6ksuA72/#lUeflsSh",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Seattle Seahawks",
-          "away": "San Francisco 49Ers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/seattle-seahawks-f5h1oOee/#dfa2nLd5",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Baltimore Ravens",
-          "away": "Atlanta Falcons",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/baltimore-ravens-pUern3T0/#U7cApaRH",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Los Angeles Rams",
-          "away": "Buffalo Bills",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/los-angeles-rams-z7hZioyR/#xY0IrwdU",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Seattle Seahawks",
-          "away": "Denver Broncos",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/seattle-seahawks-f5h1oOee/#QTuS2tsn",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -693,176 +303,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/jacksonville-jaguars-QwhQ85IE/#bsvz1KBb",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Chicago Bears",
-          "away": "Atlanta Falcons",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/chicago-bears-2clovUM8/#67srabtB",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Cleveland Browns",
-          "away": "Baltimore Ravens",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cleveland-browns-KfzTWqa1/#EXpjcxBN",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Philadelphia Eagles",
-          "away": "Carolina Panthers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/philadelphia-eagles-dGgVhRLK/#rkzNByQG",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tennessee Titans",
-          "away": "Indianapolis Colts",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/tennessee-titans-nmgM9o38/#A3WLiGYp",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New York Jets",
-          "away": "New England Patriots",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/new-england-patriots-G6oNfmi8/new-york-jets-Q9nr9QzE/#2BY6FJQi",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New York Giants",
-          "away": "New Orleans Saints",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/new-orleans-saints-lSi5prB1/new-york-giants-lIrBvlxF/#AyxFDce4",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tampa Bay Buccaneers",
-          "away": "Pittsburgh Steelers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/pittsburgh-steelers-AXWJxS6R/tampa-bay-buccaneers-40on8pjK/#jFwV9FfT",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Los Angeles Rams",
-          "away": "Arizona Cardinals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/los-angeles-rams-z7hZioyR/#KUT04gIj",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Las Vegas Raiders",
-          "away": "Buffalo Bills",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/las-vegas-raiders-Ei4Qg76E/#KlKfQzuA",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Los Angeles Chargers",
-          "away": "Kansas City Chiefs",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/los-angeles-chargers-K0iU7PXK/#COGnSdAc",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Green Bay Packers",
-          "away": "Dallas Cowboys",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/green-bay-packers-O6ksuA72/#SEN2OE9M",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Washington Commanders",
-          "away": "San Francisco 49Ers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/washington-commanders-pYobX5Ul/#Op9YIhXq",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New England Patriots",
-          "away": "Chicago Bears",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-england-patriots-G6oNfmi8/#A17tHW1d",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
         },
         {
           "source": "oddsportal",
@@ -875,7 +316,793 @@
           "url": "https://www.oddsportal.com/american-football/h2h/new-orleans-saints-lSi5prB1/pittsburgh-steelers-AXWJxS6R/#x8aSvzf3",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Cincinnati Bengals",
+          "away": "Atlanta Falcons",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/cincinnati-bengals-bwahmpRr/#KhYcmGak",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New England Patriots",
+          "away": "Detroit Lions",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/detroit-lions-boZWV3E7/new-england-patriots-G6oNfmi8/#jDdbP9C6",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "San Francisco 49Ers",
+          "away": "Minnesota Vikings",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/san-francisco-49ers-jBnfYoFr/#nehxa7af",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Los Angeles Rams",
+          "away": "Green Bay Packers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/los-angeles-rams-z7hZioyR/#2oahePbJ",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Detroit Lions",
+          "away": "Chicago Bears",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/detroit-lions-boZWV3E7/#d8Yy3yIP",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Philadelphia Eagles",
+          "away": "Dallas Cowboys",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/philadelphia-eagles-dGgVhRLK/#hhZ6cFum",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Kansas City Chiefs",
+          "away": "Buffalo Bills",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/kansas-city-chiefs-vienoNr7/#0IxFegAa",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Pittsburgh Steelers",
+          "away": "Denver Broncos",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/pittsburgh-steelers-AXWJxS6R/#YVzNgXvC",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Philadelphia Eagles",
+          "away": "Houston Texans",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/philadelphia-eagles-dGgVhRLK/#rFsPsn3E",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Green Bay Packers",
+          "away": "Chicago Bears",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/green-bay-packers-O6ksuA72/#lE9dPwmm",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Denver Broncos",
+          "away": "Buffalo Bills",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/denver-broncos-l22ZmPbl/#dvD4NHHa",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Seattle Seahawks",
+          "away": "Los Angeles Rams",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/seattle-seahawks-f5h1oOee/#UiBCLenC",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Pittsburgh Steelers",
+          "away": "Cleveland Browns",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/pittsburgh-steelers-AXWJxS6R/#KGWhEFTO",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New York Giants",
+          "away": "Arizona Cardinals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/new-york-giants-lIrBvlxF/#2ZYiWmkA",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tennessee Titans",
+          "away": "Baltimore Ravens",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/tennessee-titans-nmgM9o38/#rgAAWdqg",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New England Patriots",
+          "away": "Buffalo Bills",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/new-england-patriots-G6oNfmi8/#jJDIUzE5",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New York Jets",
+          "away": "Chicago Bears",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-york-jets-Q9nr9QzE/#dGGQSErI",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Jacksonville Jaguars",
+          "away": "Cincinnati Bengals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/jacksonville-jaguars-QwhQ85IE/#S2wbA6Sj",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Houston Texans",
+          "away": "Dallas Cowboys",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/houston-texans-SIj9q2Q7/#f9VqY9Kc",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tampa Bay Buccaneers",
+          "away": "Green Bay Packers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/tampa-bay-buccaneers-40on8pjK/#WWXUO5sp",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Philadelphia Eagles",
+          "away": "Los Angeles Rams",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/philadelphia-eagles-dGgVhRLK/#zmXaURJM",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Minnesota Vikings",
+          "away": "Miami Dolphins",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/miami-dolphins-WQivmqEf/minnesota-vikings-IsfjpsbD/#vcywNqCd",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "San Francisco 49Ers",
+          "away": "Denver Broncos",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/san-francisco-49ers-jBnfYoFr/#pEUvs53S",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Las Vegas Raiders",
+          "away": "Kansas City Chiefs",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/las-vegas-raiders-Ei4Qg76E/#WjOOpm43",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Seattle Seahawks",
+          "away": "Los Angeles Chargers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-chargers-K0iU7PXK/seattle-seahawks-f5h1oOee/#vHRWrRYF",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Detroit Lions",
+          "away": "Carolina Panthers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/detroit-lions-boZWV3E7/#tpGAyqRk",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New Orleans Saints",
+          "away": "Atlanta Falcons",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/new-orleans-saints-lSi5prB1/#lAJIZMe2",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tampa Bay Buccaneers",
+          "away": "Dallas Cowboys",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/tampa-bay-buccaneers-40on8pjK/#Iqb2sZE8",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Miami Dolphins",
+          "away": "Cincinnati Bengals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/miami-dolphins-WQivmqEf/#0Wstzi7r",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New York Jets",
+          "away": "Cleveland Browns",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/new-york-jets-Q9nr9QzE/#8GyrfCbE",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tennessee Titans",
+          "away": "Houston Texans",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/tennessee-titans-nmgM9o38/#dfuLnUjl",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Pittsburgh Steelers",
+          "away": "Indianapolis Colts",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/pittsburgh-steelers-AXWJxS6R/#0OgkhjTQ",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New England Patriots",
+          "away": "Las Vegas Raiders",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/new-england-patriots-G6oNfmi8/#8dolYUye",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New Orleans Saints",
+          "away": "Minnesota Vikings",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/new-orleans-saints-lSi5prB1/#tAqdW867",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Washington Commanders",
+          "away": "New York Giants",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/new-york-giants-lIrBvlxF/washington-commanders-pYobX5Ul/#4KrTp8L0",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Los Angeles Chargers",
+          "away": "Denver Broncos",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/los-angeles-chargers-K0iU7PXK/#CpnyqnjD",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Detroit Lions",
+          "away": "Arizona Cardinals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/detroit-lions-boZWV3E7/#2Dcnj3ct",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Seattle Seahawks",
+          "away": "San Francisco 49Ers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/seattle-seahawks-f5h1oOee/#dfa2nLd5",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Baltimore Ravens",
+          "away": "Atlanta Falcons",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/baltimore-ravens-pUern3T0/#U7cApaRH",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Los Angeles Rams",
+          "away": "Buffalo Bills",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/los-angeles-rams-z7hZioyR/#xY0IrwdU",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Seattle Seahawks",
+          "away": "Denver Broncos",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/seattle-seahawks-f5h1oOee/#QTuS2tsn",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Chicago Bears",
+          "away": "Atlanta Falcons",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/chicago-bears-2clovUM8/#67srabtB",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Cleveland Browns",
+          "away": "Baltimore Ravens",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cleveland-browns-KfzTWqa1/#EXpjcxBN",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Philadelphia Eagles",
+          "away": "Carolina Panthers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/philadelphia-eagles-dGgVhRLK/#rkzNByQG",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tennessee Titans",
+          "away": "Indianapolis Colts",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/tennessee-titans-nmgM9o38/#A3WLiGYp",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New York Jets",
+          "away": "New England Patriots",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/new-england-patriots-G6oNfmi8/new-york-jets-Q9nr9QzE/#2BY6FJQi",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New York Giants",
+          "away": "New Orleans Saints",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/new-orleans-saints-lSi5prB1/new-york-giants-lIrBvlxF/#AyxFDce4",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tampa Bay Buccaneers",
+          "away": "Pittsburgh Steelers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/pittsburgh-steelers-AXWJxS6R/tampa-bay-buccaneers-40on8pjK/#jFwV9FfT",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Los Angeles Rams",
+          "away": "Arizona Cardinals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/los-angeles-rams-z7hZioyR/#KUT04gIj",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Las Vegas Raiders",
+          "away": "Buffalo Bills",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/las-vegas-raiders-Ei4Qg76E/#KlKfQzuA",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Los Angeles Chargers",
+          "away": "Kansas City Chiefs",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/los-angeles-chargers-K0iU7PXK/#COGnSdAc",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Green Bay Packers",
+          "away": "Dallas Cowboys",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/green-bay-packers-O6ksuA72/#SEN2OE9M",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Washington Commanders",
+          "away": "San Francisco 49Ers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/san-francisco-49ers-jBnfYoFr/washington-commanders-pYobX5Ul/#Op9YIhXq",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New England Patriots",
+          "away": "Chicago Bears",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/new-england-patriots-G6oNfmi8/#A17tHW1d",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -887,8 +1114,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/san-francisco-49ers-jBnfYoFr/#ALczwEOF",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -900,8 +1129,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/cincinnati-bengals-bwahmpRr/#GKP7K58l",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -913,8 +1144,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/tampa-bay-buccaneers-40on8pjK/#8SsFIqw1",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -926,8 +1159,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/tennessee-titans-nmgM9o38/#CrNnXrhf",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -939,8 +1174,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/new-york-giants-lIrBvlxF/#tttNGN7D",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -952,8 +1189,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/indianapolis-colts-OOp2WPqe/minnesota-vikings-IsfjpsbD/#8nY8vRaK",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -965,8 +1204,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/miami-dolphins-WQivmqEf/new-york-jets-Q9nr9QzE/#vVOvZ4Ns",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -978,8 +1219,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/denver-broncos-l22ZmPbl/#baLfVMM6",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -991,8 +1234,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/detroit-lions-boZWV3E7/green-bay-packers-O6ksuA72/#6PO2T0iJ",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -1004,8 +1249,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/los-angeles-rams-z7hZioyR/#bJBli4qQ",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -1017,21 +1264,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/kansas-city-chiefs-vienoNr7/seattle-seahawks-f5h1oOee/#U12Kor7m",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Philadelphia Eagles",
-          "away": "Dallas Cowboys",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/philadelphia-eagles-dGgVhRLK/#za5SqMy0",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -1043,8 +1279,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/carolina-panthers-IoAX6qmR/green-bay-packers-O6ksuA72/#8C3zr06C",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -1056,8 +1294,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/dallas-cowboys-S8sFw8iL/#vFp0bLjg",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -1069,8 +1309,10 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/tampa-bay-buccaneers-40on8pjK/#j9Uxe71b",
           "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00"
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         },
         {
           "source": "oddsportal",
@@ -1083,8 +1325,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/carolina-panthers-IoAX6qmR/#hSRKIzKH",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1098,8 +1340,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/baltimore-ravens-pUern3T0/new-orleans-saints-lSi5prB1/#0hVSGElU",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1113,8 +1355,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/minnesota-vikings-IsfjpsbD/#jHAxyIZo",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1128,8 +1370,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bengals-bwahmpRr/houston-texans-SIj9q2Q7/#OU8pZe4b",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1143,8 +1385,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/cleveland-browns-KfzTWqa1/tampa-bay-buccaneers-40on8pjK/#EsdWPiRp",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1158,8 +1400,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/new-york-jets-Q9nr9QzE/#IBA0VD3N",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1173,8 +1415,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/new-england-patriots-G6oNfmi8/pittsburgh-steelers-AXWJxS6R/#Ao7hXZYA",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1188,8 +1430,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/philadelphia-eagles-dGgVhRLK/tennessee-titans-nmgM9o38/#tllImeJi",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1203,8 +1445,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/jacksonville-jaguars-QwhQ85IE/inplay-odds/#noiQoZm4",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1218,8 +1460,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/las-vegas-raiders-Ei4Qg76E/los-angeles-chargers-K0iU7PXK/inplay-odds/#KbkYqDIG",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1233,8 +1475,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-cardinals-6guNl5qr/seattle-seahawks-f5h1oOee/inplay-odds/#SOhtrimT",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1248,8 +1490,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/dallas-cowboys-S8sFw8iL/washington-commanders-pYobX5Ul/inplay-odds/#b7qCxVAj",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1263,158 +1505,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/miami-dolphins-WQivmqEf/san-francisco-49ers-jBnfYoFr/inplay-odds/#j1Wc0Y2c",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Cincinnati Bengals",
-          "away": "Atlanta Falcons",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/atlanta-falcons-hClIiQIR/cincinnati-bengals-bwahmpRr/#KhYcmGak",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New England Patriots",
-          "away": "Detroit Lions",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/detroit-lions-boZWV3E7/new-england-patriots-G6oNfmi8/#jDdbP9C6",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "San Francisco 49Ers",
-          "away": "Minnesota Vikings",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/minnesota-vikings-IsfjpsbD/san-francisco-49ers-jBnfYoFr/#nehxa7af",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Los Angeles Rams",
-          "away": "Green Bay Packers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/green-bay-packers-O6ksuA72/los-angeles-rams-z7hZioyR/#2oahePbJ",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Detroit Lions",
-          "away": "Chicago Bears",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/chicago-bears-2clovUM8/detroit-lions-boZWV3E7/#d8Yy3yIP",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Kansas City Chiefs",
-          "away": "Buffalo Bills",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/kansas-city-chiefs-vienoNr7/#0IxFegAa",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Pittsburgh Steelers",
-          "away": "Denver Broncos",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/denver-broncos-l22ZmPbl/pittsburgh-steelers-AXWJxS6R/#YVzNgXvC",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Philadelphia Eagles",
-          "away": "Houston Texans",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/houston-texans-SIj9q2Q7/philadelphia-eagles-dGgVhRLK/#rFsPsn3E",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Denver Broncos",
-          "away": "Buffalo Bills",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/buffalo-bills-t2lcn4tk/denver-broncos-l22ZmPbl/#dvD4NHHa",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Seattle Seahawks",
-          "away": "Los Angeles Rams",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/american-football/h2h/los-angeles-rams-z7hZioyR/seattle-seahawks-f5h1oOee/#UiBCLenC",
-          "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1428,8 +1520,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/jets-vs-packers/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1443,8 +1535,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/bears-vs-vikings/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1458,8 +1550,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/patriots-vs-steelers/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1473,8 +1565,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/falcons-vs-panthers/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1488,8 +1580,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/browns-vs-buccaneers/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1503,8 +1595,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/bengals-vs-texans/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1518,8 +1610,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/ravens-vs-saints/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1533,8 +1625,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/eagles-vs-titans/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1548,8 +1640,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/chargers-vs-raiders/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1563,8 +1655,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/broncos-vs-jaguars/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1578,8 +1670,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/commanders-vs-cowboys/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1593,8 +1685,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/cardinals-vs-seahawks/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1608,8 +1700,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/49ers-vs-dolphins/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1623,8 +1715,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/chiefs-vs-colts/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1638,8 +1730,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/giants-vs-rams/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -1653,8 +1745,8 @@
           "url": "https://www.vegasinsider.com/nfl/matchups/bills-vs-lions/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.379678+00:00",
-          "held_from": "2026-09-21T05:59:39.445484+00:00",
+          "pulled_at": "2026-09-21T18:32:49.849513+00:00",
+          "held_from": "2026-09-21T12:40:26.379678+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         }
       ]
@@ -1666,18 +1758,18 @@
       "winner": "oddsportal",
       "from_cache": true,
       "hold_stats": {
-        "fresh": 58,
+        "fresh": 80,
         "reused": 0,
-        "carried": 106
+        "carried": 84
       },
       "event_count": 164,
-      "pulled_at": "2026-09-21T12:40:26.738162+00:00",
+      "pulled_at": "2026-09-21T18:32:50.303860+00:00",
       "attempts": [
         {
           "source": "oddsportal",
           "ok": true,
-          "count": 58,
-          "at": "2026-09-21T12:40:26.381024+00:00",
+          "count": 80,
+          "at": "2026-09-21T18:32:49.851227+00:00",
           "error": null
         }
       ],
@@ -1693,7 +1785,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/coastal-carolina-2F5nDI6U/liberty-flames-tbAxauUk/#S6HtGMR9",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1706,7 +1798,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/army-QXrx8IBf/temple-dISCBy7b/#zFydwEAr",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1719,7 +1811,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/navy-nctXDsq9/uab-U7UlSfyb/#C2m1xJ7b",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1732,7 +1824,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/indiana-zuGiQq0T/northwestern-0prcGEZJ/#8lB9HxXO",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1745,7 +1837,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/california-j74iNytf/clemson-dUIMKguJ/#vkkgvuwn",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1758,7 +1850,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/akron-rcsLFMl8/unlv-rebels-QZNcQY5A/#rkzvU9tA",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1771,7 +1863,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/ball-state-6sip6dt7/kent-state-Oh2rqoV3/#noPHMRYq",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1784,7 +1876,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/baylor-pYkl5GeD/colorado-buffaloes-0QqwTjXu/#bwh9uqK7",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1797,7 +1889,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/boston-college-fi14UJmK/virginia-tech-pG82V7C2/#tfBoNt3m",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1810,7 +1902,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/colorado-state-rams-vHrsSAnn/utsa-rqihXvNg/#vBpXMhQ1",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1823,7 +1915,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/illinois-MyCmRPpN/ohio-state-bLNX9CCm/#WbAtWynI",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1836,7 +1928,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/louisville-Aw4exNxp/wake-forest-O676URR8/#lKEgLKXa",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1849,7 +1941,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/sam-houston-state-pEhaO6uD/texas-tech-tfrb9g6N/#IajgqRKr",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1862,7 +1954,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/san-diego-state-CUAB9bNh/toledo-zHs28DLT/#UHhoWd3F",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1875,7 +1967,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/tennessee-4nSxCeM4/texas-nekkBFyB/#QqQD3e6c",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1888,7 +1980,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/kentucky-zT5nr5pA/south-alabama-rym0JVoO/#fsqlmzMG",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1901,7 +1993,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/maryland-OQ9fappc/ucla-rBYhREj4/#bDjJytIt",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1914,7 +2006,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/georgia-state-panthers-YkmI5QlA/northern-illinois-Q37biVdJ/#zPWVVVBc",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1927,7 +2019,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/notre-dame-vys1FYlQ/purdue-O0QFE0pP/#UiPayXNc",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1940,7 +2032,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/hawaii-Cn6IvS04/wyoming-CItzMs41/#rVqp8SJj",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1953,7 +2045,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/connecticut-nor7SU1h/miami-oh-0EJLcrUF/#vVzRrzmL",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1966,7 +2058,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/florida-gators-rwRINn1H/ole-miss-4bMYjKyd/#ULSYjIMi",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1979,7 +2071,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/georgia-jXH9tlWi/oklahoma-hrNy9WRg/#MTptkdi4",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -1992,7 +2084,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/iowa-hK2JL38p/michigan-fyJPd2qM/#WQlRZJng",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2005,7 +2097,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/iowa-state-WA1NKNNj/utah-8roAPhLG/#SCYYe44l",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2018,7 +2110,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/new-mexico-EFhVegrl/new-mexico-state-dOFseDcf/#jFwnSmBM",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2031,7 +2123,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/tcu-IRT8CHih/ucf-ADGANee0/#dUs31QtR",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2044,7 +2136,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/boise-state-G020VaYD/western-michigan-Qcr6M3Zl/#6HxJpdI8",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2057,7 +2149,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/georgia-southern-l0hoWWLk/houston-d4aWSoGA/#jDl1s5ke",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2070,7 +2162,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/auburn-OI1u7xR0/vanderbilt-Eih874Ke/#2FzmTEUp",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2083,7 +2175,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/bowling-green-xGj9Tw3Q/south-florida-6ySW6d7B/#hhNqlVO0",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2096,7 +2188,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/michigan-state-CdoxdMbS/nebraska-tKuyD1bF/#vihZXcH5",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2109,7 +2201,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/penn-state-4zYM6lRI/wisconsin-4lsALNle/#2oXDDTVj",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2122,7 +2214,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/delaware-fightin-vcj87Pic/virginia-SfdC6OZ1/#CKUL6LI6",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2135,7 +2227,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/james-madison-pSKBbLEq/old-dominion-monarchs-OvOhfqX8/#AuhdQWr2",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2148,7 +2240,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/central-michigan-l4FEMFA6/miami-fl-MNKHbOE9/#4fRD8slf",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2161,7 +2253,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/charlotte-YeKzzLnT/louisiana-lafayette-00I3tqFM/#ruu4yhue",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2174,7 +2266,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/south-carolina-CESS7xh5/#bJo9zcxB",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2187,7 +2279,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arkansas-state-WAqY8bdl/kennesaw-state-b10GXshJ/#nci4rTml",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2200,7 +2292,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/cincinnati-bearcats-rREILZPC/kansas-state-UV2vpRFc/#OGqe3nCE",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2213,7 +2305,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/jacksonville-state-fHqVapVg/middle-tennessee-st-IwO4it7q/#tIVW5NoC",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2226,7 +2318,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/oklahoma-state-zipl8js0/west-virginia-hjeuTPBR/#zwxsfrZ0",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2239,7 +2331,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/southern-miss-tMzngfiU/tulane-dfWtUG6o/#pSJyjifl",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2252,7 +2344,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/appalachian-state-mountaineers-IohhSXhg/north-carolina-state-4lJkgiS6/#8jzkhM3D",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2265,7 +2357,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-jNpTD0JK/washington-state-bTeyU5dL/#C0OL1ZzA",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2278,7 +2370,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/lsu-h2g0yshj/texas-a-m-UJvfAZjH/#27ndoEjT",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2291,7 +2383,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/oregon-WMZE8Ad6/usc-trojans-0tbHXbql/#AVQFXlNM",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2304,7 +2396,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/troy-xQTT3XTp/utah-state-hx4a9Qkq/#zFegUzYR",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2317,7 +2409,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/mississippi-st-rkLxjvi2/missouri-lCNTENT2/#YkwSuhEj",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2330,7 +2422,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arkansas-l2ML9vsr/tulsa-zoVpTzMi/#6qkHYz7N",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2343,7 +2435,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/florida-atlantic-MTPMM6GN/louisiana-monroe-8UHTt3US/#raVccZ1E",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2356,7 +2448,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/cs-sacramento-SSrsZBKH/massachusetts-6TM4dVPh/#tnHRvRfS",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2369,7 +2461,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/missouri-state-ldZu4siM/southern-methodist-2VyrfzxO/#ABKFS2uQ",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2382,7 +2474,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/oregon-state-ADYI7UBC/utep-WS238p5k/#WpsPOEek",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2395,7 +2487,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/fresno-state-xUD5sUGo/rice-Q9CsAKht/#SUFgQ6Fd",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2408,7 +2500,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/air-force-xzuUjwC7/nevada-Iq34eZSs/#EFgEDldT",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2421,7 +2513,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/georgia-tech-Ye7Eu8ob/stanford-Maz0EwNu/#IHXT4amJ",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2434,7 +2526,7 @@
           "url": "https://www.oddsportal.com/american-football/h2h/minnesota-golden-gophers-dUM8j0Mk/washington-huskies-KxcXUosF/#K4CoSSpp",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00"
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2446,10 +2538,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/clemson-dUIMKguJ/miami-fl-MNKHbOE9/#Cjgrrcc3",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2461,10 +2551,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/north-carolina-joFofXC0/notre-dame-vys1FYlQ/#p4ijtySF",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2476,10 +2564,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/oklahoma-hrNy9WRg/texas-nekkBFyB/#SvN7CKP8",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2491,10 +2577,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/georgia-jXH9tlWi/#IDPSast3",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2506,10 +2590,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/penn-state-4zYM6lRI/usc-trojans-0tbHXbql/#KbeRM1qo",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2521,10 +2603,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/tennessee-4nSxCeM4/#O6YknwUg",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2536,10 +2616,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/auburn-OI1u7xR0/georgia-jXH9tlWi/#bPGJ0HRk",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2551,10 +2629,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/brigham-young-EyryPcBs/notre-dame-vys1FYlQ/#tQDN0xqm",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2566,10 +2642,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/duke-QysBRlHb/north-carolina-joFofXC0/#rBebMABN",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2581,10 +2655,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/florida-state-K81FIpvo/miami-fl-MNKHbOE9/#f7jzSEsn",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2596,10 +2668,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/indiana-zuGiQq0T/ohio-state-bLNX9CCm/#KAuWzAQG",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2611,10 +2681,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/kansas-ju4zo70i/kansas-state-UV2vpRFc/#UTIoeYCO",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2626,10 +2694,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/michigan-fyJPd2qM/penn-state-4zYM6lRI/#xE0BGuu2",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2641,10 +2707,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/nebraska-tKuyD1bF/oregon-WMZE8Ad6/#xYj5xN1L",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2656,10 +2720,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/duke-QysBRlHb/virginia-SfdC6OZ1/#08L3feN6",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2671,10 +2733,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/texas-a-m-UJvfAZjH/#WA2TAG7m",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2686,10 +2746,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/houston-d4aWSoGA/utah-8roAPhLG/#My3u9Fgc",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2701,10 +2759,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/indiana-zuGiQq0T/michigan-fyJPd2qM/#MZw0YVM8",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2716,10 +2772,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/ole-miss-4bMYjKyd/texas-nekkBFyB/#GhyAA7D4",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2731,10 +2785,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/florida-gators-rwRINn1H/georgia-jXH9tlWi/#INQmlZIN",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2746,10 +2798,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/clemson-dUIMKguJ/florida-state-K81FIpvo/#xOLRIpOE",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2761,10 +2811,8 @@
           "books": [],
           "url": "https://www.oddsportal.com/american-football/h2h/ohio-state-bLNX9CCm/usc-trojans-0tbHXbql/#AitWI5uC",
           "extra": {},
-          "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
-          "held_reason": "matchup missing on refresh; kept last line"
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00"
         },
         {
           "source": "oddsportal",
@@ -2777,8 +2825,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arkansas-state-WAqY8bdl/tcu-IRT8CHih/#MHCDZ1ZQ",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2792,8 +2840,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/east-texas-a-m-W8X5d8uP/tulsa-zoVpTzMi/#8n8TNJh5",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2807,8 +2855,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/louisiana-lafayette-00I3tqFM/uab-U7UlSfyb/#t06yMcNH",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2822,8 +2870,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/texas-nekkBFyB/utsa-rqihXvNg/#060iNXq4",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2837,8 +2885,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/boise-state-G020VaYD/south-dakota-coyotes-jDPzM2y3/#tMNqBLi2",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2852,8 +2900,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/james-madison-pSKBbLEq/san-diego-state-CUAB9bNh/#ttEwX2EL",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2867,8 +2915,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-jNpTD0JK/northern-illinois-Q37biVdJ/#ITBQOpL8",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2882,8 +2930,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/cs-sacramento-SSrsZBKH/north-dakota-state-fT7coUnQ/#xY0Z0BCN",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2897,8 +2945,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/fresno-state-xUD5sUGo/san-jose-state-fg0G8Ixa/#CO49Rtxq",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2912,8 +2960,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/montana-grizzlies-06i485xi/oregon-state-ADYI7UBC/#8SFVYOq9",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2927,8 +2975,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/purdue-O0QFE0pP/ucla-rBYhREj4/#rqXkMo03",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2942,8 +2990,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/pittsburgh-vs-syracuse/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2957,8 +3005,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/miami-fl-vs-wake-forest/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2972,8 +3020,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/houston-vs-texas-tech/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -2987,8 +3035,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/oregon-vs-portland-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3002,8 +3050,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/coastal-carolina-vs-delaware/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3017,8 +3065,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/kent-state-vs-ohio-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3032,8 +3080,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/clemson-vs-north-carolina/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3047,8 +3095,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/kansas-state-vs-tulane/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3062,8 +3110,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/north-texas-vs-texas-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3077,8 +3125,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/arkansas-vs-georgia/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3092,8 +3140,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/buffalo-vs-penn-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3107,8 +3155,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/akron-vs-minnesota/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3122,8 +3170,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/arizona-state-vs-kansas/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3137,8 +3185,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/georgia-tech-vs-mercer/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3152,8 +3200,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/bowling-green-vs-iowa-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3167,8 +3215,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/eastern-michigan-vs-wisconsin/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3182,8 +3230,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/nc-state-vs-vanderbilt/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3197,8 +3245,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/central-michigan-vs-wyoming/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3212,8 +3260,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/boston-college-vs-maine/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3227,8 +3275,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/illinois-vs-southern-illinois/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3242,8 +3290,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/temple-vs-toledo/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3257,8 +3305,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/california-vs-wagner/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3272,8 +3320,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/duquesne-vs-washington-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3287,8 +3335,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/michigan-vs-utep/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3302,8 +3350,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/stonehill-vs-umass/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3317,8 +3365,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/kentucky-vs-texas-am/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3332,8 +3380,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/rutgers-vs-usc/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3347,8 +3395,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/louisville-vs-smu/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3362,8 +3410,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/cincinnati-vs-miami-oh/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3377,8 +3425,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/utah-vs-utah-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3392,8 +3440,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/baylor-vs-louisiana-tech/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3407,8 +3455,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/indiana-vs-western-kentucky/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3422,8 +3470,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/iowa-vs-northern-iowa/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3437,8 +3485,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/duke-vs-stanford/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3452,8 +3500,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/ball-state-vs-liberty/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3467,8 +3515,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/mississippi-state-vs-south-carolina/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3482,8 +3530,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/louisiana-monroe-vs-southeastern-louisiana/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3497,8 +3545,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/alabama-vs-florida-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3512,8 +3560,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/florida-atlantic-vs-florida-international/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3527,8 +3575,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/appalachian-state-vs-charlotte/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3542,8 +3590,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/east-carolina-vs-old-dominion/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3557,8 +3605,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/marshall-vs-missouri-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3572,8 +3620,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/southern-miss-vs-uconn/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3587,8 +3635,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/murray-state-vs-oklahoma-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3602,8 +3650,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/nicholls-state-vs-sam-houston/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3617,8 +3665,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/memphis-vs-tennessee-martin/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3632,8 +3680,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/georgia-state-vs-ucf/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3647,8 +3695,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/middle-tennessee-vs-nevada/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3662,8 +3710,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/delaware-state-vs-south-florida/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3677,8 +3725,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/georgia-southern-vs-jacksonville-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3692,8 +3740,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/ohio-vs-south-alabama/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3707,8 +3755,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/missouri-vs-troy/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3722,8 +3770,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/rice-vs-western-michigan/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3737,8 +3785,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/auburn-vs-florida/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3752,8 +3800,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/eastern-washington-vs-washington/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3767,8 +3815,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/nebraska-vs-north-dakota/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3782,8 +3830,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/maryland-vs-virginia-tech/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3797,8 +3845,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/colorado-vs-northwestern/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3812,8 +3860,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/michigan-state-vs-notre-dame/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3827,8 +3875,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/new-mexico-vs-oklahoma/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3842,8 +3890,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/lsu-vs-ole-miss/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3857,8 +3905,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/virginia-vs-west-virginia/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3872,8 +3920,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/kennesaw-state-vs-tennessee/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3887,8 +3935,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/east-texas-am-vs-tulsa/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3902,8 +3950,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/louisiana-vs-uab/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3917,8 +3965,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/byu-vs-colorado-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3932,8 +3980,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/boise-state-vs-south-dakota/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3947,8 +3995,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/north-dakota-state-vs-sacramento-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3962,8 +4010,8 @@
           "url": "https://www.vegasinsider.com/college-football/matchups/montana-vs-oregon-state/",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3977,8 +4025,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/miami-fl-MNKHbOE9/notre-dame-vys1FYlQ/#KGEMJuRb",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -3992,8 +4040,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/notre-dame-vys1FYlQ/southern-methodist-2VyrfzxO/#t8fIAWOO",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4007,8 +4055,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/michigan-fyJPd2qM/ohio-state-bLNX9CCm/#pz8IvQee",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4022,8 +4070,8 @@
           "url": "https://www.oddsportal.com/american-football/h2h/arizona-jNpTD0JK/arizona-state-UDqXCKYQ/#O2dWBzMi",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:26.737804+00:00",
-          "held_from": "2026-09-21T05:59:39.884382+00:00",
+          "pulled_at": "2026-09-21T18:32:50.303478+00:00",
+          "held_from": "2026-09-21T12:40:26.737804+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         }
       ]
@@ -4033,206 +4081,24 @@
       "period": "2h",
       "mode": "cascade",
       "winner": "oddsportal",
-      "from_cache": false,
+      "from_cache": true,
       "hold_stats": {
-        "fresh": 19,
+        "fresh": 13,
         "reused": 0,
-        "carried": 0
+        "carried": 14
       },
-      "event_count": 19,
-      "pulled_at": "2026-09-21T12:40:26.921417+00:00",
+      "event_count": 27,
+      "pulled_at": "2026-09-21T18:32:50.527646+00:00",
       "attempts": [
         {
           "source": "oddsportal",
           "ok": true,
-          "count": 19,
-          "at": "2026-09-21T12:40:26.739537+00:00",
+          "count": 13,
+          "at": "2026-09-21T18:32:50.305582+00:00",
           "error": null
         }
       ],
       "events": [
-        {
-          "source": "oddsportal",
-          "home": "Philadelphia Phillies",
-          "away": "New York Mets",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/new-york-mets-I5wWW4UM/philadelphia-phillies-QTNHA4p4/#dxizWQBC",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Pittsburgh Pirates",
-          "away": "Kansas City Royals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/kansas-city-royals-IL2QbgJ4/pittsburgh-pirates-tr9K2SqG/#UPaJZ8Cm",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Cleveland Guardians",
-          "away": "Athletics",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/cleveland-guardians-4K05MrFG/#AuJnuVlQ",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Tampa Bay Rays",
-          "away": "Boston Red Sox",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/tampa-bay-rays-GCHgI4hp/#zN2RXns0",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Cincinnati Reds",
-          "away": "Chicago Cubs",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/chicago-cubs-j7ZnBQFi/cincinnati-reds-EkWXj6U9/#IoW0HRdJ",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Houston Astros",
-          "away": "Atlanta Braves",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/houston-astros-lfZXonNq/#I9AbWfNh",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Detroit Tigers",
-          "away": "Chicago White Sox",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/detroit-tigers-0QIlt8pi/#OMuaUYi5",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Washington Nationals",
-          "away": "St Louis Cardinals",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/st-louis-cardinals-IDVz16ES/washington-nationals-CE026gRp/#pdCjYGht",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Toronto Blue Jays",
-          "away": "Texas Rangers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/texas-rangers-f3GcHO7j/toronto-blue-jays-zcDLaZ3b/#SUzgk3sh",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Seattle Mariners",
-          "away": "Colorado Rockies",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/colorado-rockies-naYhNOaA/seattle-mariners-txYPhSac/#Wnq7SCMH",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "Minnesota Twins",
-          "away": "Los Angeles Angels",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-angels-Mg9H0Flh/minnesota-twins-OjWW1naM/#rRCPpfxn",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "New York Yankees",
-          "away": "Arizona Diamondbacks",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/arizona-diamondbacks-8bP2bXmH/new-york-yankees-SrC4LDIT/#Aw4tsCyB",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "San Francisco Giants",
-          "away": "Los Angeles Dodgers",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-dodgers-nwPDBpVc/san-francisco-giants-bRZ9b6xj/#h2XFQjiU",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
-        {
-          "source": "oddsportal",
-          "home": "San Diego Padres",
-          "away": "Miami Marlins",
-          "start": null,
-          "market": "h2h",
-          "period": "2h",
-          "books": [],
-          "url": "https://www.oddsportal.com/baseball/h2h/miami-marlins-ddxzWOqT/san-diego-padres-8poQN9Ud/#xQ5YrY6b",
-          "extra": {},
-          "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
-        },
         {
           "source": "oddsportal",
           "home": "Milwaukee Brewers",
@@ -4244,7 +4110,7 @@
           "url": "https://www.oddsportal.com/baseball/h2h/baltimore-orioles-EcZwBi3N/milwaukee-brewers-CGzqC60o/#42frU4tP",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
         },
         {
           "source": "oddsportal",
@@ -4257,7 +4123,7 @@
           "url": "https://www.oddsportal.com/baseball/h2h/baltimore-orioles-EcZwBi3N/toronto-blue-jays-zcDLaZ3b/#8vq1msC4",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
         },
         {
           "source": "oddsportal",
@@ -4270,7 +4136,7 @@
           "url": "https://www.oddsportal.com/baseball/h2h/detroit-tigers-0QIlt8pi/washington-nationals-CE026gRp/#4vMEO3Lq",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
         },
         {
           "source": "oddsportal",
@@ -4283,7 +4149,7 @@
           "url": "https://www.oddsportal.com/baseball/h2h/minnesota-twins-OjWW1naM/san-francisco-giants-bRZ9b6xj/#C4PMMsjd",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
         },
         {
           "source": "oddsportal",
@@ -4296,7 +4162,321 @@
           "url": "https://www.oddsportal.com/baseball/h2h/new-york-yankees-SrC4LDIT/tampa-bay-rays-GCHgI4hp/#hQDjV6Gt",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:26.921333+00:00"
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Philadelphia Phillies",
+          "away": "Milwaukee Brewers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/milwaukee-brewers-CGzqC60o/philadelphia-phillies-QTNHA4p4/#vVujcOR8",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "St Louis Cardinals",
+          "away": "Pittsburgh Pirates",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/pittsburgh-pirates-tr9K2SqG/st-louis-cardinals-IDVz16ES/#zqfQt3sS",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Cleveland Guardians",
+          "away": "Boston Red Sox",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/cleveland-guardians-4K05MrFG/#h029por3",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Cincinnati Reds",
+          "away": "Atlanta Braves",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/cincinnati-reds-EkWXj6U9/#WEudys5k",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Kansas City Royals",
+          "away": "Chicago White Sox",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/kansas-city-royals-IL2QbgJ4/#WSKUktKr",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Colorado Rockies",
+          "away": "Arizona Diamondbacks",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/arizona-diamondbacks-8bP2bXmH/colorado-rockies-naYhNOaA/#08ConbJ7",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Los Angeles Angels",
+          "away": "Athletics",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/los-angeles-angels-Mg9H0Flh/#viHQ91BE",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Seattle Mariners",
+          "away": "Houston Astros",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/houston-astros-lfZXonNq/seattle-mariners-txYPhSac/#Wld52J3l",
+          "extra": {},
+          "held_line": false,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Philadelphia Phillies",
+          "away": "New York Mets",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/new-york-mets-I5wWW4UM/philadelphia-phillies-QTNHA4p4/#dxizWQBC",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Pittsburgh Pirates",
+          "away": "Kansas City Royals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/kansas-city-royals-IL2QbgJ4/pittsburgh-pirates-tr9K2SqG/#UPaJZ8Cm",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Cleveland Guardians",
+          "away": "Athletics",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/cleveland-guardians-4K05MrFG/#AuJnuVlQ",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Tampa Bay Rays",
+          "away": "Boston Red Sox",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/tampa-bay-rays-GCHgI4hp/#zN2RXns0",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Cincinnati Reds",
+          "away": "Chicago Cubs",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/chicago-cubs-j7ZnBQFi/cincinnati-reds-EkWXj6U9/#IoW0HRdJ",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Houston Astros",
+          "away": "Atlanta Braves",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/houston-astros-lfZXonNq/#I9AbWfNh",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Detroit Tigers",
+          "away": "Chicago White Sox",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/detroit-tigers-0QIlt8pi/#OMuaUYi5",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Washington Nationals",
+          "away": "St Louis Cardinals",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/st-louis-cardinals-IDVz16ES/washington-nationals-CE026gRp/#pdCjYGht",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Toronto Blue Jays",
+          "away": "Texas Rangers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/texas-rangers-f3GcHO7j/toronto-blue-jays-zcDLaZ3b/#SUzgk3sh",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Seattle Mariners",
+          "away": "Colorado Rockies",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/colorado-rockies-naYhNOaA/seattle-mariners-txYPhSac/#Wnq7SCMH",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "Minnesota Twins",
+          "away": "Los Angeles Angels",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-angels-Mg9H0Flh/minnesota-twins-OjWW1naM/#rRCPpfxn",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "New York Yankees",
+          "away": "Arizona Diamondbacks",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/arizona-diamondbacks-8bP2bXmH/new-york-yankees-SrC4LDIT/#Aw4tsCyB",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "San Francisco Giants",
+          "away": "Los Angeles Dodgers",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-dodgers-nwPDBpVc/san-francisco-giants-bRZ9b6xj/#h2XFQjiU",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
+        },
+        {
+          "source": "oddsportal",
+          "home": "San Diego Padres",
+          "away": "Miami Marlins",
+          "start": null,
+          "market": "h2h",
+          "period": "2h",
+          "books": [],
+          "url": "https://www.oddsportal.com/baseball/h2h/miami-marlins-ddxzWOqT/san-diego-padres-8poQN9Ud/#xQ5YrY6b",
+          "extra": {},
+          "held_line": true,
+          "pulled_at": "2026-09-21T18:32:50.527564+00:00",
+          "held_from": "2026-09-21T12:40:26.921333+00:00",
+          "held_reason": "matchup missing on refresh; kept last line"
         }
       ]
     },
@@ -4312,13 +4492,13 @@
         "carried": 6
       },
       "event_count": 10,
-      "pulled_at": "2026-09-21T12:40:27.089566+00:00",
+      "pulled_at": "2026-09-21T18:32:50.704576+00:00",
       "attempts": [
         {
           "source": "oddsportal",
           "ok": true,
           "count": 4,
-          "at": "2026-09-21T12:40:26.921744+00:00",
+          "at": "2026-09-21T18:32:50.528132+00:00",
           "error": null
         }
       ],
@@ -4334,7 +4514,7 @@
           "url": "https://www.oddsportal.com/basketball/h2h/las-vegas-aces-nZjYLTCd/seattle-storm-I13pnDkc/#phH5yeUp",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00"
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00"
         },
         {
           "source": "oddsportal",
@@ -4347,7 +4527,7 @@
           "url": "https://www.oddsportal.com/basketball/h2h/atlanta-dream-z1xwbiiQ/new-york-liberty-h4iAv3Jl/#Cb9iabMi",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00"
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00"
         },
         {
           "source": "oddsportal",
@@ -4360,7 +4540,7 @@
           "url": "https://www.oddsportal.com/basketball/h2h/dallas-wings-WlAAvRyL/phoenix-mercury-Mmuqw137/#pC7acxi4",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00"
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00"
         },
         {
           "source": "oddsportal",
@@ -4373,7 +4553,7 @@
           "url": "https://www.oddsportal.com/basketball/h2h/indiana-fever-lzsyuNYf/minnesota-lynx-AeUcuq4r/#Q3OEgfjT",
           "extra": {},
           "held_line": false,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00"
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00"
         },
         {
           "source": "oddsportal",
@@ -4386,8 +4566,8 @@
           "url": "https://www.oddsportal.com/basketball/h2h/los-angeles-sparks-Ia6UdBZF/portland-fire-M1S40uRI/#vgkYg3pC",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00",
-          "held_from": "2026-09-21T05:59:40.224682+00:00",
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00",
+          "held_from": "2026-09-21T12:40:27.089528+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4401,8 +4581,8 @@
           "url": "https://www.oddsportal.com/basketball/h2h/golden-state-valkyries-jJ2zZYLs/seattle-storm-I13pnDkc/#Uacn37NP",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00",
-          "held_from": "2026-09-21T05:59:40.224682+00:00",
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00",
+          "held_from": "2026-09-21T12:40:27.089528+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4416,8 +4596,8 @@
           "url": "https://www.oddsportal.com/basketball/h2h/connecticut-sun-6P2QciK9/minnesota-lynx-AeUcuq4r/#0rlIcoom",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00",
-          "held_from": "2026-09-21T05:59:40.224682+00:00",
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00",
+          "held_from": "2026-09-21T12:40:27.089528+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4431,8 +4611,8 @@
           "url": "https://www.oddsportal.com/basketball/h2h/new-york-liberty-h4iAv3Jl/toronto-tempo-OIT4w1Hi/#Q1sr9l86",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00",
-          "held_from": "2026-09-21T05:59:40.224682+00:00",
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00",
+          "held_from": "2026-09-21T12:40:27.089528+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4446,8 +4626,8 @@
           "url": "https://www.oddsportal.com/basketball/h2h/indiana-fever-lzsyuNYf/washington-mystics-Akq9bDMD/#6uiQePFa",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00",
-          "held_from": "2026-09-21T05:59:40.224682+00:00",
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00",
+          "held_from": "2026-09-21T12:40:27.089528+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         },
         {
@@ -4461,8 +4641,8 @@
           "url": "https://www.oddsportal.com/basketball/h2h/atlanta-dream-z1xwbiiQ/chicago-sky-ltrDcXyK/#x6A0u4VI",
           "extra": {},
           "held_line": true,
-          "pulled_at": "2026-09-21T12:40:27.089528+00:00",
-          "held_from": "2026-09-21T05:59:40.224682+00:00",
+          "pulled_at": "2026-09-21T18:32:50.704534+00:00",
+          "held_from": "2026-09-21T12:40:27.089528+00:00",
           "held_reason": "matchup missing on refresh; kept last line"
         }
       ]
