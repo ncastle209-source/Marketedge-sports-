@@ -150,7 +150,7 @@
       "source": "sportsbettingdime",
       "sport": "ncaaf",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "source": "sportsbettingdime",
@@ -166,10 +166,10 @@
     },
     {
       "source": "sportsbettingdime",
-      "filled_this_step": 1
+      "filled_this_step": 0
     }
   ],
-  "filled": 73,
-  "still_missing": 247,
+  "filled": 72,
+  "still_missing": 254,
   "spreads": 72
 }

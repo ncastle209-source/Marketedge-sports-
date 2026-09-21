@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-21T18:33:57.013914+00:00",
+  "pulled_at": "2026-09-21T22:31:35.219444+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,41 +25,267 @@
           "league": "mlb",
           "eventId": "824787",
           "name": "Toronto Blue Jays at Baltimore Orioles",
-          "status": "Scheduled",
+          "status": "Delayed Start",
           "start": "2026-09-21T22:35:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Toronto Blue Jays",
-              "score": null,
+              "score": 0,
               "record": "77-79"
             },
             {
               "side": "home",
               "name": "Baltimore Orioles",
-              "score": null,
+              "score": 0,
               "record": "75-81"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "824787",
+            "players": [
+              {
+                "player": "Ernie Clement",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Andr\u00e9s Gim\u00e9nez",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Brett Bateman",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Trey Yesavage",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Nathan Lukes",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "George Springer",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Sean Keys",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Josh Smith",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Alejandro Kirk",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Kazuma Okamoto",
+                "team": "Toronto Blue Jays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Samuel Basallo",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Gunnar Henderson",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Shane Baz",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Dylan Beavers",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Pete Alonso",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Christian Encarnacion-Strand",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jos\u00e9 Barrero",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Colton Cowser",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Coby Mayo",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Rece Hinds",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
           "eventId": "824221",
           "name": "Washington Nationals at Detroit Tigers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-21T22:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Washington Nationals",
-              "score": null,
+              "score": 0,
               "record": "73-83"
             },
             {
               "side": "home",
               "name": "Detroit Tigers",
-              "score": null,
+              "score": 0,
               "record": "73-83"
             }
           ],
@@ -69,7 +295,7 @@
           "league": "mlb",
           "eventId": "823169",
           "name": "Minnesota Twins at San Francisco Giants",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T01:45:00Z",
           "teams": [
             {

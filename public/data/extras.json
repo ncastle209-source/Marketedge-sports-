@@ -4,41 +4,92 @@
       "eventId": "824787",
       "home": "Baltimore Orioles",
       "away": "Toronto Blue Jays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Carlos Torres",
+      "crew": [
+        {
+          "name": "Carlos Torres",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Mark Wegner",
+          "type": "First Base"
+        },
+        {
+          "name": "Nate Tomlinson",
+          "type": "Second Base"
+        },
+        {
+          "name": "Tyler Jones",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Delayed Start"
     },
     {
       "eventId": "824221",
       "home": "Detroit Tigers",
       "away": "Washington Nationals",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Emil Jimenez",
+      "crew": [
+        {
+          "name": "Emil Jimenez",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Louie Krupa",
+          "type": "First Base"
+        },
+        {
+          "name": "Mike Muchlinski",
+          "type": "Second Base"
+        },
+        {
+          "name": "Doug Eddings",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823169",
       "home": "San Francisco Giants",
       "away": "Minnesota Twins",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Andy Fletcher",
+      "crew": [
+        {
+          "name": "Andy Fletcher",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Rob Drake",
+          "type": "First Base"
+        },
+        {
+          "name": "Steven Jaschinski",
+          "type": "Second Base"
+        },
+        {
+          "name": "Dillon Wilson",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 824787,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824787"
     },
     {
       "gamePk": 824221,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824221"
     },
     {
       "gamePk": 823169,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823169"
     }
   ],
@@ -6682,7 +6733,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1686,
-    "gameFiles": 1573
+    "splitsKeys": 1706,
+    "gameFiles": 1593
   }
 }
