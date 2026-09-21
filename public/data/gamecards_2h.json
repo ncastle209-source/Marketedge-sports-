@@ -1,12 +1,12 @@
 {
-  "pulled_at": "2026-09-21T05:59:40.225073+00:00",
+  "pulled_at": "2026-09-21T12:40:27.089839+00:00",
   "period": "2h",
   "count": 312,
   "splits": {
     "mlb": {
       "ok": true,
       "source": "actionnetwork",
-      "count": 15
+      "count": 3
     },
     "ncaaf": {
       "ok": true,
@@ -21,7 +21,7 @@
     "wnba": {
       "ok": true,
       "source": "actionnetwork",
-      "count": 5
+      "count": 2
     },
     "matched": 0,
     "missing": 312,
@@ -355,11 +355,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
-      "ticketPct": 0.42,
-      "ticketPercentage": 42.0,
-      "handlePct": 0.37,
-      "handlePercentage": 37.0,
+      "divergence": -3.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
+      "handlePct": 0.41,
+      "handlePercentage": 41.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -6.5,
       "currentLine": -6.5,
@@ -380,8 +380,8 @@
         ],
         "market": -6.5,
         "model": null,
-        "tickets": 42.0,
-        "handle": 37.0,
+        "tickets": 44.0,
+        "handle": 41.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -418,8 +418,8 @@
         ],
         "market": -6.5,
         "model": null,
-        "tickets": 42.0,
-        "handle": 37.0,
+        "tickets": 44.0,
+        "handle": 41.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -447,7 +447,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 8,
+      "historyPoints": 9,
       "lineDelta": 0.0,
       "homePitcher": "Blade Tidwell",
       "awayPitcher": "Zebby Matthews",
@@ -14320,11 +14320,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 2.0,
+      "ticketPct": 0.46,
+      "ticketPercentage": 46.0,
+      "handlePct": 0.48,
+      "handlePercentage": 48.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 2.5,
       "currentLine": 2.5,
@@ -14363,7 +14363,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -14396,11 +14397,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -13.0,
+      "ticketPct": 0.45,
+      "ticketPercentage": 45.0,
+      "handlePct": 0.32,
+      "handlePercentage": 32.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 3.0,
       "currentLine": 3.0,
@@ -14439,7 +14440,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -14448,7 +14450,7 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 8,
+        "confidence": 16,
         "market": 3.0,
         "fair": 3.0,
         "gap": 0.0,
@@ -14472,14 +14474,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 2.0,
-      "ticketPct": 0.46,
-      "ticketPercentage": 46.0,
-      "handlePct": 0.48,
-      "handlePercentage": 48.0,
+      "divergence": -1.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
+      "handlePct": 0.43,
+      "handlePercentage": 43.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 7.5,
-      "currentLine": 7.5,
+      "currentSpread": 7.0,
+      "currentLine": 7.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 11.5,
       "openSpread": 11.5,
@@ -14515,8 +14517,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 7,
-      "lineDelta": 0.0,
+      "historyPoints": 8,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -14526,13 +14528,13 @@
         "count": 1,
         "fire": false,
         "confidence": 48,
-        "market": 7.5,
+        "market": 7.0,
         "fair": 11.5,
-        "gap": -4.0,
+        "gap": -4.5,
         "side": "Navy",
         "missing": false
       },
-      "modelEdge": -4.0
+      "modelEdge": -4.5
     },
     {
       "gameId": "ncaaf-2h-ind-nw",
@@ -14549,11 +14551,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -10.0,
+      "divergence": -12.0,
       "ticketPct": 0.3,
       "ticketPercentage": 30.0,
-      "handlePct": 0.2,
-      "handlePercentage": 20.0,
+      "handlePct": 0.18,
+      "handlePercentage": 18.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -21.0,
       "currentLine": -21.0,
@@ -14592,8 +14594,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
-      "lineDelta": 0.5,
+      "historyPoints": 7,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -14602,7 +14604,7 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 23,
+        "confidence": 31,
         "market": -21.0,
         "fair": -22.5,
         "gap": 1.5,
@@ -14702,14 +14704,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 4.0,
+      "ticketPct": 0.58,
+      "ticketPercentage": 58.0,
+      "handlePct": 0.62,
+      "handlePercentage": 62.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 13.0,
-      "currentLine": 13.0,
+      "currentSpread": 12.5,
+      "currentLine": 12.5,
       "lineSource": "action-publicbetting",
       "fairSpread": 14.0,
       "openSpread": 14.0,
@@ -14745,7 +14747,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -14754,14 +14757,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": 13.0,
+        "confidence": 23,
+        "market": 12.5,
         "fair": 14.0,
-        "gap": -1.0,
+        "gap": -1.5,
         "side": "Akron",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -1.5
     },
     {
       "gameId": "ncaaf-2h-ball-kent",
@@ -14854,11 +14857,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 2.0,
+      "ticketPct": 0.42,
+      "ticketPercentage": 42.0,
+      "handlePct": 0.44,
+      "handlePercentage": 44.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -10.0,
       "currentLine": -10.0,
@@ -14897,7 +14900,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -14930,11 +14934,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -1.0,
+      "ticketPct": 0.55,
+      "ticketPercentage": 55.0,
+      "handlePct": 0.54,
+      "handlePercentage": 54.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 14.5,
       "currentLine": 14.5,
@@ -14973,8 +14977,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
-      "lineDelta": 0.5,
+      "historyPoints": 6,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15007,11 +15011,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -4.0,
+      "ticketPct": 0.3,
+      "ticketPercentage": 30.0,
+      "handlePct": 0.26,
+      "handlePercentage": 26.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -12.5,
       "currentLine": -12.5,
@@ -15050,7 +15054,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15083,11 +15088,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 2.0,
-      "ticketPct": 0.58,
-      "ticketPercentage": 58.0,
-      "handlePct": 0.6,
-      "handlePercentage": 60.0,
+      "divergence": 4.0,
+      "ticketPct": 0.57,
+      "ticketPercentage": 57.0,
+      "handlePct": 0.61,
+      "handlePercentage": 61.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -27.5,
       "currentLine": -27.5,
@@ -15126,7 +15131,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15160,11 +15165,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -18.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
-      "handlePct": 0.31,
-      "handlePercentage": 31.0,
+      "divergence": -8.0,
+      "ticketPct": 0.5,
+      "ticketPercentage": 50.0,
+      "handlePct": 0.42,
+      "handlePercentage": 42.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -13.0,
       "currentLine": -13.0,
@@ -15203,7 +15208,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15213,7 +15218,7 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 21,
+        "confidence": 13,
         "market": -13.0,
         "fair": -13.5,
         "gap": 0.5,
@@ -15237,14 +15242,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 10.0,
+      "ticketPct": 0.41,
+      "ticketPercentage": 41.0,
+      "handlePct": 0.51,
+      "handlePercentage": 51.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -35.0,
-      "currentLine": -35.0,
+      "currentSpread": -35.5,
+      "currentLine": -35.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -36.5,
       "openSpread": -36.5,
@@ -15280,7 +15285,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
+      "historyPoints": 7,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15289,14 +15295,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 23,
-        "market": -35.0,
+        "confidence": 18,
+        "market": -35.5,
         "fair": -36.5,
-        "gap": 1.5,
+        "gap": 1.0,
         "side": "Texas Tech",
         "missing": false
       },
-      "modelEdge": 1.5
+      "modelEdge": 1.0
     },
     {
       "gameId": "ncaaf-2h-sdsu-tol",
@@ -15389,9 +15395,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -9.0,
-      "ticketPct": 0.32,
-      "ticketPercentage": 32.0,
+      "divergence": -10.0,
+      "ticketPct": 0.33,
+      "ticketPercentage": 33.0,
       "handlePct": 0.23,
       "handlePercentage": 23.0,
       "handleSource": "action-publicbetting",
@@ -15432,7 +15438,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
+      "historyPoints": 7,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15466,11 +15472,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
-      "ticketPct": 0.63,
-      "ticketPercentage": 63.0,
-      "handlePct": 0.58,
-      "handlePercentage": 58.0,
+      "divergence": -4.0,
+      "ticketPct": 0.59,
+      "ticketPercentage": 59.0,
+      "handlePct": 0.55,
+      "handlePercentage": 55.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -20.5,
       "currentLine": -20.5,
@@ -15509,7 +15515,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
+      "historyPoints": 7,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15695,11 +15701,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
-      "ticketPct": 0.61,
-      "ticketPercentage": 61.0,
-      "handlePct": 0.56,
-      "handlePercentage": 56.0,
+      "divergence": -3.0,
+      "ticketPct": 0.6,
+      "ticketPercentage": 60.0,
+      "handlePct": 0.57,
+      "handlePercentage": 57.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 27.0,
       "currentLine": 27.0,
@@ -15738,7 +15744,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15914,13 +15920,13 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -7.0,
-      "ticketPct": 0.19,
-      "ticketPercentage": 19.0,
-      "handlePct": 0.12,
-      "handlePercentage": 12.0,
+      "ticketPct": 0.17,
+      "ticketPercentage": 17.0,
+      "handlePct": 0.1,
+      "handlePercentage": 10.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -3.0,
-      "currentLine": -3.0,
+      "currentSpread": -3.5,
+      "currentLine": -3.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -2.5,
       "openSpread": -2.5,
@@ -15956,8 +15962,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
-      "lineDelta": 0.0,
+      "historyPoints": 6,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15966,14 +15972,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 13,
-        "market": -3.0,
+        "confidence": 18,
+        "market": -3.5,
         "fair": -2.5,
-        "gap": -0.5,
+        "gap": -1.0,
         "side": "Florida Gators",
         "missing": false
       },
-      "modelEdge": -0.5
+      "modelEdge": -1.0
     },
     {
       "gameId": "ncaaf-2h-uga-ou",
@@ -15990,11 +15996,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -11.0,
-      "ticketPct": 0.7,
-      "ticketPercentage": 70.0,
-      "handlePct": 0.59,
-      "handlePercentage": 59.0,
+      "divergence": -5.0,
+      "ticketPct": 0.68,
+      "ticketPercentage": 68.0,
+      "handlePct": 0.63,
+      "handlePercentage": 63.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -14.0,
       "currentLine": -14.0,
@@ -16033,7 +16039,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16043,7 +16049,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 19,
+        "confidence": 18,
         "market": -14.0,
         "fair": -14.0,
         "gap": 0.0,
@@ -16067,11 +16073,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -18.0,
+      "ticketPct": 0.4,
+      "ticketPercentage": 40.0,
+      "handlePct": 0.22,
+      "handlePercentage": 22.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -4.5,
       "currentLine": -4.5,
@@ -16110,7 +16116,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -16119,7 +16126,7 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 8,
+        "confidence": 16,
         "market": -4.5,
         "fair": -4.5,
         "gap": 0.0,
@@ -16143,11 +16150,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -8.0,
+      "ticketPct": 0.6,
+      "ticketPercentage": 60.0,
+      "handlePct": 0.52,
+      "handlePercentage": 52.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 8.0,
       "currentLine": 8.0,
@@ -16186,8 +16193,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
-      "lineDelta": -0.5,
+      "historyPoints": 6,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -16264,7 +16271,6 @@
         ]
       },
       "historyPoints": 5,
-      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -16341,7 +16347,6 @@
         ]
       },
       "historyPoints": 5,
-      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -16374,11 +16379,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -1.0,
+      "ticketPct": 0.48,
+      "ticketPercentage": 48.0,
+      "handlePct": 0.47,
+      "handlePercentage": 47.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 7.5,
       "currentLine": 7.5,
@@ -16417,7 +16422,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -16450,11 +16456,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 13.0,
+      "ticketPct": 0.52,
+      "ticketPercentage": 52.0,
+      "handlePct": 0.65,
+      "handlePercentage": 65.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 17.5,
       "currentLine": 17.5,
@@ -16493,8 +16499,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
-      "lineDelta": -0.5,
+      "historyPoints": 7,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -16503,7 +16509,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 28,
+        "confidence": 36,
         "market": 17.5,
         "fair": 19.5,
         "gap": -2.0,
@@ -16755,11 +16761,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -16.0,
-      "ticketPct": 0.48,
-      "ticketPercentage": 48.0,
-      "handlePct": 0.32,
-      "handlePercentage": 32.0,
+      "divergence": -15.0,
+      "ticketPct": 0.49,
+      "ticketPercentage": 49.0,
+      "handlePct": 0.34,
+      "handlePercentage": 34.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -10.0,
       "currentLine": -10.0,
@@ -16798,7 +16804,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16979,8 +16985,8 @@
       "handlePct": 0.0,
       "handlePercentage": 0.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -41.5,
-      "currentLine": -41.5,
+      "currentSpread": -41.0,
+      "currentLine": -41.0,
       "lineSource": "action-publicbetting",
       "fairSpread": -42.5,
       "openSpread": -42.5,
@@ -17016,7 +17022,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17025,14 +17032,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -41.5,
+        "confidence": 23,
+        "market": -41.0,
         "fair": -42.5,
-        "gap": 1.0,
+        "gap": 1.5,
         "side": "Miami Fl",
         "missing": false
       },
-      "modelEdge": 1.0
+      "modelEdge": 1.5
     },
     {
       "gameId": "ncaaf-2h-char-ull",
@@ -17055,8 +17062,8 @@
       "handlePct": 0.0,
       "handlePercentage": 0.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 10.5,
-      "currentLine": 10.5,
+      "currentSpread": 10.0,
+      "currentLine": 10.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 13.0,
       "openSpread": 13.0,
@@ -17092,7 +17099,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -17101,14 +17109,14 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 33,
-        "market": 10.5,
+        "confidence": 38,
+        "market": 10.0,
         "fair": 13.0,
-        "gap": -2.5,
+        "gap": -3.0,
         "side": "Charlotte",
         "missing": false
       },
-      "modelEdge": -2.5
+      "modelEdge": -3.0
     },
     {
       "gameId": "ncaaf-2h-ala-scar",
@@ -17125,14 +17133,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -1.0,
-      "ticketPct": 0.56,
-      "ticketPercentage": 56.0,
+      "divergence": -3.0,
+      "ticketPct": 0.58,
+      "ticketPercentage": 58.0,
       "handlePct": 0.55,
       "handlePercentage": 55.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -13.0,
-      "currentLine": -13.0,
+      "currentSpread": -12.5,
+      "currentLine": -12.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -12.0,
       "openSpread": -12.0,
@@ -17168,8 +17176,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
-      "lineDelta": 0.0,
+      "historyPoints": 7,
+      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17178,14 +17186,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -13.0,
+        "confidence": 13,
+        "market": -12.5,
         "fair": -12.0,
-        "gap": -1.0,
+        "gap": -0.5,
         "side": "Alabama",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -0.5
     },
     {
       "gameId": "ncaaf-2h-arst-ksu2",
@@ -17246,7 +17254,6 @@
         ]
       },
       "historyPoints": 6,
-      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17616,7 +17623,6 @@
         ]
       },
       "historyPoints": 4,
-      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17655,8 +17661,8 @@
       "handlePct": 0.0,
       "handlePercentage": 0.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 10.5,
-      "currentLine": 10.5,
+      "currentSpread": 10.0,
+      "currentLine": 10.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 12.5,
       "openSpread": 12.5,
@@ -17692,7 +17698,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -17701,14 +17708,14 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 28,
-        "market": 10.5,
+        "confidence": 33,
+        "market": 10.0,
         "fair": 12.5,
-        "gap": -2.0,
+        "gap": -2.5,
         "side": "Arizona",
         "missing": false
       },
-      "modelEdge": -2.0
+      "modelEdge": -2.5
     },
     {
       "gameId": "ncaaf-2h-lsu-texas-a-m",
@@ -18053,7 +18060,6 @@
         ]
       },
       "historyPoints": 5,
-      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -18347,7 +18353,6 @@
         ]
       },
       "historyPoints": 6,
-      "lineDelta": -1.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -18386,8 +18391,8 @@
       "handlePct": 0.0,
       "handlePercentage": 0.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -14.0,
-      "currentLine": -14.0,
+      "currentSpread": -14.5,
+      "currentLine": -14.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -13.0,
       "openSpread": -13.0,
@@ -18423,7 +18428,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -18432,14 +18438,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -14.0,
+        "confidence": 23,
+        "market": -14.5,
         "fair": -13.0,
-        "gap": -1.0,
+        "gap": -1.5,
         "side": "Fresno State",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -1.5
     },
     {
       "gameId": "ncaaf-2h-af-nev",
@@ -18677,7 +18683,7 @@
       "home": "Miami Fl",
       "away": "Clemson",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/clemson-dUIMKguJ/miami-fl-MNKHbOE9/#Cjgrrcc3",
@@ -18742,7 +18748,7 @@
       "home": "Notre Dame",
       "away": "North Carolina",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/north-carolina-joFofXC0/notre-dame-vys1FYlQ/#p4ijtySF",
@@ -18807,7 +18813,7 @@
       "home": "Texas",
       "away": "Oklahoma",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/oklahoma-hrNy9WRg/texas-nekkBFyB/#SvN7CKP8",
@@ -18872,7 +18878,7 @@
       "home": "Georgia",
       "away": "Alabama",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/georgia-jXH9tlWi/#IDPSast3",
@@ -18937,7 +18943,7 @@
       "home": "Usc Trojans",
       "away": "Penn State",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/penn-state-4zYM6lRI/usc-trojans-0tbHXbql/#KbeRM1qo",
@@ -19002,7 +19008,7 @@
       "home": "Tennessee",
       "away": "Alabama",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/tennessee-4nSxCeM4/#O6YknwUg",
@@ -19067,7 +19073,7 @@
       "home": "Georgia",
       "away": "Auburn",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/auburn-OI1u7xR0/georgia-jXH9tlWi/#bPGJ0HRk",
@@ -19132,7 +19138,7 @@
       "home": "Notre Dame",
       "away": "Brigham Young",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/brigham-young-EyryPcBs/notre-dame-vys1FYlQ/#tQDN0xqm",
@@ -19197,7 +19203,7 @@
       "home": "North Carolina",
       "away": "Duke",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/duke-QysBRlHb/north-carolina-joFofXC0/#rBebMABN",
@@ -19262,7 +19268,7 @@
       "home": "Miami Fl",
       "away": "Florida State",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/florida-state-K81FIpvo/miami-fl-MNKHbOE9/#f7jzSEsn",
@@ -19327,7 +19333,7 @@
       "home": "Ohio State",
       "away": "Indiana",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/indiana-zuGiQq0T/ohio-state-bLNX9CCm/#KAuWzAQG",
@@ -19392,7 +19398,7 @@
       "home": "Kansas State",
       "away": "Kansas",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/kansas-ju4zo70i/kansas-state-UV2vpRFc/#UTIoeYCO",
@@ -19457,7 +19463,7 @@
       "home": "Penn State",
       "away": "Michigan",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/michigan-fyJPd2qM/penn-state-4zYM6lRI/#xE0BGuu2",
@@ -19522,7 +19528,7 @@
       "home": "Oregon",
       "away": "Nebraska",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/nebraska-tKuyD1bF/oregon-WMZE8Ad6/#xYj5xN1L",
@@ -19587,7 +19593,7 @@
       "home": "Virginia",
       "away": "Duke",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/duke-QysBRlHb/virginia-SfdC6OZ1/#08L3feN6",
@@ -19652,7 +19658,7 @@
       "home": "Texas A M",
       "away": "Alabama",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/alabama-d0oPEt4E/texas-a-m-UJvfAZjH/#WA2TAG7m",
@@ -19717,7 +19723,7 @@
       "home": "Utah",
       "away": "Houston",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/houston-d4aWSoGA/utah-8roAPhLG/#My3u9Fgc",
@@ -19782,7 +19788,7 @@
       "home": "Michigan",
       "away": "Indiana",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/indiana-zuGiQq0T/michigan-fyJPd2qM/#MZw0YVM8",
@@ -19847,7 +19853,7 @@
       "home": "Texas",
       "away": "Ole Miss",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/ole-miss-4bMYjKyd/texas-nekkBFyB/#GhyAA7D4",
@@ -19912,7 +19918,7 @@
       "home": "Georgia",
       "away": "Florida Gators",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/florida-gators-rwRINn1H/georgia-jXH9tlWi/#INQmlZIN",
@@ -19977,7 +19983,7 @@
       "home": "Florida State",
       "away": "Clemson",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/clemson-dUIMKguJ/florida-state-K81FIpvo/#xOLRIpOE",
@@ -20042,7 +20048,7 @@
       "home": "Usc Trojans",
       "away": "Ohio State",
       "source": "oddsportal",
-      "held_line": false,
+      "held_line": true,
       "start": null,
       "books": [],
       "url": "https://www.oddsportal.com/american-football/h2h/ohio-state-bLNX9CCm/usc-trojans-0tbHXbql/#AitWI5uC",
@@ -25569,6 +25575,1087 @@
       }
     },
     {
+      "gameId": "mlb-2h-new-york-mets-philadelphia-phillies",
+      "matchup": "New York Mets vs. Philadelphia Phillies",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Philadelphia Phillies",
+      "away": "New York Mets",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/new-york-mets-I5wWW4UM/philadelphia-phillies-QTNHA4p4/#dxizWQBC",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": -5.99,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.186,
+      "awayRating": -0.263,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 5,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -5.99,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-kansas-city-royals-pittsburgh-pirates",
+      "matchup": "Kansas City Royals vs. Pittsburgh Pirates",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Pittsburgh Pirates",
+      "away": "Kansas City Royals",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/kansas-city-royals-IL2QbgJ4/pittsburgh-pirates-tr9K2SqG/#UPaJZ8Cm",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": -9.9,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.186,
+      "awayRating": -0.654,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -9.9,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-athletics-cleveland-guardians",
+      "matchup": "Athletics vs. Cleveland Guardians",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Cleveland Guardians",
+      "away": "Athletics",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/cleveland-guardians-4K05MrFG/#AuJnuVlQ",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": -15.92,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.013,
+      "awayRating": -1.429,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -15.92,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-bos-tampa-bay-rays",
+      "matchup": "Boston Red Sox vs. Tampa Bay Rays",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Tampa Bay Rays",
+      "away": "Boston Red Sox",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/tampa-bay-rays-GCHgI4hp/#zN2RXns0",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": -1.72,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.535,
+      "awayRating": 0.513,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -1.72,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-chicago-cubs-cincinnati-reds",
+      "matchup": "Chicago Cubs vs. Cincinnati Reds",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Cincinnati Reds",
+      "away": "Chicago Cubs",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/chicago-cubs-j7ZnBQFi/cincinnati-reds-EkWXj6U9/#IoW0HRdJ",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": 18.69,
+      "modelSource": "mlb-run-diff",
+      "homeRating": -1.045,
+      "awayRating": 0.974,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 9,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": 18.69,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-atl-houston-astros",
+      "matchup": "Atlanta Braves vs. Houston Astros",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Houston Astros",
+      "away": "Atlanta Braves",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/houston-astros-lfZXonNq/#I9AbWfNh",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": 9.97,
+      "modelSource": "mlb-run-diff",
+      "homeRating": -0.378,
+      "awayRating": 0.769,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": 9.97,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-chicago-white-sox-detroit-tigers",
+      "matchup": "Chicago White Sox vs. Detroit Tigers",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Detroit Tigers",
+      "away": "Chicago White Sox",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/detroit-tigers-0QIlt8pi/#OMuaUYi5",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": -3.17,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.436,
+      "awayRating": 0.269,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 7,
+      "homePitcher": "River Ryan",
+      "awayPitcher": "DJ Herz",
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -3.17,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-state-louis-cardinals-washington-nationals",
+      "matchup": "St Louis Cardinals vs. Washington Nationals",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Washington Nationals",
+      "away": "St Louis Cardinals",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/st-louis-cardinals-IDVz16ES/washington-nationals-CE026gRp/#pdCjYGht",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": -3.74,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.077,
+      "awayRating": -0.147,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -3.74,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-texas-rangers-toronto-blue-jays",
+      "matchup": "Texas Rangers vs. Toronto Blue Jays",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Toronto Blue Jays",
+      "away": "Texas Rangers",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/texas-rangers-f3GcHO7j/toronto-blue-jays-zcDLaZ3b/#SUzgk3sh",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": -0.99,
+      "modelSource": "mlb-run-diff",
+      "homeRating": -0.269,
+      "awayRating": -0.218,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 7,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -0.99,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-colorado-rockies-seattle-mariners",
+      "matchup": "Colorado Rockies vs. Seattle Mariners",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Seattle Mariners",
+      "away": "Colorado Rockies",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/colorado-rockies-naYhNOaA/seattle-mariners-txYPhSac/#Wnq7SCMH",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": -9.26,
+      "modelSource": "mlb-run-diff",
+      "homeRating": -0.359,
+      "awayRating": -1.135,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -9.26,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-los-angeles-angels-minnesota-twins",
+      "matchup": "Los Angeles Angels vs. Minnesota Twins",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Minnesota Twins",
+      "away": "Los Angeles Angels",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-angels-Mg9H0Flh/minnesota-twins-OjWW1naM/#rRCPpfxn",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": -2.98,
+      "modelSource": "mlb-run-diff",
+      "homeRating": -0.41,
+      "awayRating": -0.558,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 6,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -2.98,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-arizona-diamondbacks-nyy",
+      "matchup": "Arizona Diamondbacks vs. New York Yankees",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "New York Yankees",
+      "away": "Arizona Diamondbacks",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/arizona-diamondbacks-8bP2bXmH/new-york-yankees-SrC4LDIT/#Aw4tsCyB",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 5,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": 1.5,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-lad-san-francisco-giants",
+      "matchup": "Los Angeles Dodgers vs. San Francisco Giants",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "San Francisco Giants",
+      "away": "Los Angeles Dodgers",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-dodgers-nwPDBpVc/san-francisco-giants-bRZ9b6xj/#h2XFQjiU",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": 16.25,
+      "modelSource": "mlb-run-diff",
+      "homeRating": -0.538,
+      "awayRating": 1.237,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 7,
+      "homePitcher": "Blade Tidwell",
+      "awayPitcher": "Zebby Matthews",
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": 16.25,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-miami-marlins-san-diego-padres",
+      "matchup": "Miami Marlins vs. San Diego Padres",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "San Diego Padres",
+      "away": "Miami Marlins",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/miami-marlins-ddxzWOqT/san-diego-padres-8poQN9Ud/#xQ5YrY6b",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "modelSpread": -4.32,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 0.263,
+      "awayRating": -0.019,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 5,
+      "homePitcher": "Blade Tidwell",
+      "awayPitcher": "Zebby Matthews",
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -4.32,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "mlb-2h-baltimore-orioles-milwaukee-brewers",
+      "matchup": "Baltimore Orioles vs. Milwaukee Brewers",
+      "sport": "MLB",
+      "period": "2h",
+      "home": "Milwaukee Brewers",
+      "away": "Baltimore Orioles",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/baseball/h2h/baltimore-orioles-EcZwBi3N/milwaukee-brewers-CGzqC60o/#42frU4tP",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": 1.5,
+      "openSpread": 1.5,
+      "modelSpread": -16.44,
+      "modelSource": "mlb-run-diff",
+      "homeRating": 1.295,
+      "awayRating": -0.199,
+      "modelEdge": null,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "MLB",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 5,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -16.44,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
       "gameId": "mlb-2h-baltimore-orioles-toronto-blue-jays",
       "matchup": "Baltimore Orioles vs. Toronto Blue Jays",
       "sport": "MLB",
@@ -25583,11 +26670,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -16.0,
-      "ticketPct": 0.39,
-      "ticketPercentage": 39.0,
-      "handlePct": 0.23,
-      "handlePercentage": 23.0,
+      "divergence": -6.0,
+      "ticketPct": 0.31,
+      "ticketPercentage": 31.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -25631,7 +26718,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -25641,7 +26728,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 46,
+        "confidence": 38,
         "market": 1.5,
         "fair": -0.8,
         "gap": 2.3,
@@ -25664,11 +26751,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -48.0,
-      "ticketPct": 0.74,
-      "ticketPercentage": 74.0,
-      "handlePct": 0.26,
-      "handlePercentage": 26.0,
+      "divergence": -11.0,
+      "ticketPct": 0.77,
+      "ticketPercentage": 77.0,
+      "handlePct": 0.66,
+      "handlePercentage": 66.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -25712,7 +26799,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 2,
+      "historyPoints": 3,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -25722,7 +26809,7 @@
         "t5": false,
         "count": 2,
         "fire": true,
-        "confidence": 70,
+        "confidence": 64,
         "market": -1.5,
         "fair": 2.09,
         "gap": -3.59,
@@ -25745,11 +26832,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 35.0,
-      "ticketPct": 0.33,
-      "ticketPercentage": 33.0,
-      "handlePct": 0.68,
-      "handlePercentage": 68.0,
+      "divergence": 23.0,
+      "ticketPct": 0.3,
+      "ticketPercentage": 30.0,
+      "handlePct": 0.53,
+      "handlePercentage": 53.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -25793,7 +26880,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
       "lineDelta": 0.0,
       "plateUmpire": null,
       "umpCrew": [],
@@ -25888,1154 +26975,6 @@
       }
     },
     {
-      "gameId": "mlb-2h-new-york-mets-philadelphia-phillies",
-      "matchup": "New York Mets vs. Philadelphia Phillies",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Philadelphia Phillies",
-      "away": "New York Mets",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/new-york-mets-I5wWW4UM/philadelphia-phillies-QTNHA4p4/#dxizWQBC",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": -5.99,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.186,
-      "awayRating": -0.263,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 5,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -5.99,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-kansas-city-royals-pittsburgh-pirates",
-      "matchup": "Kansas City Royals vs. Pittsburgh Pirates",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Pittsburgh Pirates",
-      "away": "Kansas City Royals",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/kansas-city-royals-IL2QbgJ4/pittsburgh-pirates-tr9K2SqG/#UPaJZ8Cm",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": -9.9,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.186,
-      "awayRating": -0.654,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -9.9,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-athletics-cleveland-guardians",
-      "matchup": "Athletics vs. Cleveland Guardians",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Cleveland Guardians",
-      "away": "Athletics",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/athletics-xIYDcQid/cleveland-guardians-4K05MrFG/#AuJnuVlQ",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": -15.92,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.013,
-      "awayRating": -1.429,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -15.92,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-bos-tampa-bay-rays",
-      "matchup": "Boston Red Sox vs. Tampa Bay Rays",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Tampa Bay Rays",
-      "away": "Boston Red Sox",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/boston-red-sox-zaXTinF3/tampa-bay-rays-GCHgI4hp/#zN2RXns0",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": -1.72,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.535,
-      "awayRating": 0.513,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -1.72,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-chicago-cubs-cincinnati-reds",
-      "matchup": "Chicago Cubs vs. Cincinnati Reds",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Cincinnati Reds",
-      "away": "Chicago Cubs",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/chicago-cubs-j7ZnBQFi/cincinnati-reds-EkWXj6U9/#IoW0HRdJ",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": 18.69,
-      "modelSource": "mlb-run-diff",
-      "homeRating": -1.045,
-      "awayRating": 0.974,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 9,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": 18.69,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-atl-houston-astros",
-      "matchup": "Atlanta Braves vs. Houston Astros",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Houston Astros",
-      "away": "Atlanta Braves",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/atlanta-braves-0UPxbDYA/houston-astros-lfZXonNq/#I9AbWfNh",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": 9.97,
-      "modelSource": "mlb-run-diff",
-      "homeRating": -0.378,
-      "awayRating": 0.769,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": 9.97,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-chicago-white-sox-detroit-tigers",
-      "matchup": "Chicago White Sox vs. Detroit Tigers",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Detroit Tigers",
-      "away": "Chicago White Sox",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/chicago-white-sox-SW9D1eZo/detroit-tigers-0QIlt8pi/inplay-odds/#OMuaUYi5",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": -3.17,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.436,
-      "awayRating": 0.269,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 7,
-      "homePitcher": "River Ryan",
-      "awayPitcher": "DJ Herz",
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -3.17,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-state-louis-cardinals-washington-nationals",
-      "matchup": "St Louis Cardinals vs. Washington Nationals",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Washington Nationals",
-      "away": "St Louis Cardinals",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/st-louis-cardinals-IDVz16ES/washington-nationals-CE026gRp/#pdCjYGht",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": -3.74,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.077,
-      "awayRating": -0.147,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -3.74,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-texas-rangers-toronto-blue-jays",
-      "matchup": "Texas Rangers vs. Toronto Blue Jays",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Toronto Blue Jays",
-      "away": "Texas Rangers",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/texas-rangers-f3GcHO7j/toronto-blue-jays-zcDLaZ3b/#SUzgk3sh",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": -0.99,
-      "modelSource": "mlb-run-diff",
-      "homeRating": -0.269,
-      "awayRating": -0.218,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 7,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -0.99,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-colorado-rockies-seattle-mariners",
-      "matchup": "Colorado Rockies vs. Seattle Mariners",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Seattle Mariners",
-      "away": "Colorado Rockies",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/colorado-rockies-naYhNOaA/seattle-mariners-txYPhSac/#Wnq7SCMH",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": -9.26,
-      "modelSource": "mlb-run-diff",
-      "homeRating": -0.359,
-      "awayRating": -1.135,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -9.26,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-los-angeles-angels-minnesota-twins",
-      "matchup": "Los Angeles Angels vs. Minnesota Twins",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Minnesota Twins",
-      "away": "Los Angeles Angels",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-angels-Mg9H0Flh/minnesota-twins-OjWW1naM/#rRCPpfxn",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": -2.98,
-      "modelSource": "mlb-run-diff",
-      "homeRating": -0.41,
-      "awayRating": -0.558,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 6,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -2.98,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-arizona-diamondbacks-nyy",
-      "matchup": "Arizona Diamondbacks vs. New York Yankees",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "New York Yankees",
-      "away": "Arizona Diamondbacks",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/arizona-diamondbacks-8bP2bXmH/new-york-yankees-SrC4LDIT/#Aw4tsCyB",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 5,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": 1.5,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-lad-san-francisco-giants",
-      "matchup": "Los Angeles Dodgers vs. San Francisco Giants",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "San Francisco Giants",
-      "away": "Los Angeles Dodgers",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/los-angeles-dodgers-nwPDBpVc/san-francisco-giants-bRZ9b6xj/#h2XFQjiU",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": 16.25,
-      "modelSource": "mlb-run-diff",
-      "homeRating": -0.538,
-      "awayRating": 1.237,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 7,
-      "homePitcher": "Blade Tidwell",
-      "awayPitcher": "Zebby Matthews",
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": 16.25,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-miami-marlins-san-diego-padres",
-      "matchup": "Miami Marlins vs. San Diego Padres",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "San Diego Padres",
-      "away": "Miami Marlins",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/miami-marlins-ddxzWOqT/san-diego-padres-8poQN9Ud/#xQ5YrY6b",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "modelSpread": -4.32,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 0.263,
-      "awayRating": -0.019,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 5,
-      "homePitcher": "Blade Tidwell",
-      "awayPitcher": "Zebby Matthews",
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -4.32,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "mlb-2h-baltimore-orioles-milwaukee-brewers",
-      "matchup": "Baltimore Orioles vs. Milwaukee Brewers",
-      "sport": "MLB",
-      "period": "2h",
-      "home": "Milwaukee Brewers",
-      "away": "Baltimore Orioles",
-      "source": "oddsportal",
-      "held_line": true,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/baltimore-orioles-EcZwBi3N/milwaukee-brewers-CGzqC60o/inplay-odds/#42frU4tP",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": 1.5,
-      "openSpread": 1.5,
-      "modelSpread": -16.44,
-      "modelSource": "mlb-run-diff",
-      "homeRating": 1.295,
-      "awayRating": -0.199,
-      "modelEdge": null,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "MLB",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 5,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -16.44,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
-      "gameId": "wnba-2h-los-angeles-sparks-portland-fire",
-      "matchup": "Los Angeles Sparks vs. Portland Fire",
-      "sport": "WNBA",
-      "period": "2h",
-      "home": "Portland Fire",
-      "away": "Los Angeles Sparks",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/basketball/h2h/los-angeles-sparks-Ia6UdBZF/portland-fire-M1S40uRI/#vgkYg3pC",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": null,
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "WNBA",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "WNBA",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 4,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
-        "confidence": 1,
-        "market": null,
-        "fair": -1.5,
-        "gap": null,
-        "side": null,
-        "missing": true
-      }
-    },
-    {
       "gameId": "wnba-2h-lv-seattle-storm",
       "matchup": "Las Vegas Aces vs. Seattle Storm",
       "sport": "WNBA",
@@ -27117,14 +27056,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 10.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
-      "handlePct": 0.59,
-      "handlePercentage": 59.0,
+      "divergence": 5.0,
+      "ticketPct": 0.51,
+      "ticketPercentage": 51.0,
+      "handlePct": 0.56,
+      "handlePercentage": 56.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 1.5,
-      "currentLine": 1.5,
+      "currentSpread": 2.0,
+      "currentLine": 2.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 1.5,
       "openSpread": 1.5,
@@ -27160,8 +27099,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
-      "lineDelta": 0.0,
+      "historyPoints": 4,
+      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -27170,14 +27109,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 8,
-        "market": 1.5,
+        "confidence": 13,
+        "market": 2.0,
         "fair": 1.5,
-        "gap": 0.0,
-        "side": "Atlanta Dream",
+        "gap": 0.5,
+        "side": "New York Liberty",
         "missing": false
       },
-      "modelEdge": 0.0
+      "modelEdge": 0.5
     },
     {
       "gameId": "wnba-2h-dallas-wings-phoenix-mercury",
@@ -27194,11 +27133,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -8.0,
-      "ticketPct": 0.37,
-      "ticketPercentage": 37.0,
-      "handlePct": 0.29,
-      "handlePercentage": 29.0,
+      "divergence": 2.0,
+      "ticketPct": 0.34,
+      "ticketPercentage": 34.0,
+      "handlePct": 0.36,
+      "handlePercentage": 36.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 6.0,
       "currentLine": 6.0,
@@ -27237,8 +27176,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
-      "lineDelta": 0.5,
+      "historyPoints": 4,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -27316,6 +27255,73 @@
         "confidence": 1,
         "market": null,
         "fair": null,
+        "gap": null,
+        "side": null,
+        "missing": true
+      }
+    },
+    {
+      "gameId": "wnba-2h-los-angeles-sparks-portland-fire",
+      "matchup": "Los Angeles Sparks vs. Portland Fire",
+      "sport": "WNBA",
+      "period": "2h",
+      "home": "Portland Fire",
+      "away": "Los Angeles Sparks",
+      "source": "oddsportal",
+      "held_line": true,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/basketball/h2h/los-angeles-sparks-Ia6UdBZF/portland-fire-M1S40uRI/#vgkYg3pC",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": null,
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "WNBA",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "WNBA",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 4,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 1,
+        "market": null,
+        "fair": -1.5,
         "gap": null,
         "side": null,
         "missing": true
