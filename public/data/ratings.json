@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-21T00:55:48.507885+00:00",
+  "pulled_at": "2026-09-21T06:00:48.114009+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -40,7 +40,7 @@
       },
       "orioles": {
         "name": "Orioles",
-        "rating": -0.181,
+        "rating": -0.199,
         "source": "mlb-run-diff"
       },
       "guardians": {
@@ -120,7 +120,7 @@
       },
       "brewers": {
         "name": "Brewers",
-        "rating": 1.284,
+        "rating": 1.295,
         "source": "mlb-run-diff"
       },
       "cubs": {

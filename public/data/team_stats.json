@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-21T00:55:45.832443+00:00",
+  "pulled_at": "2026-09-21T06:00:43.892614+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -38,7 +38,7 @@
               "side": "home",
               "name": "Baltimore Orioles",
               "score": null,
-              "record": "75-80"
+              "record": "75-81"
             }
           ],
           "source": "statsapi.mlb.com"
