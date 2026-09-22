@@ -4,9 +4,26 @@
       "eventId": "823543",
       "home": "New York Yankees",
       "away": "Tampa Bay Rays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Sean Barber",
+      "crew": [
+        {
+          "name": "Sean Barber",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Gabe Morales",
+          "type": "First Base"
+        },
+        {
+          "name": "James Hoye",
+          "type": "Second Base"
+        },
+        {
+          "name": "D.J. Reyburn",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "823494",
@@ -132,7 +149,7 @@
   "savant": [
     {
       "gamePk": 823543,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823543"
     },
     {
@@ -219,7 +236,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 133
+    "count": 137
   },
   "nflverse": [
     {
@@ -6852,7 +6869,7 @@
       "homeTeam": "Detroit Tigers",
       "homePitcher": "Drew Anderson",
       "awayTeam": "Washington Nationals",
-      "awayPitcher": "Jackson Kent"
+      "awayPitcher": "Riley Cornelio"
     },
     {
       "eventId": "823328",
@@ -6892,7 +6909,7 @@
     {
       "eventId": "824624",
       "homeTeam": "Chicago Cubs",
-      "homePitcher": null,
+      "homePitcher": "Shota Imanaga",
       "awayTeam": "Miami Marlins",
       "awayPitcher": "Janson Junk"
     },
@@ -6942,7 +6959,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1798,
-    "gameFiles": 1685
+    "splitsKeys": 1826,
+    "gameFiles": 1713
   }
 }

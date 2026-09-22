@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-22T12:27:45.289058+00:00",
+  "pulled_at": "2026-09-22T17:12:46.654970+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,23 +25,249 @@
           "league": "mlb",
           "eventId": "823543",
           "name": "Tampa Bay Rays at New York Yankees",
-          "status": "Scheduled",
+          "status": "In Progress",
           "start": "2026-09-22T17:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Tampa Bay Rays",
-              "score": null,
+              "score": 0,
               "record": "95-60"
             },
             {
               "side": "home",
               "name": "New York Yankees",
-              "score": null,
+              "score": 0,
               "record": "89-66"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "823543",
+            "players": [
+              {
+                "player": "Richie Palacios",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jorge Mateo",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chandler Simpson",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nick Martinez",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Jonny DeLuca",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Liam Hicks",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jonathan Aranda",
+                "team": "Tampa Bay Rays",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Yandy D\u00edaz",
+                "team": "Tampa Bay Rays",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Victor Mesa Jr.",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Junior Caminero",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ali S\u00e1nchez",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Heliot Ramos",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jos\u00e9 Caballero",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Carlos Rod\u00f3n",
+                "team": "New York Yankees",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 2,
+                "er": 0
+              },
+              {
+                "player": "Spencer Jones",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ben Rice",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Anthony Volpe",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Cody Bellinger",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "George Lombard Jr.",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Luis Garc\u00eda Jr.",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
