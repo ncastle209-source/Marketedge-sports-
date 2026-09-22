@@ -219,7 +219,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 114
+    "count": 133
   },
   "nflverse": [
     {
@@ -6942,7 +6942,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1778,
-    "gameFiles": 1665
+    "splitsKeys": 1798,
+    "gameFiles": 1685
   }
 }
