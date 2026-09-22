@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-21T22:31:37.557048+00:00",
+  "pulled_at": "2026-09-22T01:07:17.969775+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -53,14 +53,14 @@
         "rating": 0.269,
         "source": "mlb-run-diff"
       },
+      "tigers": {
+        "name": "Tigers",
+        "rating": 0.478,
+        "source": "mlb-run-diff"
+      },
       "twins": {
         "name": "Twins",
         "rating": -0.41,
-        "source": "mlb-run-diff"
-      },
-      "tigers": {
-        "name": "Tigers",
-        "rating": 0.436,
         "source": "mlb-run-diff"
       },
       "royals": {
@@ -110,7 +110,7 @@
       },
       "nationals": {
         "name": "Nationals",
-        "rating": 0.077,
+        "rating": 0.032,
         "source": "mlb-run-diff"
       },
       "mets": {
