@@ -38,7 +38,7 @@
       "source": "actionnetwork",
       "sport": "ncaaf",
       "ok": true,
-      "count": 58
+      "count": 71
     },
     {
       "source": "actionnetwork",
@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 87
+      "filled_this_step": 106
     },
     {
       "source": "covers",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 87,
-  "still_missing": 240,
-  "spreads": 86
+  "filled": 106,
+  "still_missing": 258,
+  "spreads": 106
 }

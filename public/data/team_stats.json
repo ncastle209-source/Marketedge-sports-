@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-22T01:07:13.354113+00:00",
+  "pulled_at": "2026-09-22T06:39:51.621220+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -76,13 +76,13 @@
               "side": "away",
               "name": "Toronto Blue Jays",
               "score": null,
-              "record": "77-79"
+              "record": "77-80"
             },
             {
               "side": "home",
               "name": "Baltimore Orioles",
               "score": null,
-              "record": "75-81"
+              "record": "76-81"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -340,13 +340,13 @@
               "side": "away",
               "name": "Minnesota Twins",
               "score": null,
-              "record": "73-83"
+              "record": "73-84"
             },
             {
               "side": "home",
               "name": "San Francisco Giants",
               "score": null,
-              "record": "64-92"
+              "record": "65-92"
             }
           ],
           "source": "statsapi.mlb.com"
