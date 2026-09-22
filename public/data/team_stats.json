@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-22T17:12:46.654970+00:00",
+  "pulled_at": "2026-09-22T20:26:03.703993+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,20 +25,20 @@
           "league": "mlb",
           "eventId": "823543",
           "name": "Tampa Bay Rays at New York Yankees",
-          "status": "In Progress",
+          "status": "Final",
           "start": "2026-09-22T17:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Tampa Bay Rays",
               "score": 0,
-              "record": "95-60"
+              "record": "95-61"
             },
             {
               "side": "home",
               "name": "New York Yankees",
-              "score": 0,
-              "record": "89-66"
+              "score": 2,
+              "record": "90-66"
             }
           ],
           "source": "statsapi.mlb.com",
@@ -46,9 +46,20 @@
             "eventId": "823543",
             "players": [
               {
+                "player": "Ty Johnson",
+                "team": "Tampa Bay Rays",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 4,
+                "er": 0
+              },
+              {
                 "player": "Richie Palacios",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -59,7 +70,7 @@
               {
                 "player": "Jorge Mateo",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
+                "ab": 2,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -70,8 +81,8 @@
               {
                 "player": "Chandler Simpson",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -81,18 +92,18 @@
               {
                 "player": "Nick Martinez",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
-                "ip": "0.0",
-                "k": 0,
-                "er": 0
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "6.0",
+                "k": 7,
+                "er": 2
               },
               {
                 "player": "Jonny DeLuca",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -103,7 +114,7 @@
               {
                 "player": "Liam Hicks",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -114,8 +125,8 @@
               {
                 "player": "Jonathan Aranda",
                 "team": "Tampa Bay Rays",
-                "ab": 1,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -125,7 +136,7 @@
               {
                 "player": "Yandy D\u00edaz",
                 "team": "Tampa Bay Rays",
-                "ab": 1,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -136,8 +147,8 @@
               {
                 "player": "Victor Mesa Jr.",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -147,7 +158,18 @@
               {
                 "player": "Junior Caminero",
                 "team": "Tampa Bay Rays",
-                "ab": 0,
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Cedric Mullins",
+                "team": "Tampa Bay Rays",
+                "ab": 1,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -158,7 +180,7 @@
               {
                 "player": "Ali S\u00e1nchez",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -169,7 +191,7 @@
               {
                 "player": "Heliot Ramos",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -180,8 +202,8 @@
               {
                 "player": "Jos\u00e9 Caballero",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -195,15 +217,15 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "0.2",
-                "k": 2,
+                "ip": "8.0",
+                "k": 8,
                 "er": 0
               },
               {
                 "player": "Spencer Jones",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -213,8 +235,8 @@
               {
                 "player": "Ben Rice",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -224,7 +246,7 @@
               {
                 "player": "Anthony Volpe",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -235,19 +257,30 @@
               {
                 "player": "Cody Bellinger",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
-                "hr": 0,
-                "rbi": 0,
+                "ab": 4,
+                "h": 1,
+                "hr": 1,
+                "rbi": 2,
                 "ip": null,
                 "k": null,
                 "er": null
               },
               {
+                "player": "David Bednar",
+                "team": "New York Yankees",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 0,
+                "er": 0
+              },
+              {
                 "player": "George Lombard Jr.",
                 "team": "New York Yankees",
-                "ab": 0,
-                "h": 0,
+                "ab": 3,
+                "h": 1,
                 "hr": 0,
                 "rbi": 0,
                 "ip": null,
@@ -257,7 +290,7 @@
               {
                 "player": "Luis Garc\u00eda Jr.",
                 "team": "New York Yankees",
-                "ab": 0,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -280,35 +313,13 @@
               "side": "away",
               "name": "Tampa Bay Rays",
               "score": null,
-              "record": "95-60"
+              "record": "95-61"
             },
             {
               "side": "home",
               "name": "New York Yankees",
               "score": null,
-              "record": "89-66"
-            }
-          ],
-          "source": "statsapi.mlb.com"
-        },
-        {
-          "league": "mlb",
-          "eventId": "824785",
-          "name": "Toronto Blue Jays at Baltimore Orioles",
-          "status": "Scheduled",
-          "start": "2026-09-22T22:35:00Z",
-          "teams": [
-            {
-              "side": "away",
-              "name": "Toronto Blue Jays",
-              "score": null,
-              "record": "77-80"
-            },
-            {
-              "side": "home",
-              "name": "Baltimore Orioles",
-              "score": null,
-              "record": "76-81"
+              "record": "90-66"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -317,19 +328,19 @@
           "league": "mlb",
           "eventId": "824222",
           "name": "Washington Nationals at Detroit Tigers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T22:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Washington Nationals",
-              "score": null,
+              "score": 0,
               "record": "73-84"
             },
             {
               "side": "home",
               "name": "Detroit Tigers",
-              "score": null,
+              "score": 0,
               "record": "74-83"
             }
           ],
@@ -339,19 +350,19 @@
           "league": "mlb",
           "eventId": "823328",
           "name": "St. Louis Cardinals at Pittsburgh Pirates",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T22:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "St. Louis Cardinals",
-              "score": null,
+              "score": 0,
               "record": "76-80"
             },
             {
               "side": "home",
               "name": "Pittsburgh Pirates",
-              "score": null,
+              "score": 0,
               "record": "79-77"
             }
           ],
@@ -361,19 +372,19 @@
           "league": "mlb",
           "eventId": "823412",
           "name": "Milwaukee Brewers at Philadelphia Phillies",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T22:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Milwaukee Brewers",
-              "score": null,
+              "score": 0,
               "record": "98-58"
             },
             {
               "side": "home",
               "name": "Philadelphia Phillies",
-              "score": null,
+              "score": 0,
               "record": "86-70"
             }
           ],
@@ -383,19 +394,19 @@
           "league": "mlb",
           "eventId": "824709",
           "name": "Cleveland Guardians at Boston Red Sox",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T22:45:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cleveland Guardians",
-              "score": null,
+              "score": 0,
               "record": "81-75"
             },
             {
               "side": "home",
               "name": "Boston Red Sox",
-              "score": null,
+              "score": 0,
               "record": "84-72"
             }
           ],
@@ -405,19 +416,19 @@
           "league": "mlb",
           "eventId": "824867",
           "name": "Cincinnati Reds at Atlanta Braves",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T23:15:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cincinnati Reds",
-              "score": null,
+              "score": 0,
               "record": "72-84"
             },
             {
               "side": "home",
               "name": "Atlanta Braves",
-              "score": null,
+              "score": 0,
               "record": "92-64"
             }
           ],
@@ -427,19 +438,19 @@
           "league": "mlb",
           "eventId": "824061",
           "name": "Chicago White Sox at Kansas City Royals",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T23:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago White Sox",
-              "score": null,
+              "score": 0,
               "record": "80-76"
             },
             {
               "side": "home",
               "name": "Kansas City Royals",
-              "score": null,
+              "score": 0,
               "record": "67-89"
             }
           ],
@@ -449,7 +460,7 @@
           "league": "mlb",
           "eventId": "824624",
           "name": "Miami Marlins at Chicago Cubs",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-22T23:40:00Z",
           "teams": [
             {
@@ -471,7 +482,7 @@
           "league": "mlb",
           "eventId": "822840",
           "name": "New York Mets at Texas Rangers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-23T00:05:00Z",
           "teams": [
             {
@@ -493,19 +504,19 @@
           "league": "mlb",
           "eventId": "824302",
           "name": "Arizona Diamondbacks at Colorado Rockies",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-23T00:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Arizona Diamondbacks",
-              "score": null,
+              "score": 0,
               "record": "82-74"
             },
             {
               "side": "home",
               "name": "Colorado Rockies",
-              "score": null,
+              "score": 0,
               "record": "57-99"
             }
           ],
@@ -598,6 +609,33 @@
             }
           ],
           "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "824785",
+          "name": "Toronto Blue Jays at Baltimore Orioles",
+          "status": "Postponed",
+          "start": "2026-09-22T22:35:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Toronto Blue Jays",
+              "score": null,
+              "record": "77-80"
+            },
+            {
+              "side": "home",
+              "name": "Baltimore Orioles",
+              "score": null,
+              "record": "76-81"
+            }
+          ],
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "824785",
+            "players": [],
+            "source": "statsapi.mlb.com"
+          }
         }
       ]
     }

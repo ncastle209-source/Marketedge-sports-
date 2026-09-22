@@ -4555,10 +4555,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-22T20:26:08.782792+00:00",
+      "gameId": "ncaaf-char-ull",
+      "matchup": "Charlotte vs. Louisiana Lafayette",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 10.0,
+      "modelSpread": 13.0,
+      "modelEdge": -3.0,
+      "sharpSide": "Charlotte",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 13.0,
+      "clv": 3.0,
+      "tickets": 61.0,
+      "handle": 74.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-22T20:26:08.813278+00:00",
+      "gameId": "ncaaf-2h-char-ull",
+      "matchup": "Charlotte vs. Louisiana Lafayette",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 10.0,
+      "modelSpread": 13.0,
+      "modelEdge": -3.0,
+      "sharpSide": "Charlotte",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 61.0,
+      "handle": 74.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 189,
-  "updated": "2026-09-22T17:12:52.020337+00:00"
+  "pending": 191,
+  "updated": "2026-09-22T20:26:08.813278+00:00"
 }

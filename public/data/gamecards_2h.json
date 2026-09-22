@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-22T17:11:52.379049+00:00",
+  "pulled_at": "2026-09-22T20:25:15.767546+00:00",
   "period": "2h",
   "count": 375,
   "splits": {
@@ -157,7 +157,7 @@
         "source": "vegasinsider",
         "sport": "nfl",
         "ok": true,
-        "count": 0
+        "count": 1
       },
       {
         "source": "vegasinsider",
@@ -350,11 +350,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
+      "divergence": -11.0,
       "ticketPct": 0.59,
       "ticketPercentage": 59.0,
-      "handlePct": 0.54,
-      "handlePercentage": 54.0,
+      "handlePct": 0.48,
+      "handlePercentage": 48.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -6.5,
       "currentLine": -6.5,
@@ -376,7 +376,7 @@
         "market": -6.5,
         "model": null,
         "tickets": 59.0,
-        "handle": 54.0,
+        "handle": 48.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -414,7 +414,7 @@
         "market": -6.5,
         "model": null,
         "tickets": 59.0,
-        "handle": 54.0,
+        "handle": 48.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -442,7 +442,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -477,10 +477,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -13.0,
-      "ticketPct": 0.72,
-      "ticketPercentage": 72.0,
-      "handlePct": 0.59,
-      "handlePercentage": 59.0,
+      "ticketPct": 0.73,
+      "ticketPercentage": 73.0,
+      "handlePct": 0.6,
+      "handlePercentage": 60.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -7.0,
       "currentLine": -7.0,
@@ -501,8 +501,8 @@
         ],
         "market": -7.0,
         "model": null,
-        "tickets": 72.0,
-        "handle": 59.0,
+        "tickets": 73.0,
+        "handle": 60.0,
         "sharp": {
           "t1": false,
           "t2": true,
@@ -511,7 +511,7 @@
           "t5": false,
           "count": 1,
           "fire": false,
-          "confidence": 33,
+          "confidence": 34,
           "market": -7.0,
           "fair": -6.5,
           "gap": -0.5,
@@ -539,8 +539,8 @@
         ],
         "market": -7.0,
         "model": null,
-        "tickets": 72.0,
-        "handle": 59.0,
+        "tickets": 73.0,
+        "handle": 60.0,
         "sharp": {
           "t1": false,
           "t2": true,
@@ -549,7 +549,7 @@
           "t5": false,
           "count": 1,
           "fire": false,
-          "confidence": 33,
+          "confidence": 34,
           "market": -7.0,
           "fair": -6.5,
           "gap": -0.5,
@@ -568,7 +568,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": null,
       "awayPitcher": "Michael King",
@@ -580,7 +580,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 33,
+        "confidence": 34,
         "market": -7.0,
         "fair": -6.5,
         "gap": -0.5,
@@ -697,7 +697,6 @@
         "veto": []
       },
       "historyPoints": 4,
-      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -730,11 +729,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -16.0,
-      "ticketPct": 0.34,
-      "ticketPercentage": 34.0,
-      "handlePct": 0.18,
-      "handlePercentage": 18.0,
+      "divergence": -15.0,
+      "ticketPct": 0.32,
+      "ticketPercentage": 32.0,
+      "handlePct": 0.17,
+      "handlePercentage": 17.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 3.5,
       "currentLine": 3.5,
@@ -755,8 +754,8 @@
         ],
         "market": 3.5,
         "model": null,
-        "tickets": 34.0,
-        "handle": 18.0,
+        "tickets": 32.0,
+        "handle": 17.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -793,8 +792,8 @@
         ],
         "market": 3.5,
         "model": null,
-        "tickets": 34.0,
-        "handle": 18.0,
+        "tickets": 32.0,
+        "handle": 17.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -822,7 +821,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": "Jared Jones",
       "awayPitcher": "Andre Pallante",
@@ -858,11 +857,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -15.0,
+      "divergence": -14.0,
       "ticketPct": 0.68,
       "ticketPercentage": 68.0,
-      "handlePct": 0.53,
-      "handlePercentage": 53.0,
+      "handlePct": 0.54,
+      "handlePercentage": 54.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -6.5,
       "currentLine": -6.5,
@@ -884,7 +883,7 @@
         "market": -6.5,
         "model": null,
         "tickets": 68.0,
-        "handle": 53.0,
+        "handle": 54.0,
         "sharp": {
           "t1": true,
           "t2": true,
@@ -922,7 +921,7 @@
         "market": -6.5,
         "model": null,
         "tickets": 68.0,
-        "handle": 53.0,
+        "handle": 54.0,
         "sharp": {
           "t1": true,
           "t2": true,
@@ -950,7 +949,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": "Carlos Rod\u00f3n",
       "awayPitcher": "Nick Martinez",
@@ -986,11 +985,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
-      "ticketPct": 0.58,
-      "ticketPercentage": 58.0,
-      "handlePct": 0.53,
-      "handlePercentage": 53.0,
+      "divergence": -4.0,
+      "ticketPct": 0.59,
+      "ticketPercentage": 59.0,
+      "handlePct": 0.55,
+      "handlePercentage": 55.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 2.5,
       "currentLine": 2.5,
@@ -1011,8 +1010,8 @@
         ],
         "market": 2.5,
         "model": null,
-        "tickets": 58.0,
-        "handle": 53.0,
+        "tickets": 59.0,
+        "handle": 55.0,
         "sharp": {
           "t1": false,
           "t2": false,
@@ -1049,8 +1048,8 @@
         ],
         "market": 2.5,
         "model": null,
-        "tickets": 58.0,
-        "handle": 53.0,
+        "tickets": 59.0,
+        "handle": 55.0,
         "sharp": {
           "t1": false,
           "t2": false,
@@ -1078,7 +1077,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -1112,11 +1111,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 18.0,
-      "ticketPct": 0.35,
-      "ticketPercentage": 35.0,
-      "handlePct": 0.53,
-      "handlePercentage": 53.0,
+      "divergence": 17.0,
+      "ticketPct": 0.34,
+      "ticketPercentage": 34.0,
+      "handlePct": 0.51,
+      "handlePercentage": 51.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.0,
       "currentLine": -3.0,
@@ -1137,8 +1136,8 @@
         ],
         "market": -3.0,
         "model": null,
-        "tickets": 35.0,
-        "handle": 53.0,
+        "tickets": 34.0,
+        "handle": 51.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1175,8 +1174,8 @@
         ],
         "market": -3.0,
         "model": null,
-        "tickets": 35.0,
-        "handle": 53.0,
+        "tickets": 34.0,
+        "handle": 51.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1204,7 +1203,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": "Carlos Rod\u00f3n",
       "awayPitcher": "Nick Martinez",
@@ -1240,14 +1239,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -9.0,
-      "ticketPct": 0.16,
-      "ticketPercentage": 16.0,
+      "divergence": -8.0,
+      "ticketPct": 0.15,
+      "ticketPercentage": 15.0,
       "handlePct": 0.07,
       "handlePercentage": 7.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 11.5,
-      "currentLine": 11.5,
+      "currentSpread": 11.0,
+      "currentLine": 11.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 11.5,
       "openSpread": 11.5,
@@ -1263,9 +1262,9 @@
         "missing": [
           "model"
         ],
-        "market": 11.5,
+        "market": 11.0,
         "model": null,
-        "tickets": 16.0,
+        "tickets": 15.0,
         "handle": 7.0,
         "sharp": {
           "t1": false,
@@ -1275,10 +1274,10 @@
           "t5": false,
           "count": 0,
           "fire": false,
-          "confidence": 8,
-          "market": 11.5,
+          "confidence": 13,
+          "market": 11.0,
           "fair": 11.5,
-          "gap": 0.0,
+          "gap": -0.5,
           "side": "Kansas City Chiefs",
           "missing": false
         },
@@ -1301,9 +1300,9 @@
         "missing": [
           "model"
         ],
-        "market": 11.5,
+        "market": 11.0,
         "model": null,
-        "tickets": 16.0,
+        "tickets": 15.0,
         "handle": 7.0,
         "sharp": {
           "t1": false,
@@ -1313,10 +1312,10 @@
           "t5": false,
           "count": 0,
           "fire": false,
-          "confidence": 8,
-          "market": 11.5,
+          "confidence": 13,
+          "market": 11.0,
           "fair": 11.5,
-          "gap": 0.0,
+          "gap": -0.5,
           "side": "Kansas City Chiefs",
           "missing": false
         },
@@ -1332,8 +1331,8 @@
         ],
         "veto": []
       },
-      "historyPoints": 3,
-      "lineDelta": 0.0,
+      "historyPoints": 4,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -1342,14 +1341,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 8,
-        "market": 11.5,
+        "confidence": 13,
+        "market": 11.0,
         "fair": 11.5,
-        "gap": 0.0,
+        "gap": -0.5,
         "side": "Kansas City Chiefs",
         "missing": false
       },
-      "modelEdge": 0.0
+      "modelEdge": -0.5
     },
     {
       "gameId": "nfl-2h-new-york-giants-tennessee-titans",
@@ -1366,11 +1365,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 9.0,
-      "ticketPct": 0.57,
-      "ticketPercentage": 57.0,
-      "handlePct": 0.66,
-      "handlePercentage": 66.0,
+      "divergence": 7.0,
+      "ticketPct": 0.49,
+      "ticketPercentage": 49.0,
+      "handlePct": 0.56,
+      "handlePercentage": 56.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.0,
       "currentLine": -3.0,
@@ -1391,8 +1390,8 @@
         ],
         "market": -3.0,
         "model": null,
-        "tickets": 57.0,
-        "handle": 66.0,
+        "tickets": 49.0,
+        "handle": 56.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1429,8 +1428,8 @@
         ],
         "market": -3.0,
         "model": null,
-        "tickets": 57.0,
-        "handle": 66.0,
+        "tickets": 49.0,
+        "handle": 56.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1458,8 +1457,8 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
-      "lineDelta": 0.5,
+      "historyPoints": 5,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -1492,11 +1491,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -7.0,
-      "ticketPct": 0.18,
-      "ticketPercentage": 18.0,
-      "handlePct": 0.11,
-      "handlePercentage": 11.0,
+      "divergence": -8.0,
+      "ticketPct": 0.17,
+      "ticketPercentage": 17.0,
+      "handlePct": 0.09,
+      "handlePercentage": 9.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 7.0,
       "currentLine": 7.0,
@@ -1517,8 +1516,8 @@
         ],
         "market": 7.0,
         "model": null,
-        "tickets": 18.0,
-        "handle": 11.0,
+        "tickets": 17.0,
+        "handle": 9.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1555,8 +1554,8 @@
         ],
         "market": 7.0,
         "model": null,
-        "tickets": 18.0,
-        "handle": 11.0,
+        "tickets": 17.0,
+        "handle": 9.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1584,7 +1583,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -1618,9 +1617,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 11.0,
-      "ticketPct": 0.71,
-      "ticketPercentage": 71.0,
+      "divergence": 9.0,
+      "ticketPct": 0.73,
+      "ticketPercentage": 73.0,
       "handlePct": 0.82,
       "handlePercentage": 82.0,
       "handleSource": "action-publicbetting",
@@ -1643,7 +1642,7 @@
         ],
         "market": -8.5,
         "model": null,
-        "tickets": 71.0,
+        "tickets": 73.0,
         "handle": 82.0,
         "sharp": {
           "t1": true,
@@ -1653,7 +1652,7 @@
           "t5": false,
           "count": 2,
           "fire": true,
-          "confidence": 60,
+          "confidence": 61,
           "market": -8.5,
           "fair": -13.5,
           "gap": 5.0,
@@ -1681,7 +1680,7 @@
         ],
         "market": -8.5,
         "model": null,
-        "tickets": 71.0,
+        "tickets": 73.0,
         "handle": 82.0,
         "sharp": {
           "t1": true,
@@ -1691,7 +1690,7 @@
           "t5": false,
           "count": 2,
           "fire": true,
-          "confidence": 60,
+          "confidence": 61,
           "market": -8.5,
           "fair": -13.5,
           "gap": 5.0,
@@ -1710,7 +1709,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": "Anthony Molina",
       "awayPitcher": "Taj Bradley",
@@ -1722,7 +1721,7 @@
         "t5": false,
         "count": 2,
         "fire": true,
-        "confidence": 60,
+        "confidence": 61,
         "market": -8.5,
         "fair": -13.5,
         "gap": 5.0,
@@ -1746,11 +1745,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 13.0,
-      "ticketPct": 0.37,
-      "ticketPercentage": 37.0,
-      "handlePct": 0.5,
-      "handlePercentage": 50.0,
+      "divergence": 14.0,
+      "ticketPct": 0.34,
+      "ticketPercentage": 34.0,
+      "handlePct": 0.48,
+      "handlePercentage": 48.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -1771,8 +1770,8 @@
         ],
         "market": 1.5,
         "model": null,
-        "tickets": 37.0,
-        "handle": 50.0,
+        "tickets": 34.0,
+        "handle": 48.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1809,8 +1808,8 @@
         ],
         "market": 1.5,
         "model": null,
-        "tickets": 37.0,
-        "handle": 50.0,
+        "tickets": 34.0,
+        "handle": 48.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -1838,7 +1837,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -1965,7 +1964,6 @@
         "veto": []
       },
       "historyPoints": 4,
-      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -1998,11 +1996,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
+      "divergence": -8.0,
       "ticketPct": 0.44,
       "ticketPercentage": 44.0,
-      "handlePct": 0.39,
-      "handlePercentage": 39.0,
+      "handlePct": 0.36,
+      "handlePercentage": 36.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.0,
       "currentLine": -3.0,
@@ -2024,7 +2022,7 @@
         "market": -3.0,
         "model": null,
         "tickets": 44.0,
-        "handle": 39.0,
+        "handle": 36.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -2062,7 +2060,7 @@
         "market": -3.0,
         "model": null,
         "tickets": 44.0,
-        "handle": 39.0,
+        "handle": 36.0,
         "sharp": {
           "t1": true,
           "t2": false,
@@ -2090,7 +2088,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": "Carlos Rod\u00f3n",
       "awayPitcher": "Nick Martinez",
@@ -2126,9 +2124,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -14.0,
-      "ticketPct": 0.4,
-      "ticketPercentage": 40.0,
+      "divergence": -12.0,
+      "ticketPct": 0.38,
+      "ticketPercentage": 38.0,
       "handlePct": 0.26,
       "handlePercentage": 26.0,
       "handleSource": "action-publicbetting",
@@ -2151,7 +2149,7 @@
         ],
         "market": 2.5,
         "model": null,
-        "tickets": 40.0,
+        "tickets": 38.0,
         "handle": 26.0,
         "sharp": {
           "t1": true,
@@ -2189,7 +2187,7 @@
         ],
         "market": 2.5,
         "model": null,
-        "tickets": 40.0,
+        "tickets": 38.0,
         "handle": 26.0,
         "sharp": {
           "t1": true,
@@ -2218,7 +2216,7 @@
         ],
         "veto": []
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": null,
       "awayPitcher": "Michael King",
@@ -2254,14 +2252,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -21.0,
-      "ticketPct": 0.43,
-      "ticketPercentage": 43.0,
-      "handlePct": 0.22,
-      "handlePercentage": 22.0,
+      "divergence": -19.0,
+      "ticketPct": 0.39,
+      "ticketPercentage": 39.0,
+      "handlePct": 0.2,
+      "handlePercentage": 20.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 3.5,
-      "currentLine": 3.5,
+      "currentSpread": 4.5,
+      "currentLine": 4.5,
       "lineSource": "action-publicbetting",
       "fairSpread": 3.5,
       "openSpread": 3.5,
@@ -2277,10 +2275,10 @@
         "missing": [
           "model"
         ],
-        "market": 3.5,
+        "market": 4.5,
         "model": null,
-        "tickets": 43.0,
-        "handle": 22.0,
+        "tickets": 39.0,
+        "handle": 20.0,
         "sharp": {
           "t1": false,
           "t2": false,
@@ -2289,11 +2287,11 @@
           "t5": false,
           "count": 0,
           "fire": false,
-          "confidence": 16,
-          "market": 3.5,
+          "confidence": 26,
+          "market": 4.5,
           "fair": 3.5,
-          "gap": 0.0,
-          "side": "Chicago Bears",
+          "gap": 1.0,
+          "side": "Philadelphia Eagles",
           "missing": false
         },
         "fire": false,
@@ -2315,10 +2313,10 @@
         "missing": [
           "model"
         ],
-        "market": 3.5,
+        "market": 4.5,
         "model": null,
-        "tickets": 43.0,
-        "handle": 22.0,
+        "tickets": 39.0,
+        "handle": 20.0,
         "sharp": {
           "t1": false,
           "t2": false,
@@ -2327,11 +2325,11 @@
           "t5": false,
           "count": 0,
           "fire": false,
-          "confidence": 16,
-          "market": 3.5,
+          "confidence": 26,
+          "market": 4.5,
           "fair": 3.5,
-          "gap": 0.0,
-          "side": "Chicago Bears",
+          "gap": 1.0,
+          "side": "Philadelphia Eagles",
           "missing": false
         },
         "fire": false,
@@ -2346,8 +2344,8 @@
         ],
         "veto": []
       },
-      "historyPoints": 3,
-      "lineDelta": 0.0,
+      "historyPoints": 4,
+      "lineDelta": 1.0,
       "homePitcher": "Zack Wheeler",
       "awayPitcher": "Dustin May",
       "sharpTrap": {
@@ -2358,14 +2356,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 16,
-        "market": 3.5,
+        "confidence": 26,
+        "market": 4.5,
         "fair": 3.5,
-        "gap": 0.0,
-        "side": "Chicago Bears",
+        "gap": 1.0,
+        "side": "Philadelphia Eagles",
         "missing": false
       },
-      "modelEdge": 0.0
+      "modelEdge": 1.0
     },
     {
       "gameId": "nfl-2h-cleveland-browns-pittsburgh-steelers",
@@ -14574,10 +14572,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -1.0,
-      "ticketPct": 0.44,
-      "ticketPercentage": 44.0,
-      "handlePct": 0.43,
-      "handlePercentage": 43.0,
+      "ticketPct": 0.43,
+      "ticketPercentage": 43.0,
+      "handlePct": 0.42,
+      "handlePercentage": 42.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 2.5,
       "currentLine": 2.5,
@@ -14616,7 +14614,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -14650,11 +14648,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -11.0,
+      "divergence": -10.0,
       "ticketPct": 0.42,
       "ticketPercentage": 42.0,
-      "handlePct": 0.31,
-      "handlePercentage": 31.0,
+      "handlePct": 0.32,
+      "handlePercentage": 32.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 3.0,
       "currentLine": 3.0,
@@ -14693,7 +14691,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
+      "historyPoints": 11,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -14803,11 +14801,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -5.0,
+      "divergence": -4.0,
       "ticketPct": 0.42,
       "ticketPercentage": 42.0,
-      "handlePct": 0.37,
-      "handlePercentage": 37.0,
+      "handlePct": 0.38,
+      "handlePercentage": 38.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 7.0,
       "currentLine": 7.0,
@@ -14846,7 +14844,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 14,
+      "historyPoints": 15,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -14880,17 +14878,171 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -9.0,
-      "ticketPct": 0.39,
-      "ticketPercentage": 39.0,
-      "handlePct": 0.3,
-      "handlePercentage": 30.0,
+      "divergence": -11.0,
+      "ticketPct": 0.4,
+      "ticketPercentage": 40.0,
+      "handlePct": 0.29,
+      "handlePercentage": 29.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -21.0,
       "currentLine": -21.0,
       "lineSource": "action-publicbetting",
       "fairSpread": -22.5,
       "openSpread": -22.5,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "NCAAF",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "NCAAF",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 14,
+      "lineDelta": 0.0,
+      "sharpTrap": {
+        "t1": false,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 0,
+        "fire": false,
+        "confidence": 23,
+        "market": -21.0,
+        "fair": -22.5,
+        "gap": 1.5,
+        "side": "Northwestern",
+        "missing": false
+      },
+      "modelEdge": 1.5
+    },
+    {
+      "gameId": "ncaaf-2h-cal-clem",
+      "matchup": "California vs. Clemson",
+      "sport": "NCAAF",
+      "period": "2h",
+      "home": "Clemson",
+      "away": "California",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/california-j74iNytf/clemson-dUIMKguJ/#vkkgvuwn",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": 14.0,
+      "ticketPct": 0.43,
+      "ticketPercentage": 43.0,
+      "handlePct": 0.57,
+      "handlePercentage": 57.0,
+      "handleSource": "action-publicbetting",
+      "currentSpread": 1.0,
+      "currentLine": 1.0,
+      "lineSource": "action-publicbetting",
+      "fairSpread": -1.5,
+      "openSpread": -1.5,
+      "vegasLeverageNFL": {
+        "name": "Vegas Leverage NFL",
+        "sport": "NCAAF",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "vegasLeverage": {
+        "name": "Vegas Leverage NFL",
+        "sport": "NCAAF",
+        "ready": false,
+        "missing": [
+          "not-nfl"
+        ],
+        "fire": false,
+        "confidence": 1,
+        "reasons": [
+          "Vegas Leverage NFL only prices NFL"
+        ],
+        "veto": [
+          "not-nfl"
+        ]
+      },
+      "historyPoints": 10,
+      "lineDelta": 0.0,
+      "sharpTrap": {
+        "t1": true,
+        "t2": false,
+        "t3": false,
+        "t4": false,
+        "t5": false,
+        "count": 1,
+        "fire": false,
+        "confidence": 41,
+        "market": 1.0,
+        "fair": -1.5,
+        "gap": 2.5,
+        "side": "Clemson",
+        "missing": false
+      },
+      "modelEdge": 2.5
+    },
+    {
+      "gameId": "ncaaf-2h-akr-unlv",
+      "matchup": "Akron vs. Unlv Rebels",
+      "sport": "NCAAF",
+      "period": "2h",
+      "home": "Unlv Rebels",
+      "away": "Akron",
+      "source": "oddsportal",
+      "held_line": false,
+      "start": null,
+      "books": [],
+      "url": "https://www.oddsportal.com/american-football/h2h/akron-rcsLFMl8/unlv-rebels-QZNcQY5A/#rkzvU9tA",
+      "splitsMissing": true,
+      "lineMovedOppositePublic": false,
+      "volumeSurgeConfirmed": false,
+      "divergence": 14.0,
+      "ticketPct": 0.55,
+      "ticketPercentage": 55.0,
+      "handlePct": 0.69,
+      "handlePercentage": 69.0,
+      "handleSource": "action-publicbetting",
+      "currentSpread": 13.5,
+      "currentLine": 13.5,
+      "lineSource": "action-publicbetting",
+      "fairSpread": 14.0,
+      "openSpread": 14.0,
       "vegasLeverageNFL": {
         "name": "Vegas Leverage NFL",
         "sport": "NCAAF",
@@ -14933,160 +15085,6 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 23,
-        "market": -21.0,
-        "fair": -22.5,
-        "gap": 1.5,
-        "side": "Northwestern",
-        "missing": false
-      },
-      "modelEdge": 1.5
-    },
-    {
-      "gameId": "ncaaf-2h-cal-clem",
-      "matchup": "California vs. Clemson",
-      "sport": "NCAAF",
-      "period": "2h",
-      "home": "Clemson",
-      "away": "California",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/california-j74iNytf/clemson-dUIMKguJ/#vkkgvuwn",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": 14.0,
-      "ticketPct": 0.44,
-      "ticketPercentage": 44.0,
-      "handlePct": 0.58,
-      "handlePercentage": 58.0,
-      "handleSource": "action-publicbetting",
-      "currentSpread": 1.0,
-      "currentLine": 1.0,
-      "lineSource": "action-publicbetting",
-      "fairSpread": -1.5,
-      "openSpread": -1.5,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "NCAAF",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "NCAAF",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 9,
-      "lineDelta": -0.5,
-      "sharpTrap": {
-        "t1": true,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 1,
-        "fire": false,
-        "confidence": 41,
-        "market": 1.0,
-        "fair": -1.5,
-        "gap": 2.5,
-        "side": "Clemson",
-        "missing": false
-      },
-      "modelEdge": 2.5
-    },
-    {
-      "gameId": "ncaaf-2h-akr-unlv",
-      "matchup": "Akron vs. Unlv Rebels",
-      "sport": "NCAAF",
-      "period": "2h",
-      "home": "Unlv Rebels",
-      "away": "Akron",
-      "source": "oddsportal",
-      "held_line": false,
-      "start": null,
-      "books": [],
-      "url": "https://www.oddsportal.com/american-football/h2h/akron-rcsLFMl8/unlv-rebels-QZNcQY5A/#rkzvU9tA",
-      "splitsMissing": true,
-      "lineMovedOppositePublic": false,
-      "volumeSurgeConfirmed": false,
-      "divergence": 13.0,
-      "ticketPct": 0.55,
-      "ticketPercentage": 55.0,
-      "handlePct": 0.68,
-      "handlePercentage": 68.0,
-      "handleSource": "action-publicbetting",
-      "currentSpread": 13.5,
-      "currentLine": 13.5,
-      "lineSource": "action-publicbetting",
-      "fairSpread": 14.0,
-      "openSpread": 14.0,
-      "vegasLeverageNFL": {
-        "name": "Vegas Leverage NFL",
-        "sport": "NCAAF",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "vegasLeverage": {
-        "name": "Vegas Leverage NFL",
-        "sport": "NCAAF",
-        "ready": false,
-        "missing": [
-          "not-nfl"
-        ],
-        "fire": false,
-        "confidence": 1,
-        "reasons": [
-          "Vegas Leverage NFL only prices NFL"
-        ],
-        "veto": [
-          "not-nfl"
-        ]
-      },
-      "historyPoints": 12,
-      "lineDelta": 0.0,
-      "sharpTrap": {
-        "t1": false,
-        "t2": false,
-        "t3": false,
-        "t4": false,
-        "t5": false,
-        "count": 0,
-        "fire": false,
         "confidence": 21,
         "market": 13.5,
         "fair": 14.0,
@@ -15111,11 +15109,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -6.0,
+      "divergence": -5.0,
       "ticketPct": 0.37,
       "ticketPercentage": 37.0,
-      "handlePct": 0.31,
-      "handlePercentage": 31.0,
+      "handlePct": 0.32,
+      "handlePercentage": 32.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.5,
       "currentLine": -3.5,
@@ -15154,7 +15152,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 8,
+      "historyPoints": 9,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15188,9 +15186,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 9.0,
-      "ticketPct": 0.43,
-      "ticketPercentage": 43.0,
+      "divergence": 8.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
       "handlePct": 0.52,
       "handlePercentage": 52.0,
       "handleSource": "action-publicbetting",
@@ -15231,7 +15229,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "lineDelta": 0.0,
       "homePitcher": "Kyle Freeland",
       "awayPitcher": "Michael Soroka",
@@ -15267,14 +15265,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -4.0,
-      "ticketPct": 0.51,
-      "ticketPercentage": 51.0,
-      "handlePct": 0.47,
-      "handlePercentage": 47.0,
+      "divergence": -5.0,
+      "ticketPct": 0.5,
+      "ticketPercentage": 50.0,
+      "handlePct": 0.45,
+      "handlePercentage": 45.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 13.5,
-      "currentLine": 13.5,
+      "currentSpread": 14.0,
+      "currentLine": 14.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 14.5,
       "openSpread": 14.5,
@@ -15310,8 +15308,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
-      "lineDelta": 0.0,
+      "historyPoints": 12,
+      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15320,14 +15318,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": 13.5,
+        "confidence": 13,
+        "market": 14.0,
         "fair": 14.5,
-        "gap": -1.0,
+        "gap": -0.5,
         "side": "Boston College",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -0.5
     },
     {
       "gameId": "ncaaf-2h-bucknell-bison-pitt",
@@ -15422,14 +15420,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -7.0,
+      "divergence": -8.0,
       "ticketPct": 0.29,
       "ticketPercentage": 29.0,
-      "handlePct": 0.22,
-      "handlePercentage": 22.0,
+      "handlePct": 0.21,
+      "handlePercentage": 21.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -13.0,
-      "currentLine": -13.0,
+      "currentSpread": -13.5,
+      "currentLine": -13.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -12.0,
       "openSpread": -12.0,
@@ -15465,8 +15463,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
-      "lineDelta": 0.0,
+      "historyPoints": 11,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15475,14 +15473,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -13.0,
+        "confidence": 23,
+        "market": -13.5,
         "fair": -12.0,
-        "gap": -1.0,
+        "gap": -1.5,
         "side": "Colorado State Rams",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -1.5
     },
     {
       "gameId": "ncaaf-2h-ill-osu",
@@ -15543,7 +15541,6 @@
         ]
       },
       "historyPoints": 12,
-      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -15577,10 +15574,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -3.0,
-      "ticketPct": 0.38,
-      "ticketPercentage": 38.0,
-      "handlePct": 0.35,
-      "handlePercentage": 35.0,
+      "ticketPct": 0.39,
+      "ticketPercentage": 39.0,
+      "handlePct": 0.36,
+      "handlePercentage": 36.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -12.5,
       "currentLine": -12.5,
@@ -15619,7 +15616,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15653,11 +15650,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -19.0,
+      "divergence": -20.0,
       "ticketPct": 0.45,
       "ticketPercentage": 45.0,
-      "handlePct": 0.26,
-      "handlePercentage": 26.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -34.5,
       "currentLine": -34.5,
@@ -15696,7 +15693,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 13,
+      "historyPoints": 14,
       "lineDelta": 0.0,
       "homePitcher": "MacKenzie Gore",
       "awayPitcher": "Sean Manaea",
@@ -15732,11 +15729,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 19.0,
+      "divergence": 21.0,
       "ticketPct": 0.54,
       "ticketPercentage": 54.0,
-      "handlePct": 0.73,
-      "handlePercentage": 73.0,
+      "handlePct": 0.75,
+      "handlePercentage": 75.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.0,
       "currentLine": -3.0,
@@ -15775,7 +15772,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 7,
+      "historyPoints": 8,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15887,11 +15884,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -11.0,
-      "ticketPct": 0.67,
-      "ticketPercentage": 67.0,
-      "handlePct": 0.56,
-      "handlePercentage": 56.0,
+      "divergence": -10.0,
+      "ticketPct": 0.68,
+      "ticketPercentage": 68.0,
+      "handlePct": 0.58,
+      "handlePercentage": 58.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -20.5,
       "currentLine": -20.5,
@@ -15930,7 +15927,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 13,
+      "historyPoints": 14,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -15940,7 +15937,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 17,
+        "confidence": 18,
         "market": -20.5,
         "fair": -20.5,
         "gap": 0.0,
@@ -16040,9 +16037,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
+      "divergence": 1.0,
+      "ticketPct": 0.48,
+      "ticketPercentage": 48.0,
       "handlePct": 0.49,
       "handlePercentage": 49.0,
       "handleSource": "action-publicbetting",
@@ -16083,7 +16080,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 7,
+      "historyPoints": 8,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16161,7 +16158,6 @@
         ]
       },
       "historyPoints": 7,
-      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -16195,10 +16191,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -11.0,
-      "ticketPct": 0.57,
-      "ticketPercentage": 57.0,
-      "handlePct": 0.46,
-      "handlePercentage": 46.0,
+      "ticketPct": 0.56,
+      "ticketPercentage": 56.0,
+      "handlePct": 0.45,
+      "handlePercentage": 45.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 27.5,
       "currentLine": 27.5,
@@ -16237,7 +16233,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
+      "historyPoints": 13,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16478,10 +16474,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "ticketPct": 0.36,
+      "ticketPercentage": 36.0,
+      "handlePct": 0.36,
+      "handlePercentage": 36.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.5,
       "currentLine": -3.5,
@@ -16520,7 +16516,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -16630,10 +16627,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": 5.0,
-      "ticketPct": 0.16,
-      "ticketPercentage": 16.0,
-      "handlePct": 0.21,
-      "handlePercentage": 21.0,
+      "ticketPct": 0.15,
+      "ticketPercentage": 15.0,
+      "handlePct": 0.2,
+      "handlePercentage": 20.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.5,
       "currentLine": -3.5,
@@ -16672,7 +16669,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
+      "historyPoints": 13,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16771,11 +16768,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -15.0,
+      "divergence": -16.0,
       "ticketPct": 0.62,
       "ticketPercentage": 62.0,
-      "handlePct": 0.47,
-      "handlePercentage": 47.0,
+      "handlePct": 0.46,
+      "handlePercentage": 46.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -14.0,
       "currentLine": -14.0,
@@ -16814,7 +16811,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
+      "historyPoints": 13,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16848,11 +16845,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -9.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
-      "handlePct": 0.4,
-      "handlePercentage": 40.0,
+      "divergence": -10.0,
+      "ticketPct": 0.47,
+      "ticketPercentage": 47.0,
+      "handlePct": 0.37,
+      "handlePercentage": 37.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -5.5,
       "currentLine": -5.5,
@@ -16891,7 +16888,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
+      "historyPoints": 13,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -16926,13 +16923,13 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -6.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
-      "handlePct": 0.43,
-      "handlePercentage": 43.0,
+      "ticketPct": 0.48,
+      "ticketPercentage": 48.0,
+      "handlePct": 0.42,
+      "handlePercentage": 42.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 8.0,
-      "currentLine": 8.0,
+      "currentSpread": 7.5,
+      "currentLine": 7.5,
       "lineSource": "action-publicbetting",
       "fairSpread": 10.5,
       "openSpread": 10.5,
@@ -16968,8 +16965,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
-      "lineDelta": 0.0,
+      "historyPoints": 13,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -16978,14 +16975,14 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 33,
-        "market": 8.0,
+        "confidence": 38,
+        "market": 7.5,
         "fair": 10.5,
-        "gap": -2.5,
+        "gap": -3.0,
         "side": "Iowa State",
         "missing": false
       },
-      "modelEdge": -2.5
+      "modelEdge": -3.0
     },
     {
       "gameId": "ncaaf-2h-unm-nmsu",
@@ -17046,7 +17043,6 @@
         ]
       },
       "historyPoints": 11,
-      "lineDelta": 0.0,
       "homePitcher": "Carlos Rod\u00f3n",
       "awayPitcher": "Nick Martinez",
       "sharpTrap": {
@@ -17146,11 +17142,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 14.0,
-      "ticketPct": 0.61,
-      "ticketPercentage": 61.0,
-      "handlePct": 0.75,
-      "handlePercentage": 75.0,
+      "divergence": 2.0,
+      "ticketPct": 0.6,
+      "ticketPercentage": 60.0,
+      "handlePct": 0.62,
+      "handlePercentage": 62.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 3.0,
       "currentLine": 3.0,
@@ -17189,7 +17185,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -17199,7 +17195,7 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 21,
+        "confidence": 13,
         "market": 3.0,
         "fair": 3.5,
         "gap": -0.5,
@@ -17229,8 +17225,8 @@
       "handlePct": 0.4,
       "handlePercentage": 40.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 7.5,
-      "currentLine": 7.5,
+      "currentSpread": 7.0,
+      "currentLine": 7.0,
       "lineSource": "action-publicbetting",
       "fairSpread": 8.0,
       "openSpread": 8.0,
@@ -17266,8 +17262,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
-      "lineDelta": 0.0,
+      "historyPoints": 12,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17276,14 +17272,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 13,
-        "market": 7.5,
+        "confidence": 18,
+        "market": 7.0,
         "fair": 8.0,
-        "gap": -0.5,
+        "gap": -1.0,
         "side": "Boise State",
         "missing": false
       },
-      "modelEdge": -0.5
+      "modelEdge": -1.0
     },
     {
       "gameId": "ncaaf-2h-ecu-north-carolina-central-eagles",
@@ -17344,7 +17340,6 @@
         ]
       },
       "historyPoints": 2,
-      "lineDelta": -3.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -17377,11 +17372,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 11.0,
-      "ticketPct": 0.47,
-      "ticketPercentage": 47.0,
-      "handlePct": 0.58,
-      "handlePercentage": 58.0,
+      "divergence": 9.0,
+      "ticketPct": 0.45,
+      "ticketPercentage": 45.0,
+      "handlePct": 0.54,
+      "handlePercentage": 54.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 18.5,
       "currentLine": 18.5,
@@ -17420,7 +17415,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 13,
+      "historyPoints": 14,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -17455,10 +17450,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": 2.0,
-      "ticketPct": 0.3,
-      "ticketPercentage": 30.0,
-      "handlePct": 0.32,
-      "handlePercentage": 32.0,
+      "ticketPct": 0.31,
+      "ticketPercentage": 31.0,
+      "handlePct": 0.33,
+      "handlePercentage": 33.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -9.5,
       "currentLine": -9.5,
@@ -17497,7 +17492,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -17531,11 +17526,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 1.0,
-      "ticketPct": 0.57,
-      "ticketPercentage": 57.0,
-      "handlePct": 0.58,
-      "handlePercentage": 58.0,
+      "divergence": 2.0,
+      "ticketPct": 0.55,
+      "ticketPercentage": 55.0,
+      "handlePct": 0.57,
+      "handlePercentage": 57.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 17.5,
       "currentLine": 17.5,
@@ -17574,7 +17569,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 7,
+      "historyPoints": 8,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17607,11 +17603,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -11.0,
+      "ticketPct": 0.6,
+      "ticketPercentage": 60.0,
+      "handlePct": 0.49,
+      "handlePercentage": 49.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 5.5,
       "currentLine": 5.5,
@@ -17650,7 +17646,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17684,13 +17681,13 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -7.0,
-      "ticketPct": 0.54,
-      "ticketPercentage": 54.0,
-      "handlePct": 0.47,
-      "handlePercentage": 47.0,
+      "ticketPct": 0.56,
+      "ticketPercentage": 56.0,
+      "handlePct": 0.49,
+      "handlePercentage": 49.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -9.5,
-      "currentLine": -9.5,
+      "currentSpread": -10.0,
+      "currentLine": -10.0,
       "lineSource": "action-publicbetting",
       "fairSpread": -10.0,
       "openSpread": -10.0,
@@ -17726,8 +17723,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
-      "lineDelta": 0.0,
+      "historyPoints": 12,
+      "lineDelta": -0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -17736,14 +17733,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 13,
-        "market": -9.5,
+        "confidence": 8,
+        "market": -10.0,
         "fair": -10.0,
-        "gap": 0.5,
-        "side": "Wisconsin",
+        "gap": 0.0,
+        "side": "Penn State",
         "missing": false
       },
-      "modelEdge": 0.5
+      "modelEdge": 0.0
     },
     {
       "gameId": "ncaaf-2h-delaware-fightin-uva",
@@ -17969,10 +17966,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -3.0,
-      "ticketPct": 0.29,
-      "ticketPercentage": 29.0,
-      "handlePct": 0.26,
-      "handlePercentage": 26.0,
+      "ticketPct": 0.28,
+      "ticketPercentage": 28.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 6.0,
       "currentLine": 6.0,
@@ -18011,7 +18008,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -18046,10 +18043,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": 0.0,
-      "ticketPct": 0.57,
-      "ticketPercentage": 57.0,
-      "handlePct": 0.57,
-      "handlePercentage": 57.0,
+      "ticketPct": 0.59,
+      "ticketPercentage": 59.0,
+      "handlePct": 0.59,
+      "handlePercentage": 59.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -41.5,
       "currentLine": -41.5,
@@ -18088,7 +18085,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -18122,11 +18119,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 10.0,
-      "ticketPct": 0.62,
-      "ticketPercentage": 62.0,
-      "handlePct": 0.72,
-      "handlePercentage": 72.0,
+      "divergence": 13.0,
+      "ticketPct": 0.61,
+      "ticketPercentage": 61.0,
+      "handlePct": 0.74,
+      "handlePercentage": 74.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 10.0,
       "currentLine": 10.0,
@@ -18165,7 +18162,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
+      "historyPoints": 11,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -18174,7 +18172,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 38,
+        "confidence": 46,
         "market": 10.0,
         "fair": 13.0,
         "gap": -3.0,
@@ -18198,11 +18196,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 8.0,
-      "ticketPct": 0.6,
-      "ticketPercentage": 60.0,
-      "handlePct": 0.68,
-      "handlePercentage": 68.0,
+      "divergence": 9.0,
+      "ticketPct": 0.61,
+      "ticketPercentage": 61.0,
+      "handlePct": 0.7,
+      "handlePercentage": 70.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -12.0,
       "currentLine": -12.0,
@@ -18241,7 +18239,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 13,
+      "historyPoints": 14,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -18319,7 +18317,6 @@
         ]
       },
       "historyPoints": 8,
-      "lineDelta": -1.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -18352,9 +18349,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -6.0,
-      "ticketPct": 0.51,
-      "ticketPercentage": 51.0,
+      "divergence": -7.0,
+      "ticketPct": 0.52,
+      "ticketPercentage": 52.0,
       "handlePct": 0.45,
       "handlePercentage": 45.0,
       "handleSource": "action-publicbetting",
@@ -18395,7 +18392,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "homePitcher": "Daniel Lynch IV",
       "awayPitcher": "Anthony Kay",
@@ -18714,10 +18711,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -8.0,
-      "ticketPct": 0.41,
-      "ticketPercentage": 41.0,
-      "handlePct": 0.33,
-      "handlePercentage": 33.0,
+      "ticketPct": 0.4,
+      "ticketPercentage": 40.0,
+      "handlePct": 0.32,
+      "handlePercentage": 32.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -14.0,
       "currentLine": -14.0,
@@ -18756,7 +18753,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -18834,7 +18831,6 @@
         ]
       },
       "historyPoints": 9,
-      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -19004,10 +19000,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -8.0,
-      "ticketPct": 0.41,
-      "ticketPercentage": 41.0,
-      "handlePct": 0.33,
-      "handlePercentage": 33.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
+      "handlePct": 0.36,
+      "handlePercentage": 36.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 3.0,
       "currentLine": 3.0,
@@ -19046,7 +19042,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 8,
+      "historyPoints": 9,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -19297,11 +19293,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": -4.0,
+      "ticketPct": 0.66,
+      "ticketPercentage": 66.0,
+      "handlePct": 0.62,
+      "handlePercentage": 62.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 13.5,
       "currentLine": 13.5,
@@ -19340,16 +19336,17 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
-        "t2": false,
+        "t2": true,
         "t3": false,
         "t4": false,
         "t5": false,
-        "count": 0,
+        "count": 1,
         "fire": false,
-        "confidence": 8,
+        "confidence": 16,
         "market": 13.5,
         "fair": 13.5,
         "gap": 0.0,
@@ -19439,10 +19436,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -19.0,
-      "ticketPct": 0.42,
-      "ticketPercentage": 42.0,
-      "handlePct": 0.23,
-      "handlePercentage": 23.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -34.5,
       "currentLine": -34.5,
@@ -19481,7 +19478,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -19515,11 +19512,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 8.0,
+      "ticketPct": 0.46,
+      "ticketPercentage": 46.0,
+      "handlePct": 0.54,
+      "handlePercentage": 54.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 10.5,
       "currentLine": 10.5,
@@ -19558,7 +19555,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 7,
+      "historyPoints": 8,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -19825,8 +19823,8 @@
       "handlePct": 0.0,
       "handlePercentage": 0.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -10.0,
-      "currentLine": -10.0,
+      "currentSpread": -9.5,
+      "currentLine": -9.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -9.0,
       "openSpread": -9.0,
@@ -19862,7 +19860,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
+      "lineDelta": 0.5,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -19871,14 +19870,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -10.0,
+        "confidence": 13,
+        "market": -9.5,
         "fair": -9.0,
-        "gap": -1.0,
+        "gap": -0.5,
         "side": "Minnesota Golden Gophers",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -0.5
     },
     {
       "gameId": "ncaaf-2h-clem-mia",
@@ -21007,10 +21006,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -1.0,
-      "ticketPct": 0.44,
-      "ticketPercentage": 44.0,
-      "handlePct": 0.43,
-      "handlePercentage": 43.0,
+      "ticketPct": 0.43,
+      "ticketPercentage": 43.0,
+      "handlePct": 0.42,
+      "handlePercentage": 42.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 2.5,
       "currentLine": 2.5,
@@ -21049,7 +21048,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -21147,11 +21146,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 13.0,
+      "divergence": 14.0,
       "ticketPct": 0.55,
       "ticketPercentage": 55.0,
-      "handlePct": 0.68,
-      "handlePercentage": 68.0,
+      "handlePct": 0.69,
+      "handlePercentage": 69.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 13.5,
       "currentLine": 13.5,
@@ -21190,7 +21189,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
+      "historyPoints": 13,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -21223,9 +21222,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 9.0,
-      "ticketPct": 0.43,
-      "ticketPercentage": 43.0,
+      "divergence": 8.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
       "handlePct": 0.52,
       "handlePercentage": 52.0,
       "handleSource": "action-publicbetting",
@@ -21266,7 +21265,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 11,
+      "historyPoints": 12,
       "homePitcher": "Kyle Freeland",
       "awayPitcher": "Michael Soroka",
       "sharpTrap": {
@@ -21301,11 +21300,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -19.0,
+      "divergence": -20.0,
       "ticketPct": 0.45,
       "ticketPercentage": 45.0,
-      "handlePct": 0.26,
-      "handlePercentage": 26.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -34.5,
       "currentLine": -34.5,
@@ -21344,7 +21343,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 13,
+      "historyPoints": 14,
       "homePitcher": "MacKenzie Gore",
       "awayPitcher": "Sean Manaea",
       "sharpTrap": {
@@ -21379,14 +21378,14 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -7.0,
+      "divergence": -8.0,
       "ticketPct": 0.29,
       "ticketPercentage": 29.0,
-      "handlePct": 0.22,
-      "handlePercentage": 22.0,
+      "handlePct": 0.21,
+      "handlePercentage": 21.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -13.0,
-      "currentLine": -13.0,
+      "currentSpread": -13.5,
+      "currentLine": -13.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -12.0,
       "openSpread": -12.0,
@@ -21422,7 +21421,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
+      "historyPoints": 11,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -21431,14 +21430,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -13.0,
+        "confidence": 23,
+        "market": -13.5,
         "fair": -12.0,
-        "gap": -1.0,
+        "gap": -1.5,
         "side": "Colorado State",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -1.5
     },
     {
       "gameId": "ncaaf-2h-bucknell-pitt",
@@ -21794,10 +21793,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": 5.0,
-      "ticketPct": 0.16,
-      "ticketPercentage": 16.0,
-      "handlePct": 0.21,
-      "handlePercentage": 21.0,
+      "ticketPct": 0.15,
+      "ticketPercentage": 15.0,
+      "handlePct": 0.2,
+      "handlePercentage": 20.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -3.5,
       "currentLine": -3.5,
@@ -21836,7 +21835,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 12,
+      "historyPoints": 13,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -22000,10 +21999,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -3.0,
-      "ticketPct": 0.29,
-      "ticketPercentage": 29.0,
-      "handlePct": 0.26,
-      "handlePercentage": 26.0,
+      "ticketPct": 0.28,
+      "ticketPercentage": 28.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 6.0,
       "currentLine": 6.0,
@@ -22042,7 +22041,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -22076,10 +22075,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -3.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
-      "handlePct": 0.46,
-      "handlePercentage": 46.0,
+      "ticketPct": 0.5,
+      "ticketPercentage": 50.0,
+      "handlePct": 0.47,
+      "handlePercentage": 47.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -19.5,
       "currentLine": -19.5,
@@ -22118,7 +22117,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -22284,11 +22283,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 10.0,
-      "ticketPct": 0.62,
-      "ticketPercentage": 62.0,
-      "handlePct": 0.72,
-      "handlePercentage": 72.0,
+      "divergence": 13.0,
+      "ticketPct": 0.61,
+      "ticketPercentage": 61.0,
+      "handlePct": 0.74,
+      "handlePercentage": 74.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 10.0,
       "currentLine": 10.0,
@@ -22327,7 +22326,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
+      "historyPoints": 11,
       "sharpTrap": {
         "t1": true,
         "t2": false,
@@ -22336,7 +22335,7 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 38,
+        "confidence": 46,
         "market": 10.0,
         "fair": 13.0,
         "gap": -3.0,
@@ -22360,9 +22359,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -6.0,
-      "ticketPct": 0.51,
-      "ticketPercentage": 51.0,
+      "divergence": -7.0,
+      "ticketPct": 0.52,
+      "ticketPercentage": 52.0,
       "handlePct": 0.45,
       "handlePercentage": 45.0,
       "handleSource": "action-publicbetting",
@@ -22403,7 +22402,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "homePitcher": "Daniel Lynch IV",
       "awayPitcher": "Anthony Kay",
       "sharpTrap": {
@@ -22515,10 +22514,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -8.0,
-      "ticketPct": 0.41,
-      "ticketPercentage": 41.0,
-      "handlePct": 0.33,
-      "handlePercentage": 33.0,
+      "ticketPct": 0.4,
+      "ticketPercentage": 40.0,
+      "handlePct": 0.32,
+      "handlePercentage": 32.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -14.0,
       "currentLine": -14.0,
@@ -22557,7 +22556,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -22658,10 +22657,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -8.0,
-      "ticketPct": 0.41,
-      "ticketPercentage": 41.0,
-      "handlePct": 0.33,
-      "handlePercentage": 33.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
+      "handlePct": 0.36,
+      "handlePercentage": 36.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 3.0,
       "currentLine": 3.0,
@@ -22700,7 +22699,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 8,
+      "historyPoints": 9,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -22801,10 +22800,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": 12.0,
-      "ticketPct": 0.51,
-      "ticketPercentage": 51.0,
-      "handlePct": 0.63,
-      "handlePercentage": 63.0,
+      "ticketPct": 0.53,
+      "ticketPercentage": 53.0,
+      "handlePct": 0.65,
+      "handlePercentage": 65.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -6.0,
       "currentLine": -6.0,
@@ -22843,7 +22842,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -22943,10 +22942,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -19.0,
-      "ticketPct": 0.42,
-      "ticketPercentage": 42.0,
-      "handlePct": 0.23,
-      "handlePercentage": 23.0,
+      "ticketPct": 0.44,
+      "ticketPercentage": 44.0,
+      "handlePct": 0.25,
+      "handlePercentage": 25.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -34.5,
       "currentLine": -34.5,
@@ -22985,7 +22984,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -23024,8 +23023,8 @@
       "handlePct": 0.0,
       "handlePercentage": 0.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -10.0,
-      "currentLine": -10.0,
+      "currentSpread": -9.5,
+      "currentLine": -9.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -9.0,
       "openSpread": -9.0,
@@ -23061,7 +23060,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -23070,14 +23069,14 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 18,
-        "market": -10.0,
+        "confidence": 13,
+        "market": -9.5,
         "fair": -9.0,
-        "gap": -1.0,
+        "gap": -0.5,
         "side": "Minnesota",
         "missing": false
       },
-      "modelEdge": -1.0
+      "modelEdge": -0.5
     },
     {
       "gameId": "ncaaf-2h-ind-mich",
@@ -28897,11 +28896,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -31.0,
-      "ticketPct": 0.51,
-      "ticketPercentage": 51.0,
-      "handlePct": 0.2,
-      "handlePercentage": 20.0,
+      "divergence": -32.0,
+      "ticketPct": 0.49,
+      "ticketPercentage": 49.0,
+      "handlePct": 0.17,
+      "handlePercentage": 17.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -28945,7 +28944,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
+      "historyPoints": 11,
       "lineDelta": 0.0,
       "plateUmpire": null,
       "umpCrew": [],
@@ -28978,26 +28977,26 @@
       "held_line": false,
       "start": null,
       "books": [],
-      "url": "https://www.oddsportal.com/baseball/h2h/new-york-yankees-SrC4LDIT/tampa-bay-rays-GCHgI4hp/inplay-odds/#hQDjV6Gt",
+      "url": "https://www.oddsportal.com/baseball/h2h/new-york-yankees-SrC4LDIT/tampa-bay-rays-GCHgI4hp/#hQDjV6Gt",
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 0.0,
-      "ticketPct": 0.0,
-      "ticketPercentage": 0.0,
-      "handlePct": 0.0,
-      "handlePercentage": 0.0,
+      "divergence": 4.0,
+      "ticketPct": 0.43,
+      "ticketPercentage": 43.0,
+      "handlePct": 0.47,
+      "handlePercentage": 47.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -1.5,
       "openSpread": -1.5,
-      "modelSpread": 1.99,
+      "modelSpread": 2.22,
       "modelSource": "mlb-run-diff",
-      "homeRating": 0.535,
-      "awayRating": 0.884,
-      "modelEdge": -3.49,
+      "homeRating": 0.519,
+      "awayRating": 0.891,
+      "modelEdge": -3.72,
       "vegasLeverageNFL": {
         "name": "Vegas Leverage NFL",
         "sport": "MLB",
@@ -29030,7 +29029,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 6,
+      "historyPoints": 7,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -29042,8 +29041,8 @@
         "fire": false,
         "confidence": 48,
         "market": -1.5,
-        "fair": 1.99,
-        "gap": -3.49,
+        "fair": 2.22,
+        "gap": -3.72,
         "side": "New York Yankees",
         "missing": false
       }
@@ -29063,11 +29062,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 11.0,
-      "ticketPct": 0.46,
-      "ticketPercentage": 46.0,
-      "handlePct": 0.57,
-      "handlePercentage": 57.0,
+      "divergence": 10.0,
+      "ticketPct": 0.48,
+      "ticketPercentage": 48.0,
+      "handlePct": 0.58,
+      "handlePercentage": 58.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29111,8 +29110,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 10,
-      "lineDelta": -3.0,
+      "historyPoints": 11,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -29144,11 +29143,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 3.0,
-      "ticketPct": 0.77,
-      "ticketPercentage": 77.0,
-      "handlePct": 0.8,
-      "handlePercentage": 80.0,
+      "divergence": 1.0,
+      "ticketPct": 0.8,
+      "ticketPercentage": 80.0,
+      "handlePct": 0.81,
+      "handlePercentage": 81.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29192,7 +29191,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 9,
+      "historyPoints": 10,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -29202,7 +29201,7 @@
         "t5": false,
         "count": 2,
         "fire": true,
-        "confidence": 64,
+        "confidence": 66,
         "market": -1.5,
         "fair": 2.96,
         "gap": -4.46,
@@ -29225,11 +29224,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 27.0,
-      "ticketPct": 0.57,
-      "ticketPercentage": 57.0,
-      "handlePct": 0.84,
-      "handlePercentage": 84.0,
+      "divergence": 0.0,
+      "ticketPct": 0.62,
+      "ticketPercentage": 62.0,
+      "handlePct": 0.62,
+      "handlePercentage": 62.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29273,10 +29272,27 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "Shane Livensparger",
+      "umpCrew": [
+        {
+          "name": "Shane Livensparger",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Dan Merzel",
+          "type": "First Base"
+        },
+        {
+          "name": "Dan Bellino",
+          "type": "Second Base"
+        },
+        {
+          "name": "Mark Ripperger",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "Zack Wheeler",
       "awayPitcher": "Dustin May",
       "sharpTrap": {
@@ -29286,8 +29302,8 @@
         "t4": false,
         "t5": false,
         "count": 1,
-        "fire": true,
-        "confidence": 56,
+        "fire": false,
+        "confidence": 48,
         "market": -1.5,
         "fair": 9.59,
         "gap": -11.09,
@@ -29310,11 +29326,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 25.0,
-      "ticketPct": 0.46,
-      "ticketPercentage": 46.0,
-      "handlePct": 0.71,
-      "handlePercentage": 71.0,
+      "divergence": 17.0,
+      "ticketPct": 0.55,
+      "ticketPercentage": 55.0,
+      "handlePct": 0.72,
+      "handlePercentage": 72.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29358,7 +29374,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -29391,11 +29407,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 24.0,
-      "ticketPct": 0.43,
-      "ticketPercentage": 43.0,
-      "handlePct": 0.67,
-      "handlePercentage": 67.0,
+      "divergence": 16.0,
+      "ticketPct": 0.46,
+      "ticketPercentage": 46.0,
+      "handlePct": 0.62,
+      "handlePercentage": 62.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29439,7 +29455,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -29472,11 +29488,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 22.0,
-      "ticketPct": 0.73,
-      "ticketPercentage": 73.0,
-      "handlePct": 0.95,
-      "handlePercentage": 95.0,
+      "divergence": 17.0,
+      "ticketPct": 0.76,
+      "ticketPercentage": 76.0,
+      "handlePct": 0.93,
+      "handlePercentage": 93.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29520,7 +29536,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -29530,7 +29546,7 @@
         "t5": false,
         "count": 2,
         "fire": true,
-        "confidence": 69,
+        "confidence": 71,
         "market": -1.5,
         "fair": 16.64,
         "gap": -18.14,
@@ -29553,9 +29569,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 5.0,
-      "ticketPct": 0.9,
-      "ticketPercentage": 90.0,
+      "divergence": 6.0,
+      "ticketPct": 0.89,
+      "ticketPercentage": 89.0,
       "handlePct": 0.95,
       "handlePercentage": 95.0,
       "handleSource": "action-publicbetting",
@@ -29601,7 +29617,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": true,
@@ -29634,11 +29650,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -37.0,
-      "ticketPct": 0.45,
-      "ticketPercentage": 45.0,
-      "handlePct": 0.08,
-      "handlePercentage": 8.0,
+      "divergence": -30.0,
+      "ticketPct": 0.41,
+      "ticketPercentage": 41.0,
+      "handlePct": 0.11,
+      "handlePercentage": 11.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -29682,10 +29698,27 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "Adam Hamari",
+      "umpCrew": [
+        {
+          "name": "Adam Hamari",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Clint Vondrak",
+          "type": "First Base"
+        },
+        {
+          "name": "Todd Tichenor",
+          "type": "Second Base"
+        },
+        {
+          "name": "Cory Blaser",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "Daniel Lynch IV",
       "awayPitcher": "Anthony Kay",
       "sharpTrap": {
@@ -29719,11 +29752,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 16.0,
+      "divergence": 15.0,
       "ticketPct": 0.75,
       "ticketPercentage": 75.0,
-      "handlePct": 0.91,
-      "handlePercentage": 91.0,
+      "handlePct": 0.9,
+      "handlePercentage": 90.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -29767,10 +29800,27 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "Laz Diaz",
+      "umpCrew": [
+        {
+          "name": "Laz Diaz",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Lance Barrett",
+          "type": "First Base"
+        },
+        {
+          "name": "Erich Bacchus",
+          "type": "Second Base"
+        },
+        {
+          "name": "Chris Segal",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "MacKenzie Gore",
       "awayPitcher": "Sean Manaea",
       "sharpTrap": {
@@ -29804,11 +29854,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -18.0,
-      "ticketPct": 0.21,
-      "ticketPercentage": 21.0,
-      "handlePct": 0.03,
-      "handlePercentage": 3.0,
+      "divergence": -17.0,
+      "ticketPct": 0.19,
+      "ticketPercentage": 19.0,
+      "handlePct": 0.02,
+      "handlePercentage": 2.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -29847,10 +29897,27 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "David Rackley",
+      "umpCrew": [
+        {
+          "name": "David Rackley",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Nestor Ceja",
+          "type": "First Base"
+        },
+        {
+          "name": "Charlie Ramos",
+          "type": "Second Base"
+        },
+        {
+          "name": "Chris Guccione",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "Kyle Freeland",
       "awayPitcher": "Michael Soroka",
       "sharpTrap": {
@@ -29885,11 +29952,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -32.0,
-      "ticketPct": 0.67,
-      "ticketPercentage": 67.0,
-      "handlePct": 0.35,
-      "handlePercentage": 35.0,
+      "divergence": -18.0,
+      "ticketPct": 0.57,
+      "ticketPercentage": 57.0,
+      "handlePct": 0.39,
+      "handlePercentage": 39.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 1.5,
       "currentLine": 1.5,
@@ -29933,19 +30000,19 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "homePitcher": null,
       "awayPitcher": "Michael King",
       "sharpTrap": {
         "t1": true,
-        "t2": true,
+        "t2": false,
         "t3": false,
         "t4": false,
         "t5": false,
-        "count": 2,
+        "count": 1,
         "fire": true,
-        "confidence": 65,
+        "confidence": 56,
         "market": 1.5,
         "fair": -10.21,
         "gap": 11.71,
@@ -29968,11 +30035,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 23.0,
-      "ticketPct": 0.49,
-      "ticketPercentage": 49.0,
-      "handlePct": 0.72,
-      "handlePercentage": 72.0,
+      "divergence": 15.0,
+      "ticketPct": 0.56,
+      "ticketPercentage": 56.0,
+      "handlePct": 0.71,
+      "handlePercentage": 71.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -30016,7 +30083,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "plateUmpire": null,
       "umpCrew": [],
@@ -30053,9 +30120,9 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -26.0,
-      "ticketPct": 0.56,
-      "ticketPercentage": 56.0,
+      "divergence": -25.0,
+      "ticketPct": 0.55,
+      "ticketPercentage": 55.0,
       "handlePct": 0.3,
       "handlePercentage": 30.0,
       "handleSource": "action-publicbetting",
@@ -30101,8 +30168,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
-      "lineDelta": -3.0,
+      "historyPoints": 6,
+      "lineDelta": 0.0,
       "homePitcher": "Anthony Molina",
       "awayPitcher": "Taj Bradley",
       "sharpTrap": {
@@ -30136,11 +30203,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 11.0,
-      "ticketPct": 0.46,
-      "ticketPercentage": 46.0,
-      "handlePct": 0.57,
-      "handlePercentage": 57.0,
+      "divergence": 10.0,
+      "ticketPct": 0.48,
+      "ticketPercentage": 48.0,
+      "handlePct": 0.58,
+      "handlePercentage": 58.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -30184,8 +30251,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
-      "lineDelta": -3.0,
+      "historyPoints": 4,
+      "lineDelta": 0.0,
       "plateUmpire": null,
       "umpCrew": [],
       "homePitcher": "Chris Bassitt",
@@ -30221,11 +30288,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": 3.0,
-      "ticketPct": 0.77,
-      "ticketPercentage": 77.0,
-      "handlePct": 0.8,
-      "handlePercentage": 80.0,
+      "divergence": 1.0,
+      "ticketPct": 0.8,
+      "ticketPercentage": 80.0,
+      "handlePct": 0.81,
+      "handlePercentage": 81.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -1.5,
       "currentLine": -1.5,
@@ -30269,10 +30336,27 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 3,
+      "historyPoints": 4,
       "lineDelta": 0.0,
-      "plateUmpire": null,
-      "umpCrew": [],
+      "plateUmpire": "Louie Krupa",
+      "umpCrew": [
+        {
+          "name": "Louie Krupa",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Mike Muchlinski",
+          "type": "First Base"
+        },
+        {
+          "name": "Doug Eddings",
+          "type": "Second Base"
+        },
+        {
+          "name": "Emil Jimenez",
+          "type": "Third Base"
+        }
+      ],
       "homePitcher": "Drew Anderson",
       "awayPitcher": "Riley Cornelio",
       "sharpTrap": {
@@ -30283,7 +30367,7 @@
         "t5": false,
         "count": 2,
         "fire": true,
-        "confidence": 64,
+        "confidence": 66,
         "market": -1.5,
         "fair": -5.96,
         "gap": 4.46,
@@ -30601,9 +30685,9 @@
       "divergence": null,
       "fairSpread": -1.5,
       "openSpread": -1.5,
-      "modelSpread": -1.72,
+      "modelSpread": -1.56,
       "modelSource": "mlb-run-diff",
-      "homeRating": 0.535,
+      "homeRating": 0.519,
       "awayRating": 0.513,
       "modelEdge": null,
       "vegasLeverageNFL": {
@@ -30649,7 +30733,7 @@
         "fire": false,
         "confidence": 1,
         "market": null,
-        "fair": -1.72,
+        "fair": -1.56,
         "gap": null,
         "side": null,
         "missing": true
@@ -31537,8 +31621,8 @@
       "handlePct": 0.6,
       "handlePercentage": 60.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": -16.5,
-      "currentLine": -16.5,
+      "currentSpread": -17.5,
+      "currentLine": -17.5,
       "lineSource": "action-publicbetting",
       "fairSpread": -14.5,
       "openSpread": -14.5,
@@ -31574,7 +31658,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": -1.0,
       "sharpTrap": {
         "t1": true,
@@ -31584,14 +31668,14 @@
         "t5": false,
         "count": 1,
         "fire": false,
-        "confidence": 28,
-        "market": -16.5,
+        "confidence": 38,
+        "market": -17.5,
         "fair": -14.5,
-        "gap": -2.0,
+        "gap": -3.0,
         "side": "Connecticut Sun",
         "missing": false
       },
-      "modelEdge": -2.0
+      "modelEdge": -3.0
     },
     {
       "gameId": "wnba-2h-chicago-sky-toronto-tempo",
@@ -31609,10 +31693,10 @@
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
       "divergence": -12.0,
-      "ticketPct": 0.54,
-      "ticketPercentage": 54.0,
-      "handlePct": 0.42,
-      "handlePercentage": 42.0,
+      "ticketPct": 0.53,
+      "ticketPercentage": 53.0,
+      "handlePct": 0.41,
+      "handlePercentage": 41.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -5.5,
       "currentLine": -5.5,
@@ -31651,8 +31735,8 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
-      "lineDelta": 1.0,
+      "historyPoints": 6,
+      "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
         "t2": false,
@@ -31691,8 +31775,8 @@
       "handlePct": 0.42,
       "handlePercentage": 42.0,
       "handleSource": "action-publicbetting",
-      "currentSpread": 1.5,
-      "currentLine": 1.5,
+      "currentSpread": -1.5,
+      "currentLine": -1.5,
       "lineSource": "action-publicbetting",
       "fairSpread": 1.5,
       "openSpread": 1.5,
@@ -31728,24 +31812,24 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
-      "lineDelta": 0.0,
+      "historyPoints": 6,
+      "lineDelta": -3.0,
       "sharpTrap": {
-        "t1": false,
+        "t1": true,
         "t2": false,
         "t3": false,
         "t4": false,
         "t5": false,
-        "count": 0,
+        "count": 1,
         "fire": false,
-        "confidence": 8,
-        "market": 1.5,
+        "confidence": 38,
+        "market": -1.5,
         "fair": 1.5,
-        "gap": 0.0,
+        "gap": -3.0,
         "side": "Indiana Fever",
         "missing": false
       },
-      "modelEdge": 0.0
+      "modelEdge": -3.0
     },
     {
       "gameId": "wnba-2h-golden-state-valkyries-portland-fire",
@@ -31762,11 +31846,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -1.0,
+      "divergence": -2.0,
       "ticketPct": 0.22,
       "ticketPercentage": 22.0,
-      "handlePct": 0.21,
-      "handlePercentage": 21.0,
+      "handlePct": 0.2,
+      "handlePercentage": 20.0,
       "handleSource": "action-publicbetting",
       "currentSpread": 14.5,
       "currentLine": 14.5,
@@ -31805,7 +31889,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 5,
+      "historyPoints": 6,
       "lineDelta": 0.0,
       "sharpTrap": {
         "t1": false,
@@ -31839,11 +31923,11 @@
       "splitsMissing": true,
       "lineMovedOppositePublic": false,
       "volumeSurgeConfirmed": false,
-      "divergence": -12.0,
+      "divergence": -11.0,
       "ticketPct": 0.57,
       "ticketPercentage": 57.0,
-      "handlePct": 0.45,
-      "handlePercentage": 45.0,
+      "handlePct": 0.46,
+      "handlePercentage": 46.0,
       "handleSource": "action-publicbetting",
       "currentSpread": -16.5,
       "currentLine": -16.5,
@@ -31882,7 +31966,7 @@
           "not-nfl"
         ]
       },
-      "historyPoints": 4,
+      "historyPoints": 5,
       "lineDelta": 0.0,
       "homePitcher": null,
       "awayPitcher": "Michael King",
@@ -31894,7 +31978,7 @@
         "t5": false,
         "count": 0,
         "fire": false,
-        "confidence": 26,
+        "confidence": 18,
         "market": -16.5,
         "fair": -15.5,
         "gap": -1.0,

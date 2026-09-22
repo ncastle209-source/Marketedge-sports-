@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-22T17:12:51.627880+00:00",
+  "pulled_at": "2026-09-22T20:26:08.412436+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -10,12 +10,12 @@
     "mlb": {
       "rays": {
         "name": "Rays",
-        "rating": 0.535,
+        "rating": 0.519,
         "source": "mlb-run-diff"
       },
       "nyy": {
         "name": "Yankees",
-        "rating": 0.884,
+        "rating": 0.891,
         "source": "mlb-run-diff"
       },
       "bos": {
