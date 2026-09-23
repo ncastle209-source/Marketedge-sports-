@@ -6391,10 +6391,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-23T21:17:09.752569+00:00",
+      "gameId": "ncaaf-umass-sacramento-state-hornets",
+      "matchup": "UMass Minutemen vs. Sacramento State Hornets",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 4.0,
+      "modelSpread": 4.5,
+      "modelEdge": -0.5,
+      "sharpSide": "UMass Minutemen",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 4.5,
+      "clv": 0.5,
+      "tickets": 29.0,
+      "handle": 44.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-23T21:17:09.859708+00:00",
+      "gameId": "ncaaf-2h-umass-sacramento-state-hornets",
+      "matchup": "UMass Minutemen vs. Sacramento State Hornets",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 4.0,
+      "modelSpread": 4.5,
+      "modelEdge": -0.5,
+      "sharpSide": "UMass Minutemen",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 29.0,
+      "handle": 44.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 257,
-  "updated": "2026-09-23T17:53:01.432859+00:00"
+  "pending": 259,
+  "updated": "2026-09-23T21:17:09.859708+00:00"
 }
