@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-23T01:44:24.536601+00:00",
+  "pulled_at": "2026-09-23T07:32:12.868698+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -98,13 +98,13 @@
               "side": "away",
               "name": "Minnesota Twins",
               "score": null,
-              "record": "73-84"
+              "record": "74-84"
             },
             {
               "side": "home",
               "name": "San Francisco Giants",
               "score": null,
-              "record": "65-92"
+              "record": "65-93"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -164,13 +164,13 @@
               "side": "away",
               "name": "Tampa Bay Rays",
               "score": null,
-              "record": "95-61"
+              "record": "96-61"
             },
             {
               "side": "home",
               "name": "New York Yankees",
               "score": null,
-              "record": "90-66"
+              "record": "90-67"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -208,13 +208,13 @@
               "side": "away",
               "name": "Cincinnati Reds",
               "score": null,
-              "record": "72-84"
+              "record": "73-84"
             },
             {
               "side": "home",
               "name": "Atlanta Braves",
               "score": null,
-              "record": "92-64"
+              "record": "92-65"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -230,13 +230,13 @@
               "side": "away",
               "name": "Chicago White Sox",
               "score": null,
-              "record": "80-76"
+              "record": "81-76"
             },
             {
               "side": "home",
               "name": "Kansas City Royals",
               "score": null,
-              "record": "67-89"
+              "record": "67-90"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -252,13 +252,13 @@
               "side": "away",
               "name": "Miami Marlins",
               "score": null,
-              "record": "76-80"
+              "record": "77-80"
             },
             {
               "side": "home",
               "name": "Chicago Cubs",
               "score": null,
-              "record": "87-69"
+              "record": "87-70"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -274,13 +274,13 @@
               "side": "away",
               "name": "New York Mets",
               "score": null,
-              "record": "71-85"
+              "record": "72-85"
             },
             {
               "side": "home",
               "name": "Texas Rangers",
               "score": null,
-              "record": "78-78"
+              "record": "78-79"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -296,13 +296,13 @@
               "side": "away",
               "name": "Arizona Diamondbacks",
               "score": null,
-              "record": "82-74"
+              "record": "83-74"
             },
             {
               "side": "home",
               "name": "Colorado Rockies",
               "score": null,
-              "record": "57-99"
+              "record": "57-100"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -318,13 +318,13 @@
               "side": "away",
               "name": "Los Angeles Angels",
               "score": null,
-              "record": "60-96"
+              "record": "60-97"
             },
             {
               "side": "home",
               "name": "Athletics",
               "score": null,
-              "record": "61-95"
+              "record": "62-95"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -340,13 +340,13 @@
               "side": "away",
               "name": "San Diego Padres",
               "score": null,
-              "record": "87-69"
+              "record": "87-70"
             },
             {
               "side": "home",
               "name": "Los Angeles Dodgers",
               "score": null,
-              "record": "96-60"
+              "record": "97-60"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -362,13 +362,13 @@
               "side": "away",
               "name": "Houston Astros",
               "score": null,
-              "record": "77-79"
+              "record": "78-79"
             },
             {
               "side": "home",
               "name": "Seattle Mariners",
               "score": null,
-              "record": "73-83"
+              "record": "73-84"
             }
           ],
           "source": "statsapi.mlb.com"

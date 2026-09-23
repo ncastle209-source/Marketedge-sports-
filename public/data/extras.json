@@ -219,7 +219,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 187
+    "count": 188
   },
   "nflverse": [
     {
@@ -6831,7 +6831,7 @@
       "homeTeam": "Detroit Tigers",
       "homePitcher": "Framber Valdez",
       "awayTeam": "Washington Nationals",
-      "awayPitcher": null
+      "awayPitcher": "Richard Lovelady"
     },
     {
       "eventId": "824785",
@@ -6857,7 +6857,7 @@
     {
       "eventId": "823327",
       "homeTeam": "Pittsburgh Pirates",
-      "homePitcher": null,
+      "homePitcher": "Lake Bachar",
       "awayTeam": "St. Louis Cardinals",
       "awayPitcher": "Matthew Liberatore"
     },
@@ -6894,7 +6894,7 @@
       "homeTeam": "Kansas City Royals",
       "homePitcher": "Seth Lugo",
       "awayTeam": "Chicago White Sox",
-      "awayPitcher": "Erick Fedde"
+      "awayPitcher": "Bryan Hudson"
     },
     {
       "eventId": "824625",
@@ -6936,13 +6936,13 @@
       "homeTeam": "Seattle Mariners",
       "homePitcher": "George Kirby",
       "awayTeam": "Houston Astros",
-      "awayPitcher": null
+      "awayPitcher": "Ethan Pecko"
     }
   ],
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1949,
-    "gameFiles": 1836
+    "splitsKeys": 1951,
+    "gameFiles": 1838
   }
 }
