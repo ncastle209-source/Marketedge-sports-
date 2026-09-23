@@ -5635,10 +5635,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-23T01:44:27.841587+00:00",
+      "gameId": "ncaaf-minn-wash",
+      "matchup": "Minnesota Golden Gophers vs. Washington Huskies",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -10.0,
+      "modelSpread": -9.0,
+      "modelEdge": -1.0,
+      "sharpSide": "Minnesota Golden Gophers",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -9.0,
+      "clv": 1.0,
+      "tickets": 42.0,
+      "handle": 30.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-23T01:44:27.960111+00:00",
+      "gameId": "ncaaf-2h-minn-wash",
+      "matchup": "Minnesota Golden Gophers vs. Washington Huskies",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -10.0,
+      "modelSpread": -9.0,
+      "modelEdge": -1.0,
+      "sharpSide": "Minnesota Golden Gophers",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 42.0,
+      "handle": 30.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 229,
-  "updated": "2026-09-22T23:14:51.573747+00:00"
+  "pending": 231,
+  "updated": "2026-09-23T01:44:27.960111+00:00"
 }
