@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 190
+      "filled_this_step": 187
     },
     {
       "source": "covers",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 190,
-  "still_missing": 278,
-  "spreads": 190
+  "filled": 187,
+  "still_missing": 292,
+  "spreads": 187
 }

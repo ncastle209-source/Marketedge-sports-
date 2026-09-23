@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-23T21:17:09.049115+00:00",
+  "pulled_at": "2026-09-23T23:56:42.462347+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -55,7 +55,7 @@
       },
       "twins": {
         "name": "Twins",
-        "rating": -0.418,
+        "rating": -0.403,
         "source": "mlb-run-diff"
       },
       "tigers": {
@@ -160,7 +160,7 @@
       },
       "giants": {
         "name": "Giants",
-        "rating": -0.519,
+        "rating": -0.528,
         "source": "mlb-run-diff"
       },
       "rockies": {

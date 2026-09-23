@@ -54,9 +54,26 @@
       "eventId": "824784",
       "home": "Baltimore Orioles",
       "away": "Toronto Blue Jays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Nate Tomlinson",
+      "crew": [
+        {
+          "name": "Nate Tomlinson",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Tyler Jones",
+          "type": "First Base"
+        },
+        {
+          "name": "Austin Jones",
+          "type": "Second Base"
+        },
+        {
+          "name": "Mark Wegner",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "823168",
@@ -81,7 +98,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823327",
@@ -106,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823410",
@@ -131,7 +148,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823492",
@@ -156,7 +173,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824710",
@@ -181,7 +198,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824868",
@@ -206,7 +223,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824060",
@@ -231,7 +248,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824625",
@@ -256,7 +273,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "822841",
@@ -281,7 +298,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "824301",
@@ -312,25 +329,76 @@
       "eventId": "824951",
       "home": "Athletics",
       "away": "Los Angeles Angels",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Felix Neon",
+      "crew": [
+        {
+          "name": "Felix Neon",
+          "type": "Home Plate"
+        },
+        {
+          "name": "John Tumpane",
+          "type": "First Base"
+        },
+        {
+          "name": "Brennan Miller",
+          "type": "Second Base"
+        },
+        {
+          "name": "Ben May",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823894",
       "home": "Los Angeles Dodgers",
       "away": "San Diego Padres",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Ryan Additon",
+      "crew": [
+        {
+          "name": "Ryan Additon",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Will Little",
+          "type": "First Base"
+        },
+        {
+          "name": "Ryan Wills",
+          "type": "Second Base"
+        },
+        {
+          "name": "Lance Barksdale",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823086",
       "home": "Seattle Mariners",
       "away": "Houston Astros",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Marvin Hudson",
+      "crew": [
+        {
+          "name": "Marvin Hudson",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "First Base"
+        },
+        {
+          "name": "Jansen Visconti",
+          "type": "Second Base"
+        },
+        {
+          "name": "Ryan Blakney",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
@@ -352,47 +420,50 @@
     },
     {
       "gamePk": 824784,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824784"
     },
     {
       "gamePk": 823168,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823168"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823168",
+      "playCount": 74,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823327,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823327"
     },
     {
       "gamePk": 823410,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823410"
     },
     {
       "gamePk": 823492,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823492"
     },
     {
       "gamePk": 824710,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824710"
     },
     {
       "gamePk": 824868,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824868"
     },
     {
       "gamePk": 824060,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824060"
     },
     {
       "gamePk": 824625,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824625"
     },
     {
@@ -407,17 +478,17 @@
     },
     {
       "gamePk": 824951,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824951"
     },
     {
       "gamePk": 823894,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823894"
     },
     {
       "gamePk": 823086,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823086"
     }
   ],
@@ -7055,7 +7126,7 @@
       "homeTeam": "Baltimore Orioles",
       "homePitcher": "Trey Gibson",
       "awayTeam": "Toronto Blue Jays",
-      "awayPitcher": null
+      "awayPitcher": "CJ Van Eyk"
     },
     {
       "eventId": "823168",
@@ -7152,7 +7223,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1955,
-    "gameFiles": 1842
+    "splitsKeys": 1983,
+    "gameFiles": 1870
   }
 }
