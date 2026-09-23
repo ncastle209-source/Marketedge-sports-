@@ -4,17 +4,51 @@
       "eventId": "824223",
       "home": "Detroit Tigers",
       "away": "Washington Nationals",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Mike Muchlinski",
+      "crew": [
+        {
+          "name": "Mike Muchlinski",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Doug Eddings",
+          "type": "First Base"
+        },
+        {
+          "name": "Emil Jimenez",
+          "type": "Second Base"
+        },
+        {
+          "name": "Louie Krupa",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "824785",
       "home": "Baltimore Orioles",
       "away": "Toronto Blue Jays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Mark Wegner",
+      "crew": [
+        {
+          "name": "Mark Wegner",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Austin Jones",
+          "type": "First Base"
+        },
+        {
+          "name": "Tyler Jones",
+          "type": "Second Base"
+        },
+        {
+          "name": "Carlos Torres",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "824784",
@@ -28,9 +62,26 @@
       "eventId": "823168",
       "home": "San Francisco Giants",
       "away": "Minnesota Twins",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Dillon Wilson",
+      "crew": [
+        {
+          "name": "Dillon Wilson",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Rob Drake",
+          "type": "First Base"
+        },
+        {
+          "name": "Andy Fletcher",
+          "type": "Second Base"
+        },
+        {
+          "name": "Steven Jaschinski",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823327",
@@ -132,12 +183,12 @@
   "savant": [
     {
       "gamePk": 824223,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824223"
     },
     {
       "gamePk": 824785,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824785"
     },
     {
@@ -147,7 +198,7 @@
     },
     {
       "gamePk": 823168,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823168"
     },
     {
@@ -6836,7 +6887,7 @@
     {
       "eventId": "824785",
       "homeTeam": "Baltimore Orioles",
-      "homePitcher": null,
+      "homePitcher": "Chris Bassitt",
       "awayTeam": "Toronto Blue Jays",
       "awayPitcher": "Max Scherzer"
     },
@@ -6873,7 +6924,7 @@
       "homeTeam": "New York Yankees",
       "homePitcher": "Gerrit Cole",
       "awayTeam": "Tampa Bay Rays",
-      "awayPitcher": "Ian Seymour"
+      "awayPitcher": "Mason Englert"
     },
     {
       "eventId": "824710",
@@ -6906,7 +6957,7 @@
     {
       "eventId": "822841",
       "homeTeam": "Texas Rangers",
-      "homePitcher": null,
+      "homePitcher": "Cody Bradford",
       "awayTeam": "New York Mets",
       "awayPitcher": "Nolan McLean"
     },
@@ -6942,7 +6993,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1952,
-    "gameFiles": 1839
+    "splitsKeys": 1955,
+    "gameFiles": 1842
   }
 }
