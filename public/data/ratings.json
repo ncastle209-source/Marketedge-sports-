@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-24T03:40:15.407843+00:00",
+  "pulled_at": "2026-09-24T09:08:40.134498+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -70,7 +70,7 @@
       },
       "astros": {
         "name": "Astros",
-        "rating": -0.331,
+        "rating": -0.335,
         "source": "mlb-run-diff"
       },
       "rangers": {
@@ -80,17 +80,17 @@
       },
       "mariners": {
         "name": "Mariners",
-        "rating": -0.401,
+        "rating": -0.392,
         "source": "mlb-run-diff"
       },
       "athletics": {
         "name": "Athletics",
-        "rating": -1.408,
+        "rating": -1.373,
         "source": "mlb-run-diff"
       },
       "angels": {
         "name": "Angels",
-        "rating": -0.567,
+        "rating": -0.589,
         "source": "mlb-run-diff"
       },
       "atl": {
@@ -145,12 +145,12 @@
       },
       "lad": {
         "name": "Dodgers",
-        "rating": 1.274,
+        "rating": 1.241,
         "source": "mlb-run-diff"
       },
       "padres": {
         "name": "Padres",
-        "rating": 0.217,
+        "rating": 0.241,
         "source": "mlb-run-diff"
       },
       "d-backs": {

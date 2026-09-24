@@ -167,7 +167,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 189
+    "count": 190
   },
   "nflverse": [
     {
@@ -6840,7 +6840,7 @@
     {
       "eventId": "824950",
       "homeTeam": "Athletics",
-      "homePitcher": null,
+      "homePitcher": "Mason Barnett",
       "awayTeam": "Houston Astros",
       "awayPitcher": "Peter Lambert"
     },
@@ -6862,7 +6862,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1987,
-    "gameFiles": 1874
+    "splitsKeys": 1989,
+    "gameFiles": 1876
   }
 }

@@ -6607,10 +6607,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-24T09:08:40.730148+00:00",
+      "gameId": "ncaaf-ou-uga",
+      "matchup": "Oklahoma Sooners vs. Georgia Bulldogs",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "doggies",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -14.0,
+      "modelSpread": -14.0,
+      "modelEdge": 0.0,
+      "sharpSide": "Oklahoma Sooners",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -14.0,
+      "clv": 0.0,
+      "tickets": 65.0,
+      "handle": 42.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-24T09:08:40.809063+00:00",
+      "gameId": "ncaaf-2h-ou-uga",
+      "matchup": "Oklahoma Sooners vs. Georgia Bulldogs",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "doggies",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -14.0,
+      "modelSpread": -14.0,
+      "modelEdge": 0.0,
+      "sharpSide": "Oklahoma Sooners",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 65.0,
+      "handle": 42.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 265,
-  "updated": "2026-09-24T03:40:15.951530+00:00"
+  "pending": 267,
+  "updated": "2026-09-24T09:08:40.809063+00:00"
 }
