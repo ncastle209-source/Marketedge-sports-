@@ -23,7 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824059",
@@ -48,7 +48,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824623",
@@ -73,7 +73,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "822842",
@@ -98,7 +98,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824298",
@@ -123,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823411",
@@ -148,7 +148,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824707",
@@ -179,72 +179,169 @@
       "eventId": "823493",
       "home": "New York Yankees",
       "away": "Tampa Bay Rays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Edwin Jimenez",
+      "crew": [
+        {
+          "name": "Edwin Jimenez",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Sean Barber",
+          "type": "First Base"
+        },
+        {
+          "name": "John Libka",
+          "type": "Second Base"
+        },
+        {
+          "name": "James Hoye",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824866",
       "home": "Atlanta Braves",
       "away": "Cincinnati Reds",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Junior Valentine",
+      "crew": [
+        {
+          "name": "Junior Valentine",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Stu Scheurwater",
+          "type": "First Base"
+        },
+        {
+          "name": "Jordan Baker",
+          "type": "Second Base"
+        },
+        {
+          "name": "Derek Thomas",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824950",
       "home": "Athletics",
       "away": "Houston Astros",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "John Tumpane",
+      "crew": [
+        {
+          "name": "John Tumpane",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Brennan Miller",
+          "type": "First Base"
+        },
+        {
+          "name": "Ben May",
+          "type": "Second Base"
+        },
+        {
+          "name": "Gabe Morales",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823087",
       "home": "Seattle Mariners",
       "away": "Los Angeles Angels",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Rob Drake",
+      "crew": [
+        {
+          "name": "Rob Drake",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Andy Fletcher",
+          "type": "First Base"
+        },
+        {
+          "name": "Steven Jaschinski",
+          "type": "Second Base"
+        },
+        {
+          "name": "Dillon Wilson",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823895",
       "home": "Los Angeles Dodgers",
       "away": "San Diego Padres",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Will Little",
+      "crew": [
+        {
+          "name": "Will Little",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ryan Wills",
+          "type": "First Base"
+        },
+        {
+          "name": "Lance Barksdale",
+          "type": "Second Base"
+        },
+        {
+          "name": "Ryan Additon",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 823326,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823326"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823326",
+      "playCount": 70,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824059,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824059"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824059",
+      "playCount": 82,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824623,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824623"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824623",
+      "playCount": 68,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 822842,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822842"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822842",
+      "playCount": 64,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824298,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824298"
     },
     {
       "gamePk": 823411,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823411"
     },
     {
@@ -254,27 +351,27 @@
     },
     {
       "gamePk": 823493,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823493"
     },
     {
       "gamePk": 824866,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824866"
     },
     {
       "gamePk": 824950,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824950"
     },
     {
       "gamePk": 823087,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823087"
     },
     {
       "gamePk": 823895,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823895"
     }
   ],
@@ -6981,7 +7078,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1999,
-    "gameFiles": 1886
+    "splitsKeys": 2019,
+    "gameFiles": 1906
   }
 }
