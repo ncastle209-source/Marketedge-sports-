@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-24T09:08:36.826385+00:00",
+  "pulled_at": "2026-09-24T14:23:26.051576+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,19 +25,19 @@
           "league": "mlb",
           "eventId": "823326",
           "name": "St. Louis Cardinals at Pittsburgh Pirates",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-24T16:35:00Z",
           "teams": [
             {
               "side": "away",
               "name": "St. Louis Cardinals",
-              "score": null,
+              "score": 0,
               "record": "77-81"
             },
             {
               "side": "home",
               "name": "Pittsburgh Pirates",
-              "score": null,
+              "score": 0,
               "record": "80-78"
             }
           ],

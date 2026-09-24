@@ -4,9 +4,26 @@
       "eventId": "823326",
       "home": "Pittsburgh Pirates",
       "away": "St. Louis Cardinals",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Scott Barry",
+      "crew": [
+        {
+          "name": "Scott Barry",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Tom Hanahan",
+          "type": "First Base"
+        },
+        {
+          "name": "Ron Kulpa",
+          "type": "Second Base"
+        },
+        {
+          "name": "John Bacon",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824059",
@@ -100,7 +117,7 @@
   "savant": [
     {
       "gamePk": 823326,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823326"
     },
     {
@@ -167,7 +184,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 190
+    "count": 194
   },
   "nflverse": [
     {
@@ -6814,7 +6831,7 @@
       "homeTeam": "Philadelphia Phillies",
       "homePitcher": "Andrew Painter",
       "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": "Bryse Wilson"
+      "awayPitcher": null
     },
     {
       "eventId": "824707",
@@ -6862,7 +6879,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1989,
-    "gameFiles": 1876
+    "splitsKeys": 1997,
+    "gameFiles": 1884
   }
 }
