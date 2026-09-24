@@ -6823,10 +6823,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-24T18:39:01.148365+00:00",
+      "gameId": "wnba-golden-state-valkyries-los-angeles-sparks",
+      "matchup": "Golden State Valkyries vs. Los Angeles Sparks",
+      "sport": "WNBA",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 11.5,
+      "modelSpread": 11.5,
+      "modelEdge": 0.0,
+      "sharpSide": "Golden State Valkyries",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 11.5,
+      "clv": 0.0,
+      "tickets": 42.0,
+      "handle": 57.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-24T18:39:01.227247+00:00",
+      "gameId": "wnba-2h-golden-state-valkyries-los-angeles-sparks",
+      "matchup": "Golden State Valkyries vs. Los Angeles Sparks",
+      "sport": "WNBA",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 11.5,
+      "modelSpread": 11.5,
+      "modelEdge": 0.0,
+      "sharpSide": "Golden State Valkyries",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 42.0,
+      "handle": 57.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 273,
-  "updated": "2026-09-24T14:23:29.797105+00:00"
+  "pending": 275,
+  "updated": "2026-09-24T18:39:01.227247+00:00"
 }

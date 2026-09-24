@@ -23,55 +23,157 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824059",
       "home": "Kansas City Royals",
       "away": "Chicago White Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Todd Tichenor",
+      "crew": [
+        {
+          "name": "Todd Tichenor",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Cory Blaser",
+          "type": "First Base"
+        },
+        {
+          "name": "Adam Hamari",
+          "type": "Second Base"
+        },
+        {
+          "name": "Clint Vondrak",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "824623",
       "home": "Chicago Cubs",
       "away": "Miami Marlins",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Alex Tosi",
+      "crew": [
+        {
+          "name": "Alex Tosi",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Edwin Moscoso",
+          "type": "First Base"
+        },
+        {
+          "name": "Nic Lentz",
+          "type": "Second Base"
+        },
+        {
+          "name": "Vic Carapazza",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "822842",
       "home": "Texas Rangers",
       "away": "New York Mets",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Erich Bacchus",
+      "crew": [
+        {
+          "name": "Erich Bacchus",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Chris Segal",
+          "type": "First Base"
+        },
+        {
+          "name": "Laz Diaz",
+          "type": "Second Base"
+        },
+        {
+          "name": "Lance Barrett",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "824298",
       "home": "Colorado Rockies",
       "away": "Arizona Diamondbacks",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Charlie Ramos",
+      "crew": [
+        {
+          "name": "Charlie Ramos",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Chris Guccione",
+          "type": "First Base"
+        },
+        {
+          "name": "David Rackley",
+          "type": "Second Base"
+        },
+        {
+          "name": "Nestor Ceja",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823411",
       "home": "Philadelphia Phillies",
       "away": "Milwaukee Brewers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Dan Merzel",
+      "crew": [
+        {
+          "name": "Dan Merzel",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Mark Ripperger",
+          "type": "First Base"
+        },
+        {
+          "name": "Shane Livensparger",
+          "type": "Second Base"
+        },
+        {
+          "name": "Dan Bellino",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824707",
       "home": "Boston Red Sox",
       "away": "Cleveland Guardians",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Quinn Wolcott",
+      "crew": [
+        {
+          "name": "Quinn Wolcott",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Adrian Johnson",
+          "type": "First Base"
+        },
+        {
+          "name": "Ramon De Jesus",
+          "type": "Second Base"
+        },
+        {
+          "name": "Paul Clemons",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823493",
@@ -117,37 +219,37 @@
   "savant": [
     {
       "gamePk": 823326,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823326"
     },
     {
       "gamePk": 824059,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824059"
     },
     {
       "gamePk": 824623,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824623"
     },
     {
       "gamePk": 822842,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822842"
     },
     {
       "gamePk": 824298,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824298"
     },
     {
       "gamePk": 823411,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823411"
     },
     {
       "gamePk": 824707,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824707"
     },
     {
@@ -6831,7 +6933,7 @@
       "homeTeam": "Philadelphia Phillies",
       "homePitcher": "Andrew Painter",
       "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": null
+      "awayPitcher": "Shane Drohan"
     },
     {
       "eventId": "824707",
@@ -6879,7 +6981,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 1997,
-    "gameFiles": 1884
+    "splitsKeys": 1999,
+    "gameFiles": 1886
   }
 }
