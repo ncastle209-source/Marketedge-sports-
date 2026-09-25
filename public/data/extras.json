@@ -17,7 +17,7 @@
       "status": "Scheduled"
     },
     {
-      "eventId": "823489",
+      "eventId": "823491",
       "home": "New York Yankees",
       "away": "Baltimore Orioles",
       "plateUmpire": null,
@@ -25,7 +25,7 @@
       "status": "Scheduled"
     },
     {
-      "eventId": "823491",
+      "eventId": "823489",
       "home": "New York Yankees",
       "away": "Baltimore Orioles",
       "plateUmpire": null,
@@ -149,14 +149,14 @@
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824706"
     },
     {
-      "gamePk": 823489,
-      "status": "S",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823489"
-    },
-    {
       "gamePk": 823491,
       "status": "S",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823491"
+    },
+    {
+      "gamePk": 823489,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823489"
     },
     {
       "gamePk": 824220,
@@ -232,7 +232,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 205
+    "count": 206
   },
   "nflverse": [
     {
@@ -6854,18 +6854,18 @@
       "awayPitcher": "David Peterson"
     },
     {
-      "eventId": "823489",
-      "homeTeam": "New York Yankees",
-      "homePitcher": "Brendan Beck",
-      "awayTeam": "Baltimore Orioles",
-      "awayPitcher": "Trevor Rogers"
-    },
-    {
       "eventId": "823491",
       "homeTeam": "New York Yankees",
       "homePitcher": null,
       "awayTeam": "Baltimore Orioles",
       "awayPitcher": "Brandon Young"
+    },
+    {
+      "eventId": "823489",
+      "homeTeam": "New York Yankees",
+      "homePitcher": "Brendan Beck",
+      "awayTeam": "Baltimore Orioles",
+      "awayPitcher": "Trevor Rogers"
     },
     {
       "eventId": "824220",
@@ -6962,7 +6962,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2023,
-    "gameFiles": 1910
+    "splitsKeys": 2029,
+    "gameFiles": 1916
   }
 }
