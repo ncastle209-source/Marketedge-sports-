@@ -7741,10 +7741,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-25T15:58:07.285559+00:00",
+      "gameId": "mlb-baltimore-orioles-nyy",
+      "matchup": "Baltimore Orioles vs. New York Yankees",
+      "sport": "MLB",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": -12.13,
+      "modelEdge": 10.63,
+      "sharpSide": "New York Yankees",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -1.5,
+      "clv": 0.0,
+      "tickets": 60.0,
+      "handle": 77.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-25T15:58:07.425637+00:00",
+      "gameId": "mlb-2h-baltimore-orioles-nyy",
+      "matchup": "Baltimore Orioles vs. New York Yankees",
+      "sport": "MLB",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": -12.13,
+      "modelEdge": 10.63,
+      "sharpSide": "New York Yankees",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 60.0,
+      "handle": 77.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 307,
-  "updated": "2026-09-25T11:27:49.064940+00:00"
+  "pending": 309,
+  "updated": "2026-09-25T15:58:07.425637+00:00"
 }

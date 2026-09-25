@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-25T11:27:44.694067+00:00",
+  "pulled_at": "2026-09-25T15:58:02.897763+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,19 +25,19 @@
           "league": "mlb",
           "eventId": "824703",
           "name": "Chicago Cubs at Boston Red Sox",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T17:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago Cubs",
-              "score": null,
+              "score": 0,
               "record": "88-71"
             },
             {
               "side": "home",
               "name": "Boston Red Sox",
-              "score": null,
+              "score": 0,
               "record": "85-74"
             }
           ],
@@ -48,7 +48,7 @@
           "eventId": "824706",
           "name": "Chicago Cubs at Boston Red Sox",
           "status": "Scheduled",
-          "start": "2026-09-25T22:05:00Z",
+          "start": "2026-09-25T21:35:00Z",
           "teams": [
             {
               "side": "away",

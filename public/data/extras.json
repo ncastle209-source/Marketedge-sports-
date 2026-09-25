@@ -4,9 +4,26 @@
       "eventId": "824703",
       "home": "Boston Red Sox",
       "away": "Chicago Cubs",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Doug Eddings",
+      "crew": [
+        {
+          "name": "Doug Eddings",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Brock Ballou",
+          "type": "First Base"
+        },
+        {
+          "name": "Emil Jimenez",
+          "type": "Second Base"
+        },
+        {
+          "name": "Mike Muchlinski",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824706",
@@ -140,7 +157,7 @@
   "savant": [
     {
       "gamePk": 824703,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824703"
     },
     {
@@ -6858,14 +6875,14 @@
       "homeTeam": "New York Yankees",
       "homePitcher": null,
       "awayTeam": "Baltimore Orioles",
-      "awayPitcher": "Brandon Young"
+      "awayPitcher": "Trevor Rogers"
     },
     {
       "eventId": "823489",
       "homeTeam": "New York Yankees",
       "homePitcher": "Brendan Beck",
       "awayTeam": "Baltimore Orioles",
-      "awayPitcher": "Trevor Rogers"
+      "awayPitcher": "Brandon Young"
     },
     {
       "eventId": "824220",
@@ -6962,7 +6979,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2029,
-    "gameFiles": 1916
+    "splitsKeys": 2030,
+    "gameFiles": 1917
   }
 }
