@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-25T15:58:02.897763+00:00",
+  "pulled_at": "2026-09-25T19:57:59.271609+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,23 +25,326 @@
           "league": "mlb",
           "eventId": "824703",
           "name": "Chicago Cubs at Boston Red Sox",
-          "status": "Pre-Game",
+          "status": "Final",
           "start": "2026-09-25T17:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago Cubs",
-              "score": 0,
-              "record": "88-71"
+              "score": 3,
+              "record": "88-72"
             },
             {
               "side": "home",
               "name": "Boston Red Sox",
-              "score": 0,
-              "record": "85-74"
+              "score": 4,
+              "record": "86-74"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "824703",
+            "players": [
+              {
+                "player": "Tyrone Taylor",
+                "team": "Chicago Cubs",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ian Happ",
+                "team": "Chicago Cubs",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Caleb Thielbar",
+                "team": "Chicago Cubs",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.1",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Alex Bregman",
+                "team": "Chicago Cubs",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Michael Busch",
+                "team": "Chicago Cubs",
+                "ab": 3,
+                "h": 2,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Pete Crow-Armstrong",
+                "team": "Chicago Cubs",
+                "ab": 4,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Miguel Amaya",
+                "team": "Chicago Cubs",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 2,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Seiya Suzuki",
+                "team": "Chicago Cubs",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Aaron Civale",
+                "team": "Chicago Cubs",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.1",
+                "k": 0,
+                "er": 1
+              },
+              {
+                "player": "Clay Holmes",
+                "team": "Chicago Cubs",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "4.1",
+                "k": 3,
+                "er": 2
+              },
+              {
+                "player": "Dansby Swanson",
+                "team": "Chicago Cubs",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nico Hoerner",
+                "team": "Chicago Cubs",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Matt Shaw",
+                "team": "Chicago Cubs",
+                "ab": 4,
+                "h": 2,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Raymond Burgos",
+                "team": "Boston Red Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 3,
+                "er": 0
+              },
+              {
+                "player": "Roman Anthony",
+                "team": "Boston Red Sox",
+                "ab": 3,
+                "h": 3,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jake Bennett",
+                "team": "Boston Red Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "3.2",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Alec Gamboa",
+                "team": "Boston Red Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 1,
+                "er": 3
+              },
+              {
+                "player": "Greg Weissert",
+                "team": "Boston Red Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.1",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Connor Wong",
+                "team": "Boston Red Sox",
+                "ab": 1,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Adley Rutschman",
+                "team": "Boston Red Sox",
+                "ab": 4,
+                "h": 2,
+                "hr": 0,
+                "rbi": 2,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Wilyer Abreu",
+                "team": "Boston Red Sox",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Andruw Monasterio",
+                "team": "Boston Red Sox",
+                "ab": 4,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Isiah Kiner-Falefa",
+                "team": "Boston Red Sox",
+                "ab": 4,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Mickey Gasper",
+                "team": "Boston Red Sox",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Caleb Durbin",
+                "team": "Boston Red Sox",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jarren Duran",
+                "team": "Boston Red Sox",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nick Sogard",
+                "team": "Boston Red Sox",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
@@ -54,13 +357,13 @@
               "side": "away",
               "name": "Chicago Cubs",
               "score": null,
-              "record": "88-71"
+              "record": "88-72"
             },
             {
               "side": "home",
               "name": "Boston Red Sox",
               "score": null,
-              "record": "85-74"
+              "record": "86-74"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -69,23 +372,249 @@
           "league": "mlb",
           "eventId": "823491",
           "name": "Baltimore Orioles at New York Yankees",
-          "status": "Scheduled",
+          "status": "Warmup",
           "start": "2026-09-25T20:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Baltimore Orioles",
-              "score": null,
+              "score": 0,
               "record": "78-81"
             },
             {
               "side": "home",
               "name": "New York Yankees",
-              "score": null,
+              "score": 0,
               "record": "92-67"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "823491",
+            "players": [
+              {
+                "player": "Jeremiah Jackson",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Trevor Rogers",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Gunnar Henderson",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Christian Franklin",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Dylan Beavers",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Pete Alonso",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Carlos Narv\u00e1ez",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Christian Encarnacion-Strand",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Colton Cowser",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Coby Mayo",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ali S\u00e1nchez",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Heliot Ramos",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jos\u00e9 Caballero",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Spencer Jones",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Amed Rosario",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Paul Goldschmidt",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ben Rice",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Brendan Beck",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Anthony Volpe",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "George Lombard Jr.",
+                "team": "New York Yankees",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
@@ -113,19 +642,19 @@
           "league": "mlb",
           "eventId": "824220",
           "name": "Pittsburgh Pirates at Detroit Tigers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T22:40:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Pittsburgh Pirates",
-              "score": null,
+              "score": 0,
               "record": "81-78"
             },
             {
               "side": "home",
               "name": "Detroit Tigers",
-              "score": null,
+              "score": 0,
               "record": "74-85"
             }
           ],
@@ -135,7 +664,7 @@
           "league": "mlb",
           "eventId": "823409",
           "name": "Tampa Bay Rays at Philadelphia Phillies",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T22:40:00Z",
           "teams": [
             {
@@ -157,7 +686,7 @@
           "league": "mlb",
           "eventId": "822681",
           "name": "New York Mets at Washington Nationals",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T22:45:00Z",
           "teams": [
             {
@@ -179,19 +708,19 @@
           "league": "mlb",
           "eventId": "822760",
           "name": "Cincinnati Reds at Toronto Blue Jays",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T23:07:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cincinnati Reds",
-              "score": null,
+              "score": 0,
               "record": "74-85"
             },
             {
               "side": "home",
               "name": "Toronto Blue Jays",
-              "score": null,
+              "score": 0,
               "record": "77-82"
             }
           ],
@@ -201,7 +730,7 @@
           "league": "mlb",
           "eventId": "823816",
           "name": "Atlanta Braves at Miami Marlins",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T23:10:00Z",
           "teams": [
             {
@@ -223,7 +752,7 @@
           "league": "mlb",
           "eventId": "824058",
           "name": "Cleveland Guardians at Kansas City Royals",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T23:40:00Z",
           "teams": [
             {
@@ -245,7 +774,7 @@
           "league": "mlb",
           "eventId": "824544",
           "name": "Colorado Rockies at Chicago White Sox",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T23:40:00Z",
           "teams": [
             {
@@ -267,7 +796,7 @@
           "league": "mlb",
           "eventId": "823735",
           "name": "St. Louis Cardinals at Milwaukee Brewers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-25T23:40:00Z",
           "teams": [
             {

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-25T15:58:06.403308+00:00",
+  "pulled_at": "2026-09-25T19:58:01.953955+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -20,7 +20,7 @@
       },
       "bos": {
         "name": "Red Sox",
-        "rating": 0.497,
+        "rating": 0.5,
         "source": "mlb-run-diff"
       },
       "sox": {
@@ -125,7 +125,7 @@
       },
       "cubs": {
         "name": "Cubs",
-        "rating": 0.918,
+        "rating": 0.906,
         "source": "mlb-run-diff"
       },
       "pirates": {

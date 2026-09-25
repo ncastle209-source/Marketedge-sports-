@@ -7795,10 +7795,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-25T19:58:02.853786+00:00",
+      "gameId": "ncaaf-jmu-odu",
+      "matchup": "James Madison Dukes vs. Old Dominion Monarchs",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 6.5,
+      "modelSpread": 5.5,
+      "modelEdge": 1.0,
+      "sharpSide": "Old Dominion Monarchs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 5.5,
+      "clv": -1.0,
+      "tickets": 19.0,
+      "handle": 45.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-25T19:58:03.001527+00:00",
+      "gameId": "ncaaf-2h-jmu-odu",
+      "matchup": "James Madison Dukes vs. Old Dominion Monarchs",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 6.5,
+      "modelSpread": 5.5,
+      "modelEdge": 1.0,
+      "sharpSide": "Old Dominion Monarchs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 19.0,
+      "handle": 45.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 309,
-  "updated": "2026-09-25T15:58:07.425637+00:00"
+  "pending": 311,
+  "updated": "2026-09-25T19:58:03.001527+00:00"
 }

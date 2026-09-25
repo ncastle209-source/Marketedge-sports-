@@ -23,7 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Final"
     },
     {
       "eventId": "824706",
@@ -37,9 +37,26 @@
       "eventId": "823491",
       "home": "New York Yankees",
       "away": "Baltimore Orioles",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Edwin Moscoso",
+      "crew": [
+        {
+          "name": "Edwin Moscoso",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Edwin Jimenez",
+          "type": "First Base"
+        },
+        {
+          "name": "Vic Carapazza",
+          "type": "Second Base"
+        },
+        {
+          "name": "Alex Tosi",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Warmup"
     },
     {
       "eventId": "823489",
@@ -53,65 +70,201 @@
       "eventId": "824220",
       "home": "Detroit Tigers",
       "away": "Pittsburgh Pirates",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Jonathan Parra",
+      "crew": [
+        {
+          "name": "Jonathan Parra",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Laz Diaz",
+          "type": "First Base"
+        },
+        {
+          "name": "Tyler Jones",
+          "type": "Second Base"
+        },
+        {
+          "name": "Erich Bacchus",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823409",
       "home": "Philadelphia Phillies",
       "away": "Tampa Bay Rays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Cory Blaser",
+      "crew": [
+        {
+          "name": "Cory Blaser",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ramon De Jesus",
+          "type": "First Base"
+        },
+        {
+          "name": "Carlos Torres",
+          "type": "Second Base"
+        },
+        {
+          "name": "Nate Tomlinson",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "822681",
       "home": "Washington Nationals",
       "away": "New York Mets",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Sean Barber",
+      "crew": [
+        {
+          "name": "Sean Barber",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Austin Jones",
+          "type": "First Base"
+        },
+        {
+          "name": "Jen Pawol",
+          "type": "Second Base"
+        },
+        {
+          "name": "James Hoye",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "822760",
       "home": "Toronto Blue Jays",
       "away": "Cincinnati Reds",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Adrian Johnson",
+      "crew": [
+        {
+          "name": "Adrian Johnson",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Paul Clemons",
+          "type": "First Base"
+        },
+        {
+          "name": "John Bacon",
+          "type": "Second Base"
+        },
+        {
+          "name": "Quinn Wolcott",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823816",
       "home": "Miami Marlins",
       "away": "Atlanta Braves",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Adam Hamari",
+      "crew": [
+        {
+          "name": "Adam Hamari",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Clint Vondrak",
+          "type": "First Base"
+        },
+        {
+          "name": "James Jean",
+          "type": "Second Base"
+        },
+        {
+          "name": "Todd Tichenor",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824058",
       "home": "Kansas City Royals",
       "away": "Cleveland Guardians",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Tom Hanahan",
+      "crew": [
+        {
+          "name": "Tom Hanahan",
+          "type": "Home Plate"
+        },
+        {
+          "name": "John Libka",
+          "type": "First Base"
+        },
+        {
+          "name": "Ron Kulpa",
+          "type": "Second Base"
+        },
+        {
+          "name": "Scott Barry",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824544",
       "home": "Chicago White Sox",
       "away": "Colorado Rockies",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Mark Ripperger",
+      "crew": [
+        {
+          "name": "Mark Ripperger",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Shane Livensparger",
+          "type": "First Base"
+        },
+        {
+          "name": "Dan Bellino",
+          "type": "Second Base"
+        },
+        {
+          "name": "Dan Merzel",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823735",
       "home": "Milwaukee Brewers",
       "away": "St. Louis Cardinals",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Stu Scheurwater",
+      "crew": [
+        {
+          "name": "Stu Scheurwater",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jordan Baker",
+          "type": "First Base"
+        },
+        {
+          "name": "Derek Thomas",
+          "type": "Second Base"
+        },
+        {
+          "name": "Junior Valentine",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823652",
@@ -157,8 +310,11 @@
   "savant": [
     {
       "gamePk": 824703,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824703"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824703",
+      "playCount": 74,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824706,
@@ -167,7 +323,7 @@
     },
     {
       "gamePk": 823491,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823491"
     },
     {
@@ -177,42 +333,42 @@
     },
     {
       "gamePk": 824220,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824220"
     },
     {
       "gamePk": 823409,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823409"
     },
     {
       "gamePk": 822681,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822681"
     },
     {
       "gamePk": 822760,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822760"
     },
     {
       "gamePk": 823816,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823816"
     },
     {
       "gamePk": 824058,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824058"
     },
     {
       "gamePk": 824544,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824544"
     },
     {
       "gamePk": 823735,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823735"
     },
     {
@@ -6873,14 +7029,14 @@
     {
       "eventId": "823491",
       "homeTeam": "New York Yankees",
-      "homePitcher": null,
+      "homePitcher": "Brendan Beck",
       "awayTeam": "Baltimore Orioles",
       "awayPitcher": "Trevor Rogers"
     },
     {
       "eventId": "823489",
       "homeTeam": "New York Yankees",
-      "homePitcher": "Brendan Beck",
+      "homePitcher": null,
       "awayTeam": "Baltimore Orioles",
       "awayPitcher": "Brandon Young"
     },
@@ -6908,7 +7064,7 @@
     {
       "eventId": "822760",
       "homeTeam": "Toronto Blue Jays",
-      "homePitcher": null,
+      "homePitcher": "Jos\u00e9 Soriano",
       "awayTeam": "Cincinnati Reds",
       "awayPitcher": "Nick Lodolo"
     },
@@ -6917,7 +7073,7 @@
       "homeTeam": "Miami Marlins",
       "homePitcher": "Eury P\u00e9rez",
       "awayTeam": "Atlanta Braves",
-      "awayPitcher": null
+      "awayPitcher": "Ray Kerr"
     },
     {
       "eventId": "824058",
