@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-25T00:46:05.774916+00:00",
+  "pulled_at": "2026-09-25T05:59:28.567341+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -38,7 +38,7 @@
               "side": "home",
               "name": "Boston Red Sox",
               "score": null,
-              "record": "85-73"
+              "record": "85-74"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -60,7 +60,7 @@
               "side": "home",
               "name": "Boston Red Sox",
               "score": null,
-              "record": "85-73"
+              "record": "85-74"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -82,7 +82,7 @@
               "side": "home",
               "name": "New York Yankees",
               "score": null,
-              "record": "91-67"
+              "record": "92-67"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -104,7 +104,7 @@
               "side": "home",
               "name": "New York Yankees",
               "score": null,
-              "record": "91-67"
+              "record": "92-67"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -142,13 +142,13 @@
               "side": "away",
               "name": "Tampa Bay Rays",
               "score": null,
-              "record": "96-62"
+              "record": "96-63"
             },
             {
               "side": "home",
               "name": "Philadelphia Phillies",
               "score": null,
-              "record": "87-71"
+              "record": "87-72"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -186,7 +186,7 @@
               "side": "away",
               "name": "Cincinnati Reds",
               "score": null,
-              "record": "73-85"
+              "record": "74-85"
             },
             {
               "side": "home",
@@ -208,7 +208,7 @@
               "side": "away",
               "name": "Atlanta Braves",
               "score": null,
-              "record": "93-65"
+              "record": "93-66"
             },
             {
               "side": "home",
@@ -230,7 +230,7 @@
               "side": "away",
               "name": "Cleveland Guardians",
               "score": null,
-              "record": "82-76"
+              "record": "83-76"
             },
             {
               "side": "home",
@@ -280,7 +280,7 @@
               "side": "home",
               "name": "Milwaukee Brewers",
               "score": null,
-              "record": "99-59"
+              "record": "100-59"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -318,13 +318,13 @@
               "side": "away",
               "name": "Houston Astros",
               "score": null,
-              "record": "78-80"
+              "record": "79-80"
             },
             {
               "side": "home",
               "name": "Athletics",
               "score": null,
-              "record": "63-95"
+              "record": "63-96"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -346,7 +346,7 @@
               "side": "home",
               "name": "San Diego Padres",
               "score": null,
-              "record": "88-70"
+              "record": "89-70"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -362,13 +362,13 @@
               "side": "away",
               "name": "Los Angeles Angels",
               "score": null,
-              "record": "60-98"
+              "record": "61-98"
             },
             {
               "side": "home",
               "name": "Seattle Mariners",
               "score": null,
-              "record": "74-84"
+              "record": "74-85"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -384,7 +384,7 @@
               "side": "away",
               "name": "Los Angeles Dodgers",
               "score": null,
-              "record": "97-61"
+              "record": "97-62"
             },
             {
               "side": "home",

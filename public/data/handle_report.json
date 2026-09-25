@@ -32,7 +32,7 @@
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
-      "count": 15
+      "count": 16
     },
     {
       "source": "actionnetwork",
@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 173
+      "filled_this_step": 174
     },
     {
       "source": "covers",
@@ -156,7 +156,7 @@
       "source": "sportsbettingdime",
       "sport": "nfl",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "sportsbettingdime",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 173,
-  "still_missing": 322,
-  "spreads": 172
+  "filled": 174,
+  "still_missing": 323,
+  "spreads": 173
 }

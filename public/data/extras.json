@@ -232,7 +232,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 204
+    "count": 205
   },
   "nflverse": [
     {
@@ -6842,21 +6842,21 @@
     {
       "eventId": "824703",
       "homeTeam": "Boston Red Sox",
-      "homePitcher": null,
+      "homePitcher": "Alec Gamboa",
       "awayTeam": "Chicago Cubs",
       "awayPitcher": "Clay Holmes"
     },
     {
       "eventId": "824706",
       "homeTeam": "Boston Red Sox",
-      "homePitcher": null,
+      "homePitcher": "Brayan Bello",
       "awayTeam": "Chicago Cubs",
       "awayPitcher": "David Peterson"
     },
     {
       "eventId": "823489",
       "homeTeam": "New York Yankees",
-      "homePitcher": null,
+      "homePitcher": "Brendan Beck",
       "awayTeam": "Baltimore Orioles",
       "awayPitcher": "Trevor Rogers"
     },
@@ -6933,9 +6933,9 @@
     {
       "eventId": "824947",
       "homeTeam": "Athletics",
-      "homePitcher": null,
+      "homePitcher": "Jacob Lopez",
       "awayTeam": "Houston Astros",
-      "awayPitcher": null
+      "awayPitcher": "Hunter Brown"
     },
     {
       "eventId": "823248",
@@ -6962,7 +6962,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2019,
-    "gameFiles": 1906
+    "splitsKeys": 2023,
+    "gameFiles": 1910
   }
 }
