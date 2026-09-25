@@ -6985,10 +6985,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-25T00:46:09.256729+00:00",
+      "gameId": "ncaaf-hou-gaso",
+      "matchup": "Houston Cougars vs. Georgia Southern Eagles",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 17.5,
+      "modelSpread": 18.5,
+      "modelEdge": -1.0,
+      "sharpSide": "Houston Cougars",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 18.5,
+      "clv": 1.0,
+      "tickets": 38.0,
+      "handle": 68.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-25T00:46:09.393406+00:00",
+      "gameId": "ncaaf-2h-hou-gaso",
+      "matchup": "Houston Cougars vs. Georgia Southern Eagles",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 17.5,
+      "modelSpread": 18.5,
+      "modelEdge": -1.0,
+      "sharpSide": "Houston Cougars",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 38.0,
+      "handle": 68.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 279,
-  "updated": "2026-09-24T22:08:01.685313+00:00"
+  "pending": 281,
+  "updated": "2026-09-25T00:46:09.393406+00:00"
 }

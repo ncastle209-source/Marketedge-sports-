@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-24T22:08:00.712272+00:00",
+  "pulled_at": "2026-09-25T00:46:08.401899+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -155,7 +155,7 @@
       },
       "d-backs": {
         "name": "D-backs",
-        "rating": 0.038,
+        "rating": 0.063,
         "source": "mlb-run-diff"
       },
       "giants": {
@@ -165,7 +165,7 @@
       },
       "rockies": {
         "name": "Rockies",
-        "rating": -1.165,
+        "rating": -1.182,
         "source": "mlb-run-diff"
       }
     },
