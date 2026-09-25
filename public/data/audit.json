@@ -7849,10 +7849,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-25T23:13:12.004924+00:00",
+      "gameId": "ncaaf-van-aub",
+      "matchup": "Vanderbilt Commodores vs. Auburn Tigers",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -9.5,
+      "modelSpread": -9.5,
+      "modelEdge": 0.0,
+      "sharpSide": "Vanderbilt Commodores",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -9.5,
+      "clv": 0.0,
+      "tickets": 42.0,
+      "handle": 60.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-25T23:13:12.120727+00:00",
+      "gameId": "ncaaf-2h-van-aub",
+      "matchup": "Vanderbilt Commodores vs. Auburn Tigers",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -9.5,
+      "modelSpread": -9.5,
+      "modelEdge": 0.0,
+      "sharpSide": "Vanderbilt Commodores",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 42.0,
+      "handle": 60.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 311,
-  "updated": "2026-09-25T19:58:03.001527+00:00"
+  "pending": 313,
+  "updated": "2026-09-25T23:13:12.120727+00:00"
 }
