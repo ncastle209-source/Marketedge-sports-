@@ -6799,7 +6799,7 @@
       "homeTeam": "Detroit Tigers",
       "homePitcher": "Justin Verlander",
       "awayTeam": "Pittsburgh Pirates",
-      "awayPitcher": null
+      "awayPitcher": "Kirby Yates"
     },
     {
       "eventId": "822759",
@@ -6820,14 +6820,14 @@
       "homeTeam": "Minnesota Twins",
       "homePitcher": "Bailey Ober",
       "awayTeam": "Texas Rangers",
-      "awayPitcher": null
+      "awayPitcher": "Nathan Eovaldi"
     },
     {
       "eventId": "823813",
       "homeTeam": "Miami Marlins",
-      "homePitcher": null,
+      "homePitcher": "Jack Ralston",
       "awayTeam": "Atlanta Braves",
-      "awayPitcher": null
+      "awayPitcher": "Brent Suter"
     },
     {
       "eventId": "824057",
@@ -6869,7 +6869,7 @@
       "homeTeam": "Athletics",
       "homePitcher": "Jack Perkins",
       "awayTeam": "Houston Astros",
-      "awayPitcher": null
+      "awayPitcher": "Hayden Wesneski"
     },
     {
       "eventId": "823083",
