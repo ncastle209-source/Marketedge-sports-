@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-26T19:38:18.995896+00:00",
+  "pulled_at": "2026-09-26T22:30:54.827131+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -35,12 +35,12 @@
       },
       "blue-jays": {
         "name": "Blue Jays",
-        "rating": -0.287,
+        "rating": -0.311,
         "source": "mlb-run-diff"
       },
       "jays": {
         "name": "Blue Jays",
-        "rating": -0.287,
+        "rating": -0.311,
         "source": "mlb-run-diff"
       },
       "guardians": {
@@ -60,7 +60,7 @@
       },
       "tigers": {
         "name": "Tigers",
-        "rating": 0.45,
+        "rating": 0.453,
         "source": "mlb-run-diff"
       },
       "royals": {
@@ -130,7 +130,7 @@
       },
       "pirates": {
         "name": "Pirates",
-        "rating": 0.169,
+        "rating": 0.161,
         "source": "mlb-run-diff"
       },
       "cardinals": {
@@ -140,7 +140,7 @@
       },
       "reds": {
         "name": "Reds",
-        "rating": -1.0,
+        "rating": -0.969,
         "source": "mlb-run-diff"
       },
       "lad": {
