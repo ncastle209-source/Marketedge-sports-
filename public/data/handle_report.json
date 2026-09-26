@@ -60,25 +60,25 @@
       "source": "covers",
       "sport": "mlb",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "covers",
       "sport": "ncaaf",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "covers",
       "sport": "nfl",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "covers",
       "sport": "wnba",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "covers",
@@ -88,19 +88,19 @@
       "source": "oddsshark",
       "sport": "mlb",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "oddsshark",
       "sport": "ncaaf",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "oddsshark",
       "sport": "nfl",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "oddsshark",

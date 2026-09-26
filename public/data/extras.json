@@ -4,25 +4,76 @@
       "eventId": "822678",
       "home": "Washington Nationals",
       "away": "New York Mets",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Austin Jones",
+      "crew": [
+        {
+          "name": "Austin Jones",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jen Pawol",
+          "type": "First Base"
+        },
+        {
+          "name": "James Hoye",
+          "type": "Second Base"
+        },
+        {
+          "name": "Sean Barber",
+          "type": "Third Base"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "824219",
       "home": "Detroit Tigers",
       "away": "Pittsburgh Pirates",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Laz Diaz",
+      "crew": [
+        {
+          "name": "Laz Diaz",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Tyler Jones",
+          "type": "First Base"
+        },
+        {
+          "name": "Erich Bacchus",
+          "type": "Second Base"
+        },
+        {
+          "name": "Jonathan Parra",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "822759",
       "home": "Toronto Blue Jays",
       "away": "Cincinnati Reds",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Paul Clemons",
+      "crew": [
+        {
+          "name": "Paul Clemons",
+          "type": "Home Plate"
+        },
+        {
+          "name": "John Bacon",
+          "type": "First Base"
+        },
+        {
+          "name": "Quinn Wolcott",
+          "type": "Second Base"
+        },
+        {
+          "name": "Adrian Johnson",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "823165",
@@ -44,9 +95,26 @@
       "eventId": "823813",
       "home": "Miami Marlins",
       "away": "Atlanta Braves",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Clint Vondrak",
+      "crew": [
+        {
+          "name": "Clint Vondrak",
+          "type": "Home Plate"
+        },
+        {
+          "name": "James Jean",
+          "type": "First Base"
+        },
+        {
+          "name": "Todd Tichenor",
+          "type": "Second Base"
+        },
+        {
+          "name": "Adam Hamari",
+          "type": "Third Base"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "824057",
@@ -108,17 +176,17 @@
   "savant": [
     {
       "gamePk": 822678,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822678"
     },
     {
       "gamePk": 824219,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824219"
     },
     {
       "gamePk": 822759,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822759"
     },
     {
@@ -133,7 +201,7 @@
     },
     {
       "gamePk": 823813,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823813"
     },
     {
@@ -6882,7 +6950,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2031,
-    "gameFiles": 1918
+    "splitsKeys": 2032,
+    "gameFiles": 1919
   }
 }
