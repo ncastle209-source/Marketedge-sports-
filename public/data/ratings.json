@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-26T22:30:54.827131+00:00",
+  "pulled_at": "2026-09-27T00:52:28.796157+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -95,7 +95,7 @@
       },
       "atl": {
         "name": "Braves",
-        "rating": 0.706,
+        "rating": 0.733,
         "source": "mlb-run-diff"
       },
       "phillies": {
@@ -105,7 +105,7 @@
       },
       "marlins": {
         "name": "Marlins",
-        "rating": 0.037,
+        "rating": 0.006,
         "source": "mlb-run-diff"
       },
       "nationals": {
@@ -145,7 +145,7 @@
       },
       "lad": {
         "name": "Dodgers",
-        "rating": 1.225,
+        "rating": 1.224,
         "source": "mlb-run-diff"
       },
       "padres": {
@@ -160,7 +160,7 @@
       },
       "giants": {
         "name": "Giants",
-        "rating": -0.537,
+        "rating": -0.54,
         "source": "mlb-run-diff"
       },
       "rockies": {

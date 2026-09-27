@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-26T22:30:49.256285+00:00",
+  "pulled_at": "2026-09-27T00:52:25.262764+00:00",
   "teams": {
     "nfl": [],
     "ncaaf": [],
@@ -90,7 +90,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Kansas City Chiefs vs. Las Vegas Raiders",
+      "matchup": "Tennessee Titans vs. Baltimore Ravens",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -100,7 +100,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Pittsburgh Steelers vs. Cleveland Browns",
+      "matchup": "Kansas City Chiefs vs. Las Vegas Raiders",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -115,9 +115,19 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 37.0,
-      "handle": 44.0,
-      "advancedScore": 57.0
+      "tickets": 39.0,
+      "handle": 45.0,
+      "advancedScore": 56.0
+    },
+    {
+      "matchup": "Kansas City Chiefs vs. Miami Dolphins",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 12.0,
+      "handle": 15.0,
+      "advancedScore": 54.0
     },
     {
       "matchup": "New York Jets vs. Detroit Lions",
@@ -135,9 +145,19 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 29.0,
-      "handle": 27.0,
-      "advancedScore": 52.5
+      "tickets": 31.0,
+      "handle": 28.0,
+      "advancedScore": 53.5
+    },
+    {
+      "matchup": "Arizona Cardinals vs. San Francisco 49ers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 81.0,
+      "handle": 71.0,
+      "advancedScore": 66.0
     },
     {
       "matchup": "Las Vegas Raiders vs. New Orleans Saints",
@@ -146,31 +166,21 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 48.0,
-      "handle": 50.0,
-      "advancedScore": 55.5
+      "handle": 51.0,
+      "advancedScore": 56.0
     },
     {
-      "matchup": "Kansas City Chiefs vs. Miami Dolphins",
+      "matchup": "Minnesota Vikings vs. Tampa Bay Buccaneers",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 12.0,
-      "handle": 16.0,
-      "advancedScore": 55.0
+      "tickets": 39.0,
+      "handle": 39.0,
+      "advancedScore": 60.0
     },
     {
       "matchup": "Indianapolis Colts vs. Washington Commanders",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Tennessee Titans vs. Baltimore Ravens",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -196,38 +206,8 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 23.0,
-      "handle": 30.0,
-      "advancedScore": 57.0
-    },
-    {
-      "matchup": "Cincinnati Bengals vs. Pittsburgh Steelers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 25.0,
-      "handle": 20.0,
-      "advancedScore": 61.0
-    },
-    {
-      "matchup": "Seattle Seahawks vs. Washington Commanders",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 11.0,
-      "handle": 10.0,
-      "advancedScore": 54.5
-    },
-    {
-      "matchup": "Arizona Cardinals vs. San Francisco 49ers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 81.0,
-      "handle": 82.0,
-      "advancedScore": 56.0
+      "handle": 43.0,
+      "advancedScore": 70.0
     },
     {
       "matchup": "Baltimore Ravens vs. Dallas Cowboys",
@@ -235,9 +215,19 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 51.0,
-      "handle": 34.0,
+      "tickets": 52.0,
+      "handle": 35.0,
       "advancedScore": 74.5
+    },
+    {
+      "matchup": "Los Angeles Rams vs. Denver Broncos",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 35.0,
+      "handle": 53.0,
+      "advancedScore": 68.0
     },
     {
       "matchup": "Philadelphia Eagles vs. Chicago Bears",
@@ -260,37 +250,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Houston Texans vs. Indianapolis Colts",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 56.0,
-      "handle": 65.0,
-      "advancedScore": 60.0
-    },
-    {
-      "matchup": "Minnesota Vikings vs. Tampa Bay Buccaneers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 39.0,
-      "handle": 35.0,
-      "advancedScore": 64.0
-    },
-    {
-      "matchup": "Los Angeles Rams vs. Denver Broncos",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 35.0,
-      "handle": 55.0,
-      "advancedScore": 70.0
-    },
-    {
-      "matchup": "New England Patriots vs. Buffalo Bills",
+      "matchup": "Miami Dolphins vs. Minnesota Vikings",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -300,7 +260,47 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Miami Dolphins vs. Minnesota Vikings",
+      "matchup": "Cincinnati Bengals vs. Pittsburgh Steelers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 25.0,
+      "handle": 21.0,
+      "advancedScore": 60.0
+    },
+    {
+      "matchup": "Seattle Seahawks vs. Washington Commanders",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 11.0,
+      "handle": 10.0,
+      "advancedScore": 54.5
+    },
+    {
+      "matchup": "Houston Texans vs. Indianapolis Colts",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 55.0,
+      "handle": 63.0,
+      "advancedScore": 59.0
+    },
+    {
+      "matchup": "Pittsburgh Steelers vs. Cleveland Browns",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "New England Patriots vs. Buffalo Bills",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -375,9 +375,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 37.0,
-      "handle": 44.0,
-      "advancedScore": 59.5
+      "tickets": 39.0,
+      "handle": 45.0,
+      "advancedScore": 58.5
     },
     {
       "matchup": "New York Giants vs. Tennessee Titans",
@@ -385,9 +385,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 29.0,
-      "handle": 27.0,
-      "advancedScore": 56.5
+      "tickets": 31.0,
+      "handle": 28.0,
+      "advancedScore": 57.5
     },
     {
       "matchup": "Denver Broncos vs. Los Angeles Rams",
@@ -396,8 +396,8 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 35.0,
-      "handle": 55.0,
-      "advancedScore": 79.5
+      "handle": 53.0,
+      "advancedScore": 77.5
     },
     {
       "matchup": "Chicago Bears vs. Philadelphia Eagles",
