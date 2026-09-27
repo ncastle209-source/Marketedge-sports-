@@ -23,7 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823408",
@@ -48,7 +48,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824705",
@@ -73,7 +73,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824948",
@@ -98,7 +98,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823164",
@@ -123,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "822761",
@@ -148,7 +148,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824055",
@@ -173,7 +173,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824217",
@@ -198,7 +198,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823246",
@@ -223,7 +223,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823084",
@@ -248,7 +248,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823650",
@@ -273,7 +273,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "824542",
@@ -298,7 +298,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823814",
@@ -323,7 +323,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823731",
@@ -348,7 +348,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "823490",
@@ -362,73 +362,115 @@
   "savant": [
     {
       "gamePk": 822679,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822679"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822679",
+      "playCount": 77,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823408,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823408"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823408",
+      "playCount": 74,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824705,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824705"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824705",
+      "playCount": 77,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824948,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824948"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824948",
+      "playCount": 82,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823164,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823164"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823164",
+      "playCount": 80,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 822761,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822761"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822761",
+      "playCount": 65,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824055,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824055"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824055",
+      "playCount": 72,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824217,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824217"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824217",
+      "playCount": 68,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823246,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823246"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823246",
+      "playCount": 77,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823084,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823084"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823084",
+      "playCount": 78,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823650,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823650"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823650",
+      "playCount": 71,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 824542,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824542"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824542",
+      "playCount": 69,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823814,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823814"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823814",
+      "playCount": 70,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823731,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823731"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823731",
+      "playCount": 69,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 823490,
@@ -444,7 +486,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 267
+    "count": 269
   },
   "nflverse": [
     {
@@ -7160,7 +7202,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2118,
-    "gameFiles": 2005
+    "splitsKeys": 2128,
+    "gameFiles": 2015
   }
 }

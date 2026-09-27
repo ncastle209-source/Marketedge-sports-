@@ -8524,10 +8524,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-27T23:21:07.924689+00:00",
+      "gameId": "mlb-los-angeles-angels-seattle-mariners",
+      "matchup": "Los Angeles Angels vs. Seattle Mariners",
+      "sport": "MLB",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": -3.91,
+      "modelEdge": 2.41,
+      "sharpSide": "Seattle Mariners",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -1.5,
+      "clv": 0.0,
+      "tickets": 84.0,
+      "handle": 92.0,
+      "plateUmpire": "Dillon Wilson",
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-27T23:21:08.093286+00:00",
+      "gameId": "mlb-2h-los-angeles-angels-seattle-mariners",
+      "matchup": "Los Angeles Angels vs. Seattle Mariners",
+      "sport": "MLB",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": -3.91,
+      "modelEdge": 2.41,
+      "sharpSide": "Seattle Mariners",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 84.0,
+      "handle": 92.0,
+      "plateUmpire": "Dillon Wilson",
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 336,
-  "updated": "2026-09-27T20:22:49.912628+00:00"
+  "pending": 338,
+  "updated": "2026-09-27T23:21:08.093286+00:00"
 }
