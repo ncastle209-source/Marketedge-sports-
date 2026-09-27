@@ -206,7 +206,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 210
+    "count": 252
   },
   "nflverse": [
     {
@@ -6832,7 +6832,7 @@
       "homeTeam": "Boston Red Sox",
       "homePitcher": null,
       "awayTeam": "Chicago Cubs",
-      "awayPitcher": null
+      "awayPitcher": "Shota Imanaga"
     },
     {
       "eventId": "824948",
@@ -6922,7 +6922,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2034,
-    "gameFiles": 1921
+    "splitsKeys": 2088,
+    "gameFiles": 1975
   }
 }

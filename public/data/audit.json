@@ -8470,10 +8470,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-27T12:23:18.599568+00:00",
+      "gameId": "nfl-kc-miami-dolphins",
+      "matchup": "Kansas City Chiefs vs. Miami Dolphins",
+      "sport": "NFL",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": 0.0,
+      "lineTaken": 10.0,
+      "modelSpread": null,
+      "modelEdge": -1.5,
+      "sharpSide": "Kansas City Chiefs",
+      "reasons": [
+        "need model before Vegas Leverage NFL prices a play"
+      ],
+      "closeLine": 11.5,
+      "clv": 1.5,
+      "tickets": 13.0,
+      "handle": 33.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-27T12:23:18.756691+00:00",
+      "gameId": "nfl-2h-kc-miami-dolphins",
+      "matchup": "Kansas City Chiefs vs. Miami Dolphins",
+      "sport": "NFL",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": 0.0,
+      "lineTaken": 10.0,
+      "modelSpread": null,
+      "modelEdge": -1.5,
+      "sharpSide": "Kansas City Chiefs",
+      "reasons": [
+        "need model before Vegas Leverage NFL prices a play"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 13.0,
+      "handle": 33.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 334,
-  "updated": "2026-09-27T06:24:59.300847+00:00"
+  "pending": 336,
+  "updated": "2026-09-27T12:23:18.756691+00:00"
 }
