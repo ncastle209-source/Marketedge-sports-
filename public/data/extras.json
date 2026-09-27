@@ -23,32 +23,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Delayed Start"
-    },
-    {
-      "eventId": "823490",
-      "home": "New York Yankees",
-      "away": "Baltimore Orioles",
-      "plateUmpire": "Vic Carapazza",
-      "crew": [
-        {
-          "name": "Vic Carapazza",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Alex Tosi",
-          "type": "First Base"
-        },
-        {
-          "name": "Edwin Moscoso",
-          "type": "Second Base"
-        },
-        {
-          "name": "Nic Lentz",
-          "type": "Third Base"
-        }
-      ],
-      "status": "Delayed Start"
+      "status": "In Progress"
     },
     {
       "eventId": "823408",
@@ -73,7 +48,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824705",
@@ -94,11 +69,11 @@
           "type": "Second Base"
         },
         {
-          "name": "Brock Ballou",
+          "name": "D.J. Reyburn",
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824948",
@@ -123,7 +98,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823164",
@@ -148,7 +123,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "822761",
@@ -173,7 +148,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824055",
@@ -198,7 +173,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824217",
@@ -223,7 +198,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823246",
@@ -248,7 +223,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823084",
@@ -273,7 +248,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823650",
@@ -298,7 +273,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "824542",
@@ -323,7 +298,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823814",
@@ -348,7 +323,7 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "823731",
@@ -373,84 +348,92 @@
           "type": "Third Base"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
+    },
+    {
+      "eventId": "823490",
+      "home": "New York Yankees",
+      "away": "Baltimore Orioles",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Cancelled"
     }
   ],
   "savant": [
     {
       "gamePk": 822679,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822679"
     },
     {
-      "gamePk": 823490,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823490"
-    },
-    {
       "gamePk": 823408,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823408"
     },
     {
       "gamePk": 824705,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824705"
     },
     {
       "gamePk": 824948,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824948"
     },
     {
       "gamePk": 823164,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823164"
     },
     {
       "gamePk": 822761,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=822761"
     },
     {
       "gamePk": 824055,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824055"
     },
     {
       "gamePk": 824217,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824217"
     },
     {
       "gamePk": 823246,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823246"
     },
     {
       "gamePk": 823084,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823084"
     },
     {
       "gamePk": 823650,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823650"
     },
     {
       "gamePk": 824542,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=824542"
     },
     {
       "gamePk": 823814,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823814"
     },
     {
       "gamePk": 823731,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823731"
+    },
+    {
+      "gamePk": 823490,
+      "status": "C",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=823490"
     }
   ],
   "weather": null,
@@ -461,7 +444,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 266
+    "count": 267
   },
   "nflverse": [
     {
@@ -7076,13 +7059,6 @@
       "awayPitcher": "Sean Manaea"
     },
     {
-      "eventId": "823490",
-      "homeTeam": "New York Yankees",
-      "homePitcher": "Elmer Rodr\u00edguez",
-      "awayTeam": "Baltimore Orioles",
-      "awayPitcher": "Shane Baz"
-    },
-    {
       "eventId": "823408",
       "homeTeam": "Philadelphia Phillies",
       "homePitcher": "Zack Wheeler",
@@ -7172,12 +7148,19 @@
       "homePitcher": "Jacob Misiorowski",
       "awayTeam": "St. Louis Cardinals",
       "awayPitcher": "Andre Pallante"
+    },
+    {
+      "eventId": "823490",
+      "homeTeam": "New York Yankees",
+      "homePitcher": "Elmer Rodr\u00edguez",
+      "awayTeam": "Baltimore Orioles",
+      "awayPitcher": "Shane Baz"
     }
   ],
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2116,
-    "gameFiles": 2003
+    "splitsKeys": 2118,
+    "gameFiles": 2005
   }
 }
