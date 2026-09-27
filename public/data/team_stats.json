@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-27T12:23:15.140845+00:00",
+  "pulled_at": "2026-09-27T17:14:27.350368+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,29 +25,255 @@
           "league": "mlb",
           "eventId": "822679",
           "name": "New York Mets at Washington Nationals",
-          "status": "Scheduled",
+          "status": "Delayed Start",
           "start": "2026-09-27T17:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "New York Mets",
-              "score": null,
+              "score": 0,
               "record": "74-87"
             },
             {
               "side": "home",
               "name": "Washington Nationals",
-              "score": null,
+              "score": 0,
               "record": "76-85"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "822679",
+            "players": [
+              {
+                "player": "Luis Torrens",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bo Bichette",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Sean Manaea",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Brett Baty",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Carson Benge",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Marcus Semien",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Francisco Lindor",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Juan Soto",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ronny Mauricio",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "A.J. Ewing",
+                "team": "New York Mets",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Brady House",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "CJ Abrams",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nasim Nu\u00f1ez",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Andr\u00e9s Chaparro",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Dylan Crews",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Daylen Lile",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "James Wood",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "DJ Herz",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Harry Ford",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jacob Young",
+                "team": "Washington Nationals",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
           "eventId": "823490",
           "name": "Baltimore Orioles at New York Yankees",
-          "status": "Scheduled",
+          "status": "Delayed Start",
           "start": "2026-09-27T17:05:00Z",
           "teams": [
             {
@@ -63,25 +289,163 @@
               "record": "93-68"
             }
           ],
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "823490",
+            "players": [
+              {
+                "player": "Jeremiah Jackson",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Gunnar Henderson",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Shane Baz",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Dylan Beavers",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Heston Kjerstad",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Pete Alonso",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Carlos Narv\u00e1ez",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Christian Encarnacion-Strand",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Colton Cowser",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Coby Mayo",
+                "team": "Baltimore Orioles",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
+        },
+        {
+          "league": "mlb",
+          "eventId": "823408",
+          "name": "Tampa Bay Rays at Philadelphia Phillies",
+          "status": "Pre-Game",
+          "start": "2026-09-27T18:30:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Tampa Bay Rays",
+              "score": 0,
+              "record": "98-63"
+            },
+            {
+              "side": "home",
+              "name": "Philadelphia Phillies",
+              "score": 0,
+              "record": "87-74"
+            }
+          ],
           "source": "statsapi.mlb.com"
         },
         {
           "league": "mlb",
           "eventId": "824705",
           "name": "Chicago Cubs at Boston Red Sox",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago Cubs",
-              "score": null,
+              "score": 0,
               "record": "88-73"
             },
             {
               "side": "home",
               "name": "Boston Red Sox",
-              "score": null,
+              "score": 0,
               "record": "87-74"
             }
           ],
@@ -91,7 +455,7 @@
           "league": "mlb",
           "eventId": "824948",
           "name": "Houston Astros at Athletics",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:05:00Z",
           "teams": [
             {
@@ -113,42 +477,20 @@
           "league": "mlb",
           "eventId": "823164",
           "name": "Los Angeles Dodgers at San Francisco Giants",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:05:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Los Angeles Dodgers",
-              "score": null,
+              "score": 0,
               "record": "99-62"
             },
             {
               "side": "home",
               "name": "San Francisco Giants",
-              "score": null,
+              "score": 0,
               "record": "65-96"
-            }
-          ],
-          "source": "statsapi.mlb.com"
-        },
-        {
-          "league": "mlb",
-          "eventId": "823408",
-          "name": "Tampa Bay Rays at Philadelphia Phillies",
-          "status": "Scheduled",
-          "start": "2026-09-27T19:05:00Z",
-          "teams": [
-            {
-              "side": "away",
-              "name": "Tampa Bay Rays",
-              "score": null,
-              "record": "98-63"
-            },
-            {
-              "side": "home",
-              "name": "Philadelphia Phillies",
-              "score": null,
-              "record": "87-74"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -157,19 +499,19 @@
           "league": "mlb",
           "eventId": "822761",
           "name": "Cincinnati Reds at Toronto Blue Jays",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:07:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cincinnati Reds",
-              "score": null,
+              "score": 0,
               "record": "75-86"
             },
             {
               "side": "home",
               "name": "Toronto Blue Jays",
-              "score": null,
+              "score": 0,
               "record": "78-83"
             }
           ],
@@ -179,19 +521,19 @@
           "league": "mlb",
           "eventId": "824055",
           "name": "Cleveland Guardians at Kansas City Royals",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cleveland Guardians",
-              "score": null,
+              "score": 0,
               "record": "85-76"
             },
             {
               "side": "home",
               "name": "Kansas City Royals",
-              "score": null,
+              "score": 0,
               "record": "68-93"
             }
           ],
@@ -201,7 +543,7 @@
           "league": "mlb",
           "eventId": "824217",
           "name": "Pittsburgh Pirates at Detroit Tigers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
@@ -223,19 +565,19 @@
           "league": "mlb",
           "eventId": "823246",
           "name": "Arizona Diamondbacks at San Diego Padres",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Arizona Diamondbacks",
-              "score": null,
+              "score": 0,
               "record": "86-75"
             },
             {
               "side": "home",
               "name": "San Diego Padres",
-              "score": null,
+              "score": 0,
               "record": "90-71"
             }
           ],
@@ -245,19 +587,19 @@
           "league": "mlb",
           "eventId": "823084",
           "name": "Los Angeles Angels at Seattle Mariners",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Los Angeles Angels",
-              "score": null,
+              "score": 0,
               "record": "62-99"
             },
             {
               "side": "home",
               "name": "Seattle Mariners",
-              "score": null,
+              "score": 0,
               "record": "75-86"
             }
           ],
@@ -267,19 +609,19 @@
           "league": "mlb",
           "eventId": "823650",
           "name": "Texas Rangers at Minnesota Twins",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Texas Rangers",
-              "score": null,
+              "score": 0,
               "record": "80-81"
             },
             {
               "side": "home",
               "name": "Minnesota Twins",
-              "score": null,
+              "score": 0,
               "record": "76-85"
             }
           ],
@@ -289,19 +631,19 @@
           "league": "mlb",
           "eventId": "824542",
           "name": "Colorado Rockies at Chicago White Sox",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Colorado Rockies",
-              "score": null,
+              "score": 0,
               "record": "58-103"
             },
             {
               "side": "home",
               "name": "Chicago White Sox",
-              "score": null,
+              "score": 0,
               "record": "83-78"
             }
           ],
@@ -311,19 +653,19 @@
           "league": "mlb",
           "eventId": "823814",
           "name": "Atlanta Braves at Miami Marlins",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Atlanta Braves",
-              "score": null,
+              "score": 0,
               "record": "94-67"
             },
             {
               "side": "home",
               "name": "Miami Marlins",
-              "score": null,
+              "score": 0,
               "record": "79-82"
             }
           ],
@@ -333,19 +675,19 @@
           "league": "mlb",
           "eventId": "823731",
           "name": "St. Louis Cardinals at Milwaukee Brewers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-27T19:10:00Z",
           "teams": [
             {
               "side": "away",
               "name": "St. Louis Cardinals",
-              "score": null,
+              "score": 0,
               "record": "77-84"
             },
             {
               "side": "home",
               "name": "Milwaukee Brewers",
-              "score": null,
+              "score": 0,
               "record": "102-59"
             }
           ],
