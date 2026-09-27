@@ -6837,14 +6837,14 @@
     {
       "eventId": "824948",
       "homeTeam": "Athletics",
-      "homePitcher": null,
+      "homePitcher": "Seth Johnson",
       "awayTeam": "Houston Astros",
-      "awayPitcher": null
+      "awayPitcher": "Peter Lambert"
     },
     {
       "eventId": "823164",
       "homeTeam": "San Francisco Giants",
-      "homePitcher": null,
+      "homePitcher": "Carson Seymour",
       "awayTeam": "Los Angeles Dodgers",
       "awayPitcher": null
     },
@@ -6867,7 +6867,7 @@
       "homeTeam": "Kansas City Royals",
       "homePitcher": "Daniel Lynch IV",
       "awayTeam": "Cleveland Guardians",
-      "awayPitcher": null
+      "awayPitcher": "Parker Messick"
     },
     {
       "eventId": "824217",
@@ -6879,7 +6879,7 @@
     {
       "eventId": "823246",
       "homeTeam": "San Diego Padres",
-      "homePitcher": null,
+      "homePitcher": "Randy V\u00e1squez",
       "awayTeam": "Arizona Diamondbacks",
       "awayPitcher": "Michael Soroka"
     },
@@ -6895,7 +6895,7 @@
       "homeTeam": "Minnesota Twins",
       "homePitcher": "Dean Kremer",
       "awayTeam": "Texas Rangers",
-      "awayPitcher": null
+      "awayPitcher": "MacKenzie Gore"
     },
     {
       "eventId": "824542",

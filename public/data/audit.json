@@ -8416,10 +8416,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-09-27T06:24:59.198376+00:00",
+      "gameId": "wnba-washington-mystics-atlanta-dream",
+      "matchup": "Washington Mystics vs. Atlanta Dream",
+      "sport": "WNBA",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -6.5,
+      "modelSpread": -6.5,
+      "modelEdge": 0.0,
+      "sharpSide": "Washington Mystics",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -6.5,
+      "clv": 0.0,
+      "tickets": 59.0,
+      "handle": 74.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-09-27T06:24:59.300847+00:00",
+      "gameId": "wnba-2h-washington-mystics-atlanta-dream",
+      "matchup": "Washington Mystics vs. Atlanta Dream",
+      "sport": "WNBA",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -6.5,
+      "modelSpread": -6.5,
+      "modelEdge": 0.0,
+      "sharpSide": "Washington Mystics",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 59.0,
+      "handle": 74.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
-  "pending": 332,
-  "updated": "2026-09-27T00:52:29.601536+00:00"
+  "pending": 334,
+  "updated": "2026-09-27T06:24:59.300847+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-27T00:52:28.796157+00:00",
+  "pulled_at": "2026-09-27T06:24:58.540843+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
@@ -10,7 +10,7 @@
     "mlb": {
       "rays": {
         "name": "Rays",
-        "rating": 0.494,
+        "rating": 0.559,
         "source": "mlb-run-diff"
       },
       "nyy": {
@@ -25,7 +25,7 @@
       },
       "sox": {
         "name": "White Sox",
-        "rating": 0.356,
+        "rating": 0.335,
         "source": "mlb-run-diff"
       },
       "orioles": {
@@ -45,17 +45,17 @@
       },
       "guardians": {
         "name": "Guardians",
-        "rating": 0.037,
+        "rating": 0.075,
         "source": "mlb-run-diff"
       },
       "white-sox": {
         "name": "White Sox",
-        "rating": 0.356,
+        "rating": 0.335,
         "source": "mlb-run-diff"
       },
       "twins": {
         "name": "Twins",
-        "rating": -0.35,
+        "rating": -0.373,
         "source": "mlb-run-diff"
       },
       "tigers": {
@@ -65,32 +65,32 @@
       },
       "royals": {
         "name": "Royals",
-        "rating": -0.719,
+        "rating": -0.752,
         "source": "mlb-run-diff"
       },
       "astros": {
         "name": "Astros",
-        "rating": -0.325,
+        "rating": -0.255,
         "source": "mlb-run-diff"
       },
       "rangers": {
         "name": "Rangers",
-        "rating": -0.3,
+        "rating": -0.273,
         "source": "mlb-run-diff"
       },
       "mariners": {
         "name": "Mariners",
-        "rating": -0.412,
+        "rating": -0.385,
         "source": "mlb-run-diff"
       },
       "athletics": {
         "name": "Athletics",
-        "rating": -1.363,
+        "rating": -1.422,
         "source": "mlb-run-diff"
       },
       "angels": {
         "name": "Angels",
-        "rating": -0.556,
+        "rating": -0.578,
         "source": "mlb-run-diff"
       },
       "atl": {
@@ -100,7 +100,7 @@
       },
       "phillies": {
         "name": "Phillies",
-        "rating": 0.138,
+        "rating": 0.068,
         "source": "mlb-run-diff"
       },
       "marlins": {
@@ -120,7 +120,7 @@
       },
       "brewers": {
         "name": "Brewers",
-        "rating": 1.319,
+        "rating": 1.317,
         "source": "mlb-run-diff"
       },
       "cubs": {
@@ -135,7 +135,7 @@
       },
       "cardinals": {
         "name": "Cardinals",
-        "rating": -0.163,
+        "rating": -0.168,
         "source": "mlb-run-diff"
       },
       "reds": {
@@ -150,12 +150,12 @@
       },
       "padres": {
         "name": "Padres",
-        "rating": 0.206,
+        "rating": 0.224,
         "source": "mlb-run-diff"
       },
       "d-backs": {
         "name": "D-backs",
-        "rating": 0.106,
+        "rating": 0.087,
         "source": "mlb-run-diff"
       },
       "giants": {
@@ -165,7 +165,7 @@
       },
       "rockies": {
         "name": "Rockies",
-        "rating": -1.206,
+        "rating": -1.18,
         "source": "mlb-run-diff"
       }
     },

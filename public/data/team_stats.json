@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-27T00:52:24.561243+00:00",
+  "pulled_at": "2026-09-27T06:24:55.048591+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -98,13 +98,13 @@
               "side": "away",
               "name": "Houston Astros",
               "score": null,
-              "record": "79-81"
+              "record": "80-81"
             },
             {
               "side": "home",
               "name": "Athletics",
               "score": null,
-              "record": "64-96"
+              "record": "64-97"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -142,13 +142,13 @@
               "side": "away",
               "name": "Tampa Bay Rays",
               "score": null,
-              "record": "97-63"
+              "record": "98-63"
             },
             {
               "side": "home",
               "name": "Philadelphia Phillies",
               "score": null,
-              "record": "87-73"
+              "record": "87-74"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -186,13 +186,13 @@
               "side": "away",
               "name": "Cleveland Guardians",
               "score": null,
-              "record": "84-76"
+              "record": "85-76"
             },
             {
               "side": "home",
               "name": "Kansas City Royals",
               "score": null,
-              "record": "68-92"
+              "record": "68-93"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -230,13 +230,13 @@
               "side": "away",
               "name": "Arizona Diamondbacks",
               "score": null,
-              "record": "86-74"
+              "record": "86-75"
             },
             {
               "side": "home",
               "name": "San Diego Padres",
               "score": null,
-              "record": "89-71"
+              "record": "90-71"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -252,13 +252,13 @@
               "side": "away",
               "name": "Los Angeles Angels",
               "score": null,
-              "record": "62-98"
+              "record": "62-99"
             },
             {
               "side": "home",
               "name": "Seattle Mariners",
               "score": null,
-              "record": "74-86"
+              "record": "75-86"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -274,13 +274,13 @@
               "side": "away",
               "name": "Texas Rangers",
               "score": null,
-              "record": "79-81"
+              "record": "80-81"
             },
             {
               "side": "home",
               "name": "Minnesota Twins",
               "score": null,
-              "record": "76-84"
+              "record": "76-85"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -296,13 +296,13 @@
               "side": "away",
               "name": "Colorado Rockies",
               "score": null,
-              "record": "57-103"
+              "record": "58-103"
             },
             {
               "side": "home",
               "name": "Chicago White Sox",
               "score": null,
-              "record": "83-77"
+              "record": "83-78"
             }
           ],
           "source": "statsapi.mlb.com"
@@ -340,13 +340,13 @@
               "side": "away",
               "name": "St. Louis Cardinals",
               "score": null,
-              "record": "77-83"
+              "record": "77-84"
             },
             {
               "side": "home",
               "name": "Milwaukee Brewers",
               "score": null,
-              "record": "101-59"
+              "record": "102-59"
             }
           ],
           "source": "statsapi.mlb.com"

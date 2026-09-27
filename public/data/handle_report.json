@@ -32,13 +32,13 @@
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
-      "count": 14
+      "count": 15
     },
     {
       "source": "actionnetwork",
       "sport": "ncaaf",
       "ok": true,
-      "count": 71
+      "count": 60
     },
     {
       "source": "actionnetwork",
@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 179
+      "filled_this_step": 153
     },
     {
       "source": "covers",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 179,
-  "still_missing": 323,
-  "spreads": 174
+  "filled": 153,
+  "still_missing": 347,
+  "spreads": 153
 }
