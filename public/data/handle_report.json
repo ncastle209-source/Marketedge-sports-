@@ -32,7 +32,7 @@
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
-      "count": 15
+      "count": 0
     },
     {
       "source": "actionnetwork",
@@ -50,11 +50,11 @@
       "source": "actionnetwork",
       "sport": "wnba",
       "ok": true,
-      "count": 4
+      "count": 0
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 100
+      "filled_this_step": 79
     },
     {
       "source": "covers",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 100,
-  "still_missing": 447,
-  "spreads": 100
+  "filled": 79,
+  "still_missing": 468,
+  "spreads": 79
 }
