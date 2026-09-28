@@ -44,7 +44,7 @@
       "source": "actionnetwork",
       "sport": "nfl",
       "ok": true,
-      "count": 7
+      "count": 16
     },
     {
       "source": "actionnetwork",
@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 66
+      "filled_this_step": 79
     },
     {
       "source": "covers",
@@ -166,10 +166,10 @@
     },
     {
       "source": "sportsbettingdime",
-      "filled_this_step": 0
+      "filled_this_step": 1
     }
   ],
-  "filled": 66,
-  "still_missing": 483,
-  "spreads": 66
+  "filled": 80,
+  "still_missing": 469,
+  "spreads": 79
 }
