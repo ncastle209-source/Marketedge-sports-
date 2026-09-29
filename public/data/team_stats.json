@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-29T15:30:46.073412+00:00",
+  "pulled_at": "2026-09-29T20:14:57.322847+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,41 +25,322 @@
           "league": "mlb",
           "eventId": "849845",
           "name": "Philadelphia Phillies at Atlanta Braves",
-          "status": "Pre-Game",
+          "status": "In Progress",
           "start": "2026-09-29T18:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Philadelphia Phillies",
-              "score": 0,
+              "score": 3,
               "record": "0-0"
             },
             {
               "side": "home",
               "name": "Atlanta Braves",
-              "score": 0,
+              "score": 2,
               "record": "0-0"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "849845",
+            "players": [
+              {
+                "player": "Jes\u00fas Luzardo",
+                "team": "Philadelphia Phillies",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "5.0",
+                "k": 6,
+                "er": 1
+              },
+              {
+                "player": "Justin Crawford",
+                "team": "Philadelphia Phillies",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bryan De La Cruz",
+                "team": "Philadelphia Phillies",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bryce Harper",
+                "team": "Philadelphia Phillies",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "J.T. Realmuto",
+                "team": "Philadelphia Phillies",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 2,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jhoan Duran",
+                "team": "Philadelphia Phillies",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Edmundo Sosa",
+                "team": "Philadelphia Phillies",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Alec Bohm",
+                "team": "Philadelphia Phillies",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bryson Stott",
+                "team": "Philadelphia Phillies",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Kyle Schwarber",
+                "team": "Philadelphia Phillies",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Alex McFarlane",
+                "team": "Philadelphia Phillies",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 2,
+                "er": 1
+              },
+              {
+                "player": "Trea Turner",
+                "team": "Philadelphia Phillies",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Derek Hill",
+                "team": "Philadelphia Phillies",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Michael Harris II",
+                "team": "Atlanta Braves",
+                "ab": 2,
+                "h": 2,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Mauricio Dub\u00f3n",
+                "team": "Atlanta Braves",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Didier Fuentes",
+                "team": "Atlanta Braves",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Drake Baldwin",
+                "team": "Atlanta Braves",
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chris Sale",
+                "team": "Atlanta Braves",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "6.1",
+                "k": 9,
+                "er": 3
+              },
+              {
+                "player": "Matt Olson",
+                "team": "Atlanta Braves",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Dominic Smith",
+                "team": "Atlanta Braves",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ronald Acu\u00f1a Jr.",
+                "team": "Atlanta Braves",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ozzie Albies",
+                "team": "Atlanta Braves",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Austin Riley",
+                "team": "Atlanta Braves",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Mike Yastrzemski",
+                "team": "Atlanta Braves",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ha-Seong Kim",
+                "team": "Atlanta Braves",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
           "eventId": "849849",
           "name": "Chicago White Sox at Houston Astros",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-29T21:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago White Sox",
-              "score": null,
+              "score": 0,
               "record": "0-0"
             },
             {
               "side": "home",
               "name": "Houston Astros",
-              "score": null,
+              "score": 0,
               "record": "0-0"
             }
           ],
@@ -69,19 +350,19 @@
           "league": "mlb",
           "eventId": "849851",
           "name": "Boston Red Sox at New York Yankees",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-30T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Boston Red Sox",
-              "score": null,
+              "score": 0,
               "record": "0-0"
             },
             {
               "side": "home",
               "name": "New York Yankees",
-              "score": null,
+              "score": 0,
               "record": "0-0"
             }
           ],

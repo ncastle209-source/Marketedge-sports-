@@ -31,23 +31,73 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "849849",
       "home": "Houston Astros",
       "away": "Chicago White Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Alex MacKay",
+      "crew": [
+        {
+          "name": "Alex MacKay",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Alex Tosi",
+          "type": "First Base"
+        },
+        {
+          "name": "Ryan Additon",
+          "type": "Second Base"
+        },
+        {
+          "name": "Alan Porter",
+          "type": "Third Base"
+        },
+        {
+          "name": "Edwin Moscoso",
+          "type": "Left Field"
+        },
+        {
+          "name": "Paul Clemons",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849851",
       "home": "New York Yankees",
       "away": "Boston Red Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Nate Tomlinson",
+      "crew": [
+        {
+          "name": "Nate Tomlinson",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Scott Barry",
+          "type": "First Base"
+        },
+        {
+          "name": "John Libka",
+          "type": "Second Base"
+        },
+        {
+          "name": "Mark Wegner",
+          "type": "Third Base"
+        },
+        {
+          "name": "John Tumpane",
+          "type": "Left Field"
+        },
+        {
+          "name": "Emil Jimenez",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849843",
@@ -61,17 +111,17 @@
   "savant": [
     {
       "gamePk": 849845,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849845"
     },
     {
       "gamePk": 849849,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849849"
     },
     {
       "gamePk": 849851,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849851"
     },
     {
@@ -6727,7 +6777,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2202,
-    "gameFiles": 2089
+    "splitsKeys": 2210,
+    "gameFiles": 2097
   }
 }
