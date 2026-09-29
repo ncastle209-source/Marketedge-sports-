@@ -31,7 +31,7 @@
           "type": "Right Field"
         }
       ],
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "eventId": "849849",
@@ -64,7 +64,7 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "849851",
@@ -97,26 +97,54 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     },
     {
       "eventId": "849843",
       "home": "San Diego Padres",
       "away": "Chicago Cubs",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Ramon De Jesus",
+      "crew": [
+        {
+          "name": "Ramon De Jesus",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Erich Bacchus",
+          "type": "First Base"
+        },
+        {
+          "name": "Chad Fairchild",
+          "type": "Second Base"
+        },
+        {
+          "name": "Bill Miller",
+          "type": "Third Base"
+        },
+        {
+          "name": "Rob Drake",
+          "type": "Left Field"
+        },
+        {
+          "name": "Clint Vondrak",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849845,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849845"
+      "status": "F",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849845",
+      "playCount": 70,
+      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
+      "calledPitchesApprox": 0
     },
     {
       "gamePk": 849849,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849849"
     },
     {
@@ -126,7 +154,7 @@
     },
     {
       "gamePk": 849843,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849843"
     }
   ],
