@@ -1,6 +1,60 @@
 {
-  "umpires": [],
-  "savant": [],
+  "umpires": [
+    {
+      "eventId": "849845",
+      "home": "Atlanta Braves",
+      "away": "Philadelphia Phillies",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849849",
+      "home": "Houston Astros",
+      "away": "Chicago White Sox",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849851",
+      "home": "New York Yankees",
+      "away": "Boston Red Sox",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849843",
+      "home": "San Diego Padres",
+      "away": "Chicago Cubs",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    }
+  ],
+  "savant": [
+    {
+      "gamePk": 849845,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849845"
+    },
+    {
+      "gamePk": 849849,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849849"
+    },
+    {
+      "gamePk": 849851,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849851"
+    },
+    {
+      "gamePk": 849843,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849843"
+    }
+  ],
   "weather": null,
   "injuries": {
     "nfl": [],
@@ -9,7 +63,7 @@
     "wnba": []
   },
   "closeArchive": {
-    "count": 269
+    "count": 273
   },
   "nflverse": [
     {
@@ -6615,7 +6669,36 @@
   ],
   "cfbd": null,
   "nflPenalties": null,
-  "pitchers": [],
+  "pitchers": [
+    {
+      "eventId": "849845",
+      "homeTeam": "Atlanta Braves",
+      "homePitcher": "Chris Sale",
+      "awayTeam": "Philadelphia Phillies",
+      "awayPitcher": "Jes\u00fas Luzardo"
+    },
+    {
+      "eventId": "849849",
+      "homeTeam": "Houston Astros",
+      "homePitcher": "AJ Blubaugh",
+      "awayTeam": "Chicago White Sox",
+      "awayPitcher": "Hagen Smith"
+    },
+    {
+      "eventId": "849851",
+      "homeTeam": "New York Yankees",
+      "homePitcher": "Cam Schlittler",
+      "awayTeam": "Boston Red Sox",
+      "awayPitcher": "Payton Tolle"
+    },
+    {
+      "eventId": "849843",
+      "homeTeam": "San Diego Padres",
+      "homePitcher": "Michael King",
+      "awayTeam": "Chicago Cubs",
+      "awayPitcher": "Matthew Boyd"
+    }
+  ],
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {

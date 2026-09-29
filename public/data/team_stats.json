@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-28T22:30:36.313016+00:00",
+  "pulled_at": "2026-09-29T02:16:55.823954+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -18,9 +18,98 @@
     },
     "mlb": {
       "ok": true,
-      "count": 0,
+      "count": 4,
       "source": "statsapi.mlb.com",
-      "games": []
+      "games": [
+        {
+          "league": "mlb",
+          "eventId": "849845",
+          "name": "Philadelphia Phillies at Atlanta Braves",
+          "status": "Scheduled",
+          "start": "2026-09-29T18:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Philadelphia Phillies",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "Atlanta Braves",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849849",
+          "name": "Chicago White Sox at Houston Astros",
+          "status": "Scheduled",
+          "start": "2026-09-29T21:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Chicago White Sox",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "Houston Astros",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849851",
+          "name": "Boston Red Sox at New York Yankees",
+          "status": "Scheduled",
+          "start": "2026-09-30T00:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Boston Red Sox",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "New York Yankees",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849843",
+          "name": "Chicago Cubs at San Diego Padres",
+          "status": "Scheduled",
+          "start": "2026-09-30T02:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Chicago Cubs",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "San Diego Padres",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        }
+      ]
     }
   }
 }

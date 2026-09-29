@@ -32,7 +32,7 @@
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
-      "count": 0
+      "count": 4
     },
     {
       "source": "actionnetwork",
@@ -50,11 +50,11 @@
       "source": "actionnetwork",
       "sport": "wnba",
       "ok": true,
-      "count": 0
+      "count": 2
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 79
+      "filled_this_step": 87
     },
     {
       "source": "covers",
@@ -166,10 +166,10 @@
     },
     {
       "source": "sportsbettingdime",
-      "filled_this_step": 1
+      "filled_this_step": 0
     }
   ],
-  "filled": 80,
-  "still_missing": 471,
-  "spreads": 79
+  "filled": 87,
+  "still_missing": 464,
+  "spreads": 87
 }
