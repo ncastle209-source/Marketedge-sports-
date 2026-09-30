@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-30T10:45:37.917829+00:00",
+  "pulled_at": "2026-09-30T16:46:20.673246+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -25,19 +25,19 @@
           "league": "mlb",
           "eventId": "849841",
           "name": "Philadelphia Phillies at Atlanta Braves",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-09-30T18:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Philadelphia Phillies",
-              "score": null,
+              "score": 0,
               "record": "0-1"
             },
             {
               "side": "home",
               "name": "Atlanta Braves",
-              "score": null,
+              "score": 0,
               "record": "1-0"
             }
           ],

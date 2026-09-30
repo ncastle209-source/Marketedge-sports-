@@ -4,9 +4,34 @@
       "eventId": "849841",
       "home": "Atlanta Braves",
       "away": "Philadelphia Phillies",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Adam Beck",
+      "crew": [
+        {
+          "name": "Adam Beck",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Mark Ripperger",
+          "type": "First Base"
+        },
+        {
+          "name": "Jordan Baker",
+          "type": "Second Base"
+        },
+        {
+          "name": "Nestor Ceja",
+          "type": "Third Base"
+        },
+        {
+          "name": "Charlie Ramos",
+          "type": "Left Field"
+        },
+        {
+          "name": "Dan Merzel",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849846",
@@ -36,7 +61,7 @@
   "savant": [
     {
       "gamePk": 849841,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849841"
     },
     {
@@ -6702,7 +6727,7 @@
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2215,
-    "gameFiles": 2102
+    "splitsKeys": 2232,
+    "gameFiles": 2119
   }
 }
