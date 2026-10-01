@@ -7810,13 +7810,13 @@
       "homeTeam": "Atlanta Braves",
       "homePitcher": null,
       "awayTeam": "Philadelphia Phillies",
-      "awayPitcher": null
+      "awayPitcher": "Aaron Nola"
     }
   ],
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2257,
-    "gameFiles": 2144
+    "splitsKeys": 2287,
+    "gameFiles": 2174
   }
 }
