@@ -1,9 +1,9 @@
 {
-  "pulled_at": "2026-09-30T21:20:44.967329+00:00",
+  "pulled_at": "2026-10-01T00:46:25.317398+00:00",
   "books": {
     "mlb": 32,
     "nfl": 0,
-    "ncaaf": 0,
+    "ncaaf": 156,
     "wnba": 0
   },
   "teams": {
@@ -170,7 +170,788 @@
       }
     },
     "nfl": {},
-    "ncaaf": {},
+    "ncaaf": {
+      "uga": {
+        "name": "Georgia",
+        "rating": 30.2,
+        "source": "cfbd-sp+"
+      },
+      "osu": {
+        "name": "Ohio State",
+        "rating": 28.8,
+        "source": "cfbd-sp+"
+      },
+      "state": {
+        "name": "Ball State",
+        "rating": -25.0,
+        "source": "cfbd-sp+"
+      },
+      "nd": {
+        "name": "Notre Dame",
+        "rating": 28.1,
+        "source": "cfbd-sp+"
+      },
+      "dame": {
+        "name": "Notre Dame",
+        "rating": 28.1,
+        "source": "cfbd-sp+"
+      },
+      "ind": {
+        "name": "Indiana",
+        "rating": 26.9,
+        "source": "cfbd-sp+"
+      },
+      "mia": {
+        "name": "Miami",
+        "rating": 25.7,
+        "source": "cfbd-sp+"
+      },
+      "ala": {
+        "name": "South Alabama",
+        "rating": -15.4,
+        "source": "cfbd-sp+"
+      },
+      "tex": {
+        "name": "North Texas",
+        "rating": -5.7,
+        "source": "cfbd-sp+"
+      },
+      "ore": {
+        "name": "Oregon",
+        "rating": 21.6,
+        "source": "cfbd-sp+"
+      },
+      "utah": {
+        "name": "Utah",
+        "rating": 21.5,
+        "source": "cfbd-sp+"
+      },
+      "lsu": {
+        "name": "LSU",
+        "rating": 21.3,
+        "source": "cfbd-sp+"
+      },
+      "ttu": {
+        "name": "Texas Tech",
+        "rating": 20.2,
+        "source": "cfbd-sp+"
+      },
+      "tech": {
+        "name": "Louisiana Tech",
+        "rating": -9.8,
+        "source": "cfbd-sp+"
+      },
+      "fla": {
+        "name": "South Florida",
+        "rating": 3.9,
+        "source": "cfbd-sp+"
+      },
+      "usc": {
+        "name": "USC",
+        "rating": 17.8,
+        "source": "cfbd-sp+"
+      },
+      "tenn": {
+        "name": "Middle Tennessee",
+        "rating": -16.0,
+        "source": "cfbd-sp+"
+      },
+      "neb": {
+        "name": "Nebraska",
+        "rating": 16.9,
+        "source": "cfbd-sp+"
+      },
+      "psu": {
+        "name": "Penn State",
+        "rating": 16.9,
+        "source": "cfbd-sp+"
+      },
+      "byu": {
+        "name": "BYU",
+        "rating": 16.3,
+        "source": "cfbd-sp+"
+      },
+      "msst": {
+        "name": "Mississippi State",
+        "rating": 15.1,
+        "source": "cfbd-sp+"
+      },
+      "iowa": {
+        "name": "Iowa",
+        "rating": 14.8,
+        "source": "cfbd-sp+"
+      },
+      "pitt": {
+        "name": "Pittsburgh",
+        "rating": 14.7,
+        "source": "cfbd-sp+"
+      },
+      "uva": {
+        "name": "West Virginia",
+        "rating": 1.4,
+        "source": "cfbd-sp+"
+      },
+      "mich": {
+        "name": "Central Michigan",
+        "rating": -18.7,
+        "source": "cfbd-sp+"
+      },
+      "ksu": {
+        "name": "Kansas State",
+        "rating": 14.0,
+        "source": "cfbd-sp+"
+      },
+      "ucla": {
+        "name": "UCLA",
+        "rating": 13.8,
+        "source": "cfbd-sp+"
+      },
+      "miz": {
+        "name": "Missouri",
+        "rating": 13.7,
+        "source": "cfbd-sp+"
+      },
+      "smu": {
+        "name": "SMU",
+        "rating": 13.0,
+        "source": "cfbd-sp+"
+      },
+      "ou": {
+        "name": "Oklahoma",
+        "rating": 12.8,
+        "source": "cfbd-sp+"
+      },
+      "vt": {
+        "name": "Virginia Tech",
+        "rating": 12.3,
+        "source": "cfbd-sp+"
+      },
+      "wash": {
+        "name": "Washington",
+        "rating": 12.1,
+        "source": "cfbd-sp+"
+      },
+      "hou": {
+        "name": "Sam Houston",
+        "rating": -14.1,
+        "source": "cfbd-sp+"
+      },
+      "aub": {
+        "name": "Auburn",
+        "rating": 11.4,
+        "source": "cfbd-sp+"
+      },
+      "miss": {
+        "name": "Southern Miss",
+        "rating": -18.4,
+        "source": "cfbd-sp+"
+      },
+      "ariz": {
+        "name": "Arizona",
+        "rating": 10.7,
+        "source": "cfbd-sp+"
+      },
+      "okst": {
+        "name": "Oklahoma State",
+        "rating": 10.2,
+        "source": "cfbd-sp+"
+      },
+      "duke": {
+        "name": "Duke",
+        "rating": 10.2,
+        "source": "cfbd-sp+"
+      },
+      "lou": {
+        "name": "Louisville",
+        "rating": 9.9,
+        "source": "cfbd-sp+"
+      },
+      "jmu": {
+        "name": "James Madison",
+        "rating": 9.9,
+        "source": "cfbd-sp+"
+      },
+      "madison": {
+        "name": "James Madison",
+        "rating": 9.9,
+        "source": "cfbd-sp+"
+      },
+      "cin": {
+        "name": "Cincinnati",
+        "rating": 9.2,
+        "source": "cfbd-sp+"
+      },
+      "texas-a-m": {
+        "name": "Texas A&M",
+        "rating": 8.9,
+        "source": "cfbd-sp+"
+      },
+      "a-m": {
+        "name": "Texas A&M",
+        "rating": 8.9,
+        "source": "cfbd-sp+"
+      },
+      "ucf": {
+        "name": "UCF",
+        "rating": 8.7,
+        "source": "cfbd-sp+"
+      },
+      "ill": {
+        "name": "Northern Illinois",
+        "rating": -23.9,
+        "source": "cfbd-sp+"
+      },
+      "tcu": {
+        "name": "TCU",
+        "rating": 8.2,
+        "source": "cfbd-sp+"
+      },
+      "bay": {
+        "name": "Baylor",
+        "rating": 8.1,
+        "source": "cfbd-sp+"
+      },
+      "uk": {
+        "name": "Western Kentucky",
+        "rating": -16.4,
+        "source": "cfbd-sp+"
+      },
+      "north-dakota-state": {
+        "name": "North Dakota State",
+        "rating": 7.8,
+        "source": "cfbd-sp+"
+      },
+      "unm": {
+        "name": "New Mexico",
+        "rating": 7.7,
+        "source": "cfbd-sp+"
+      },
+      "mexico": {
+        "name": "New Mexico",
+        "rating": 7.7,
+        "source": "cfbd-sp+"
+      },
+      "bois": {
+        "name": "Boise State",
+        "rating": 7.6,
+        "source": "cfbd-sp+"
+      },
+      "van": {
+        "name": "Vanderbilt",
+        "rating": 7.5,
+        "source": "cfbd-sp+"
+      },
+      "scar": {
+        "name": "South Carolina",
+        "rating": 7.5,
+        "source": "cfbd-sp+"
+      },
+      "carolina": {
+        "name": "Coastal Carolina",
+        "rating": -11.4,
+        "source": "cfbd-sp+"
+      },
+      "nw": {
+        "name": "Northwestern",
+        "rating": 7.3,
+        "source": "cfbd-sp+"
+      },
+      "wis": {
+        "name": "Wisconsin",
+        "rating": 6.9,
+        "source": "cfbd-sp+"
+      },
+      "minn": {
+        "name": "Minnesota",
+        "rating": 6.5,
+        "source": "cfbd-sp+"
+      },
+      "fsu": {
+        "name": "Florida State",
+        "rating": 5.7,
+        "source": "cfbd-sp+"
+      },
+      "clem": {
+        "name": "Clemson",
+        "rating": 4.9,
+        "source": "cfbd-sp+"
+      },
+      "md": {
+        "name": "Maryland",
+        "rating": 3.9,
+        "source": "cfbd-sp+"
+      },
+      "usf": {
+        "name": "South Florida",
+        "rating": 3.9,
+        "source": "cfbd-sp+"
+      },
+      "wake": {
+        "name": "Wake Forest",
+        "rating": 3.7,
+        "source": "cfbd-sp+"
+      },
+      "forest": {
+        "name": "Wake Forest",
+        "rating": 3.7,
+        "source": "cfbd-sp+"
+      },
+      "isu": {
+        "name": "Iowa State",
+        "rating": 3.4,
+        "source": "cfbd-sp+"
+      },
+      "ncst": {
+        "name": "NC State",
+        "rating": 3.4,
+        "source": "cfbd-sp+"
+      },
+      "unc": {
+        "name": "North Carolina",
+        "rating": 3.0,
+        "source": "cfbd-sp+"
+      },
+      "asu": {
+        "name": "Arizona State",
+        "rating": 3.0,
+        "source": "cfbd-sp+"
+      },
+      "lib": {
+        "name": "Liberty",
+        "rating": 2.5,
+        "source": "cfbd-sp+"
+      },
+      "mem": {
+        "name": "Memphis",
+        "rating": 2.3,
+        "source": "cfbd-sp+"
+      },
+      "wvu": {
+        "name": "West Virginia",
+        "rating": 1.4,
+        "source": "cfbd-sp+"
+      },
+      "orst": {
+        "name": "Oregon State",
+        "rating": 1.2,
+        "source": "cfbd-sp+"
+      },
+      "ku": {
+        "name": "Kansas",
+        "rating": 1.0,
+        "source": "cfbd-sp+"
+      },
+      "msu": {
+        "name": "Michigan State",
+        "rating": 0.3,
+        "source": "cfbd-sp+"
+      },
+      "tol": {
+        "name": "Toledo",
+        "rating": 0.3,
+        "source": "cfbd-sp+"
+      },
+      "gt": {
+        "name": "Georgia Tech",
+        "rating": -0.1,
+        "source": "cfbd-sp+"
+      },
+      "fres": {
+        "name": "Fresno State",
+        "rating": -0.3,
+        "source": "cfbd-sp+"
+      },
+      "ark": {
+        "name": "Arkansas",
+        "rating": -0.3,
+        "source": "cfbd-sp+"
+      },
+      "army": {
+        "name": "Army",
+        "rating": -0.8,
+        "source": "cfbd-sp+"
+      },
+      "utsa": {
+        "name": "UTSA",
+        "rating": -1.0,
+        "source": "cfbd-sp+"
+      },
+      "syr": {
+        "name": "Syracuse",
+        "rating": -1.2,
+        "source": "cfbd-sp+"
+      },
+      "rut": {
+        "name": "Rutgers",
+        "rating": -1.6,
+        "source": "cfbd-sp+"
+      },
+      "txst": {
+        "name": "Texas State",
+        "rating": -1.8,
+        "source": "cfbd-sp+"
+      },
+      "jvst": {
+        "name": "Jacksonville State",
+        "rating": -2.2,
+        "source": "cfbd-sp+"
+      },
+      "unlv": {
+        "name": "UNLV",
+        "rating": -2.4,
+        "source": "cfbd-sp+"
+      },
+      "ecu": {
+        "name": "East Carolina",
+        "rating": -2.8,
+        "source": "cfbd-sp+"
+      },
+      "ull": {
+        "name": "Louisiana",
+        "rating": -3.0,
+        "source": "cfbd-sp+"
+      },
+      "cal": {
+        "name": "California",
+        "rating": -3.2,
+        "source": "cfbd-sp+"
+      },
+      "colo": {
+        "name": "Colorado",
+        "rating": -3.3,
+        "source": "cfbd-sp+"
+      },
+      "tls": {
+        "name": "Tulsa",
+        "rating": -3.4,
+        "source": "cfbd-sp+"
+      },
+      "af": {
+        "name": "Air Force",
+        "rating": -3.4,
+        "source": "cfbd-sp+"
+      },
+      "force": {
+        "name": "Air Force",
+        "rating": -3.4,
+        "source": "cfbd-sp+"
+      },
+      "conn": {
+        "name": "UConn",
+        "rating": -3.7,
+        "source": "cfbd-sp+"
+      },
+      "navy": {
+        "name": "Navy",
+        "rating": -3.7,
+        "source": "cfbd-sp+"
+      },
+      "fau": {
+        "name": "Florida Atlantic",
+        "rating": -4.2,
+        "source": "cfbd-sp+"
+      },
+      "atlantic": {
+        "name": "Florida Atlantic",
+        "rating": -4.2,
+        "source": "cfbd-sp+"
+      },
+      "mioh": {
+        "name": "Miami (OH)",
+        "rating": -4.3,
+        "source": "cfbd-sp+"
+      },
+      "oh": {
+        "name": "Miami (OH)",
+        "rating": -4.3,
+        "source": "cfbd-sp+"
+      },
+      "app": {
+        "name": "App State",
+        "rating": -4.4,
+        "source": "cfbd-sp+"
+      },
+      "bc": {
+        "name": "Boston College",
+        "rating": -4.6,
+        "source": "cfbd-sp+"
+      },
+      "college": {
+        "name": "Boston College",
+        "rating": -4.6,
+        "source": "cfbd-sp+"
+      },
+      "unt": {
+        "name": "North Texas",
+        "rating": -5.7,
+        "source": "cfbd-sp+"
+      },
+      "tem": {
+        "name": "Temple",
+        "rating": -6.1,
+        "source": "cfbd-sp+"
+      },
+      "umass": {
+        "name": "Massachusetts",
+        "rating": -6.2,
+        "source": "cfbd-sp+"
+      },
+      "pur": {
+        "name": "Purdue",
+        "rating": -6.4,
+        "source": "cfbd-sp+"
+      },
+      "nev": {
+        "name": "Nevada",
+        "rating": -6.5,
+        "source": "cfbd-sp+"
+      },
+      "wmu": {
+        "name": "Western Michigan",
+        "rating": -7.2,
+        "source": "cfbd-sp+"
+      },
+      "tuln": {
+        "name": "Tulane",
+        "rating": -7.3,
+        "source": "cfbd-sp+"
+      },
+      "csu": {
+        "name": "Colorado State",
+        "rating": -7.3,
+        "source": "cfbd-sp+"
+      },
+      "fiu": {
+        "name": "Florida International",
+        "rating": -7.6,
+        "source": "cfbd-sp+"
+      },
+      "international": {
+        "name": "Florida International",
+        "rating": -7.6,
+        "source": "cfbd-sp+"
+      },
+      "sdsu": {
+        "name": "San Diego State",
+        "rating": -7.8,
+        "source": "cfbd-sp+"
+      },
+      "odu": {
+        "name": "Old Dominion",
+        "rating": -7.9,
+        "source": "cfbd-sp+"
+      },
+      "dominion": {
+        "name": "Old Dominion",
+        "rating": -7.9,
+        "source": "cfbd-sp+"
+      },
+      "stan": {
+        "name": "Stanford",
+        "rating": -8.4,
+        "source": "cfbd-sp+"
+      },
+      "gaso": {
+        "name": "Georgia Southern",
+        "rating": -8.6,
+        "source": "cfbd-sp+"
+      },
+      "southern": {
+        "name": "Georgia Southern",
+        "rating": -8.6,
+        "source": "cfbd-sp+"
+      },
+      "troy": {
+        "name": "Troy",
+        "rating": -8.8,
+        "source": "cfbd-sp+"
+      },
+      "usu": {
+        "name": "Utah State",
+        "rating": -9.3,
+        "source": "cfbd-sp+"
+      },
+      "wsu": {
+        "name": "Washington State",
+        "rating": -9.3,
+        "source": "cfbd-sp+"
+      },
+      "arst": {
+        "name": "Arkansas State",
+        "rating": -9.5,
+        "source": "cfbd-sp+"
+      },
+      "lt": {
+        "name": "Louisiana Tech",
+        "rating": -9.8,
+        "source": "cfbd-sp+"
+      },
+      "ohio": {
+        "name": "Ohio",
+        "rating": -10.5,
+        "source": "cfbd-sp+"
+      },
+      "del": {
+        "name": "Delaware",
+        "rating": -10.7,
+        "source": "cfbd-sp+"
+      },
+      "gast": {
+        "name": "Georgia State",
+        "rating": -11.2,
+        "source": "cfbd-sp+"
+      },
+      "ccu": {
+        "name": "Coastal Carolina",
+        "rating": -11.4,
+        "source": "cfbd-sp+"
+      },
+      "ksu2": {
+        "name": "Kennesaw State",
+        "rating": -11.7,
+        "source": "cfbd-sp+"
+      },
+      "hawai-i": {
+        "name": "Hawai'i",
+        "rating": -12.2,
+        "source": "cfbd-sp+"
+      },
+      "mrsh": {
+        "name": "Marshall",
+        "rating": -12.5,
+        "source": "cfbd-sp+"
+      },
+      "wyo": {
+        "name": "Wyoming",
+        "rating": -12.7,
+        "source": "cfbd-sp+"
+      },
+      "shsu": {
+        "name": "Sam Houston",
+        "rating": -14.1,
+        "source": "cfbd-sp+"
+      },
+      "uab": {
+        "name": "UAB",
+        "rating": -14.3,
+        "source": "cfbd-sp+"
+      },
+      "rice": {
+        "name": "Rice",
+        "rating": -15.1,
+        "source": "cfbd-sp+"
+      },
+      "san-jos-state": {
+        "name": "San Jos\u00e9 State",
+        "rating": -15.1,
+        "source": "cfbd-sp+"
+      },
+      "usa": {
+        "name": "South Alabama",
+        "rating": -15.4,
+        "source": "cfbd-sp+"
+      },
+      "mtsu": {
+        "name": "Middle Tennessee",
+        "rating": -16.0,
+        "source": "cfbd-sp+"
+      },
+      "wku": {
+        "name": "Western Kentucky",
+        "rating": -16.4,
+        "source": "cfbd-sp+"
+      },
+      "buff": {
+        "name": "Buffalo",
+        "rating": -17.2,
+        "source": "cfbd-sp+"
+      },
+      "most": {
+        "name": "Missouri State",
+        "rating": -17.6,
+        "source": "cfbd-sp+"
+      },
+      "nmsu": {
+        "name": "New Mexico State",
+        "rating": -17.8,
+        "source": "cfbd-sp+"
+      },
+      "emu": {
+        "name": "Eastern Michigan",
+        "rating": -18.0,
+        "source": "cfbd-sp+"
+      },
+      "usm": {
+        "name": "Southern Miss",
+        "rating": -18.4,
+        "source": "cfbd-sp+"
+      },
+      "cmu": {
+        "name": "Central Michigan",
+        "rating": -18.7,
+        "source": "cfbd-sp+"
+      },
+      "kent": {
+        "name": "Kent State",
+        "rating": -22.4,
+        "source": "cfbd-sp+"
+      },
+      "sacramento-state": {
+        "name": "Sacramento State",
+        "rating": -22.9,
+        "source": "cfbd-sp+"
+      },
+      "akr": {
+        "name": "Akron",
+        "rating": -23.1,
+        "source": "cfbd-sp+"
+      },
+      "niu": {
+        "name": "Northern Illinois",
+        "rating": -23.9,
+        "source": "cfbd-sp+"
+      },
+      "utep": {
+        "name": "UTEP",
+        "rating": -24.0,
+        "source": "cfbd-sp+"
+      },
+      "ball": {
+        "name": "Ball State",
+        "rating": -25.0,
+        "source": "cfbd-sp+"
+      },
+      "bgsu": {
+        "name": "Bowling Green",
+        "rating": -26.4,
+        "source": "cfbd-sp+"
+      },
+      "green": {
+        "name": "Bowling Green",
+        "rating": -26.4,
+        "source": "cfbd-sp+"
+      },
+      "char": {
+        "name": "Charlotte",
+        "rating": -27.3,
+        "source": "cfbd-sp+"
+      },
+      "ulm": {
+        "name": "UL Monroe",
+        "rating": -29.0,
+        "source": "cfbd-sp+"
+      },
+      "monroe": {
+        "name": "UL Monroe",
+        "rating": -29.0,
+        "source": "cfbd-sp+"
+      },
+      "nationalaverages": {
+        "name": "nationalAverages",
+        "rating": 0.43623188405797103,
+        "source": "cfbd-sp+"
+      }
+    },
     "wnba": {}
   }
 }

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-30T21:20:43.141821+00:00",
+  "pulled_at": "2026-10-01T00:46:23.289166+00:00",
   "lanes": {
     "umpires": {
       "ok": true,
@@ -26,8 +26,8 @@
       "error": null
     },
     "cfbd": {
-      "ok": false,
-      "error": "429 https://api.collegefootballdata.com/teams/fbs?year=2026"
+      "ok": true,
+      "error": null
     },
     "nflPenalties": {
       "ok": false,
