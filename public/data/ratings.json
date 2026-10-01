@@ -1,10 +1,10 @@
 {
-  "pulled_at": "2026-10-01T14:25:11.248430+00:00",
+  "pulled_at": "2026-10-01T19:47:14.623896+00:00",
   "books": {
     "mlb": 32,
-    "nfl": 0,
+    "nfl": 61,
     "ncaaf": 156,
-    "wnba": 0
+    "wnba": 29
   },
   "teams": {
     "mlb": {
@@ -169,7 +169,313 @@
         "source": "mlb-run-diff"
       }
     },
-    "nfl": {},
+    "nfl": {
+      "kc": {
+        "name": "Kansas City Chiefs",
+        "rating": 3.8,
+        "source": "espn-nfl-diff"
+      },
+      "buffalo-bills": {
+        "name": "Buffalo Bills",
+        "rating": 2.3,
+        "source": "espn-nfl-diff"
+      },
+      "bills": {
+        "name": "Buffalo Bills",
+        "rating": 2.3,
+        "source": "espn-nfl-diff"
+      },
+      "las-vegas-raiders": {
+        "name": "Las Vegas Raiders",
+        "rating": 3.4,
+        "source": "espn-nfl-diff"
+      },
+      "raiders": {
+        "name": "Las Vegas Raiders",
+        "rating": 3.4,
+        "source": "espn-nfl-diff"
+      },
+      "jacksonville-jaguars": {
+        "name": "Jacksonville Jaguars",
+        "rating": 4.6,
+        "source": "espn-nfl-diff"
+      },
+      "jaguars": {
+        "name": "Jacksonville Jaguars",
+        "rating": 4.6,
+        "source": "espn-nfl-diff"
+      },
+      "pittsburgh-steelers": {
+        "name": "Pittsburgh Steelers",
+        "rating": -0.7,
+        "source": "espn-nfl-diff"
+      },
+      "steelers": {
+        "name": "Pittsburgh Steelers",
+        "rating": -0.7,
+        "source": "espn-nfl-diff"
+      },
+      "baltimore-ravens": {
+        "name": "Baltimore Ravens",
+        "rating": 1.4,
+        "source": "espn-nfl-diff"
+      },
+      "ravens": {
+        "name": "Baltimore Ravens",
+        "rating": 1.4,
+        "source": "espn-nfl-diff"
+      },
+      "denver-broncos": {
+        "name": "Denver Broncos",
+        "rating": -1.0,
+        "source": "espn-nfl-diff"
+      },
+      "broncos": {
+        "name": "Denver Broncos",
+        "rating": -1.0,
+        "source": "espn-nfl-diff"
+      },
+      "cleveland-browns": {
+        "name": "Cleveland Browns",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "browns": {
+        "name": "Cleveland Browns",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "cincinnati-bengals": {
+        "name": "Cincinnati Bengals",
+        "rating": 1.7,
+        "source": "espn-nfl-diff"
+      },
+      "bengals": {
+        "name": "Cincinnati Bengals",
+        "rating": 1.7,
+        "source": "espn-nfl-diff"
+      },
+      "new-york-jets": {
+        "name": "New York Jets",
+        "rating": 0.3,
+        "source": "espn-nfl-diff"
+      },
+      "jets": {
+        "name": "New York Jets",
+        "rating": 0.3,
+        "source": "espn-nfl-diff"
+      },
+      "new-england-patriots": {
+        "name": "New England Patriots",
+        "rating": -1.5,
+        "source": "espn-nfl-diff"
+      },
+      "patriots": {
+        "name": "New England Patriots",
+        "rating": -1.5,
+        "source": "espn-nfl-diff"
+      },
+      "indianapolis-colts": {
+        "name": "Indianapolis Colts",
+        "rating": -1.9,
+        "source": "espn-nfl-diff"
+      },
+      "colts": {
+        "name": "Indianapolis Colts",
+        "rating": -1.9,
+        "source": "espn-nfl-diff"
+      },
+      "miami-dolphins": {
+        "name": "Miami Dolphins",
+        "rating": -5.0,
+        "source": "espn-nfl-diff"
+      },
+      "dolphins": {
+        "name": "Miami Dolphins",
+        "rating": -5.0,
+        "source": "espn-nfl-diff"
+      },
+      "los-angeles-chargers": {
+        "name": "Los Angeles Chargers",
+        "rating": -3.2,
+        "source": "espn-nfl-diff"
+      },
+      "chargers": {
+        "name": "Los Angeles Chargers",
+        "rating": -3.2,
+        "source": "espn-nfl-diff"
+      },
+      "tennessee-titans": {
+        "name": "Tennessee Titans",
+        "rating": -2.2,
+        "source": "espn-nfl-diff"
+      },
+      "titans": {
+        "name": "Tennessee Titans",
+        "rating": -2.2,
+        "source": "espn-nfl-diff"
+      },
+      "houston-texans": {
+        "name": "Houston Texans",
+        "rating": -2.1,
+        "source": "espn-nfl-diff"
+      },
+      "texans": {
+        "name": "Houston Texans",
+        "rating": -2.1,
+        "source": "espn-nfl-diff"
+      },
+      "minnesota-vikings": {
+        "name": "Minnesota Vikings",
+        "rating": 3.0,
+        "source": "espn-nfl-diff"
+      },
+      "vikings": {
+        "name": "Minnesota Vikings",
+        "rating": 3.0,
+        "source": "espn-nfl-diff"
+      },
+      "sf": {
+        "name": "San Francisco 49ers",
+        "rating": 4.8,
+        "source": "espn-nfl-diff"
+      },
+      "phi": {
+        "name": "Philadelphia Eagles",
+        "rating": -1.4,
+        "source": "espn-nfl-diff"
+      },
+      "eagles": {
+        "name": "Philadelphia Eagles",
+        "rating": -1.4,
+        "source": "espn-nfl-diff"
+      },
+      "detroit-lions": {
+        "name": "Detroit Lions",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "lions": {
+        "name": "Detroit Lions",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "chicago-bears": {
+        "name": "Chicago Bears",
+        "rating": 3.6,
+        "source": "espn-nfl-diff"
+      },
+      "bears": {
+        "name": "Chicago Bears",
+        "rating": 3.6,
+        "source": "espn-nfl-diff"
+      },
+      "seattle-seahawks": {
+        "name": "Seattle Seahawks",
+        "rating": 2.5,
+        "source": "espn-nfl-diff"
+      },
+      "seahawks": {
+        "name": "Seattle Seahawks",
+        "rating": 2.5,
+        "source": "espn-nfl-diff"
+      },
+      "new-york-giants": {
+        "name": "New York Giants",
+        "rating": -0.9,
+        "source": "espn-nfl-diff"
+      },
+      "giants": {
+        "name": "New York Giants",
+        "rating": -0.9,
+        "source": "espn-nfl-diff"
+      },
+      "carolina-panthers": {
+        "name": "Carolina Panthers",
+        "rating": 0.6,
+        "source": "espn-nfl-diff"
+      },
+      "panthers": {
+        "name": "Carolina Panthers",
+        "rating": 0.6,
+        "source": "espn-nfl-diff"
+      },
+      "los-angeles-rams": {
+        "name": "Los Angeles Rams",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "rams": {
+        "name": "Los Angeles Rams",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "dal": {
+        "name": "Dallas Cowboys",
+        "rating": 0.6,
+        "source": "espn-nfl-diff"
+      },
+      "new-orleans-saints": {
+        "name": "New Orleans Saints",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "saints": {
+        "name": "New Orleans Saints",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "washington-commanders": {
+        "name": "Washington Commanders",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "commanders": {
+        "name": "Washington Commanders",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "atlanta-falcons": {
+        "name": "Atlanta Falcons",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "falcons": {
+        "name": "Atlanta Falcons",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "green-bay-packers": {
+        "name": "Green Bay Packers",
+        "rating": -3.5,
+        "source": "espn-nfl-diff"
+      },
+      "packers": {
+        "name": "Green Bay Packers",
+        "rating": -3.5,
+        "source": "espn-nfl-diff"
+      },
+      "arizona-cardinals": {
+        "name": "Arizona Cardinals",
+        "rating": -1.8,
+        "source": "espn-nfl-diff"
+      },
+      "cardinals": {
+        "name": "Arizona Cardinals",
+        "rating": -1.8,
+        "source": "espn-nfl-diff"
+      },
+      "tampa-bay-buccaneers": {
+        "name": "Tampa Bay Buccaneers",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "buccaneers": {
+        "name": "Tampa Bay Buccaneers",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      }
+    },
     "ncaaf": {
       "uga": {
         "name": "Georgia",
@@ -952,6 +1258,152 @@
         "source": "cfbd-sp+"
       }
     },
-    "wnba": {}
+    "wnba": {
+      "atlanta-dream": {
+        "name": "Atlanta Dream",
+        "rating": 0.68,
+        "source": "espn-wnba-diff"
+      },
+      "dream": {
+        "name": "Atlanta Dream",
+        "rating": 0.68,
+        "source": "espn-wnba-diff"
+      },
+      "washington-mystics": {
+        "name": "Washington Mystics",
+        "rating": 0.13,
+        "source": "espn-wnba-diff"
+      },
+      "mystics": {
+        "name": "Washington Mystics",
+        "rating": 0.13,
+        "source": "espn-wnba-diff"
+      },
+      "indiana-fever": {
+        "name": "Indiana Fever",
+        "rating": 0.56,
+        "source": "espn-wnba-diff"
+      },
+      "fever": {
+        "name": "Indiana Fever",
+        "rating": 0.56,
+        "source": "espn-wnba-diff"
+      },
+      "nyl": {
+        "name": "New York Liberty",
+        "rating": 0.32,
+        "source": "espn-wnba-diff"
+      },
+      "lib": {
+        "name": "New York Liberty",
+        "rating": 0.32,
+        "source": "espn-wnba-diff"
+      },
+      "chicago-sky": {
+        "name": "Chicago Sky",
+        "rating": -0.39,
+        "source": "espn-wnba-diff"
+      },
+      "sky": {
+        "name": "Chicago Sky",
+        "rating": -0.39,
+        "source": "espn-wnba-diff"
+      },
+      "toronto-tempo": {
+        "name": "Toronto Tempo",
+        "rating": -0.87,
+        "source": "espn-wnba-diff"
+      },
+      "tempo": {
+        "name": "Toronto Tempo",
+        "rating": -0.87,
+        "source": "espn-wnba-diff"
+      },
+      "connecticut-sun": {
+        "name": "Connecticut Sun",
+        "rating": -0.92,
+        "source": "espn-wnba-diff"
+      },
+      "sun": {
+        "name": "Connecticut Sun",
+        "rating": -0.92,
+        "source": "espn-wnba-diff"
+      },
+      "minnesota-lynx": {
+        "name": "Minnesota Lynx",
+        "rating": 0.71,
+        "source": "espn-wnba-diff"
+      },
+      "lynx": {
+        "name": "Minnesota Lynx",
+        "rating": 0.71,
+        "source": "espn-wnba-diff"
+      },
+      "golden-state-valkyries": {
+        "name": "Golden State Valkyries",
+        "rating": 0.71,
+        "source": "espn-wnba-diff"
+      },
+      "valkyries": {
+        "name": "Golden State Valkyries",
+        "rating": 0.71,
+        "source": "espn-wnba-diff"
+      },
+      "lv": {
+        "name": "Las Vegas Aces",
+        "rating": 0.57,
+        "source": "espn-wnba-diff"
+      },
+      "dallas-wings": {
+        "name": "Dallas Wings",
+        "rating": 0.41,
+        "source": "espn-wnba-diff"
+      },
+      "wings": {
+        "name": "Dallas Wings",
+        "rating": 0.41,
+        "source": "espn-wnba-diff"
+      },
+      "portland-fire": {
+        "name": "Portland Fire",
+        "rating": -0.48,
+        "source": "espn-wnba-diff"
+      },
+      "fire": {
+        "name": "Portland Fire",
+        "rating": -0.48,
+        "source": "espn-wnba-diff"
+      },
+      "los-angeles-sparks": {
+        "name": "Los Angeles Sparks",
+        "rating": -0.43,
+        "source": "espn-wnba-diff"
+      },
+      "sparks": {
+        "name": "Los Angeles Sparks",
+        "rating": -0.43,
+        "source": "espn-wnba-diff"
+      },
+      "phoenix-mercury": {
+        "name": "Phoenix Mercury",
+        "rating": -0.32,
+        "source": "espn-wnba-diff"
+      },
+      "mercury": {
+        "name": "Phoenix Mercury",
+        "rating": -0.32,
+        "source": "espn-wnba-diff"
+      },
+      "seattle-storm": {
+        "name": "Seattle Storm",
+        "rating": -0.67,
+        "source": "espn-wnba-diff"
+      },
+      "storm": {
+        "name": "Seattle Storm",
+        "rating": -0.67,
+        "source": "espn-wnba-diff"
+      }
+    }
   }
 }

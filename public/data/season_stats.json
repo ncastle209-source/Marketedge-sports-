@@ -1,66 +1,3963 @@
 {
-  "pulled_at": "2026-10-01T14:25:08.552000+00:00",
+  "pulled_at": "2026-10-01T19:47:12.123643+00:00",
   "teams": {
-    "nfl": [],
-    "ncaaf": [],
-    "mlb": [],
-    "wnba": []
+    "nfl": [
+      {
+        "id": "22",
+        "name": "Arizona Cardinals",
+        "abbr": "ARI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "1",
+        "name": "Atlanta Falcons",
+        "abbr": "ATL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "33",
+        "name": "Baltimore Ravens",
+        "abbr": "BAL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2",
+        "name": "Buffalo Bills",
+        "abbr": "BUF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "29",
+        "name": "Carolina Panthers",
+        "abbr": "CAR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "3",
+        "name": "Chicago Bears",
+        "abbr": "CHI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "4",
+        "name": "Cincinnati Bengals",
+        "abbr": "CIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "5",
+        "name": "Cleveland Browns",
+        "abbr": "CLE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "6",
+        "name": "Dallas Cowboys",
+        "abbr": "DAL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "7",
+        "name": "Denver Broncos",
+        "abbr": "DEN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "8",
+        "name": "Detroit Lions",
+        "abbr": "DET",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "9",
+        "name": "Green Bay Packers",
+        "abbr": "GB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "34",
+        "name": "Houston Texans",
+        "abbr": "HOU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "11",
+        "name": "Indianapolis Colts",
+        "abbr": "IND",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "30",
+        "name": "Jacksonville Jaguars",
+        "abbr": "JAX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "12",
+        "name": "Kansas City Chiefs",
+        "abbr": "KC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "13",
+        "name": "Las Vegas Raiders",
+        "abbr": "LV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "24",
+        "name": "Los Angeles Chargers",
+        "abbr": "LAC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "14",
+        "name": "Los Angeles Rams",
+        "abbr": "LAR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "15",
+        "name": "Miami Dolphins",
+        "abbr": "MIA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "16",
+        "name": "Minnesota Vikings",
+        "abbr": "MIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "17",
+        "name": "New England Patriots",
+        "abbr": "NE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "18",
+        "name": "New Orleans Saints",
+        "abbr": "NO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "19",
+        "name": "New York Giants",
+        "abbr": "NYG",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "20",
+        "name": "New York Jets",
+        "abbr": "NYJ",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "21",
+        "name": "Philadelphia Eagles",
+        "abbr": "PHI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "23",
+        "name": "Pittsburgh Steelers",
+        "abbr": "PIT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "25",
+        "name": "San Francisco 49ers",
+        "abbr": "SF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "26",
+        "name": "Seattle Seahawks",
+        "abbr": "SEA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "27",
+        "name": "Tampa Bay Buccaneers",
+        "abbr": "TB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "10",
+        "name": "Tennessee Titans",
+        "abbr": "TEN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "28",
+        "name": "Washington Commanders",
+        "abbr": "WSH",
+        "record": null,
+        "standingSummary": null
+      }
+    ],
+    "ncaaf": [
+      {
+        "id": "2000",
+        "name": "Abilene Christian Wildcats",
+        "abbr": "ACU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2001",
+        "name": "Adams State Grizzlies",
+        "abbr": "ADSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2003",
+        "name": "Adrian Bulldogs",
+        "abbr": "ADR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2005",
+        "name": "Air Force Falcons",
+        "abbr": "AF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2006",
+        "name": "Akron Zips",
+        "abbr": "AKR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2010",
+        "name": "Alabama A&M Bulldogs",
+        "abbr": "AAMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "333",
+        "name": "Alabama Crimson Tide",
+        "abbr": "ALA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2011",
+        "name": "Alabama State Hornets",
+        "abbr": "ALST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2013",
+        "name": "Albany State Golden Rams",
+        "abbr": "ABSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2015",
+        "name": "Albright Lions",
+        "abbr": "ALBR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2016",
+        "name": "Alcorn State Braves",
+        "abbr": "ALCN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "365",
+        "name": "Alfred Saxons",
+        "abbr": "ALFR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2018",
+        "name": "Allegheny Gators",
+        "abbr": "ALLG",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2019",
+        "name": "Allen Yellow Jackets",
+        "abbr": "ALNU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2022",
+        "name": "American International Yellow Jackets",
+        "abbr": "AIC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "7",
+        "name": "Amherst Mammoths",
+        "abbr": "AMH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2023",
+        "name": "Anderson (IN) Ravens",
+        "abbr": "ANIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2025",
+        "name": "Angelo State Rams",
+        "abbr": "AGSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2026",
+        "name": "App State Mountaineers",
+        "abbr": "APP",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "9",
+        "name": "Arizona State Sun Devils",
+        "abbr": "ASU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "12",
+        "name": "Arizona Wildcats",
+        "abbr": "ARIZ",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2028",
+        "name": "Arkansas Monticello Boll Weevils",
+        "abbr": "UAM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "8",
+        "name": "Arkansas Razorbacks",
+        "abbr": "ARK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2032",
+        "name": "Arkansas State Red Wolves",
+        "abbr": "ARST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2033",
+        "name": "Arkansas Tech Wonder Boys",
+        "abbr": "ARTE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2029",
+        "name": "Arkansas-Pine Bluff Golden Lions",
+        "abbr": "UAPB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "349",
+        "name": "Army Black Knights",
+        "abbr": "ARMY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "308",
+        "name": "Ashland Eagles",
+        "abbr": "ASH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2038",
+        "name": "Assumption Greyhounds",
+        "abbr": "ASP",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2",
+        "name": "Auburn Tigers",
+        "abbr": "AUB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "124",
+        "name": "Augsburg Auggies",
+        "abbr": "AUGS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2042",
+        "name": "Augustana (IL) Vikings",
+        "abbr": "AUGC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2043",
+        "name": "Augustana (SD) Vikings",
+        "abbr": "AUSD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2044",
+        "name": "Aurora Spartans",
+        "abbr": "AUR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2045",
+        "name": "Austin 'Roos",
+        "abbr": "AUS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2046",
+        "name": "Austin Peay Governors",
+        "abbr": "APSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2047",
+        "name": "Averett Cougars",
+        "abbr": "AVER",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2048",
+        "name": "Avila University Eagles",
+        "abbr": "AVILA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2049",
+        "name": "Azusa Pacific Cougars",
+        "abbr": "APU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "495",
+        "name": "BLUEFIELD Ramblin' Rams",
+        "abbr": "BLU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "252",
+        "name": "BYU Cougars",
+        "abbr": "BYU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "488",
+        "name": "Baker University Baker",
+        "abbr": "BAK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "188",
+        "name": "Baldwin Wallace Yellow Jackets",
+        "abbr": "BW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2050",
+        "name": "Ball State Cardinals",
+        "abbr": "BALL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "121",
+        "name": "Bates Bobcats",
+        "abbr": "BATE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "239",
+        "name": "Baylor Bears",
+        "abbr": "BAY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2056",
+        "name": "Belhaven Blazers",
+        "abbr": "BELH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "266",
+        "name": "Beloit Buccaneers",
+        "abbr": "BELO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "132",
+        "name": "Bemidji State Beavers",
+        "abbr": "BST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "490",
+        "name": "Benedict Tigers",
+        "abbr": "BEN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2060",
+        "name": "Bentley Falcons",
+        "abbr": "BENT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "492",
+        "name": "Bethany (KS) Swedes",
+        "abbr": "BYKS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2062",
+        "name": "Bethany (WV) Bison",
+        "abbr": "BCWV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2064",
+        "name": "Bethel (TN) Wildcats",
+        "abbr": "BTTN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2065",
+        "name": "Bethune-Cookman Wildcats",
+        "abbr": "BCU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2069",
+        "name": "Black Hills State Yellow Jackets",
+        "abbr": "BHSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2071",
+        "name": "Bloomsburg Huskies",
+        "abbr": "BBU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2074",
+        "name": "Bluffton Beavers",
+        "abbr": "BLF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "68",
+        "name": "Boise State Broncos",
+        "abbr": "BOIS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "103",
+        "name": "Boston College Eagles",
+        "abbr": "BC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "340",
+        "name": "Bowdoin Polar Bears",
+        "abbr": "BOW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2075",
+        "name": "Bowie State Bulldogs",
+        "abbr": "BOWE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "189",
+        "name": "Bowling Green Falcons",
+        "abbr": "BGSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2079",
+        "name": "Bridgewater Eagles",
+        "abbr": "BRI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "18",
+        "name": "Bridgewater State Bears",
+        "abbr": "BRIS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2080",
+        "name": "British Columbia British Col",
+        "abbr": "BBM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "225",
+        "name": "Brown Bears",
+        "abbr": "BRWN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2083",
+        "name": "Bucknell Bison",
+        "abbr": "BUCK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "63",
+        "name": "Buena Vista Beavers",
+        "abbr": "BVU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2084",
+        "name": "Buffalo Bulls",
+        "abbr": "BUF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2085",
+        "name": "Buffalo State Bengals",
+        "abbr": "BSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2086",
+        "name": "Butler Bulldogs",
+        "abbr": "BTLR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2094",
+        "name": "Cal Lutheran Kingsmen",
+        "abbr": "CLU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "13",
+        "name": "Cal Poly Mustangs",
+        "abbr": "CP",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "25",
+        "name": "California Golden Bears",
+        "abbr": "CAL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2097",
+        "name": "Campbell Fighting Camels",
+        "abbr": "CAM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2098",
+        "name": "Campbellsville Tigers",
+        "abbr": "CBVU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "424",
+        "name": "Capital Comets",
+        "abbr": "CAPU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2101",
+        "name": "Carleton Knights",
+        "abbr": "CAR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2102",
+        "name": "Carnegie Mellon Tartans",
+        "abbr": "CGMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "32",
+        "name": "Carroll (WI) Pioneers",
+        "abbr": "CRU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2105",
+        "name": "Carson Newman Eagles",
+        "abbr": "CN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2106",
+        "name": "Carthage Firebirds",
+        "abbr": "CCW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2107",
+        "name": "Catawba Indians",
+        "abbr": "CAT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2108",
+        "name": "Catholic Cardinals",
+        "abbr": "CATH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2110",
+        "name": "Central Arkansas Bears",
+        "abbr": "CARK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2115",
+        "name": "Central Connecticut Blue Devils",
+        "abbr": "CCSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2117",
+        "name": "Central Michigan Chippewas",
+        "abbr": "CMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2118",
+        "name": "Central Missouri Mules",
+        "abbr": "UCM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2122",
+        "name": "Central Oklahoma Bronchos",
+        "abbr": "UCO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2119",
+        "name": "Central State Marauders",
+        "abbr": "CNSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2120",
+        "name": "Central Washington Wildcats",
+        "abbr": "CWAU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2121",
+        "name": "Centre Colonels",
+        "abbr": "CCO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2123",
+        "name": "Chadron State Eagles",
+        "abbr": "CHAD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "411",
+        "name": "Chapman Panthers",
+        "abbr": "CHAP",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2128",
+        "name": "Charleston (WV) Golden Eagles",
+        "abbr": "UCWV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2127",
+        "name": "Charleston Southern Buccaneers",
+        "abbr": "CHSO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "236",
+        "name": "Chattanooga Mocs",
+        "abbr": "UTC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "80",
+        "name": "Chicago Maroons",
+        "abbr": "CHI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2130",
+        "name": "Chicago State Cougars",
+        "abbr": "CHST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2132",
+        "name": "Cincinnati Bearcats",
+        "abbr": "CIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "17",
+        "name": "Claremont Mudd Scripps Stags",
+        "abbr": "CMS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2134",
+        "name": "Clarion Golden Eagles",
+        "abbr": "CLRN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "228",
+        "name": "Clemson Tigers",
+        "abbr": "CLEM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "324",
+        "name": "Coastal Carolina Chanticleers",
+        "abbr": "CCU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2141",
+        "name": "Coe Kohawks",
+        "abbr": "COE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "33",
+        "name": "Colby White Mules",
+        "abbr": "CLBY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2142",
+        "name": "Colgate Raiders",
+        "abbr": "COLG",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "38",
+        "name": "Colorado Buffaloes",
+        "abbr": "COLO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "11",
+        "name": "Colorado Mesa Mavericks",
+        "abbr": "COMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2146",
+        "name": "Colorado School of Mines Orediggers",
+        "abbr": "CMIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "36",
+        "name": "Colorado State Rams",
+        "abbr": "CSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "171",
+        "name": "Columbia Lions",
+        "abbr": "COLU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2148",
+        "name": "Concord Mountain Lions",
+        "abbr": "CONC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2152",
+        "name": "Concordia (MN) Cobbers",
+        "abbr": "CCMN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "409",
+        "name": "Concordia (WI) Falcons",
+        "abbr": "CUW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2151",
+        "name": "Concordia Chicago Cougars",
+        "abbr": "CUC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "507",
+        "name": "Concordia University Nebraska Clippers",
+        "abbr": "CONCONE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2155",
+        "name": "Cornell (IA) Rams",
+        "abbr": "CNIA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "172",
+        "name": "Cornell Big Red",
+        "abbr": "COR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "509",
+        "name": "Crown Polars",
+        "abbr": "CRWN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "510",
+        "name": "Culver-Stockton College Wildcats",
+        "abbr": "CULVE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2161",
+        "name": "Cumberland (TN) Bulldogs",
+        "abbr": "CUMBTN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "511",
+        "name": "Cumberlands Indians",
+        "abbr": "CMBS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "40",
+        "name": "Curry Colonels",
+        "abbr": "CC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "512",
+        "name": "Dakota State University Trojans",
+        "abbr": "DAKOT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "513",
+        "name": "Dakota Wesleyan Tigers",
+        "abbr": "DWU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "159",
+        "name": "Dartmouth Big Green",
+        "abbr": "DART",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2166",
+        "name": "Davidson Wildcats",
+        "abbr": "DAV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2168",
+        "name": "Dayton Flyers",
+        "abbr": "DAY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "83",
+        "name": "DePauw Tigers",
+        "abbr": "DPU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "190",
+        "name": "Defiance College Yellow Jackets",
+        "abbr": "DEF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "48",
+        "name": "Delaware Blue Hens",
+        "abbr": "DEL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2169",
+        "name": "Delaware State Hornets",
+        "abbr": "DSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2170",
+        "name": "Delta State Statesmen",
+        "abbr": "DLST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2171",
+        "name": "Denison Big Red",
+        "abbr": "DSN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2175",
+        "name": "Dickinson Red Devils",
+        "abbr": "DKSN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "316",
+        "name": "Dickinson State University Blue Hawks",
+        "abbr": "DIC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2181",
+        "name": "Drake Bulldogs",
+        "abbr": "DRKE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "49",
+        "name": "Dubuque Spartans",
+        "abbr": "DBQ",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "150",
+        "name": "Duke Blue Devils",
+        "abbr": "DUKE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2184",
+        "name": "Duquesne Dukes",
+        "abbr": "DUQ",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "151",
+        "name": "East Carolina Pirates",
+        "abbr": "ECU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2191",
+        "name": "East Central Tigers",
+        "abbr": "ECNU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2188",
+        "name": "East Stroudsburg Warriors",
+        "abbr": "ESU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2193",
+        "name": "East Tennessee State Buccaneers",
+        "abbr": "ETSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2194",
+        "name": "East Texas Baptist Tigers",
+        "abbr": "ETBU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2197",
+        "name": "Eastern Illinois Panthers",
+        "abbr": "EIU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2198",
+        "name": "Eastern Kentucky Colonels",
+        "abbr": "EKU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2199",
+        "name": "Eastern Michigan Eagles",
+        "abbr": "EMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2201",
+        "name": "Eastern New Mexico Greyhounds",
+        "abbr": "ENMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2202",
+        "name": "Eastern Oregon",
+        "abbr": "EORE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "331",
+        "name": "Eastern Washington Eagles",
+        "abbr": "EWU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2205",
+        "name": "Edinboro Fighting Scots",
+        "abbr": "EDBR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2206",
+        "name": "Edward Waters Tigers",
+        "abbr": "EDW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2207",
+        "name": "Elizabeth City State Vikings",
+        "abbr": "ECSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "72",
+        "name": "Elmhurst Bluejays",
+        "abbr": "ELMH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2210",
+        "name": "Elon Phoenix",
+        "abbr": "ELON",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2213",
+        "name": "Emory & Henry Wasps",
+        "abbr": "EHC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2214",
+        "name": "Emporia State Hornets",
+        "abbr": "EMSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "452",
+        "name": "Endicott Gulls",
+        "abbr": "ENDC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "101",
+        "name": "Eureka Red Devils",
+        "abbr": "ERKA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2221",
+        "name": "FDU Florham Devils",
+        "abbr": "FDUF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2219",
+        "name": "Faulkner University Eagles",
+        "abbr": "FAULKNER",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2220",
+        "name": "Fayetteville State Broncos",
+        "abbr": "FAYU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2222",
+        "name": "Ferris State Bulldogs",
+        "abbr": "FRST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "366",
+        "name": "Ferrum Panthers",
+        "abbr": "FC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2224",
+        "name": "Findlay Oilers",
+        "abbr": "UF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "114",
+        "name": "Fitchburg State Falcons",
+        "abbr": "FBSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "50",
+        "name": "Florida A&M Rattlers",
+        "abbr": "FAMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2226",
+        "name": "Florida Atlantic Owls",
+        "abbr": "FAU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "57",
+        "name": "Florida Gators",
+        "abbr": "FLA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2229",
+        "name": "Florida International Panthers",
+        "abbr": "FIU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "52",
+        "name": "Florida State Seminoles",
+        "abbr": "FSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2230",
+        "name": "Fordham Rams",
+        "abbr": "FOR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2231",
+        "name": "Fort Hays Tigers",
+        "abbr": "FHSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2237",
+        "name": "Fort Lewis Skyhawks",
+        "abbr": "FLWC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2232",
+        "name": "Fort Valley State Wildcats",
+        "abbr": "FVSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2234",
+        "name": "Franklin & Marshall Diplomats",
+        "abbr": "FMC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2233",
+        "name": "Franklin Grizzlies",
+        "abbr": "FRKL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "278",
+        "name": "Fresno State Bulldogs",
+        "abbr": "FRES",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "527",
+        "name": "Friends University Friends",
+        "abbr": "FRIE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "341",
+        "name": "Frostburg State Bobcats",
+        "abbr": "FSTU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "231",
+        "name": "Furman Paladins",
+        "abbr": "FUR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "417",
+        "name": "Gallaudet Bison",
+        "abbr": "GLDT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "367",
+        "name": "Gannon Golden Knights",
+        "abbr": "GANN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2241",
+        "name": "Gardner-Webb Runnin' Bulldogs",
+        "abbr": "GWEB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2242",
+        "name": "Geneva Golden Tornadoes",
+        "abbr": "GEN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "415",
+        "name": "George Fox Bruins",
+        "abbr": "GFU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2244",
+        "name": "George Mason University Patriots",
+        "abbr": "GMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2245",
+        "name": "Georgetown (KY) Tigers",
+        "abbr": "GTKY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "46",
+        "name": "Georgetown Hoyas",
+        "abbr": "GTWN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "61",
+        "name": "Georgia Bulldogs",
+        "abbr": "UGA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "290",
+        "name": "Georgia Southern Eagles",
+        "abbr": "GASO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2247",
+        "name": "Georgia State Panthers",
+        "abbr": "GAST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "59",
+        "name": "Georgia Tech Yellow Jackets",
+        "abbr": "GT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "530",
+        "name": "Graceland University Graceland",
+        "abbr": "GRC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "125",
+        "name": "Grand Valley State Lakers",
+        "abbr": "GVSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "65",
+        "name": "Grinnell Pioneers",
+        "abbr": "GRNL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "146",
+        "name": "Grove City Wolverines",
+        "abbr": "GRO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "348",
+        "name": "Hamilton Continentals",
+        "abbr": "HAM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "162",
+        "name": "Hamline Pipers",
+        "abbr": "HMLN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "297",
+        "name": "Hampden Sydney Tigers",
+        "abbr": "HSC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "173",
+        "name": "Hartwick Hawks",
+        "abbr": "HRTW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "108",
+        "name": "Harvard Crimson",
+        "abbr": "HARV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "535",
+        "name": "Haskell Indian Nations Univ Jayhawks",
+        "abbr": "HASKELL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "62",
+        "name": "Hawai'i Rainbow Warriors",
+        "abbr": "HAW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "191",
+        "name": "Heidelberg Student Princes",
+        "abbr": "HDBG",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "418",
+        "name": "Hendrix Warriors",
+        "abbr": "HDX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "174",
+        "name": "Hobart Statesmen",
+        "abbr": "HBRT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "107",
+        "name": "Holy Cross Crusaders",
+        "abbr": "HC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "248",
+        "name": "Houston Cougars",
+        "abbr": "HOU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "47",
+        "name": "Howard Bison",
+        "abbr": "HOW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "304",
+        "name": "Idaho State Bengals",
+        "abbr": "IDST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "70",
+        "name": "Idaho Vandals",
+        "abbr": "IDHO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "356",
+        "name": "Illinois Fighting Illini",
+        "abbr": "ILL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "306",
+        "name": "Illinois Wesleyan Titans",
+        "abbr": "ILWU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "84",
+        "name": "Indiana Hoosiers",
+        "abbr": "IU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "282",
+        "name": "Indiana State Sycamores",
+        "abbr": "INST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "66",
+        "name": "Iowa State Cyclones",
+        "abbr": "ISU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "175",
+        "name": "Ithaca Bombers",
+        "abbr": "ITH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "55",
+        "name": "Jacksonville State Gamecocks",
+        "abbr": "JXST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "256",
+        "name": "James Madison Dukes",
+        "abbr": "JMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "118",
+        "name": "Johns Hopkins Blue Jays",
+        "abbr": "JHU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "246",
+        "name": "Juniata Eagles",
+        "abbr": "JUN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "126",
+        "name": "Kalamazoo Hornets",
+        "abbr": "KALC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "547",
+        "name": "Kansas Wesleyan Ks Wesleyan",
+        "abbr": "KANSA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "338",
+        "name": "Kennesaw State Owls",
+        "abbr": "KENN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "96",
+        "name": "Kentucky Wildcats",
+        "abbr": "UK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "352",
+        "name": "Kenyon Owls",
+        "abbr": "KNY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "247",
+        "name": "King's Monarchs",
+        "abbr": "KNGS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "255",
+        "name": "Knox Prairie Fire",
+        "abbr": "KNOX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "99",
+        "name": "LSU Tigers",
+        "abbr": "LSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "548",
+        "name": "LaGrange Panthers",
+        "abbr": "LGC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "322",
+        "name": "Lafayette Leopards",
+        "abbr": "LAF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "437",
+        "name": "Lake Erie Storm",
+        "abbr": "LKER",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "262",
+        "name": "Lake Forest Foresters",
+        "abbr": "LFC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "268",
+        "name": "Lawrence Vikings",
+        "abbr": "LAW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "388",
+        "name": "Lebanon Valley Flying Dutchmen",
+        "abbr": "LVC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "203",
+        "name": "Linfield Wildcats",
+        "abbr": "LINF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "209",
+        "name": "Lock Haven Bald Eagles",
+        "abbr": "LHU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "263",
+        "name": "Loras Duhawks",
+        "abbr": "LOR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "309",
+        "name": "Louisiana Ragin' Cajuns",
+        "abbr": "UL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "97",
+        "name": "Louisville Cardinals",
+        "abbr": "LOU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "67",
+        "name": "Luther Norse",
+        "abbr": "LUTH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "109",
+        "name": "MIT Engineers",
+        "abbr": "MIT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "311",
+        "name": "Maine Black Bears",
+        "abbr": "ME",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "274",
+        "name": "Maine Maritime Mariners",
+        "abbr": "UMMA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "317",
+        "name": "Marietta Pioneers",
+        "abbr": "MRTT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "276",
+        "name": "Marshall Thundering Herd",
+        "abbr": "MRSH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "446",
+        "name": "Martin Luther Knights",
+        "abbr": "MLC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "120",
+        "name": "Maryland Terrapins",
+        "abbr": "MD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "110",
+        "name": "Mass Maritime Buccaneers",
+        "abbr": "MMT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "113",
+        "name": "Massachusetts Minutemen",
+        "abbr": "MASS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "561",
+        "name": "Mayville State Comets",
+        "abbr": "MYSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "241",
+        "name": "McMurry War Hawks",
+        "abbr": "MCM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "235",
+        "name": "Memphis Tigers",
+        "abbr": "MEM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "291",
+        "name": "Methodist Monarchs",
+        "abbr": "MU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "193",
+        "name": "Miami (OH) RedHawks",
+        "abbr": "M-OH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "127",
+        "name": "Michigan State Spartans",
+        "abbr": "MSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "130",
+        "name": "Michigan Wolverines",
+        "abbr": "MICH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "565",
+        "name": "Midland MIDLAND LUTHERAN",
+        "abbr": "MIDL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "210",
+        "name": "Millersville Marauders",
+        "abbr": "MILL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "74",
+        "name": "Millikin Big Blue",
+        "abbr": "MILK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "134",
+        "name": "Minnesota Duluth Bulldogs",
+        "abbr": "UMD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "135",
+        "name": "Minnesota Golden Gophers",
+        "abbr": "MINN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "568",
+        "name": "Minot State Beavers",
+        "abbr": "MINS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "344",
+        "name": "Mississippi State Bulldogs",
+        "abbr": "MSST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "142",
+        "name": "Missouri Tigers",
+        "abbr": "MIZ",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "137",
+        "name": "Missouri Western Griffons",
+        "abbr": "MOWE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "149",
+        "name": "Montana Grizzlies",
+        "abbr": "MONT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "147",
+        "name": "Montana State Bobcats",
+        "abbr": "MTST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "323",
+        "name": "Moravian Greyhounds",
+        "abbr": "MOR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "60",
+        "name": "Morehouse Maroon Tigers",
+        "abbr": "MRHO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "426",
+        "name": "Mount Union Purple Raiders",
+        "abbr": "UMU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "93",
+        "name": "Murray State Racers",
+        "abbr": "MUR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "332",
+        "name": "Muskingum Fighting Muskies",
+        "abbr": "MSK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "152",
+        "name": "NC State Wolfpack",
+        "abbr": "NCSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "158",
+        "name": "Nebraska Cornhuskers",
+        "abbr": "NEB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "160",
+        "name": "New Hampshire Wildcats",
+        "abbr": "UNH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "167",
+        "name": "New Mexico Lobos",
+        "abbr": "UNM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "166",
+        "name": "New Mexico State Aggies",
+        "abbr": "NMSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "153",
+        "name": "North Carolina Tar Heels",
+        "abbr": "UNC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "286",
+        "name": "North Carolina Wesleyan Battling Bishops",
+        "abbr": "NCW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "155",
+        "name": "North Dakota Fighting Hawks",
+        "abbr": "UND",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "75",
+        "name": "North Park Vikings",
+        "abbr": "NPU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "249",
+        "name": "North Texas Mean Green",
+        "abbr": "UNT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "196",
+        "name": "Northeastern State RiverHawks",
+        "abbr": "NESU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "128",
+        "name": "Northern Michigan Wildcats",
+        "abbr": "NMI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "425",
+        "name": "Northern State Wolves",
+        "abbr": "NSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "138",
+        "name": "Northwest Missouri State Bearcats",
+        "abbr": "MWMO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "583",
+        "name": "Northwestern (MN) Eagles",
+        "abbr": "UNW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "77",
+        "name": "Northwestern Wildcats",
+        "abbr": "NU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "87",
+        "name": "Notre Dame Fighting Irish",
+        "abbr": "ND",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "391",
+        "name": "Oberlin Yeomen",
+        "abbr": "OBE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "195",
+        "name": "Ohio Bobcats",
+        "abbr": "OHIO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "427",
+        "name": "Ohio Northern Polar Bears",
+        "abbr": "OHNU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "194",
+        "name": "Ohio State Buckeyes",
+        "abbr": "OSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "319",
+        "name": "Oklahoma Baptist Bison",
+        "abbr": "OKBU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "201",
+        "name": "Oklahoma Sooners",
+        "abbr": "OU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "197",
+        "name": "Oklahoma State Cowboys",
+        "abbr": "OKST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "295",
+        "name": "Old Dominion Monarchs",
+        "abbr": "ODU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "145",
+        "name": "Ole Miss Rebels",
+        "abbr": "MISS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "354",
+        "name": "Olivet Comets",
+        "abbr": "UOO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "204",
+        "name": "Oregon State Beavers",
+        "abbr": "ORST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "359",
+        "name": "Otterbein Cardinals",
+        "abbr": "OTTB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "205",
+        "name": "Pacific (OR) Boxers",
+        "abbr": "PCOR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "213",
+        "name": "Penn State Nittany Lions",
+        "abbr": "PSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "219",
+        "name": "Pennsylvania Quakers",
+        "abbr": "PENN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "95",
+        "name": "Pikeville Bears",
+        "abbr": "PIKEV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "90",
+        "name": "Pittsburg State Gorillas",
+        "abbr": "PTSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "221",
+        "name": "Pittsburgh Panthers",
+        "abbr": "PITT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "163",
+        "name": "Princeton Tigers",
+        "abbr": "PRIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "29",
+        "name": "Redlands Bulldogs",
+        "abbr": "REDL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "227",
+        "name": "Rhode Island Rams",
+        "abbr": "URI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "242",
+        "name": "Rice Owls",
+        "abbr": "RICE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "257",
+        "name": "Richmond Spiders",
+        "abbr": "RICH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "184",
+        "name": "Rochester (NY) Yellow Jackets",
+        "abbr": "URNY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "599",
+        "name": "Roosevelt Lakers",
+        "abbr": "RSVT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "86",
+        "name": "Rose Hulman Fightin' Engineers",
+        "abbr": "RHIT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "164",
+        "name": "Rutgers Scarlet Knights",
+        "abbr": "RUTG",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "16",
+        "name": "Sacramento State Hornets",
+        "abbr": "SAC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "129",
+        "name": "Saginaw Valley State Cardinals",
+        "abbr": "SVSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "21",
+        "name": "San Diego State Aztecs",
+        "abbr": "SDSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "301",
+        "name": "San Diego Toreros",
+        "abbr": "USD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "23",
+        "name": "San Jos\u00e9 State Spartans",
+        "abbr": "SJSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "611",
+        "name": "Seton Hill Griffins",
+        "abbr": "SEHI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "215",
+        "name": "Slippery Rock The Rock",
+        "abbr": "SRU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "6",
+        "name": "South Alabama Jaguars",
+        "abbr": "USA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "233",
+        "name": "South Dakota Coyotes",
+        "abbr": "SDAK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "613",
+        "name": "South Dakota Mines Hardrockers",
+        "abbr": "SDMT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "58",
+        "name": "South Florida Bulls",
+        "abbr": "USF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "267",
+        "name": "Southeastern Fires",
+        "abbr": "SEU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "199",
+        "name": "Southeastern Oklahoma State Savage Storm",
+        "abbr": "SEOK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "79",
+        "name": "Southern Illinois Salukis",
+        "abbr": "SIU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "200",
+        "name": "Southern Nazarene Crimson Storm",
+        "abbr": "SNU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "253",
+        "name": "Southern Utah Thunderbirds",
+        "abbr": "SUU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "616",
+        "name": "Southwestern (KS) Moundbuilders",
+        "abbr": "SWKS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "81",
+        "name": "Springfield Pride",
+        "abbr": "SPR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "374",
+        "name": "St. John Fisher Cardinals",
+        "abbr": "STJF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "133",
+        "name": "St. Olaf Oles",
+        "abbr": "OLAF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "375",
+        "name": "St. Scholastica Saints",
+        "abbr": "CSS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "24",
+        "name": "Stanford Cardinal",
+        "abbr": "STAN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "618",
+        "name": "Sterling STERLING KS",
+        "abbr": "STLG",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "56",
+        "name": "Stetson Hatters",
+        "abbr": "STET",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "471",
+        "name": "Stevenson Mustangs",
+        "abbr": "STVS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "284",
+        "name": "Stonehill Skyhawks",
+        "abbr": "STO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "216",
+        "name": "Susquehanna River Hawks",
+        "abbr": "SUSQ",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "183",
+        "name": "Syracuse Orange",
+        "abbr": "SYR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "620",
+        "name": "Taylor Trojans",
+        "abbr": "TLRU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "218",
+        "name": "Temple Owls",
+        "abbr": "TEM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "245",
+        "name": "Texas A&M Aggies",
+        "abbr": "TA&M",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "251",
+        "name": "Texas Longhorns",
+        "abbr": "TEX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "326",
+        "name": "Texas State Bobcats",
+        "abbr": "TXST",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "119",
+        "name": "Towson Tigers",
+        "abbr": "TOW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "386",
+        "name": "Trinity (TX) Tigers",
+        "abbr": "TUTX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "112",
+        "name": "Tufts Jumbos",
+        "abbr": "TUFT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "202",
+        "name": "Tulsa Golden Hurricane",
+        "abbr": "TLSA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "5",
+        "name": "UAB Blazers",
+        "abbr": "UAB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "399",
+        "name": "UAlbany Great Danes",
+        "abbr": "UALB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "302",
+        "name": "UC Davis Aggies",
+        "abbr": "UCD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2116",
+        "name": "UCF Knights",
+        "abbr": "UCF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "26",
+        "name": "UCLA Bruins",
+        "abbr": "UCLA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "41",
+        "name": "UConn Huskies",
+        "abbr": "CONN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "379",
+        "name": "UMass Dartmouth Corsairs",
+        "abbr": "MDAR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "30",
+        "name": "USC Trojans",
+        "abbr": "USC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "237",
+        "name": "Union Garnet Chargers",
+        "abbr": "UNNY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "559",
+        "name": "University of Mary Marauders",
+        "abbr": "MARY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "389",
+        "name": "Upper Iowa Peacocks",
+        "abbr": "UIU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "328",
+        "name": "Utah State Aggies",
+        "abbr": "USU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "254",
+        "name": "Utah Utes",
+        "abbr": "UTAH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "390",
+        "name": "Utica Pioneers",
+        "abbr": "UTIC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "628",
+        "name": "Valley City State Vikings",
+        "abbr": "VCSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "238",
+        "name": "Vanderbilt Commodores",
+        "abbr": "VAN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "293",
+        "name": "Vermont State Castleton Spartans",
+        "abbr": "VTSC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "222",
+        "name": "Villanova Wildcats",
+        "abbr": "VILL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "258",
+        "name": "Virginia Cavaliers",
+        "abbr": "UVA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "330",
+        "name": "Virginia State Trojans",
+        "abbr": "VSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "259",
+        "name": "Virginia Tech Hokies",
+        "abbr": "VT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "89",
+        "name": "Wabash Little Giants",
+        "abbr": "WAB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "154",
+        "name": "Wake Forest Demon Deacons",
+        "abbr": "WAKE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "264",
+        "name": "Washington Huskies",
+        "abbr": "WASH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "143",
+        "name": "Washington St. Louis Bears",
+        "abbr": "WUMO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "265",
+        "name": "Washington State Cougars",
+        "abbr": "WSU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "630",
+        "name": "Wayland Baptist Pioneers",
+        "abbr": "WYBU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "131",
+        "name": "Wayne State (MI) Warriors",
+        "abbr": "WSMI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "336",
+        "name": "Wesleyan (CT) Cardinals",
+        "abbr": "WSCT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "223",
+        "name": "West Chester Golden Rams",
+        "abbr": "WCHT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "277",
+        "name": "West Virginia Mountaineers",
+        "abbr": "WVU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "455",
+        "name": "West Virginia Wesleyan Bobcats",
+        "abbr": "WVWC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "98",
+        "name": "Western Kentucky Hilltoppers",
+        "abbr": "WKU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "433",
+        "name": "Westminster (MO) Blue Jays",
+        "abbr": "WCMO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "396",
+        "name": "Wheaton (IL) Thunder",
+        "abbr": "WCIL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "398",
+        "name": "Wilkes Colonels",
+        "abbr": "WILK",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "351",
+        "name": "Wingate Bulldogs",
+        "abbr": "WINU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "275",
+        "name": "Wisconsin Badgers",
+        "abbr": "WIS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "271",
+        "name": "Wisconsin Oshkosh Titans",
+        "abbr": "UWO",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "272",
+        "name": "Wisconsin Platteville Pioneers",
+        "abbr": "UWP",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "402",
+        "name": "Worcester State Lancers",
+        "abbr": "WORC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "43",
+        "name": "Yale Bulldogs",
+        "abbr": "YALE",
+        "record": null,
+        "standingSummary": null
+      }
+    ],
+    "mlb": [
+      {
+        "id": "29",
+        "name": "Arizona Diamondbacks",
+        "abbr": "ARI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "11",
+        "name": "Athletics",
+        "abbr": "ATH",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "15",
+        "name": "Atlanta Braves",
+        "abbr": "ATL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "1",
+        "name": "Baltimore Orioles",
+        "abbr": "BAL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "2",
+        "name": "Boston Red Sox",
+        "abbr": "BOS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "16",
+        "name": "Chicago Cubs",
+        "abbr": "CHC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "4",
+        "name": "Chicago White Sox",
+        "abbr": "CHW",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "17",
+        "name": "Cincinnati Reds",
+        "abbr": "CIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "5",
+        "name": "Cleveland Guardians",
+        "abbr": "CLE",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "27",
+        "name": "Colorado Rockies",
+        "abbr": "COL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "6",
+        "name": "Detroit Tigers",
+        "abbr": "DET",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "18",
+        "name": "Houston Astros",
+        "abbr": "HOU",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "7",
+        "name": "Kansas City Royals",
+        "abbr": "KC",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "3",
+        "name": "Los Angeles Angels",
+        "abbr": "LAA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "19",
+        "name": "Los Angeles Dodgers",
+        "abbr": "LAD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "28",
+        "name": "Miami Marlins",
+        "abbr": "MIA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "8",
+        "name": "Milwaukee Brewers",
+        "abbr": "MIL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "9",
+        "name": "Minnesota Twins",
+        "abbr": "MIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "21",
+        "name": "New York Mets",
+        "abbr": "NYM",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "10",
+        "name": "New York Yankees",
+        "abbr": "NYY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "22",
+        "name": "Philadelphia Phillies",
+        "abbr": "PHI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "23",
+        "name": "Pittsburgh Pirates",
+        "abbr": "PIT",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "25",
+        "name": "San Diego Padres",
+        "abbr": "SD",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "26",
+        "name": "San Francisco Giants",
+        "abbr": "SF",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "12",
+        "name": "Seattle Mariners",
+        "abbr": "SEA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "24",
+        "name": "St. Louis Cardinals",
+        "abbr": "STL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "30",
+        "name": "Tampa Bay Rays",
+        "abbr": "TB",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "13",
+        "name": "Texas Rangers",
+        "abbr": "TEX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "14",
+        "name": "Toronto Blue Jays",
+        "abbr": "TOR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "20",
+        "name": "Washington Nationals",
+        "abbr": "WSH",
+        "record": null,
+        "standingSummary": null
+      }
+    ],
+    "wnba": [
+      {
+        "id": "20",
+        "name": "Atlanta Dream",
+        "abbr": "ATL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "19",
+        "name": "Chicago Sky",
+        "abbr": "CHI",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "18",
+        "name": "Connecticut Sun",
+        "abbr": "CON",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "3",
+        "name": "Dallas Wings",
+        "abbr": "DAL",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "129689",
+        "name": "Golden State Valkyries",
+        "abbr": "GS",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "5",
+        "name": "Indiana Fever",
+        "abbr": "IND",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "17",
+        "name": "Las Vegas Aces",
+        "abbr": "LV",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "6",
+        "name": "Los Angeles Sparks",
+        "abbr": "LA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "8",
+        "name": "Minnesota Lynx",
+        "abbr": "MIN",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "9",
+        "name": "New York Liberty",
+        "abbr": "NY",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "11",
+        "name": "Phoenix Mercury",
+        "abbr": "PHX",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "132052",
+        "name": "Portland Fire",
+        "abbr": "POR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "14",
+        "name": "Seattle Storm",
+        "abbr": "SEA",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "131935",
+        "name": "Toronto Tempo",
+        "abbr": "TOR",
+        "record": null,
+        "standingSummary": null
+      },
+      {
+        "id": "16",
+        "name": "Washington Mystics",
+        "abbr": "WSH",
+        "record": null,
+        "standingSummary": null
+      }
+    ]
   },
   "tennis": {
-    "atp": [],
-    "wta": []
-  },
-  "errors": {
-    "nfl": "403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams?limit=400",
-    "ncaaf": "403 https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams?limit=400",
-    "mlb": "403 https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams?limit=400",
-    "wnba": "403 https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/teams?limit=400",
-    "atp": "403 https://site.api.espn.com/apis/site/v2/sports/tennis/atp/scoreboard",
-    "wta": "403 https://site.api.espn.com/apis/site/v2/sports/tennis/wta/scoreboard"
+    "atp": [
+      {
+        "rank": 1,
+        "name": "Jannik Sinner",
+        "points": 11000.0
+      },
+      {
+        "rank": 2,
+        "name": "Alexander Zverev",
+        "points": 9630.0
+      },
+      {
+        "rank": 3,
+        "name": "Carlos Alcaraz",
+        "points": 5060.0
+      },
+      {
+        "rank": 4,
+        "name": "Ben Shelton",
+        "points": 4680.0
+      },
+      {
+        "rank": 5,
+        "name": "Felix Auger-Aliassime",
+        "points": 3890.0
+      },
+      {
+        "rank": 6,
+        "name": "Daniil Medvedev",
+        "points": 3860.0
+      },
+      {
+        "rank": 7,
+        "name": "Flavio Cobolli",
+        "points": 3680.0
+      },
+      {
+        "rank": 8,
+        "name": "Frances Tiafoe",
+        "points": 3380.0
+      },
+      {
+        "rank": 9,
+        "name": "Arthur Fils",
+        "points": 3150.0
+      },
+      {
+        "rank": 10,
+        "name": "Alex de Minaur",
+        "points": 3150.0
+      },
+      {
+        "rank": 11,
+        "name": "Novak Djokovic",
+        "points": 2980.0
+      },
+      {
+        "rank": 12,
+        "name": "Taylor Fritz",
+        "points": 2880.0
+      },
+      {
+        "rank": 13,
+        "name": "Rafael Jodar",
+        "points": 2659.0
+      },
+      {
+        "rank": 14,
+        "name": "Jakub Mensik",
+        "points": 2405.0
+      },
+      {
+        "rank": 15,
+        "name": "Learner Tien",
+        "points": 2395.0
+      },
+      {
+        "rank": 16,
+        "name": "Tommy Paul",
+        "points": 2375.0
+      },
+      {
+        "rank": 17,
+        "name": "Brandon Nakashima",
+        "points": 2335.0
+      },
+      {
+        "rank": 18,
+        "name": "Valentin Vacherot",
+        "points": 2250.0
+      },
+      {
+        "rank": 19,
+        "name": "Luciano Darderi",
+        "points": 2200.0
+      },
+      {
+        "rank": 20,
+        "name": "Alexander Bublik",
+        "points": 2185.0
+      },
+      {
+        "rank": 21,
+        "name": "Casper Ruud",
+        "points": 2145.0
+      },
+      {
+        "rank": 22,
+        "name": "Francisco Cerundolo",
+        "points": 2130.0
+      },
+      {
+        "rank": 23,
+        "name": "Jiri Lehecka",
+        "points": 2120.0
+      },
+      {
+        "rank": 24,
+        "name": "Andrey Rublev",
+        "points": 2085.0
+      },
+      {
+        "rank": 25,
+        "name": "Lorenzo Musetti",
+        "points": 2010.0
+      },
+      {
+        "rank": 26,
+        "name": "Alejandro Davidovich Fokina",
+        "points": 1930.0
+      },
+      {
+        "rank": 27,
+        "name": "Karen Khachanov",
+        "points": 1800.0
+      },
+      {
+        "rank": 28,
+        "name": "Alexander Blockx",
+        "points": 1787.0
+      },
+      {
+        "rank": 29,
+        "name": "Joao Fonseca",
+        "points": 1750.0
+      },
+      {
+        "rank": 30,
+        "name": "Tomas Martin Etcheverry",
+        "points": 1590.0
+      },
+      {
+        "rank": 31,
+        "name": "Alejandro Tabilo",
+        "points": 1565.0
+      },
+      {
+        "rank": 32,
+        "name": "Ugo Humbert",
+        "points": 1535.0
+      },
+      {
+        "rank": 33,
+        "name": "Arthur Rinderknech",
+        "points": 1520.0
+      },
+      {
+        "rank": 34,
+        "name": "Alex Michelsen",
+        "points": 1460.0
+      },
+      {
+        "rank": 35,
+        "name": "Ignacio Buse",
+        "points": 1447.0
+      },
+      {
+        "rank": 36,
+        "name": "Arthur Fery",
+        "points": 1413.0
+      },
+      {
+        "rank": 37,
+        "name": "Matteo Arnaldi",
+        "points": 1336.0
+      },
+      {
+        "rank": 38,
+        "name": "Zizou Bergs",
+        "points": 1320.0
+      },
+      {
+        "rank": 39,
+        "name": "Hubert Hurkacz",
+        "points": 1285.0
+      },
+      {
+        "rank": 40,
+        "name": "Cameron Norrie",
+        "points": 1275.0
+      },
+      {
+        "rank": 41,
+        "name": "Botic Van De Zandschulp",
+        "points": 1258.0
+      },
+      {
+        "rank": 42,
+        "name": "Daniel Merida",
+        "points": 1210.0
+      },
+      {
+        "rank": 43,
+        "name": "Luca Van Assche",
+        "points": 1180.0
+      },
+      {
+        "rank": 44,
+        "name": "Stefanos Tsitsipas",
+        "points": 1165.0
+      },
+      {
+        "rank": 45,
+        "name": "Mariano Navone",
+        "points": 1155.0
+      },
+      {
+        "rank": 46,
+        "name": "Denis Shapovalov",
+        "points": 1155.0
+      },
+      {
+        "rank": 47,
+        "name": "Matteo Berrettini",
+        "points": 1128.0
+      },
+      {
+        "rank": 48,
+        "name": "Raphael Collignon",
+        "points": 1078.0
+      },
+      {
+        "rank": 49,
+        "name": "Nuno Borges",
+        "points": 1070.0
+      },
+      {
+        "rank": 50,
+        "name": "Quentin Halys",
+        "points": 1070.0
+      },
+      {
+        "rank": 51,
+        "name": "Sebastian Baez",
+        "points": 1044.0
+      },
+      {
+        "rank": 52,
+        "name": "Thiago Agustin Tirante",
+        "points": 1010.0
+      },
+      {
+        "rank": 53,
+        "name": "Juan Manuel Cerundolo",
+        "points": 995.0
+      },
+      {
+        "rank": 54,
+        "name": "Yannick Hanfmann",
+        "points": 976.0
+      },
+      {
+        "rank": 55,
+        "name": "Tallon Griekspoor",
+        "points": 975.0
+      },
+      {
+        "rank": 56,
+        "name": "Adolfo Daniel Vallejo",
+        "points": 939.0
+      },
+      {
+        "rank": 57,
+        "name": "Miomir Kecmanovic",
+        "points": 925.0
+      },
+      {
+        "rank": 58,
+        "name": "Arthur Gea",
+        "points": 918.0
+      },
+      {
+        "rank": 59,
+        "name": "Jan-Lennard Struff",
+        "points": 909.0
+      },
+      {
+        "rank": 60,
+        "name": "Roman Andres Burruchaga",
+        "points": 891.0
+      }
+    ],
+    "wta": [
+      {
+        "rank": 1,
+        "name": "Elena Rybakina",
+        "points": 9901.0
+      },
+      {
+        "rank": 2,
+        "name": "Aryna Sabalenka",
+        "points": 7810.0
+      },
+      {
+        "rank": 3,
+        "name": "Jessica Pegula",
+        "points": 7265.0
+      },
+      {
+        "rank": 4,
+        "name": "Coco Gauff",
+        "points": 7244.0
+      },
+      {
+        "rank": 5,
+        "name": "Mirra Andreeva",
+        "points": 5841.0
+      },
+      {
+        "rank": 6,
+        "name": "Linda Noskova",
+        "points": 5328.0
+      },
+      {
+        "rank": 7,
+        "name": "Elina Svitolina",
+        "points": 4809.0
+      },
+      {
+        "rank": 8,
+        "name": "Karolina Muchova",
+        "points": 4683.0
+      },
+      {
+        "rank": 9,
+        "name": "Iga Swiatek",
+        "points": 4119.0
+      },
+      {
+        "rank": 10,
+        "name": "Marta Kostyuk",
+        "points": 4040.0
+      },
+      {
+        "rank": 11,
+        "name": "Amanda Anisimova",
+        "points": 3363.0
+      },
+      {
+        "rank": 12,
+        "name": "Belinda Bencic",
+        "points": 2925.0
+      },
+      {
+        "rank": 13,
+        "name": "Iva Jovic",
+        "points": 2841.0
+      },
+      {
+        "rank": 14,
+        "name": "Diana Shnaider",
+        "points": 2588.0
+      },
+      {
+        "rank": 15,
+        "name": "Victoria Mboko",
+        "points": 2521.0
+      },
+      {
+        "rank": 16,
+        "name": "Sorana Cirstea",
+        "points": 2464.0
+      },
+      {
+        "rank": 17,
+        "name": "Naomi Osaka",
+        "points": 2296.0
+      },
+      {
+        "rank": 18,
+        "name": "Alexandra Eala",
+        "points": 2276.0
+      },
+      {
+        "rank": 19,
+        "name": "Elise Mertens",
+        "points": 2165.0
+      },
+      {
+        "rank": 20,
+        "name": "Jasmine Paolini",
+        "points": 2122.0
+      },
+      {
+        "rank": 21,
+        "name": "Maja Chwalinska",
+        "points": 2082.0
+      },
+      {
+        "rank": 22,
+        "name": "Anna Kalinskaya",
+        "points": 2043.0
+      },
+      {
+        "rank": 23,
+        "name": "Madison Keys",
+        "points": 2029.0
+      },
+      {
+        "rank": 24,
+        "name": "Emma Navarro",
+        "points": 2024.0
+      },
+      {
+        "rank": 25,
+        "name": "Anastasia Potapova",
+        "points": 1926.0
+      },
+      {
+        "rank": 26,
+        "name": "Leylah Fernandez",
+        "points": 1894.0
+      },
+      {
+        "rank": 27,
+        "name": "Marie Bouzkova",
+        "points": 1873.0
+      },
+      {
+        "rank": 28,
+        "name": "Ekaterina Alexandrova",
+        "points": 1811.0
+      },
+      {
+        "rank": 29,
+        "name": "Sara Bejlek",
+        "points": 1710.0
+      },
+      {
+        "rank": 30,
+        "name": "Ann Li",
+        "points": 1573.0
+      },
+      {
+        "rank": 31,
+        "name": "Diane Parry",
+        "points": 1551.0
+      },
+      {
+        "rank": 32,
+        "name": "Jelena Ostapenko",
+        "points": 1481.0
+      },
+      {
+        "rank": 33,
+        "name": "Maria Sakkari",
+        "points": 1462.0
+      },
+      {
+        "rank": 34,
+        "name": "Nikola Bartunkova",
+        "points": 1352.0
+      },
+      {
+        "rank": 35,
+        "name": "Cristina Bucsa",
+        "points": 1349.0
+      },
+      {
+        "rank": 36,
+        "name": "Peyton Stearns",
+        "points": 1316.0
+      },
+      {
+        "rank": 37,
+        "name": "Talia Gibson",
+        "points": 1301.0
+      },
+      {
+        "rank": 38,
+        "name": "Wang Xinyu",
+        "points": 1288.0
+      },
+      {
+        "rank": 39,
+        "name": "Liudmila Samsonova",
+        "points": 1284.0
+      },
+      {
+        "rank": 40,
+        "name": "Donna Vekic",
+        "points": 1278.0
+      },
+      {
+        "rank": 41,
+        "name": "Kimberly Birrell",
+        "points": 1255.0
+      },
+      {
+        "rank": 42,
+        "name": "Hailey Baptiste",
+        "points": 1230.0
+      },
+      {
+        "rank": 43,
+        "name": "Barbora Krejcikova",
+        "points": 1198.0
+      },
+      {
+        "rank": 44,
+        "name": "Clara Tauson",
+        "points": 1184.0
+      },
+      {
+        "rank": 45,
+        "name": "Yuliia Starodubtseva",
+        "points": 1165.0
+      },
+      {
+        "rank": 46,
+        "name": "Daria Snigur",
+        "points": 1163.0
+      },
+      {
+        "rank": 47,
+        "name": "Oleksandra Oliynykova",
+        "points": 1126.0
+      },
+      {
+        "rank": 48,
+        "name": "Magdalena Frech",
+        "points": 1120.0
+      },
+      {
+        "rank": 49,
+        "name": "Janice Tjen",
+        "points": 1120.0
+      },
+      {
+        "rank": 50,
+        "name": "Anhelina Kalinina",
+        "points": 1112.0
+      },
+      {
+        "rank": 51,
+        "name": "Karolina Pliskova",
+        "points": 1106.0
+      },
+      {
+        "rank": 52,
+        "name": "Mayar Sherif",
+        "points": 1105.0
+      },
+      {
+        "rank": 53,
+        "name": "Tamara Korpatsch",
+        "points": 1091.0
+      },
+      {
+        "rank": 54,
+        "name": "Zheng Qinwen",
+        "points": 1083.0
+      },
+      {
+        "rank": 55,
+        "name": "Katerina Siniakova",
+        "points": 1075.0
+      },
+      {
+        "rank": 56,
+        "name": "Katie Boulter",
+        "points": 1062.0
+      },
+      {
+        "rank": 57,
+        "name": "Zhang Shuai",
+        "points": 1055.0
+      },
+      {
+        "rank": 58,
+        "name": "Zeynep Sonmez",
+        "points": 1052.0
+      },
+      {
+        "rank": 59,
+        "name": "Paula Badosa",
+        "points": 1052.0
+      },
+      {
+        "rank": 60,
+        "name": "Jaqueline Cristian",
+        "points": 1051.0
+      }
+    ]
   },
   "advancedMatrix": [
     {
-      "matchup": "Minnesota Vikings vs. New Orleans Saints",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Los Angeles Rams vs. Philadelphia Eagles",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 39.0,
-      "handle": 33.0,
-      "advancedScore": 56.5
-    },
-    {
       "matchup": "San Francisco 49ers vs. Seattle Seahawks",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Baltimore Ravens vs. Atlanta Falcons",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Houston Texans vs. Tennessee Titans",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -80,136 +3977,6 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Atlanta Falcons vs. New Orleans Saints",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 51.0,
-      "handle": 44.0,
-      "advancedScore": 63.0
-    },
-    {
-      "matchup": "Arizona Cardinals vs. New York Giants",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 38.0,
-      "handle": 26.0,
-      "advancedScore": 63.0
-    },
-    {
-      "matchup": "Dallas Cowboys vs. Houston Texans",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 22.0,
-      "handle": 21.0,
-      "advancedScore": 51.5
-    },
-    {
-      "matchup": "Green Bay Packers vs. Tampa Bay Buccaneers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 50.0,
-      "handle": 37.0,
-      "advancedScore": 75.0
-    },
-    {
-      "matchup": "Detroit Lions vs. Carolina Panthers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 34.0,
-      "handle": 26.0,
-      "advancedScore": 58.5
-    },
-    {
-      "matchup": "Philadelphia Eagles vs. Jacksonville Jaguars",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Cincinnati Bengals vs. Miami Dolphins",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Tennessee Titans vs. Baltimore Ravens",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 73.0,
-      "handle": 80.0,
-      "advancedScore": 58.0
-    },
-    {
-      "matchup": "Denver Broncos vs. San Francisco 49ers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 58.0,
-      "handle": 67.0,
-      "advancedScore": 70.0
-    },
-    {
-      "matchup": "Buffalo Bills vs. Los Angeles Rams",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Pittsburgh Steelers vs. Cleveland Browns",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 45.0,
-      "handle": 41.0,
-      "advancedScore": 54.5
-    },
-    {
-      "matchup": "New York Jets vs. Chicago Bears",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 58.0,
-      "handle": 62.0,
-      "advancedScore": 54.5
-    },
-    {
-      "matchup": "Jacksonville Jaguars vs. Cincinnati Bengals",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 39.0,
-      "handle": 36.0,
-      "advancedScore": 53.5
-    },
-    {
       "matchup": "Indianapolis Colts vs. Pittsburgh Steelers",
       "sport": "NFL",
       "period": "fulltime",
@@ -220,17 +3987,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "New England Patriots vs. Buffalo Bills",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 66.0,
-      "handle": 78.0,
-      "advancedScore": 63.0
-    },
-    {
-      "matchup": "Chicago Bears vs. Green Bay Packers",
+      "matchup": "Minnesota Vikings vs. New Orleans Saints",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -240,7 +3997,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Cleveland Browns vs. New York Jets",
+      "matchup": "Baltimore Ravens vs. Atlanta Falcons",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -250,57 +4007,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Las Vegas Raiders vs. New England Patriots",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Detroit Lions vs. Arizona Cardinals",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Indianapolis Colts vs. Washington Commanders",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 69.0,
-      "handle": 71.0,
-      "advancedScore": 61.5
-    },
-    {
-      "matchup": "Miami Dolphins vs. Minnesota Vikings",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 71.0,
-      "handle": 74.0,
-      "advancedScore": 56.0
-    },
-    {
-      "matchup": "Kansas City Chiefs vs. Las Vegas Raiders",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": 45.0,
-      "handle": 38.0,
-      "advancedScore": 58.5
-    },
-    {
-      "matchup": "Tampa Bay Buccaneers vs. Dallas Cowboys",
+      "matchup": "Philadelphia Eagles vs. Jacksonville Jaguars",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -320,14 +4027,244 @@
       "advancedScore": 50.0
     },
     {
+      "matchup": "Green Bay Packers vs. Tampa Bay Buccaneers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 51.0,
+      "handle": 40.0,
+      "advancedScore": 73.0
+    },
+    {
+      "matchup": "Atlanta Falcons vs. New Orleans Saints",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 49.0,
+      "handle": 53.0,
+      "advancedScore": 60.0
+    },
+    {
+      "matchup": "Detroit Lions vs. Carolina Panthers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 35.0,
+      "handle": 27.0,
+      "advancedScore": 58.5
+    },
+    {
+      "matchup": "Tampa Bay Buccaneers vs. Dallas Cowboys",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Cincinnati Bengals vs. Miami Dolphins",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Las Vegas Raiders vs. New England Patriots",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Buffalo Bills vs. Los Angeles Rams",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Tennessee Titans vs. Baltimore Ravens",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 74.0,
+      "handle": 80.0,
+      "advancedScore": 57.0
+    },
+    {
+      "matchup": "New York Jets vs. Chicago Bears",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 57.0,
+      "handle": 61.0,
+      "advancedScore": 54.5
+    },
+    {
+      "matchup": "Jacksonville Jaguars vs. Cincinnati Bengals",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 38.0,
+      "handle": 42.0,
+      "advancedScore": 54.5
+    },
+    {
+      "matchup": "Houston Texans vs. Tennessee Titans",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Indianapolis Colts vs. Washington Commanders",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 69.0,
+      "handle": 69.0,
+      "advancedScore": 59.5
+    },
+    {
+      "matchup": "Los Angeles Rams vs. Philadelphia Eagles",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 39.0,
+      "handle": 34.0,
+      "advancedScore": 55.5
+    },
+    {
+      "matchup": "Kansas City Chiefs vs. Las Vegas Raiders",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 46.0,
+      "handle": 41.0,
+      "advancedScore": 56.5
+    },
+    {
+      "matchup": "Arizona Cardinals vs. New York Giants",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 39.0,
+      "handle": 31.0,
+      "advancedScore": 59.0
+    },
+    {
+      "matchup": "New England Patriots vs. Buffalo Bills",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 66.0,
+      "handle": 77.0,
+      "advancedScore": 62.0
+    },
+    {
+      "matchup": "Miami Dolphins vs. Minnesota Vikings",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 71.0,
+      "handle": 74.0,
+      "advancedScore": 56.0
+    },
+    {
+      "matchup": "Denver Broncos vs. San Francisco 49ers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 58.0,
+      "handle": 66.0,
+      "advancedScore": 69.0
+    },
+    {
+      "matchup": "Chicago Bears vs. Green Bay Packers",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Detroit Lions vs. Arizona Cardinals",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Dallas Cowboys vs. Houston Texans",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 22.0,
+      "handle": 20.0,
+      "advancedScore": 52.5
+    },
+    {
+      "matchup": "Pittsburgh Steelers vs. Cleveland Browns",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 48.0,
+      "handle": 56.0,
+      "advancedScore": 58.5
+    },
+    {
+      "matchup": "Cleveland Browns vs. New York Jets",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
       "matchup": "Los Angeles Chargers vs. Seattle Seahawks",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 52.0,
-      "handle": 59.0,
-      "advancedScore": 57.5
+      "tickets": 51.0,
+      "handle": 55.0,
+      "advancedScore": 54.5
     },
     {
       "matchup": "Philadelphia Eagles vs. Chicago Bears",
@@ -565,9 +4502,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 45.0,
-      "handle": 41.0,
-      "advancedScore": 65.0
+      "tickets": 48.0,
+      "handle": 56.0,
+      "advancedScore": 69.0
     },
     {
       "matchup": "Baltimore Ravens vs. Tennessee Titans",
@@ -575,9 +4512,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 73.0,
+      "tickets": 74.0,
       "handle": 80.0,
-      "advancedScore": 72.0
+      "advancedScore": 71.0
     },
     {
       "matchup": "Buffalo Bills vs. New England Patriots",
@@ -586,8 +4523,8 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 66.0,
-      "handle": 78.0,
-      "advancedScore": 63.0
+      "handle": 77.0,
+      "advancedScore": 62.0
     },
     {
       "matchup": "Chicago Bears vs. New York Jets",
@@ -595,8 +4532,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 58.0,
-      "handle": 62.0,
+      "tickets": 57.0,
+      "handle": 61.0,
       "advancedScore": 61.0
     },
     {
@@ -605,9 +4542,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 39.0,
-      "handle": 36.0,
-      "advancedScore": 53.0
+      "tickets": 38.0,
+      "handle": 42.0,
+      "advancedScore": 54.0
     },
     {
       "matchup": "Carolina Panthers vs. Detroit Lions",
@@ -615,8 +4552,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 34.0,
-      "handle": 26.0,
+      "tickets": 35.0,
+      "handle": 27.0,
       "advancedScore": 59.0
     },
     {

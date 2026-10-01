@@ -1,20 +1,751 @@
 {
-  "pulled_at": "2026-10-01T14:25:08.157881+00:00",
+  "pulled_at": "2026-10-01T19:47:11.653859+00:00",
   "leagues": {
     "nfl": {
-      "ok": false,
-      "error": "espn 403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
-      "games": []
+      "ok": true,
+      "count": 12,
+      "source": "espn",
+      "games": [
+        {
+          "league": "nfl",
+          "eventId": "401872964",
+          "name": "Pittsburgh Steelers at Cleveland Browns",
+          "shortName": "PIT @ CLE",
+          "status": "Scheduled",
+          "start": "2026-10-02T00:15Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Cleveland Browns",
+              "abbr": "CLE",
+              "id": "5",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Pittsburgh Steelers",
+              "abbr": "PIT",
+              "id": "23",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872965",
+          "name": "Indianapolis Colts at Washington Commanders",
+          "shortName": "IND VS WSH",
+          "status": "Scheduled",
+          "start": "2026-10-04T13:30Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Washington Commanders",
+              "abbr": "WSH",
+              "id": "28",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Indianapolis Colts",
+              "abbr": "IND",
+              "id": "11",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872971",
+          "name": "New England Patriots at Buffalo Bills",
+          "shortName": "NE @ BUF",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Buffalo Bills",
+              "abbr": "BUF",
+              "id": "2",
+              "score": "0",
+              "record": "3-0",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "New England Patriots",
+              "abbr": "NE",
+              "id": "17",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872972",
+          "name": "New York Jets at Chicago Bears",
+          "shortName": "NYJ @ CHI",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Chicago Bears",
+              "abbr": "CHI",
+              "id": "3",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "New York Jets",
+              "abbr": "NYJ",
+              "id": "20",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872969",
+          "name": "Jacksonville Jaguars at Cincinnati Bengals",
+          "shortName": "JAX @ CIN",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Cincinnati Bengals",
+              "abbr": "CIN",
+              "id": "4",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Jacksonville Jaguars",
+              "abbr": "JAX",
+              "id": "30",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872966",
+          "name": "Arizona Cardinals at New York Giants",
+          "shortName": "ARI @ NYG",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "New York Giants",
+              "abbr": "NYG",
+              "id": "19",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Arizona Cardinals",
+              "abbr": "ARI",
+              "id": "22",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872970",
+          "name": "Los Angeles Rams at Philadelphia Eagles",
+          "shortName": "LAR @ PHI",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Philadelphia Eagles",
+              "abbr": "PHI",
+              "id": "21",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Los Angeles Rams",
+              "abbr": "LAR",
+              "id": "14",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872968",
+          "name": "Green Bay Packers at Tampa Bay Buccaneers",
+          "shortName": "GB @ TB",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Tampa Bay Buccaneers",
+              "abbr": "TB",
+              "id": "27",
+              "score": "0",
+              "record": "0-3",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Green Bay Packers",
+              "abbr": "GB",
+              "id": "9",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872973",
+          "name": "Tennessee Titans at Baltimore Ravens",
+          "shortName": "TEN @ BAL",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Baltimore Ravens",
+              "abbr": "BAL",
+              "id": "33",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Tennessee Titans",
+              "abbr": "TEN",
+              "id": "10",
+              "score": "0",
+              "record": "0-3",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872967",
+          "name": "Dallas Cowboys at Houston Texans",
+          "shortName": "DAL @ HOU",
+          "status": "Scheduled",
+          "start": "2026-10-04T17:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Houston Texans",
+              "abbr": "HOU",
+              "id": "34",
+              "score": "0",
+              "record": "0-3",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Dallas Cowboys",
+              "abbr": "DAL",
+              "id": "6",
+              "score": "0",
+              "record": "1-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872974",
+          "name": "Miami Dolphins at Minnesota Vikings",
+          "shortName": "MIA @ MIN",
+          "status": "Scheduled",
+          "start": "2026-10-04T20:05Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Minnesota Vikings",
+              "abbr": "MIN",
+              "id": "16",
+              "score": "0",
+              "record": "3-0",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Miami Dolphins",
+              "abbr": "MIA",
+              "id": "15",
+              "score": "0",
+              "record": "0-3",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "nfl",
+          "eventId": "401872976",
+          "name": "Kansas City Chiefs at Las Vegas Raiders",
+          "shortName": "KC @ LV",
+          "status": "Scheduled",
+          "start": "2026-10-04T20:25Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Las Vegas Raiders",
+              "abbr": "LV",
+              "id": "13",
+              "score": "0",
+              "record": "3-0",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Kansas City Chiefs",
+              "abbr": "KC",
+              "id": "12",
+              "score": "0",
+              "record": "3-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        }
+      ]
     },
     "ncaaf": {
-      "ok": false,
-      "error": "espn 403 https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard",
-      "games": []
+      "ok": true,
+      "count": 12,
+      "source": "espn",
+      "games": [
+        {
+          "league": "ncaaf",
+          "eventId": "401858250",
+          "name": "Notre Dame Fighting Irish at North Carolina Tar Heels",
+          "shortName": "ND @ UNC",
+          "status": "Scheduled",
+          "start": "2026-10-03T16:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "North Carolina Tar Heels",
+              "abbr": "UNC",
+              "id": "153",
+              "score": "0",
+              "record": "2-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Notre Dame Fighting Irish",
+              "abbr": "ND",
+              "id": "87",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856707",
+          "name": "Alabama Crimson Tide at Mississippi State Bulldogs",
+          "shortName": "ALA @ MSST",
+          "status": "Scheduled",
+          "start": "2026-10-03T16:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Mississippi State Bulldogs",
+              "abbr": "MSST",
+              "id": "344",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Alabama Crimson Tide",
+              "abbr": "ALA",
+              "id": "333",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856819",
+          "name": "UCF Knights at Houston Cougars",
+          "shortName": "UCF @ HOU",
+          "status": "Scheduled",
+          "start": "2026-10-03T16:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Houston Cougars",
+              "abbr": "HOU",
+              "id": "248",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "UCF Knights",
+              "abbr": "UCF",
+              "id": "2116",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401858246",
+          "name": "Boston College Eagles at SMU Mustangs",
+          "shortName": "BC @ SMU",
+          "status": "Scheduled",
+          "start": "2026-10-03T16:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "SMU Mustangs",
+              "abbr": "SMU",
+              "id": "2567",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Boston College Eagles",
+              "abbr": "BC",
+              "id": "103",
+              "score": "0",
+              "record": "2-2",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856705",
+          "name": "Vanderbilt Commodores at Georgia Bulldogs",
+          "shortName": "VAN @ UGA",
+          "status": "Scheduled",
+          "start": "2026-10-03T16:45Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Georgia Bulldogs",
+              "abbr": "UGA",
+              "id": "61",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Vanderbilt Commodores",
+              "abbr": "VAN",
+              "id": "238",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401858473",
+          "name": "Ohio State Buckeyes at Iowa Hawkeyes",
+          "shortName": "OSU @ IOWA",
+          "status": "Scheduled",
+          "start": "2026-10-03T19:30Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Iowa Hawkeyes",
+              "abbr": "IOWA",
+              "id": "2294",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Ohio State Buckeyes",
+              "abbr": "OSU",
+              "id": "194",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856708",
+          "name": "Florida Gators at Missouri Tigers",
+          "shortName": "FLA @ MIZ",
+          "status": "Scheduled",
+          "start": "2026-10-03T19:30Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Missouri Tigers",
+              "abbr": "MIZ",
+              "id": "142",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Florida Gators",
+              "abbr": "FLA",
+              "id": "57",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856710",
+          "name": "Auburn Tigers at Tennessee Volunteers",
+          "shortName": "AUB @ TENN",
+          "status": "Scheduled",
+          "start": "2026-10-03T19:30Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Tennessee Volunteers",
+              "abbr": "TENN",
+              "id": "2633",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Auburn Tigers",
+              "abbr": "AUB",
+              "id": "2",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856709",
+          "name": "Kentucky Wildcats at South Carolina Gamecocks",
+          "shortName": "UK @ SC",
+          "status": "Scheduled",
+          "start": "2026-10-03T20:15Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "South Carolina Gamecocks",
+              "abbr": "SC",
+              "id": "2579",
+              "score": "0",
+              "record": "2-2",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Kentucky Wildcats",
+              "abbr": "UK",
+              "id": "96",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856818",
+          "name": "BYU Cougars at TCU Horned Frogs",
+          "shortName": "BYU @ TCU",
+          "status": "Scheduled",
+          "start": "2026-10-03T23:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "TCU Horned Frogs",
+              "abbr": "TCU",
+              "id": "2628",
+              "score": "0",
+              "record": "2-2",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "BYU Cougars",
+              "abbr": "BYU",
+              "id": "252",
+              "score": "0",
+              "record": "3-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401858249",
+          "name": "Miami Hurricanes at Clemson Tigers",
+          "shortName": "MIA @ CLEM",
+          "status": "Scheduled",
+          "start": "2026-10-03T23:30Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Clemson Tigers",
+              "abbr": "CLEM",
+              "id": "228",
+              "score": "0",
+              "record": "3-1",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Miami Hurricanes",
+              "abbr": "MIA",
+              "id": "2390",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        },
+        {
+          "league": "ncaaf",
+          "eventId": "401856821",
+          "name": "Texas Tech Red Raiders at Colorado Buffaloes",
+          "shortName": "TTU @ COLO",
+          "status": "Scheduled",
+          "start": "2026-10-03T23:30Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Colorado Buffaloes",
+              "abbr": "COLO",
+              "id": "38",
+              "score": "0",
+              "record": "2-2",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Texas Tech Red Raiders",
+              "abbr": "TTU",
+              "id": "2641",
+              "score": "0",
+              "record": "4-0",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        }
+      ]
     },
     "wnba": {
-      "ok": false,
-      "error": "espn 403 https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard",
-      "games": []
+      "ok": true,
+      "count": 1,
+      "source": "espn",
+      "games": [
+        {
+          "league": "wnba",
+          "eventId": "401918022",
+          "name": "Indiana Fever at Las Vegas Aces",
+          "shortName": "IND @ LV",
+          "status": "Scheduled",
+          "start": "2026-10-02T01:00Z",
+          "teams": [
+            {
+              "side": "home",
+              "name": "Las Vegas Aces",
+              "abbr": "LV",
+              "id": "17",
+              "score": "0",
+              "record": "31-13",
+              "winner": false
+            },
+            {
+              "side": "away",
+              "name": "Indiana Fever",
+              "abbr": "IND",
+              "id": "5",
+              "score": "0",
+              "record": "28-16",
+              "winner": false
+            }
+          ],
+          "source": "espn"
+        }
+      ]
     },
     "mlb": {
       "ok": true,

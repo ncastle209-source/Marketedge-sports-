@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-01T14:25:09.115165+00:00",
+  "pulled_at": "2026-10-01T19:47:12.835182+00:00",
   "lanes": {
     "umpires": {
       "ok": true,
@@ -10,8 +10,8 @@
       "error": null
     },
     "weather": {
-      "ok": false,
-      "error": "403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
+      "ok": true,
+      "error": null
     },
     "injuries": {
       "ok": true,
@@ -30,20 +30,20 @@
       "error": null
     },
     "nflPenalties": {
-      "ok": false,
-      "error": "403 https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams?limit=40"
+      "ok": true,
+      "error": null
     },
     "pitchers": {
       "ok": true,
       "error": null
     },
     "tennis": {
-      "ok": false,
-      "error": "403 https://site.api.espn.com/apis/site/v2/sports/tennis/atp/scoreboard"
+      "ok": true,
+      "error": null
     },
     "wnbaRest": {
-      "ok": false,
-      "error": "403 https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard"
+      "ok": true,
+      "error": null
     },
     "splitsHistory": {
       "ok": true,

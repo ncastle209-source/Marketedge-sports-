@@ -16,12 +16,1935 @@
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849844"
     }
   ],
-  "weather": null,
+  "weather": [
+    {
+      "league": "nfl",
+      "name": "PIT @ CLE",
+      "temp": 79,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44114"
+        ],
+        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Cleveland",
+      "state": "OH"
+    },
+    {
+      "league": "nfl",
+      "name": "IND VS WSH",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "London",
+      "state": null
+    },
+    {
+      "league": "nfl",
+      "name": "NE @ BUF",
+      "temp": 66,
+      "condition": "2",
+      "gust": null,
+      "wind": null,
+      "city": "Orchard Park",
+      "state": "NY"
+    },
+    {
+      "league": "nfl",
+      "name": "NYJ @ CHI",
+      "temp": 66,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "60605"
+        ],
+        "href": "http://www.accuweather.com/en/us/soldier-field-il/60608/hourly-weather-forecast/18170_poi?day=4&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "league": "nfl",
+      "name": "JAX @ CIN",
+      "temp": 66,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "45202"
+        ],
+        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Cincinnati",
+      "state": "OH"
+    },
+    {
+      "league": "nfl",
+      "name": "ARI @ NYG",
+      "temp": 66,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "07073"
+        ],
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "league": "nfl",
+      "name": "LAR @ PHI",
+      "temp": 63,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "19103"
+        ],
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "league": "nfl",
+      "name": "GB @ TB",
+      "temp": 87,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "33607"
+        ],
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Tampa",
+      "state": "FL"
+    },
+    {
+      "league": "nfl",
+      "name": "TEN @ BAL",
+      "temp": 62,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "21230"
+        ],
+        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Baltimore",
+      "state": "MD"
+    },
+    {
+      "league": "nfl",
+      "name": "DAL @ HOU",
+      "temp": 78,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "77054"
+        ],
+        "href": "http://www.accuweather.com/en/us/nrg-stadium-tx/77002/hourly-weather-forecast/43039_poi?day=4&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Houston",
+      "state": "TX"
+    },
+    {
+      "league": "nfl",
+      "name": "MIA @ MIN",
+      "temp": 63,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "55415"
+        ],
+        "href": "http://www.accuweather.com/en/us/us-bank-stadium-mn/55415/hourly-weather-forecast/35911_poi?day=4&hbhhour=15&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Minneapolis",
+      "state": "MN"
+    },
+    {
+      "league": "nfl",
+      "name": "KC @ LV",
+      "temp": 92,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "89118"
+        ],
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    {
+      "league": "nfl",
+      "name": "DEN @ SF",
+      "temp": 90,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "95054"
+        ],
+        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Santa Clara",
+      "state": "CA"
+    },
+    {
+      "league": "nfl",
+      "name": "LAC @ SEA",
+      "temp": 67,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "98134"
+        ],
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=4&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Seattle",
+      "state": "WA"
+    },
+    {
+      "league": "nfl",
+      "name": "DET @ CAR",
+      "temp": 65,
+      "condition": "18",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "28202"
+        ],
+        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/hourly-weather-forecast/53601_poi?day=4&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Charlotte",
+      "state": "NC"
+    },
+    {
+      "league": "nfl",
+      "name": "ATL @ NO",
+      "temp": 80,
+      "condition": "15",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "70112"
+        ],
+        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=5&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "New Orleans",
+      "state": "LA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "ND @ UNC",
+      "temp": 78,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "27514"
+        ],
+        "href": "http://www.accuweather.com/en/us/kenan-memorial-stadium-nc/27516/hourly-weather-forecast/53605_poi?day=3&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Chapel Hill",
+      "state": "NC"
+    },
+    {
+      "league": "ncaaf",
+      "name": "ALA @ MSST",
+      "temp": 79,
+      "condition": "16",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "39762"
+        ],
+        "href": "http://www.accuweather.com/en/us/davis-wade-stadium-ms/39759/hourly-weather-forecast/53598_poi?day=3&hbhhour=11&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Starkville",
+      "state": "MS"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UCF @ HOU",
+      "temp": 83,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "77004"
+        ],
+        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=3&hbhhour=11&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Houston",
+      "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "BC @ SMU",
+      "temp": 69,
+      "condition": "13",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "75205"
+        ],
+        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=3&hbhhour=11&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Dallas",
+      "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "VAN @ UGA",
+      "temp": 78,
+      "condition": "16",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "30602"
+        ],
+        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=3&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Athens",
+      "state": "GA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "OSU @ IOWA",
+      "temp": 66,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "52242"
+        ],
+        "href": "http://www.accuweather.com/en/us/kinnick-stadium-ia/52240/hourly-weather-forecast/53565_poi?day=3&hbhhour=14&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Iowa City",
+      "state": "IA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "FLA @ MIZ",
+      "temp": 70,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "65203"
+        ],
+        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=3&hbhhour=14&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Columbia",
+      "state": "MO"
+    },
+    {
+      "league": "ncaaf",
+      "name": "AUB @ TENN",
+      "temp": 76,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "37916"
+        ],
+        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=3&hbhhour=15&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Knoxville",
+      "state": "TN"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UK @ SC",
+      "temp": 83,
+      "condition": "15",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "29201"
+        ],
+        "href": "http://www.accuweather.com/en/us/williams-brice-stadium-sc/29201/hourly-weather-forecast/53635_poi?day=3&hbhhour=16&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Columbia",
+      "state": "SC"
+    },
+    {
+      "league": "ncaaf",
+      "name": "BYU @ TCU",
+      "temp": 71,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "76109"
+        ],
+        "href": "http://www.accuweather.com/en/us/amon-g-carter-stadium-tx/76104/hourly-weather-forecast/53642_poi?day=3&hbhhour=18&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Fort Worth",
+      "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "MIA @ CLEM",
+      "temp": 78,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "29634"
+        ],
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-sc/29631/hourly-weather-forecast/53634_poi?day=3&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Clemson",
+      "state": "SC"
+    },
+    {
+      "league": "ncaaf",
+      "name": "TTU @ COLO",
+      "temp": 81,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "80309"
+        ],
+        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=3&hbhhour=17&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Boulder",
+      "state": "CO"
+    },
+    {
+      "league": "ncaaf",
+      "name": "WASH @ USC",
+      "temp": 96,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "90037"
+        ],
+        "href": "http://www.accuweather.com/en/us/los-angeles-memorial-coliseum-ca/90012/hourly-weather-forecast/53540_poi?day=3&hbhhour=16&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "USU @ BOIS",
+      "temp": 86,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "83706"
+        ],
+        "href": "http://www.accuweather.com/en/us/albertsons-stadium-id/83702/hourly-weather-forecast/53566_poi?day=3&hbhhour=17&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Boise",
+      "state": "ID"
+    },
+    {
+      "league": "ncaaf",
+      "name": "MCN @ LSU",
+      "temp": 80,
+      "condition": "7",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "70893"
+        ],
+        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=3&hbhhour=18&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Baton Rouge",
+      "state": "LA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "IU @ RUTG",
+      "temp": 65,
+      "condition": "34",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "08854"
+        ],
+        "href": "http://www.accuweather.com/en/us/shi-stadium-nj/08817/hourly-weather-forecast/53608_poi?day=3&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Piscataway",
+      "state": "NJ"
+    },
+    {
+      "league": "mlb",
+      "name": "PHI @ ATL",
+      "temp": 79,
+      "condition": "34",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "30339"
+        ],
+        "href": "http://www.accuweather.com/en/us/truist-park-ga/30303/hourly-weather-forecast/196689_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Atlanta",
+      "state": "Georgia"
+    }
+  ],
   "injuries": {
-    "nfl": [],
-    "ncaaf": [],
-    "mlb": [],
-    "wnba": []
+    "nfl": [
+      {
+        "team": null,
+        "player": "Andrew Wingard",
+        "status": "Active",
+        "detail": "Wingard made 10 tackles (one solo) in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Questionable",
+        "detail": "Taylor-Demerson (back) didn't participate in Wednesday's practice, Tyler Drake of ArizonaSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Mack Wilson Sr.",
+        "status": "Questionable",
+        "detail": "Wilson (thumb) was a limited participant in Arizona's practice Wednesday, Tyler Drake of ArizonaSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Roy Lopez",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Walter Nolen III",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Hjalte Froholdt",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Kendrick Bourne",
+        "status": "Active",
+        "detail": "Bourne hauled in two passes on three targets for 22 yards during the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Tyler Allgeier",
+        "status": "Active",
+        "detail": "Allgeier rushed twice for minus-1 yard and caught all four of his targets for 10 yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Josh Fryar",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Andrew Billings",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Reggie Virgil",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Chad Ryland",
+        "status": "Active",
+        "detail": "Ryland hit all three field-goal attempts and all three extra-point tries in Sunday's 36-30 loss to the 49ers."
+      },
+      {
+        "team": null,
+        "player": "Jacoby Brissett",
+        "status": "Active",
+        "detail": "Brissett completed 38 of 52 passes for 280 yards with two touchdowns and no interceptions and rushed four times for four yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Marvin Harrison Jr.",
+        "status": "Active",
+        "detail": "Harrison brought in three of five targets for 40 yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Michael Wilson",
+        "status": "Active",
+        "detail": "Wilson secured 11 of 17 targets for 89 yards and a touchdown in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Trey McBride",
+        "status": "Active",
+        "detail": "McBride brought in nine of 11 targets for 75 yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Active",
+        "detail": "Love rushed 21 times for 90 yards and brought in all five targets for 19 yards and a touchdown in the Cardinals' 36-30 loss to the 49ers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Max Melton",
+        "status": "Active",
+        "detail": "Melton (toe) is active for Sunday's game against the 49ers, Darren Urban of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Carson Beck",
+        "status": "Active",
+        "detail": "Beck (coach's decision) is inactive but will serve as the emergency third quarterback against the 49ers on Sunday, Darren Urban of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Garrett Williams",
+        "status": "Active",
+        "detail": "Williams (Achilles) does not carry an injury designation ahead of Sunday's game against the 49ers, Darren Urban of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Starling Thomas V",
+        "status": "Active",
+        "detail": "The Cardinals signed Thomas to the active roster from their practice squad Wednesday, Darren Urban of the team's official site reports."
+      },
+      {
+        "team": null,
+        "player": "Will Johnson",
+        "status": "Injured Reserve",
+        "detail": "The Cardinals placed Johnson (neck) on injured reserve  Wednesday, Darren Urban of the team's official site reports."
+      },
+      {
+        "team": null,
+        "player": "Budda Baker",
+        "status": "Active",
+        "detail": "Baker recorded 11 tackles (seven solo), including 1.0 sacks, and a pass breakup in Sunday's loss to the Seahawks."
+      },
+      {
+        "team": null,
+        "player": "Isaac Seumalo",
+        "status": "Active",
+        "detail": "Seumalo (shoulder) is active for Sunday's game against Seattle."
+      },
+      {
+        "team": null,
+        "player": "Isaiah Adams",
+        "status": "Active",
+        "detail": "Adams (knee) is active for Sunday's game against the Seahawks."
+      },
+      {
+        "team": null,
+        "player": "Gervon Dexter Sr.",
+        "status": "Active",
+        "detail": "The Falcons signed Dexter to a four-year, $78 million contract extension Wednesday, Adam Schefter of ESPN reports."
+      },
+      {
+        "team": null,
+        "player": "Samson Ebukam",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Jack Strand",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Ethan Onianwa",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Cooper Rush",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Malcolm DeWalt IV",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Robert Longerbeam",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Jessie Bates III",
+        "status": "Active",
+        "detail": "Bates recorded four tackles (one solo) and one pass defense during the Falcons' 35-14 victory over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Xavier Watts",
+        "status": "Active",
+        "detail": "Watts recorded five tackles (three solo) and one interception during Thursday's 35-14 win over the Packers."
+      },
+      {
+        "team": null,
+        "player": "Austin Hooper",
+        "status": "Active",
+        "detail": "Hooper caught both of his targets for 11 yards and a touchdown during Atlanta's 35-14 win over Green Bay on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Zachariah Branch",
+        "status": "Active",
+        "detail": "Branch caught one pass on two targets for seven yards while logging an 18-yard punt return and a 22-yard kickoff return during the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Olamide Zaccheaus",
+        "status": "Active",
+        "detail": "Zaccheaus brought in both of his targets for nine yards and returned one punt for four yards during the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Jahan Dotson",
+        "status": "Active",
+        "detail": "Dotson caught one pass on three targets for 11 yards during the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Kyle Pitts Sr.",
+        "status": "Active",
+        "detail": "Pitts secured one of two targets for five yards in the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Nick Folk",
+        "status": "Active",
+        "detail": "Folk hit both field-goal attempts and all three extra-point tries in Thursday's 35-14 win over the Packers."
+      },
+      {
+        "team": null,
+        "player": "Brian Robinson Jr.",
+        "status": "Active",
+        "detail": "Robinson rushed 10 times for 50 yards and a touchdown and returned two kickoffs for 54 yards in the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Michael Penix Jr.",
+        "status": "Active",
+        "detail": "Penix completed 18 of 25 passes for 256 yards with one touchdown and one interception while rushing twice for minus-2 yards in the Falcons' 35-14 win over the Packers on Thursday. He also threw a two-point conversion pass."
+      },
+      {
+        "team": null,
+        "player": "Drake London",
+        "status": "Active",
+        "detail": "London secured nine of 10 targets for 194 yards in the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Bijan Robinson",
+        "status": "Active",
+        "detail": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Billy Bowman Jr.",
+        "status": "Active",
+        "detail": "Bowman (Achilles) is available for Thursday's game versus the Packers."
+      },
+      {
+        "team": null,
+        "player": "Jawaan Taylor",
+        "status": "Active",
+        "detail": "Taylor (ribs) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Zach Harrison",
+        "status": "Active",
+        "detail": "The Falcons signed Harrison to the active roster from their practice squad Tuesday, Tori McElhaney of the team's official site reports."
+      },
+      {
+        "team": null,
+        "player": "Nick Muse",
+        "status": "Active",
+        "detail": "Muse (shoulder) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Brandon Dorlus",
+        "status": "Active",
+        "detail": "Dorlus (thumb) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "C.J. Henderson",
+        "status": "Active",
+        "detail": "Henderson is expected to step into a starting role at cornerback in Week 3, Tori McElhaney of the Falcons' official website reports."
+      },
+      {
+        "team": null,
+        "player": "Chris Moore",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports."
+      },
+      {
+        "team": null,
+        "player": "Jovaughn Gwyn",
+        "status": "Out",
+        "detail": "Gwyn was diagnosed with a fractured fibula that will likely require surgery, Jamison Hensley of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Durham Smythe",
+        "status": "Questionable",
+        "detail": "Smythe (heel) was a limited participant in Wednesday's practice."
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (hamstring) was limited in Wednesday's practice, Sam Cohn of The Baltimore Sun reports."
+      },
+      {
+        "team": null,
+        "player": "John Simpson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Roquan Smith",
+        "status": "Active",
+        "detail": "Smith logged nine tackles (three solo), including 1.0 sacks, during the Ravens' 34-31 win over the Cowboys in Rio on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Ronnie Stanley",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Mark Andrews",
+        "status": "Active",
+        "detail": "Andrews caught three of five targets for 24 yards during Sunday's 34-31 win over the Cowboys."
+      },
+      {
+        "team": null,
+        "player": "Ethan Pocic",
+        "status": "Out",
+        "detail": "Pocic (knee) is set to miss significant time, Clifton Brown of the Ravens' official site reports."
+      },
+      {
+        "team": null,
+        "player": "K'Von Wallace",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Aeneas Peebles",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Tyler Loop",
+        "status": "Active",
+        "detail": "Loop made both field-goal tries, including a 56-yard game-winning kick as time expired, and all four extra-point attempts in Sunday's 34-31 win over the Cowboys."
+      },
+      {
+        "team": null,
+        "player": "Rashod Bateman",
+        "status": "Active",
+        "detail": "Bateman caught two of three targets for 37 yards in Sunday's 34-31 win over the Cowboys."
+      },
+      {
+        "team": null,
+        "player": "Derrick Henry",
+        "status": "Active",
+        "detail": "Henry rushed 26 times for 89 yards and two touchdowns while catching his lone target for no gain in Sunday's 34-31 win over the Cowboys."
+      },
+      {
+        "team": null,
+        "player": "Elijah Sarratt",
+        "status": "Active",
+        "detail": "Sarratt (coach's decision) is inactive for Sunday's game against Dallas."
+      },
+      {
+        "team": null,
+        "player": "Joe Fagnano",
+        "status": "Active",
+        "detail": "Fagnano (coach's decision) is inactive for Sunday's game against Dallas but will be available as the team's emergency quarterback if needed."
+      },
+      {
+        "team": null,
+        "player": "Malaki Starks",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Teddye Buchanan",
+        "status": "Active",
+        "detail": "Buchanan (knee) is expected to play in Sunday's game versus Dallas, Matt Zenitz of CBSSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Zion Young",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Nnamdi Madubuike",
+        "status": "Active",
+        "detail": "Madubuike (neck) was a full participant in Wednesday's practice."
+      },
+      {
+        "team": null,
+        "player": "Kyle Hamilton",
+        "status": "Active",
+        "detail": "Hamilton tallied 13 tackles (seven solo) during the Ravens' 24-17 loss to the Saints on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Devontez Walker",
+        "status": "Active",
+        "detail": "Walker caught one of his two targets for 47 yards in Sunday's 24-17 loss to the Saints."
+      },
+      {
+        "team": null,
+        "player": "C.J. Gardner-Johnson",
+        "status": "Active",
+        "detail": "Gardner-Johnson logged five tackles (three solo) and two passes defensed, including one interception, in the Bills' 24-16 win over the Chargers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Greg Rousseau",
+        "status": "Active",
+        "detail": "Rousseau logged eight tackles (five solo), including 2.0 sacks, in the Bills' 24-16 win over the Chargers on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Ar'maj Reed-Adams",
+        "status": "Active",
+        "detail": "Reed-Adams (elbow) was a full participant in Wednesday's practice."
+      },
+      {
+        "team": null,
+        "player": "Keon Coleman",
+        "status": "Questionable",
+        "detail": "Coleman (ankle) did not practice Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Deone Walker",
+        "status": "Questionable",
+        "detail": "questionable"
+      }
+    ],
+    "ncaaf": [
+      {
+        "team": null,
+        "player": "Kahleil Jackson",
+        "status": "Out",
+        "detail": "Jackson (undisclosed) is inactive for Saturday's game against Vanderbilt, G. Allan Taylor of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "Braylen Walker",
+        "status": "Active",
+        "detail": "Walker caught four passes for 77 yards and a touchdown versus UNT on Saturday."
+      },
+      {
+        "team": null,
+        "player": "Will Bettridge",
+        "status": "Active",
+        "detail": "Bettridge made four field goals in Saturday's 14-12 victory over Miami."
+      }
+    ],
+    "mlb": [
+      {
+        "team": null,
+        "player": "Corbin Burnes",
+        "status": "15-Day-IL",
+        "detail": "Burnes said Monday that the right shoulder injury which landed him on the 15-day injured list during the final weekend of the regular season was fatigue-related and he expects to be fine after rest, Steve Gilbert of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Gabriel Moreno",
+        "status": "Day-To-Day",
+        "detail": "Moreno (hamstring) has been removed from Sunday's lineup against the Padres, Alex Weiner of ArizonaSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Tyler Locklear",
+        "status": "60-Day-IL",
+        "detail": "The Diamondbacks optioned Locklear to Triple-A Reno on Monday."
+      },
+      {
+        "team": null,
+        "player": "Ryan Thompson",
+        "status": "60-Day-IL",
+        "detail": "The Diamondbacks transferred Thompson (back) to the 60-day IL on Tuesday."
+      },
+      {
+        "team": null,
+        "player": "A.J. Puk",
+        "status": "60-Day-IL",
+        "detail": "Manager Torey Lovullo said Friday that Puk (elbow/shoulder) will remain shut down for the remainder of the season, Nick Piecoro of The Arizona Republic reports."
+      },
+      {
+        "team": null,
+        "player": "Andrew Saalfrank",
+        "status": "60-Day-IL",
+        "detail": "Saalfrank (shoulder) has begun a throwing program, Alex Weiner of Arizona Sports reports."
+      },
+      {
+        "team": null,
+        "player": "Cristian Mena",
+        "status": "60-Day-IL",
+        "detail": "Diamondbacks manager Torey Lovullo told reporters Monday that Mena underwent surgery on his right shoulder and will be sidelined for the rest of the season, Jack Sommers of SI.com reports."
+      },
+      {
+        "team": null,
+        "player": "Alika Williams",
+        "status": "Day-To-Day",
+        "detail": "Williams (upper body) isn't in the lineup for Saturday's game against the Astros."
+      },
+      {
+        "team": null,
+        "player": "J.T. Ginn",
+        "status": "60-Day-IL",
+        "detail": "The Athletics transferred Ginn (elbow) to the 60-day injured list Tuesday."
+      },
+      {
+        "team": null,
+        "player": "Max Muncy",
+        "status": "10-Day-IL",
+        "detail": "The Athletics placed Muncy on the 10-day injured list Tuesday due to left knee chondromalacia."
+      },
+      {
+        "team": null,
+        "player": "Brooks Kriske",
+        "status": "60-Day-IL",
+        "detail": "The Athletics announced that Kriske underwent season-ending surgery Sept. 1 to address a right shoulder impingement, MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Brent Rooker",
+        "status": "60-Day-IL",
+        "detail": "Rooker (knee) was cleared to begin a hitting progression Wednesday, Martin Gallegos of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Nick Kurtz",
+        "status": "60-Day-IL",
+        "detail": "Kurtz (thumb) began a hitting progression Wednesday, Martin Gallegos of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Gage Jump",
+        "status": "15-Day-IL",
+        "detail": "The Athletics placed Jump on the 15-day injured list Tuesday, retroactive to Sept. 13, due to a left shoulder impingement."
+      },
+      {
+        "team": null,
+        "player": "Luis Severino",
+        "status": "60-Day-IL",
+        "detail": "Severino (shoulder) logged a bullpen session Saturday and is expected to have a normal offseason, per MLB.com."
+      },
+      {
+        "team": null,
+        "player": "Jacob Wilson",
+        "status": "60-Day-IL",
+        "detail": "Wilson underwent left shoulder labral surgery Wednesday, Martin Gallegos of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Tyler Soderstrom",
+        "status": "60-Day-IL",
+        "detail": "The Athletics transferred Soderstrom (hip) to the 60-day injured list Thursday."
+      },
+      {
+        "team": null,
+        "player": "Justin Sterner",
+        "status": "60-Day-IL",
+        "detail": "The Athletics transferred Sterner (knee) from the 15-day injured list to the 60-day IL on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Mark Leiter Jr.",
+        "status": "60-Day-IL",
+        "detail": "Leiter will undergo surgery Tuesday to address a right hip impingement and is expected to miss the remainder of the season, Martin Gallegos of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Gunnar Hoglund",
+        "status": "60-Day-IL",
+        "detail": "Hoglund (knee/back) will be sidelined for the rest of the 2026 season after undergoing surgery on his left hip Monday."
+      },
+      {
+        "team": null,
+        "player": "Tyler Mahle",
+        "status": "Day-To-Day",
+        "detail": "Atlanta manager Walt Weiss said after Game 2 of the NL Wild Card Series against the Phillies on Wednesday that Mahle suffered an abdominal injury while warming up and nearly didn't start as scheduled, Grant McAuley of the Marietta Daily Journal reports. The right-hander didn't factor in the decision, giving up one run on six hits with six strikeouts and one walk across seven innings."
+      },
+      {
+        "team": null,
+        "player": "Lane Thomas",
+        "status": "10-Day-IL",
+        "detail": "Thomas (intercostal) will take batting practice at Truist Park on Wednesday, Jesus Cano of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "Bryce Elder",
+        "status": "15-Day-IL",
+        "detail": "Elder (knee) threw a live batting practice session Monday, Mark Bowman of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Hurston Waldrep",
+        "status": "60-Day-IL",
+        "detail": "Atlanta recalled Waldrep (elbow) from Triple-A Gwinnett on Thursday and placed him on the 60-day injured list."
+      },
+      {
+        "team": null,
+        "player": "Martin Perez",
+        "status": "15-Day-IL",
+        "detail": "Perez didn't factor into the decision Sunday against Houston, striking out two while allowing one run on six hits and two walks in 4.1 innings."
+      },
+      {
+        "team": null,
+        "player": "Reynaldo Lopez",
+        "status": "15-Day-IL",
+        "detail": "Lopez (4-5) took the loss in Monday's 7-3 loss against the Cubs after allowing five runs on six hits and two walks with two strikeouts over three innings. After the game, manager Walt Weiss stated that Lopez may be placed on the injured list due to a shoulder injury, Chad Bishop of The Atlanta Journal-Constitution reports."
+      },
+      {
+        "team": null,
+        "player": "Joe Jimenez",
+        "status": "60-Day-IL",
+        "detail": "Jimenez (knee) will begin a rehab assignment at Triple-A Gwinnett on Tuesday."
+      },
+      {
+        "team": null,
+        "player": "Spencer Strider",
+        "status": "60-Day-IL",
+        "detail": "Strider (elbow) is not expected to return to Atlanta's active roster before the end of this season, Mark Bowman of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Spencer Schwellenbach",
+        "status": "60-Day-IL",
+        "detail": "Schwellenbach will undergo season-ending surgery to repair a fracture in his right elbow, Mark Bowman of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Jurickson Profar",
+        "status": "suspension",
+        "detail": "Profar will miss the full 2026 season after the appeal of his 162-game PED suspension was denied Thursday, Jeff Passan of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Joey Wentz",
+        "status": "60-Day-IL",
+        "detail": "Atlanta placed Wentz (knee) on the 60-day injured list Tuesday."
+      },
+      {
+        "team": null,
+        "player": "Jordan Westburg",
+        "status": "60-Day-IL",
+        "detail": "Orioles president of baseball operations Mike Elias said Monday that Westburg (elbow) will begin a hitting progression this week, Rich Dubroff of BaltimoreBaseball.com reports."
+      },
+      {
+        "team": null,
+        "player": "Kyle Bradish",
+        "status": "60-Day-IL",
+        "detail": "Orioles president of baseball operations Mike Elias said Monday that Bradish will undergo surgery Tuesday to repair a sports hernia, Andy Kostka of TheBanner.com reports."
+      },
+      {
+        "team": null,
+        "player": "Blaze Alexander",
+        "status": "10-Day-IL",
+        "detail": "Orioles manager Craig Albernaz indicated Friday that Alexander (back) will not be activated from the 10-day injured list before the end of the season, Rich Dubroff of BaltimoreBaseball.com reports."
+      },
+      {
+        "team": null,
+        "player": "Tyler O'Neill",
+        "status": "60-Day-IL",
+        "detail": "O'Neill was given a PRP injection in his injured right shoulder recently, Matt Weyrich of The Baltimore Sun reports."
+      },
+      {
+        "team": null,
+        "player": "Samuel Basallo",
+        "status": "7-Day IL",
+        "detail": "The Orioles placed Basallo (concussion) on the 7-day injured list Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Jackson Holliday",
+        "status": "10-Day-IL",
+        "detail": "Holliday will undergo left wrist surgery next week, Jake Rill of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Ryan Helsley",
+        "status": "60-Day-IL",
+        "detail": "President of baseball operations Mike Elias said Saturday that Helsley (elbow) will be shut down for the remainder of the season, Andy Kostka of TheBanner.com reports."
+      },
+      {
+        "team": null,
+        "player": "Ryan Mountcastle",
+        "status": "60-Day-IL",
+        "detail": "Mountcastle (foot/oblique) has resumed a hitting progression, Jake Rill of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Luis Robert Jr.",
+        "status": "10-Day-IL",
+        "detail": "The Orioles placed Robert on the 10-day injured list Sunday due to left hamstring discomfort."
+      },
+      {
+        "team": null,
+        "player": "Reed Trimble",
+        "status": "Day-To-Day",
+        "detail": "Triple-A Norfolk placed Trimble on the 7-day injured list Friday due to right hamstring discomfort, Andy Kostka of TheBanner.com reports."
+      },
+      {
+        "team": null,
+        "player": "Colin Selby",
+        "status": "60-Day-IL",
+        "detail": "Orioles president of baseball operations Mike Elias said Friday that Selby underwent right shoulder surgery Tuesday to repair his labrum and rotator cuff, Andy Kostka of TheBanner.com reports."
+      },
+      {
+        "team": null,
+        "player": "Keegan Akin",
+        "status": "60-Day-IL",
+        "detail": "Akin (elbow) underwent Tommy John surgery Wednesday, Jake Rill of MLB.com  reports."
+      },
+      {
+        "team": null,
+        "player": "Cameron Foster",
+        "status": "Day-To-Day",
+        "detail": "Foster was removed from an appearance at Triple-A Norfolk on Thursday due to right shoulder discomfort, Roch Kubatko of MASNSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Roman Anthony",
+        "status": "Out",
+        "detail": "Anthony will be removed from Boston's wild-card series roster after an MRI showed an aggravation of his previous right hand injury, as well as multiple new strains, Chris Cotillo of MassLive.com reports."
+      },
+      {
+        "team": null,
+        "player": "Mickey Gasper",
+        "status": "10-Day-IL",
+        "detail": "Gasper will undergo surgery Friday to repair a torn right biceps, Rob Bradford of WEEI.com reports."
+      },
+      {
+        "team": null,
+        "player": "Romy Gonzalez",
+        "status": "Day-To-Day",
+        "detail": "The Red Sox optioned Gonzalez to Triple-A Worcester on Tuesday, Chris Henrique of BostonSportsJournal.com reports"
+      },
+      {
+        "team": null,
+        "player": "Justin Slaten",
+        "status": "60-Day-IL",
+        "detail": "The Red Sox transferred Slaten (elbow) from the 15-day injured list to the 60-day IL on Tuesday, Gabrielle Starr of the Boston Herald reports."
+      },
+      {
+        "team": null,
+        "player": "Eli White",
+        "status": "60-Day-IL",
+        "detail": "The Red Sox transferred White (foot) to the 60-day injured list Sunday."
+      },
+      {
+        "team": null,
+        "player": "Tyron Guerrero",
+        "status": "15-Day-IL",
+        "detail": "The Red Sox placed Guerrero on the 15-day injured list Sunday, retroactive to Sept. 24, with a right shoulder strain."
+      },
+      {
+        "team": null,
+        "player": "Johan Oviedo",
+        "status": "60-Day-IL",
+        "detail": "Ovideo (elbow) allowed one run on two hits and one walk while striking out four for Triple-A Worcester on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Anthony Seigler",
+        "status": "10-Day-IL",
+        "detail": "The Red Sox placed Seigler on the 10-day injured list Sunday due to right wrist inflammation."
+      },
+      {
+        "team": null,
+        "player": "Kristian Campbell",
+        "status": "Day-To-Day",
+        "detail": "Campbell was placed on the 7-day injured list at Triple-A Worcester on Thursday with a left foot contusion, Chris Cotillo of MassLive.com reports."
+      },
+      {
+        "team": null,
+        "player": "Kutter Crawford",
+        "status": "60-Day-IL",
+        "detail": "Crawford (forearm) is expected to remain on the injured list for the rest of the season, Jen McCaffrey of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "Eduardo Rivera",
+        "status": "60-Day-IL",
+        "detail": "The Red Sox recalled Rivera from Triple-A Worcester and placed him on the 60-day injured list Tuesday due to a lumbar strain."
+      },
+      {
+        "team": null,
+        "player": "Masataka Yoshida",
+        "status": "10-Day-IL",
+        "detail": "Interim manager Chad Tracy revealed Tuesday that Yoshida has a \"significant\" left hamstring injury that will keep him out until close to the end of the season, at minimum, Tim Healey of The Boston Globe reports."
+      },
+      {
+        "team": null,
+        "player": "Triston Casas",
+        "status": "60-Day-IL",
+        "detail": "Casas (abdomen/knee) underwent arthroscopic surgery on his left wrist Thursday."
+      },
+      {
+        "team": null,
+        "player": "Zack Kelly",
+        "status": "60-Day-IL",
+        "detail": "The Red Sox recalled Kelly (elbow) from Triple-A Worcester and placed him on the 60-day injured list Tuesday, Tim Healey of The Boston Globe reports."
+      },
+      {
+        "team": null,
+        "player": "Justin Steele",
+        "status": "60-Day-IL",
+        "detail": "Steele (elbow) is not on the Cubs' roster for their wild-card series versus the Padres, Meghan Montemurro of the Chicago Tribune reports."
+      },
+      {
+        "team": null,
+        "player": "Edward Cabrera",
+        "status": "Bereavement",
+        "detail": "The Cubs placed Cabrera on the family medical emergency list Friday, Meghan Montemurro of the Chicago Tribune reports."
+      },
+      {
+        "team": null,
+        "player": "Shelby Miller",
+        "status": "60-Day-IL",
+        "detail": "Manager Craig Counsell said Tuesday that the Cubs have shut down Miller's (elbow) rehab, Meghan Montemurro of the Chicago Tribune reports."
+      },
+      {
+        "team": null,
+        "player": "Trent Thornton",
+        "status": "15-Day-IL",
+        "detail": "Thornton (5-4) worked around a walk to pitch a scoreless inning of relief and earn the win in Thursday's 3-2, extra-innings victory over the Blue Jays. He struck out one."
+      },
+      {
+        "team": null,
+        "player": "Ben Brown",
+        "status": "60-Day-IL",
+        "detail": "Brown (neck) has been ruled out for the remainder of the season, Taylor McGregor of Marquee Sports Network reports."
+      },
+      {
+        "team": null,
+        "player": "Phil Maton",
+        "status": "60-Day-IL",
+        "detail": "The Cubs transferred Maton (knee) to the 60-day injured list Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Riley Martin",
+        "status": "60-Day-IL",
+        "detail": "Cubs manager Craig Counsell said Wednesday that Martin (elbow) has been ruled out for the remainder of the season, Meghan Montemurro of the Chicago Tribune reports."
+      },
+      {
+        "team": null,
+        "player": "Hunter Harvey",
+        "status": "60-Day-IL",
+        "detail": "Cubs manager Craig Counsell said Wednesday that Harvey's (triceps/shoulder) rehab hasn't come along as hoped, Meghan Montemurro of the Chicago Tribune reports."
+      },
+      {
+        "team": null,
+        "player": "Porter Hodge",
+        "status": "60-Day-IL",
+        "detail": "The Cubs transferred Hodge (elbow) to the 60-day injured list Friday, Taylor McGregor of Marquee Sports Network reports."
+      },
+      {
+        "team": null,
+        "player": "Cade Horton",
+        "status": "60-Day-IL",
+        "detail": "The Cubs transferred Horton (elbow) to the 60-day injured list Saturday, Andy Martinez of Marquee Sports Network reports."
+      },
+      {
+        "team": null,
+        "player": "Tyler Austin",
+        "status": "60-Day-IL",
+        "detail": "The Cubs placed Austin (knee) on the 60-day injured list Tuesday."
+      },
+      {
+        "team": null,
+        "player": "Jake Rogers",
+        "status": "paternity",
+        "detail": "The White Sox placed Rogers on the paternity list Saturday."
+      },
+      {
+        "team": null,
+        "player": "Luis Castillo",
+        "status": "15-Day-IL",
+        "detail": "The White Sox placed Castillo on the 15-day injured list Thursday with a right shoulder impingement."
+      },
+      {
+        "team": null,
+        "player": "Prelander Berroa",
+        "status": "60-Day-IL",
+        "detail": "Berroa (elbow) is scheduled to begin throwing off a mound next week, Scott Merkin of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Ky Bush",
+        "status": "60-Day-IL",
+        "detail": "Bush (elbow) has been shut down for the 2026 season due to a strained left lat, Scott Merkin of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Jordan Leasure",
+        "status": "60-Day-IL",
+        "detail": "Leasure underwent surgery to repair a torn UCL in August, James Fegan of the Chicago Sun-Times reports."
+      },
+      {
+        "team": null,
+        "player": "Joey Bart",
+        "status": "10-Day-IL",
+        "detail": "White Sox general manager Chris Getz said Friday that Bart is expected to be sidelined for \"over a month\" due to a left hand fracture, James Fegan of SoxMachine.com reports."
+      },
+      {
+        "team": null,
+        "player": "Mike Vasil",
+        "status": "60-Day-IL",
+        "detail": "The White Sox transferred Vasil (elbow) from the 15-day injured list to the 60-day IL on Tuesday."
+      },
+      {
+        "team": null,
+        "player": "Tanner Murray",
+        "status": "60-Day-IL",
+        "detail": "The White Sox transferred Murray (shoulder) to the 60-day injured list Monday."
+      },
+      {
+        "team": null,
+        "player": "Brooks Baldwin",
+        "status": "60-Day-IL",
+        "detail": "The White Sox transferred Baldwin (elbow) from the 10-day injured list to the 60-day IL on Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Tony Santillan",
+        "status": "15-Day-IL",
+        "detail": "Santillan will undergo surgery Thursday to repair a left hip labral tear, Gordon Wittenmyer of The Cincinnati Enquirer reports."
+      },
+      {
+        "team": null,
+        "player": "Spencer Steer",
+        "status": "60-Day-IL",
+        "detail": "Steer will undergo right wrist surgery next Wednesday, Gordon Wittenmyer of the Cincinnati Enquirer reports."
+      }
+    ],
+    "wnba": [
+      {
+        "team": null,
+        "player": "Matilde Villa",
+        "status": "Out",
+        "detail": "Villa (coach's decision) has been ruled out for Wednesday's game against New York."
+      },
+      {
+        "team": null,
+        "player": "Brionna Jones",
+        "status": "Out",
+        "detail": "Jones will miss the remainder of the season after sustaining a left leg injury against the Sun on Aug. 13, Annie Costabile of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "DiJonai Carrington",
+        "status": "Out",
+        "detail": "Carrington (foot) has been ruled out for Thursday's game against the Mystics."
+      },
+      {
+        "team": null,
+        "player": "Aicha Coulibaly",
+        "status": "Out",
+        "detail": "Coulibaly (knee) is out for Thursday's game against the Mystics"
+      },
+      {
+        "team": null,
+        "player": "Azura Stevens",
+        "status": "Out",
+        "detail": "Stevens (knee) is out for Thursday's game against the Mystics"
+      },
+      {
+        "team": null,
+        "player": "Natasha Cloud",
+        "status": "Out",
+        "detail": "Cloud (knee) is out for Thursday's game against the Mystics."
+      },
+      {
+        "team": null,
+        "player": "Skylar Diggins",
+        "status": "Out",
+        "detail": "Diggins (knee) will miss the remainder of the 2026 WNBA season, Sara Jane Gamelli of BallisLife.com reports."
+      },
+      {
+        "team": null,
+        "player": "Rickea Jackson",
+        "status": "Out",
+        "detail": "The Sky announced Tuesday that Jackson will miss the remainder of the season after suffering a torn ACL in her left knee during Sunday's 86-79 win over the Lynx."
+      },
+      {
+        "team": null,
+        "player": "Rayah Marshall",
+        "status": "Out",
+        "detail": "Marshall has been ruled out for the remainder of Thursday's game against the Tempo due to a right knee injury."
+      },
+      {
+        "team": null,
+        "player": "Olivia Nelson-Ododa",
+        "status": "Out",
+        "detail": "Nelson-Ododa (knee) is out for Thursday's game against the Tempo."
+      },
+      {
+        "team": null,
+        "player": "Saniya Rivers",
+        "status": "Out",
+        "detail": "Rivers (ankle) is out for Thursday's game against the Tempo."
+      },
+      {
+        "team": null,
+        "player": "Brittney Griner",
+        "status": "Out",
+        "detail": "Griner (knee) is out for Thursday's game against the Tempo."
+      },
+      {
+        "team": null,
+        "player": "Kennedy Burke",
+        "status": "Out",
+        "detail": "The Sun announced Monday that Burke suffered a sprained AC joint in the FIBA World Cup and will miss the rest of the season."
+      },
+      {
+        "team": null,
+        "player": "Alanna Smith",
+        "status": "Out",
+        "detail": "Smith (lower leg) has been ruled out for Game 2 of the first round of the playoffs against the Valkyries on Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Azzi Fudd",
+        "status": "Out",
+        "detail": "Fudd will undergo an arthroscopic procedure to address her right knee soreness and will be sidelined for the remainder of the 2026 season."
+      },
+      {
+        "team": null,
+        "player": "Costanza Verona",
+        "status": "Out",
+        "detail": "Verona's contract was temporarily suspended by the Wings Saturday."
+      },
+      {
+        "team": null,
+        "player": "Iliana Rupert",
+        "status": "Out",
+        "detail": "Rupert is pregnant, and the Valkyries have filed for a replacement contract ahead of the 2026 season, Alexa Philippou of ESPN.com reports Thursday."
+      },
+      {
+        "team": null,
+        "player": "Caitlin Clark",
+        "status": "Day-To-Day",
+        "detail": "Clark (back) is listed as probable for Game 3 of the first round of the playoffs against the Aces on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Aliyah Boston",
+        "status": "Day-To-Day",
+        "detail": "Boston (leg) is listed as probable for Game 3 of the first round playoff series versus the Aces on Thursday."
+      },
+      {
+        "team": null,
+        "player": "Tyasha Harris",
+        "status": "Out",
+        "detail": "Harris (leg) will miss the rest of the season, WNBA reporter Kareem Copeland reports."
+      },
+      {
+        "team": null,
+        "player": "Dana Evans",
+        "status": "Out",
+        "detail": "Evans (knee) is listed as out for Game 3 of the first round playoff series versus Indiana."
+      },
+      {
+        "team": null,
+        "player": "NaLyssa Smith",
+        "status": "Out",
+        "detail": "The Aces announced Thursday that Smith will be sidelined for the rest of the season after suffering a non-contact left leg injury during Sunday's game versus the Tempo, per Chelsea Leite of TSN."
+      },
+      {
+        "team": null,
+        "player": "Ndjakalenga Mwenentanda",
+        "status": "Out",
+        "detail": "Mwenentanda (coach's decision) has been ruled out for Thursday's game against Golden State."
+      },
+      {
+        "team": null,
+        "player": "Shyanne Sellers",
+        "status": "Out",
+        "detail": "Sellers (coach's decision) is out for Thursday's game against the Valkyries."
+      },
+      {
+        "team": null,
+        "player": "Cameron Brink",
+        "status": "Out",
+        "detail": "Brink (ankle) is listed as out for Thursday's game against Golden State."
+      },
+      {
+        "team": null,
+        "player": "Aaliyah Nye",
+        "status": "Out",
+        "detail": "Nye (ankle) has been ruled out for Thursday's game against Golden State."
+      },
+      {
+        "team": null,
+        "player": "Anastasiia Olairi Kosu",
+        "status": "Out",
+        "detail": "Kosu (foot) has been ruled out for Tuesday's Game 2 of the first round of the playoffs against the Liberty."
+      },
+      {
+        "team": null,
+        "player": "Elena Buenavida",
+        "status": "Out",
+        "detail": "Buenavida (coach's decision) is out for Thursday's game against the Fever."
+      },
+      {
+        "team": null,
+        "player": "Satou Sabally",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Elizabeth Balogun",
+        "status": "Out",
+        "detail": "Balogun (not with team) is out for Wednesday's game against the Dream."
+      },
+      {
+        "team": null,
+        "player": "Kara Dunn",
+        "status": "Out",
+        "detail": "Dunn (coach's decision) is listed as out for Thursday's game against the Aces."
+      },
+      {
+        "team": null,
+        "player": "Kelsey Plum",
+        "status": "Out",
+        "detail": "Plum (leg) will miss the remainder of the 2026 WNBA season, Alexa Philippou of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Jovana Nogic",
+        "status": "Out",
+        "detail": "Nogic (not injury related) intends to play professionally in Russia and won't return to Phoenix this season, Aya Abdeen of TheIXSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Holly Winterburn",
+        "status": "Out",
+        "detail": "Winterburn (back) has been ruled out for Tuesday's game against Golden State."
+      },
+      {
+        "team": null,
+        "player": "Nyadiew Puoch",
+        "status": "Out",
+        "detail": "Puoch (knee) is listed as out for Tuesday's game against Golden State."
+      },
+      {
+        "team": null,
+        "player": "Teja Oblak",
+        "status": "Out",
+        "detail": "Oblak (knee) has been ruled out for Tuesday's game against the Valkyries."
+      },
+      {
+        "team": null,
+        "player": "Luisa Geiselsoder",
+        "status": "Out",
+        "detail": "Geiselsoder (personal) won't return this season, according to Sean Highkin of RoseGardenReport.com."
+      },
+      {
+        "team": null,
+        "player": "Sarah Ashlee Barker",
+        "status": "Out",
+        "detail": "The Fire announced Friday that Barker will undergo surgery to repair a torn ACL and will miss the remainder of the 2026 campaign."
+      },
+      {
+        "team": null,
+        "player": "Sania Feagin",
+        "status": "Out",
+        "detail": "Feagin (knee) was diagnosed with a torn left ACL on Thursday and will miss the rest of the 2026 campaign, WNBA reporter Kareem Copeland reports."
+      },
+      {
+        "team": null,
+        "player": "Taina Mair",
+        "status": "Out",
+        "detail": "Mair (coach's decision) has been ruled out for Wednesday's game against the Wings."
+      },
+      {
+        "team": null,
+        "player": "Zia Cooke",
+        "status": "Out",
+        "detail": "Cooke (knee) has been ruled out for Wednesday's game against Dallas."
+      },
+      {
+        "team": null,
+        "player": "Katie Lou Samuelson",
+        "status": "Out",
+        "detail": "The Storm announced Friday that Samuelson underwent successful left knee surgery and will miss the remainder of the season."
+      },
+      {
+        "team": null,
+        "player": "Ezi Magbegor",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Kamila Borkowska",
+        "status": "Out",
+        "detail": "Borkowska (coach's decision) is out for Thursday's game against the Sun."
+      },
+      {
+        "team": null,
+        "player": "Maria Gakdeng",
+        "status": "Out",
+        "detail": "Gakdeng is out for Thursday's game against the Sun as a coach's decision."
+      },
+      {
+        "team": null,
+        "player": "Maria Conde",
+        "status": "Out",
+        "detail": "Conde (back) is out for Thursday's game against the Sun."
+      },
+      {
+        "team": null,
+        "player": "Temi Fagbenle",
+        "status": "Out",
+        "detail": "Fagbenle (personal) is out for Thursday's game against the Sun."
+      },
+      {
+        "team": null,
+        "player": "Marina Mabrey",
+        "status": "Out",
+        "detail": "Mabrey (hip) will miss the final four games of the 2026 season, Zulfi Sheikh of Sportsnet reports."
+      },
+      {
+        "team": null,
+        "player": "Aneesah Morrow",
+        "status": "Out",
+        "detail": "Morrow (knee) will miss the rest of the 2026 season, Chelsea Leite of TSN reports."
+      },
+      {
+        "team": null,
+        "player": "Brittney Sykes",
+        "status": "Out",
+        "detail": "Sykes (foot) will miss the remainder of the 2026 season, Chelsea Leite of TSN reports."
+      }
+    ]
   },
   "closeArchive": {
     "count": 299
@@ -7803,20 +9726,245 @@
       }
     ]
   },
-  "nflPenalties": null,
+  "nflPenalties": {
+    "note": "team list ready; penalty totals attach when ESPN team stats include them",
+    "teams": [
+      {
+        "name": "Arizona Cardinals",
+        "abbr": "ARI",
+        "id": "22"
+      },
+      {
+        "name": "Atlanta Falcons",
+        "abbr": "ATL",
+        "id": "1"
+      },
+      {
+        "name": "Baltimore Ravens",
+        "abbr": "BAL",
+        "id": "33"
+      },
+      {
+        "name": "Buffalo Bills",
+        "abbr": "BUF",
+        "id": "2"
+      },
+      {
+        "name": "Carolina Panthers",
+        "abbr": "CAR",
+        "id": "29"
+      },
+      {
+        "name": "Chicago Bears",
+        "abbr": "CHI",
+        "id": "3"
+      },
+      {
+        "name": "Cincinnati Bengals",
+        "abbr": "CIN",
+        "id": "4"
+      },
+      {
+        "name": "Cleveland Browns",
+        "abbr": "CLE",
+        "id": "5"
+      },
+      {
+        "name": "Dallas Cowboys",
+        "abbr": "DAL",
+        "id": "6"
+      },
+      {
+        "name": "Denver Broncos",
+        "abbr": "DEN",
+        "id": "7"
+      },
+      {
+        "name": "Detroit Lions",
+        "abbr": "DET",
+        "id": "8"
+      },
+      {
+        "name": "Green Bay Packers",
+        "abbr": "GB",
+        "id": "9"
+      },
+      {
+        "name": "Houston Texans",
+        "abbr": "HOU",
+        "id": "34"
+      },
+      {
+        "name": "Indianapolis Colts",
+        "abbr": "IND",
+        "id": "11"
+      },
+      {
+        "name": "Jacksonville Jaguars",
+        "abbr": "JAX",
+        "id": "30"
+      },
+      {
+        "name": "Kansas City Chiefs",
+        "abbr": "KC",
+        "id": "12"
+      },
+      {
+        "name": "Las Vegas Raiders",
+        "abbr": "LV",
+        "id": "13"
+      },
+      {
+        "name": "Los Angeles Chargers",
+        "abbr": "LAC",
+        "id": "24"
+      },
+      {
+        "name": "Los Angeles Rams",
+        "abbr": "LAR",
+        "id": "14"
+      },
+      {
+        "name": "Miami Dolphins",
+        "abbr": "MIA",
+        "id": "15"
+      },
+      {
+        "name": "Minnesota Vikings",
+        "abbr": "MIN",
+        "id": "16"
+      },
+      {
+        "name": "New England Patriots",
+        "abbr": "NE",
+        "id": "17"
+      },
+      {
+        "name": "New Orleans Saints",
+        "abbr": "NO",
+        "id": "18"
+      },
+      {
+        "name": "New York Giants",
+        "abbr": "NYG",
+        "id": "19"
+      },
+      {
+        "name": "New York Jets",
+        "abbr": "NYJ",
+        "id": "20"
+      },
+      {
+        "name": "Philadelphia Eagles",
+        "abbr": "PHI",
+        "id": "21"
+      },
+      {
+        "name": "Pittsburgh Steelers",
+        "abbr": "PIT",
+        "id": "23"
+      },
+      {
+        "name": "San Francisco 49ers",
+        "abbr": "SF",
+        "id": "25"
+      },
+      {
+        "name": "Seattle Seahawks",
+        "abbr": "SEA",
+        "id": "26"
+      },
+      {
+        "name": "Tampa Bay Buccaneers",
+        "abbr": "TB",
+        "id": "27"
+      },
+      {
+        "name": "Tennessee Titans",
+        "abbr": "TEN",
+        "id": "10"
+      },
+      {
+        "name": "Washington Commanders",
+        "abbr": "WSH",
+        "id": "28"
+      }
+    ]
+  },
   "pitchers": [
     {
       "eventId": "849844",
       "homeTeam": "Atlanta Braves",
-      "homePitcher": null,
+      "homePitcher": "Ray Kerr",
       "awayTeam": "Philadelphia Phillies",
       "awayPitcher": "Aaron Nola"
     }
   ],
-  "tennis": null,
-  "wnbaRest": null,
+  "tennis": {
+    "atp": {
+      "leagueName": "ATP",
+      "events": [
+        {
+          "name": "Kinoshita Group Japan Open Tennis Championships",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        },
+        {
+          "name": "China Open",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        }
+      ]
+    },
+    "wta": {
+      "leagueName": "WTA",
+      "events": [
+        {
+          "name": "Jingshan Tennis Open",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        },
+        {
+          "name": "Adana Open",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        },
+        {
+          "name": "China Open",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        }
+      ]
+    }
+  },
+  "wnbaRest": {
+    "events": [
+      {
+        "name": "IND @ LV",
+        "start": "2026-10-02T01:00Z",
+        "id": "401918022"
+      }
+    ],
+    "rest": [
+      {
+        "team": "Las Vegas Aces",
+        "gamesOnBoard": 1,
+        "backToBackLikely": false
+      },
+      {
+        "team": "Indiana Fever",
+        "gamesOnBoard": 1,
+        "backToBackLikely": false
+      }
+    ]
+  },
   "splitsHistory": {
-    "splitsKeys": 2287,
-    "gameFiles": 2174
+    "splitsKeys": 2289,
+    "gameFiles": 2176
   }
 }
