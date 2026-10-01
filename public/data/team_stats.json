@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-01T00:46:21.982001+00:00",
+  "pulled_at": "2026-10-01T07:00:24.802124+00:00",
   "leagues": {
     "nfl": {
       "ok": false,
@@ -18,7 +18,7 @@
     },
     "mlb": {
       "ok": true,
-      "count": 3,
+      "count": 1,
       "source": "statsapi.mlb.com",
       "games": [
         {
@@ -26,7 +26,7 @@
           "eventId": "849844",
           "name": "Philadelphia Phillies at Atlanta Braves",
           "status": "Scheduled",
-          "start": "2026-10-01T18:00:00Z",
+          "start": "2026-10-02T00:00:00Z",
           "teams": [
             {
               "side": "away",
@@ -39,50 +39,6 @@
               "name": "Atlanta Braves",
               "score": null,
               "record": "1-1"
-            }
-          ],
-          "source": "statsapi.mlb.com"
-        },
-        {
-          "league": "mlb",
-          "eventId": "849847",
-          "name": "Boston Red Sox at New York Yankees",
-          "status": "Scheduled",
-          "start": "2026-10-02T00:00:00Z",
-          "teams": [
-            {
-              "side": "away",
-              "name": "Boston Red Sox",
-              "score": null,
-              "record": "0-1"
-            },
-            {
-              "side": "home",
-              "name": "New York Yankees",
-              "score": null,
-              "record": "1-0"
-            }
-          ],
-          "source": "statsapi.mlb.com"
-        },
-        {
-          "league": "mlb",
-          "eventId": "849840",
-          "name": "Chicago Cubs at San Diego Padres",
-          "status": "Scheduled",
-          "start": "2026-10-02T02:00:00Z",
-          "teams": [
-            {
-              "side": "away",
-              "name": "Chicago Cubs",
-              "score": null,
-              "record": "0-1"
-            },
-            {
-              "side": "home",
-              "name": "San Diego Padres",
-              "score": null,
-              "record": "1-0"
             }
           ],
           "source": "statsapi.mlb.com"

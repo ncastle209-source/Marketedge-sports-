@@ -7,22 +7,6 @@
       "plateUmpire": null,
       "crew": [],
       "status": "Scheduled"
-    },
-    {
-      "eventId": "849847",
-      "home": "New York Yankees",
-      "away": "Boston Red Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
-    },
-    {
-      "eventId": "849840",
-      "home": "San Diego Padres",
-      "away": "Chicago Cubs",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
     }
   ],
   "savant": [
@@ -30,16 +14,6 @@
       "gamePk": 849844,
       "status": "S",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849844"
-    },
-    {
-      "gamePk": 849847,
-      "status": "S",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849847"
-    },
-    {
-      "gamePk": 849840,
-      "status": "S",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849840"
     }
   ],
   "weather": null,
@@ -7837,26 +7811,12 @@
       "homePitcher": null,
       "awayTeam": "Philadelphia Phillies",
       "awayPitcher": null
-    },
-    {
-      "eventId": "849847",
-      "homeTeam": "New York Yankees",
-      "homePitcher": "Gerrit Cole",
-      "awayTeam": "Boston Red Sox",
-      "awayPitcher": "Ranger Suarez"
-    },
-    {
-      "eventId": "849840",
-      "homeTeam": "San Diego Padres",
-      "homePitcher": null,
-      "awayTeam": "Chicago Cubs",
-      "awayPitcher": null
     }
   ],
   "tennis": null,
   "wnbaRest": null,
   "splitsHistory": {
-    "splitsKeys": 2253,
-    "gameFiles": 2140
+    "splitsKeys": 2257,
+    "gameFiles": 2144
   }
 }
