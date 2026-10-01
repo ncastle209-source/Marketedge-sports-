@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-01T19:47:11.653859+00:00",
+  "pulled_at": "2026-10-01T23:48:50.531326+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -756,23 +756,249 @@
           "league": "mlb",
           "eventId": "849844",
           "name": "Philadelphia Phillies at Atlanta Braves",
-          "status": "Scheduled",
+          "status": "Warmup",
           "start": "2026-10-02T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Philadelphia Phillies",
-              "score": null,
+              "score": 0,
               "record": "1-1"
             },
             {
               "side": "home",
               "name": "Atlanta Braves",
-              "score": null,
+              "score": 0,
               "record": "1-1"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "849844",
+            "players": [
+              {
+                "player": "Justin Crawford",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bryan De La Cruz",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bryce Harper",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "J.T. Realmuto",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Edmundo Sosa",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Alec Bohm",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Bryson Stott",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Kyle Schwarber",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Aaron Nola",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Trea Turner",
+                "team": "Philadelphia Phillies",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Michael Harris II",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Mauricio Dub\u00f3n",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Drake Baldwin",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Matt Olson",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Dominic Smith",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ronald Acu\u00f1a Jr.",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Ray Kerr",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Ozzie Albies",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Austin Riley",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Mike Yastrzemski",
+                "team": "Atlanta Braves",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         }
       ]
     }

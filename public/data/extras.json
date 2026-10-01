@@ -4,15 +4,40 @@
       "eventId": "849844",
       "home": "Atlanta Braves",
       "away": "Philadelphia Phillies",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Mark Ripperger",
+      "crew": [
+        {
+          "name": "Mark Ripperger",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jordan Baker",
+          "type": "First Base"
+        },
+        {
+          "name": "Nestor Ceja",
+          "type": "Second Base"
+        },
+        {
+          "name": "Charlie Ramos",
+          "type": "Third Base"
+        },
+        {
+          "name": "Dan Merzel",
+          "type": "Left Field"
+        },
+        {
+          "name": "Adam Beck",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Warmup"
     }
   ],
   "savant": [
     {
       "gamePk": 849844,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849844"
     }
   ],
@@ -21,7 +46,7 @@
       "league": "nfl",
       "name": "PIT @ CLE",
       "temp": 79,
-      "condition": "7",
+      "condition": "36",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -80,7 +105,7 @@
     {
       "league": "nfl",
       "name": "JAX @ CIN",
-      "temp": 66,
+      "temp": 68,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -100,7 +125,7 @@
     {
       "league": "nfl",
       "name": "ARI @ NYG",
-      "temp": 66,
+      "temp": 65,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -140,7 +165,7 @@
     {
       "league": "nfl",
       "name": "GB @ TB",
-      "temp": 87,
+      "temp": 88,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -180,7 +205,7 @@
     {
       "league": "nfl",
       "name": "DAL @ HOU",
-      "temp": 78,
+      "temp": 79,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -220,7 +245,7 @@
     {
       "league": "nfl",
       "name": "KC @ LV",
-      "temp": 92,
+      "temp": 93,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -260,7 +285,7 @@
     {
       "league": "nfl",
       "name": "LAC @ SEA",
-      "temp": 67,
+      "temp": 66,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -280,7 +305,7 @@
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 65,
+      "temp": 66,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -360,7 +385,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ HOU",
-      "temp": 83,
+      "temp": 82,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -400,7 +425,7 @@
     {
       "league": "ncaaf",
       "name": "VAN @ UGA",
-      "temp": 78,
+      "temp": 79,
       "condition": "16",
       "gust": null,
       "wind": {
@@ -440,7 +465,7 @@
     {
       "league": "ncaaf",
       "name": "FLA @ MIZ",
-      "temp": 70,
+      "temp": 72,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -460,7 +485,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ TENN",
-      "temp": 76,
+      "temp": 79,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -480,7 +505,7 @@
     {
       "league": "ncaaf",
       "name": "UK @ SC",
-      "temp": 83,
+      "temp": 82,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -520,7 +545,7 @@
     {
       "league": "ncaaf",
       "name": "MIA @ CLEM",
-      "temp": 78,
+      "temp": 77,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -620,7 +645,7 @@
     {
       "league": "ncaaf",
       "name": "IU @ RUTG",
-      "temp": 65,
+      "temp": 64,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -641,7 +666,7 @@
       "league": "mlb",
       "name": "PHI @ ATL",
       "temp": 79,
-      "condition": "34",
+      "condition": "33",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -675,7 +700,7 @@
       {
         "team": null,
         "player": "Mack Wilson Sr.",
-        "status": "Questionable",
+        "status": "Active",
         "detail": "Wilson (thumb) was a limited participant in Arizona's practice Wednesday, Tyler Drake of ArizonaSports.com reports."
       },
       {
@@ -809,6 +834,12 @@
         "player": "Isaiah Adams",
         "status": "Active",
         "detail": "Adams (knee) is active for Sunday's game against the Seahawks."
+      },
+      {
+        "team": null,
+        "player": "Divine Deablo",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
@@ -956,51 +987,45 @@
       },
       {
         "team": null,
-        "player": "C.J. Henderson",
-        "status": "Active",
-        "detail": "Henderson is expected to step into a starting role at cornerback in Week 3, Tori McElhaney of the Falcons' official website reports."
-      },
-      {
-        "team": null,
         "player": "Chris Moore",
         "status": "Questionable",
         "detail": "questionable"
       },
       {
         "team": null,
+        "player": "Durham Smythe",
+        "status": "Active",
+        "detail": "Smythe (heel) was a full participant in Thursday's practice."
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Active",
+        "detail": "Flowers (hamstring) was a full participant at Thursday's practice, Jamison Hensley of ESPN.com reports."
+      },
+      {
+        "team": null,
         "player": "Lamar Jackson",
-        "status": "Questionable",
-        "detail": "Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports."
+        "status": "Active",
+        "detail": "Jackson (back) was a full participant at Thursday's practice."
+      },
+      {
+        "team": null,
+        "player": "John Simpson",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
         "player": "Jovaughn Gwyn",
         "status": "Out",
         "detail": "Gwyn was diagnosed with a fractured fibula that will likely require surgery, Jamison Hensley of ESPN.com reports."
-      },
-      {
-        "team": null,
-        "player": "Durham Smythe",
-        "status": "Questionable",
-        "detail": "Smythe (heel) was a limited participant in Wednesday's practice."
-      },
-      {
-        "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (hamstring) was limited in Wednesday's practice, Sam Cohn of The Baltimore Sun reports."
-      },
-      {
-        "team": null,
-        "player": "John Simpson",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Marlon Humphrey",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -1035,6 +1060,12 @@
       {
         "team": null,
         "player": "K'Von Wallace",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Carl Jones",
         "status": "Active",
         "detail": ""
       },
@@ -1106,39 +1137,33 @@
       },
       {
         "team": null,
-        "player": "Devontez Walker",
-        "status": "Active",
-        "detail": "Walker caught one of his two targets for 47 yards in Sunday's 24-17 loss to the Saints."
+        "player": "Christian Benford",
+        "status": "Questionable",
+        "detail": "Benford (toe) did not participate in practice Wednesday or Thursday."
       },
       {
         "team": null,
-        "player": "C.J. Gardner-Johnson",
-        "status": "Active",
-        "detail": "Gardner-Johnson logged five tackles (three solo) and two passes defensed, including one interception, in the Bills' 24-16 win over the Chargers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Greg Rousseau",
-        "status": "Active",
-        "detail": "Rousseau logged eight tackles (five solo), including 2.0 sacks, in the Bills' 24-16 win over the Chargers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Ar'maj Reed-Adams",
-        "status": "Active",
-        "detail": "Reed-Adams (elbow) was a full participant in Wednesday's practice."
+        "player": "T.J. Sanders",
+        "status": "Questionable",
+        "detail": "Sanders (appendix) was a limited practice participant Thursday."
       },
       {
         "team": null,
         "player": "Keon Coleman",
         "status": "Questionable",
-        "detail": "Coleman (ankle) did not practice Wednesday."
+        "detail": "Coleman (ankle) was a limited participant in Thursday's practice."
+      },
+      {
+        "team": null,
+        "player": "Sam Franklin Jr.",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
         "player": "Deone Walker",
-        "status": "Questionable",
-        "detail": "questionable"
+        "status": "Active",
+        "detail": ""
       }
     ],
     "ncaaf": [
@@ -1763,6 +1788,12 @@
         "player": "Tyasha Harris",
         "status": "Out",
         "detail": "Harris (leg) will miss the rest of the season, WNBA reporter Kareem Copeland reports."
+      },
+      {
+        "team": null,
+        "player": "Stephanie Talbot",
+        "status": "Day-To-Day",
+        "detail": "Talbot (leg) will be a true game-time decision for Game 3 of the first round of the playoffs against the Fever on Thursday, WNBA reporter Kareem Copeland reports."
       },
       {
         "team": null,
