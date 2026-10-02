@@ -35,7 +35,7 @@
     {
       "league": "nfl",
       "name": "NYJ @ CHI",
-      "temp": 67,
+      "temp": 66,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -55,7 +55,7 @@
     {
       "league": "nfl",
       "name": "JAX @ CIN",
-      "temp": 68,
+      "temp": 69,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -155,7 +155,7 @@
     {
       "league": "nfl",
       "name": "DAL @ HOU",
-      "temp": 79,
+      "temp": 80,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -235,7 +235,7 @@
     {
       "league": "nfl",
       "name": "LAC @ SEA",
-      "temp": 67,
+      "temp": 66,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -255,7 +255,7 @@
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 66,
+      "temp": 64,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -276,7 +276,7 @@
       "league": "nfl",
       "name": "ATL @ NO",
       "temp": 79,
-      "condition": "15",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -295,7 +295,7 @@
     {
       "league": "ncaaf",
       "name": "ND @ UNC",
-      "temp": 76,
+      "temp": 75,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -315,8 +315,8 @@
     {
       "league": "ncaaf",
       "name": "ALA @ MSST",
-      "temp": 81,
-      "condition": "4",
+      "temp": 79,
+      "condition": "16",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -335,8 +335,8 @@
     {
       "league": "ncaaf",
       "name": "UCF @ HOU",
-      "temp": 83,
-      "condition": "6",
+      "temp": 80,
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -356,7 +356,7 @@
       "league": "ncaaf",
       "name": "BC @ SMU",
       "temp": 71,
-      "condition": "4",
+      "condition": "13",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -375,8 +375,8 @@
     {
       "league": "ncaaf",
       "name": "VAN @ UGA",
-      "temp": 80,
-      "condition": "16",
+      "temp": 78,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -435,8 +435,8 @@
     {
       "league": "ncaaf",
       "name": "AUB @ TENN",
-      "temp": 79,
-      "condition": "4",
+      "temp": 76,
+      "condition": "16",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -455,8 +455,8 @@
     {
       "league": "ncaaf",
       "name": "UK @ SC",
-      "temp": 81,
-      "condition": "7",
+      "temp": 79,
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -475,7 +475,7 @@
     {
       "league": "ncaaf",
       "name": "BYU @ TCU",
-      "temp": 71,
+      "temp": 72,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -495,8 +495,8 @@
     {
       "league": "ncaaf",
       "name": "MIA @ CLEM",
-      "temp": 77,
-      "condition": "16",
+      "temp": 75,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -515,7 +515,7 @@
     {
       "league": "ncaaf",
       "name": "TTU @ COLO",
-      "temp": 81,
+      "temp": 82,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -535,7 +535,7 @@
     {
       "league": "ncaaf",
       "name": "WASH @ USC",
-      "temp": 96,
+      "temp": 97,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -575,7 +575,7 @@
     {
       "league": "ncaaf",
       "name": "MCN @ LSU",
-      "temp": 78,
+      "temp": 79,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -614,13 +614,83 @@
     },
     {
       "league": "mlb",
-      "name": "PHI @ ATL",
-      "temp": null,
-      "condition": null,
+      "name": "CHW @ CLE",
+      "temp": 65,
+      "condition": "2",
       "gust": null,
-      "wind": null,
-      "city": "Atlanta",
-      "state": "Georgia"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=2&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Cleveland",
+      "state": "Ohio"
+    },
+    {
+      "league": "mlb",
+      "name": "ATL @ LAD",
+      "temp": 98,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "90090"
+        ],
+        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/hourly-weather-forecast/30524_poi?day=2&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Los Angeles",
+      "state": "California"
+    },
+    {
+      "league": "mlb",
+      "name": "NYY @ TB",
+      "temp": 84,
+      "condition": "16",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "33705"
+        ],
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=2&hbhhour=18&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "St. Petersburg",
+      "state": "Florida"
+    },
+    {
+      "league": "mlb",
+      "name": "SD @ MIL",
+      "temp": 55,
+      "condition": "34",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "53295"
+        ],
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=2&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Milwaukee",
+      "state": "Wisconsin"
     }
   ],
   "injuries": {
@@ -1393,15 +1463,15 @@
       },
       {
         "team": null,
-        "player": "Roman Anthony",
-        "status": "Out",
-        "detail": "Anthony will be removed from Boston's wild-card series roster after an MRI showed an aggravation of his previous right hand injury, as well as multiple new strains, Chris Cotillo of MassLive.com reports."
+        "player": "Mickey Gasper",
+        "status": "10-Day-IL",
+        "detail": "Gasper is expected to be sidelined 4-to-6 month after undergoing distal right biceps tendon surgery Friday, Tim Healey of The Boston Globe reports."
       },
       {
         "team": null,
-        "player": "Mickey Gasper",
-        "status": "10-Day-IL",
-        "detail": "Gasper will undergo surgery Friday to repair a torn right biceps, Rob Bradford of WEEI.com reports."
+        "player": "Roman Anthony",
+        "status": "Out",
+        "detail": "Anthony will be removed from Boston's wild-card series roster after an MRI showed an aggravation of his previous right hand injury, as well as multiple new strains, Chris Cotillo of MassLive.com reports."
       },
       {
         "team": null,
@@ -1597,15 +1667,15 @@
       },
       {
         "team": null,
-        "player": "Tony Santillan",
-        "status": "15-Day-IL",
-        "detail": "Santillan will undergo surgery Thursday to repair a left hip labral tear, Gordon Wittenmyer of The Cincinnati Enquirer reports."
+        "player": "Dane Myers",
+        "status": "Out",
+        "detail": "Reds president of baseball operations Nick Krall revealed Thursday that Myers recently underwent arthroscopic surgery to repair the AC joint in his left shoulder, Mike Petraglia of CLNSCincy.com reports."
       },
       {
         "team": null,
-        "player": "Spencer Steer",
-        "status": "60-Day-IL",
-        "detail": "Steer will undergo right wrist surgery next Wednesday, Gordon Wittenmyer of the Cincinnati Enquirer reports."
+        "player": "Tony Santillan",
+        "status": "15-Day-IL",
+        "detail": "Santillan will undergo surgery Thursday to repair a left hip labral tear, Gordon Wittenmyer of The Cincinnati Enquirer reports."
       }
     ],
     "wnba": [
@@ -9895,6 +9965,12 @@
           "surface": null,
           "venue": null,
           "status": "Final"
+        },
+        {
+          "name": "Suzhou Open",
+          "surface": null,
+          "venue": null,
+          "status": "Scheduled"
         }
       ]
     }
@@ -9921,7 +9997,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2291,
-    "gameFiles": 2178
+    "splitsKeys": 2303,
+    "gameFiles": 2190
   }
 }
