@@ -1003,15 +1003,21 @@
       },
       {
         "team": null,
-        "player": "Durham Smythe",
-        "status": "Active",
-        "detail": "Smythe (heel) was a full participant in Thursday's practice."
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (hamstring) is questionable for Sunday's game against the Titans after being limited in Friday's practice."
       },
       {
         "team": null,
-        "player": "Zay Flowers",
+        "player": "Trey Hendrickson",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Durham Smythe",
         "status": "Active",
-        "detail": "Flowers (hamstring) was a full participant at Thursday's practice, Jamison Hensley of ESPN.com reports."
+        "detail": "Smythe (heel) was a full participant in Thursday's practice."
       },
       {
         "team": null,
@@ -1036,12 +1042,6 @@
         "player": "Jovaughn Gwyn",
         "status": "Out",
         "detail": "Gwyn was diagnosed with a fractured fibula that will likely require surgery, Jamison Hensley of ESPN.com reports."
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -1147,33 +1147,33 @@
       },
       {
         "team": null,
-        "player": "Christian Benford",
-        "status": "Questionable",
-        "detail": "Benford (toe) did not participate in practice Wednesday or Thursday."
-      },
-      {
-        "team": null,
-        "player": "T.J. Sanders",
-        "status": "Questionable",
-        "detail": "Sanders (appendix) was a limited practice participant Thursday."
-      },
-      {
-        "team": null,
         "player": "Keon Coleman",
-        "status": "Questionable",
-        "detail": "Coleman (ankle) was a limited participant in Thursday's practice."
+        "status": "Active",
+        "detail": "Coleman (ankle) doesn't have an injury designation for Sunday's game against the Patriots."
       },
       {
         "team": null,
-        "player": "Sam Franklin Jr.",
-        "status": "Questionable",
-        "detail": "questionable"
+        "player": "DJ Moore",
+        "status": "Active",
+        "detail": "Moore (shoulder) was limited in Friday's practice but doesn't have an injury designation for Sunday's game against New England."
       },
       {
         "team": null,
-        "player": "Deone Walker",
+        "player": "Joe Andreessen",
         "status": "Active",
         "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Damar Hamlin",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Ray Davis",
+        "status": "Questionable",
+        "detail": "Davis (hamstring) is questionable for Sunday's game against the Patriots."
       }
     ],
     "ncaaf": [
@@ -1319,33 +1319,33 @@
       },
       {
         "team": null,
+        "player": "Lane Thomas",
+        "status": "10-Day-IL",
+        "detail": "Atlanta manager Walt Weiss said Friday that Thomas (intercostal) is a candidate to be added to the roster for the NLDS, Harrison Smajovits of SI.com reports."
+      },
+      {
+        "team": null,
+        "player": "Martin Perez",
+        "status": "15-Day-IL",
+        "detail": "Atlanta manager Walt Weiss said Friday that Perez (back) will not be available for the NLDS against the Dodgers, Aiden Stepansky of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Bryce Elder",
+        "status": "15-Day-IL",
+        "detail": "Atlanta manager Walt Weiss said Friday that Elder (knee) will not be available for the NLDS against the Dodgers, Aiden Stepansky of MLB.com reports."
+      },
+      {
+        "team": null,
         "player": "Tyler Mahle",
         "status": "Day-To-Day",
         "detail": "Atlanta manager Walt Weiss said after Game 2 of the NL Wild Card Series against the Phillies on Wednesday that Mahle suffered an abdominal injury while warming up and nearly didn't start as scheduled, Grant McAuley of the Marietta Daily Journal reports. The right-hander didn't factor in the decision, giving up one run on six hits with six strikeouts and one walk across seven innings."
       },
       {
         "team": null,
-        "player": "Lane Thomas",
-        "status": "10-Day-IL",
-        "detail": "Thomas (intercostal) will take batting practice at Truist Park on Wednesday, Jesus Cano of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Bryce Elder",
-        "status": "15-Day-IL",
-        "detail": "Elder (knee) threw a live batting practice session Monday, Mark Bowman of MLB.com reports."
-      },
-      {
-        "team": null,
         "player": "Hurston Waldrep",
         "status": "60-Day-IL",
         "detail": "Atlanta recalled Waldrep (elbow) from Triple-A Gwinnett on Thursday and placed him on the 60-day injured list."
-      },
-      {
-        "team": null,
-        "player": "Martin Perez",
-        "status": "15-Day-IL",
-        "detail": "Perez didn't factor into the decision Sunday against Houston, striking out two while allowing one run on six hits and two walks in 4.1 innings."
       },
       {
         "team": null,
@@ -9997,7 +9997,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2303,
-    "gameFiles": 2190
+    "splitsKeys": 2305,
+    "gameFiles": 2192
   }
 }

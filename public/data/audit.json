@@ -2,40 +2,6 @@
   "plays": [
     {
       "at": "2026-09-20T17:12:53.651067+00:00",
-      "gameId": "nfl-2h-denver-broncos-jacksonville-jaguars",
-      "matchup": "Denver Broncos vs. Jacksonville Jaguars",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "deficiency",
-      "lineTaken": null,
-      "closeLine": null,
-      "clv": null,
-      "tickets": 31.0,
-      "handle": 17.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-20T17:12:53.651067+00:00",
-      "gameId": "nfl-2h-dal-washington-commanders",
-      "matchup": "Dallas Cowboys vs. Washington Commanders",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "deficiency",
-      "lineTaken": null,
-      "closeLine": null,
-      "clv": null,
-      "tickets": 43.0,
-      "handle": 29.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-20T17:12:53.651067+00:00",
       "gameId": "nfl-2h-miami-dolphins-sf",
       "matchup": "Miami Dolphins vs. San Francisco 49Ers",
       "sport": "NFL",
@@ -13130,10 +13096,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-02T21:15:57.421670+00:00",
+      "gameId": "ncaaf-usu-bois",
+      "matchup": "Utah State Aggies vs. Boise State Broncos",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "doggies",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -18.5,
+      "modelSpread": -19.4,
+      "modelEdge": 0.9,
+      "sharpSide": "Boise State Broncos",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -20.5,
+      "clv": -2.0,
+      "tickets": 66.0,
+      "handle": 58.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-02T21:15:57.628385+00:00",
+      "gameId": "ncaaf-2h-usu-bois",
+      "matchup": "Utah State Aggies vs. Boise State Broncos",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "doggies",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -18.5,
+      "modelSpread": -19.4,
+      "modelEdge": 0.9,
+      "sharpSide": "Boise State Broncos",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 65.0,
+      "handle": 57.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-02T16:36:15.012252+00:00"
+  "updated": "2026-10-02T21:15:57.628385+00:00"
 }
