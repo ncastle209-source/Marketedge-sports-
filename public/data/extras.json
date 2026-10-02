@@ -1,64 +1,14 @@
 {
-  "umpires": [
-    {
-      "eventId": "849844",
-      "home": "Atlanta Braves",
-      "away": "Philadelphia Phillies",
-      "plateUmpire": "Mark Ripperger",
-      "crew": [
-        {
-          "name": "Mark Ripperger",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Jordan Baker",
-          "type": "First Base"
-        },
-        {
-          "name": "Nestor Ceja",
-          "type": "Second Base"
-        },
-        {
-          "name": "Charlie Ramos",
-          "type": "Third Base"
-        },
-        {
-          "name": "Dan Merzel",
-          "type": "Left Field"
-        },
-        {
-          "name": "Adam Beck",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Warmup"
-    }
-  ],
-  "savant": [
-    {
-      "gamePk": 849844,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849844"
-    }
-  ],
+  "umpires": [],
+  "savant": [],
   "weather": [
     {
       "league": "nfl",
       "name": "PIT @ CLE",
-      "temp": 79,
-      "condition": "36",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "44114"
-        ],
-        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Cleveland",
       "state": "OH"
     },
@@ -113,7 +63,7 @@
         "rel": [
           "45202"
         ],
-        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -133,7 +83,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -153,7 +103,7 @@
         "rel": [
           "19103"
         ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -173,7 +123,7 @@
         "rel": [
           "33607"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -193,7 +143,7 @@
         "rel": [
           "21230"
         ],
-        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -225,7 +175,7 @@
     {
       "league": "nfl",
       "name": "MIA @ MIN",
-      "temp": 63,
+      "temp": 65,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -313,7 +263,7 @@
         "rel": [
           "28202"
         ],
-        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/hourly-weather-forecast/53601_poi?day=4&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/hourly-weather-forecast/53601_poi?day=3&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -353,7 +303,7 @@
         "rel": [
           "27514"
         ],
-        "href": "http://www.accuweather.com/en/us/kenan-memorial-stadium-nc/27516/hourly-weather-forecast/53605_poi?day=3&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/kenan-memorial-stadium-nc/27516/hourly-weather-forecast/53605_poi?day=2&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -385,7 +335,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ HOU",
-      "temp": 82,
+      "temp": 84,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -433,7 +383,7 @@
         "rel": [
           "30602"
         ],
-        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=3&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=2&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -493,7 +443,7 @@
         "rel": [
           "37916"
         ],
-        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=3&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=2&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -513,7 +463,7 @@
         "rel": [
           "29201"
         ],
-        "href": "http://www.accuweather.com/en/us/williams-brice-stadium-sc/29201/hourly-weather-forecast/53635_poi?day=3&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/williams-brice-stadium-sc/29201/hourly-weather-forecast/53635_poi?day=2&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -553,7 +503,7 @@
         "rel": [
           "29634"
         ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-sc/29631/hourly-weather-forecast/53634_poi?day=3&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-sc/29631/hourly-weather-forecast/53634_poi?day=2&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -585,7 +535,7 @@
     {
       "league": "ncaaf",
       "name": "WASH @ USC",
-      "temp": 96,
+      "temp": 95,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -653,7 +603,7 @@
         "rel": [
           "08854"
         ],
-        "href": "http://www.accuweather.com/en/us/shi-stadium-nj/08817/hourly-weather-forecast/53608_poi?day=3&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/shi-stadium-nj/08817/hourly-weather-forecast/53608_poi?day=2&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -665,26 +615,22 @@
     {
       "league": "mlb",
       "name": "PHI @ ATL",
-      "temp": 79,
-      "condition": "33",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "30339"
-        ],
-        "href": "http://www.accuweather.com/en/us/truist-park-ga/30303/hourly-weather-forecast/196689_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Atlanta",
       "state": "Georgia"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Mack Wilson Sr.",
+        "status": "Active",
+        "detail": "Wilson (thumb) was a full participant at the Cardinals' practice Thursday, Bo Brack of GoPHNX.com reports."
+      },
       {
         "team": null,
         "player": "Andrew Wingard",
@@ -696,12 +642,6 @@
         "player": "Dadrion Taylor-Demerson",
         "status": "Questionable",
         "detail": "Taylor-Demerson (back) didn't participate in Wednesday's practice, Tyler Drake of ArizonaSports.com reports."
-      },
-      {
-        "team": null,
-        "player": "Mack Wilson Sr.",
-        "status": "Active",
-        "detail": "Wilson (thumb) was a limited participant in Arizona's practice Wednesday, Tyler Drake of ArizonaSports.com reports."
       },
       {
         "team": null,
@@ -1005,12 +945,6 @@
       },
       {
         "team": null,
-        "player": "Lamar Jackson",
-        "status": "Active",
-        "detail": "Jackson (back) was a full participant at Thursday's practice."
-      },
-      {
-        "team": null,
         "player": "John Simpson",
         "status": "Active",
         "detail": ""
@@ -1020,6 +954,12 @@
         "player": "Marlon Humphrey",
         "status": "Active",
         "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Active",
+        "detail": "Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports."
       },
       {
         "team": null,
@@ -1749,9 +1689,15 @@
       },
       {
         "team": null,
+        "player": "Awak Kuier",
+        "status": "Day-To-Day",
+        "detail": "Kuier is listed as probable for Game 3 of the first round of the playoffs Friday against Golden State due to a right wrist injury."
+      },
+      {
+        "team": null,
         "player": "Alanna Smith",
         "status": "Out",
-        "detail": "Smith (lower leg) has been ruled out for Game 2 of the first round of the playoffs against the Valkyries on Wednesday."
+        "detail": "Smith (lower leg) is out for Game 3 of the first round of the playoffs against Golden State on Friday."
       },
       {
         "team": null,
@@ -1773,18 +1719,6 @@
       },
       {
         "team": null,
-        "player": "Caitlin Clark",
-        "status": "Day-To-Day",
-        "detail": "Clark (back) is listed as probable for Game 3 of the first round of the playoffs against the Aces on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Aliyah Boston",
-        "status": "Day-To-Day",
-        "detail": "Boston (leg) is listed as probable for Game 3 of the first round playoff series versus the Aces on Thursday."
-      },
-      {
-        "team": null,
         "player": "Tyasha Harris",
         "status": "Out",
         "detail": "Harris (leg) will miss the rest of the season, WNBA reporter Kareem Copeland reports."
@@ -1792,8 +1726,8 @@
       {
         "team": null,
         "player": "Stephanie Talbot",
-        "status": "Day-To-Day",
-        "detail": "Talbot (leg) will be a true game-time decision for Game 3 of the first round of the playoffs against the Fever on Thursday, WNBA reporter Kareem Copeland reports."
+        "status": "Out",
+        "detail": "Talbot (leg) has been ruled out for Thursday's Game 3 of the first round of the playoffs against Indiana."
       },
       {
         "team": null,
@@ -9922,15 +9856,7 @@
       }
     ]
   },
-  "pitchers": [
-    {
-      "eventId": "849844",
-      "homeTeam": "Atlanta Braves",
-      "homePitcher": "Ray Kerr",
-      "awayTeam": "Philadelphia Phillies",
-      "awayPitcher": "Aaron Nola"
-    }
-  ],
+  "pitchers": [],
   "tennis": {
     "atp": {
       "leagueName": "ATP",
@@ -9976,26 +9902,26 @@
   "wnbaRest": {
     "events": [
       {
-        "name": "IND @ LV",
-        "start": "2026-10-02T01:00Z",
-        "id": "401918022"
+        "name": "DAL @ GS",
+        "start": "2026-10-03T01:00Z",
+        "id": "401918294"
       }
     ],
     "rest": [
       {
-        "team": "Las Vegas Aces",
+        "team": "Golden State Valkyries",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       },
       {
-        "team": "Indiana Fever",
+        "team": "Dallas Wings",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       }
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2289,
-    "gameFiles": 2176
+    "splitsKeys": 2291,
+    "gameFiles": 2178
   }
 }
