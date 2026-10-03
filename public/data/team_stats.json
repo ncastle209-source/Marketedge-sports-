@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-02T21:15:52.938047+00:00",
+  "pulled_at": "2026-10-03T00:41:35.236047+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -1702,9 +1702,98 @@
     },
     "mlb": {
       "ok": true,
-      "count": 0,
+      "count": 4,
       "source": "statsapi.mlb.com",
-      "games": []
+      "games": [
+        {
+          "league": "mlb",
+          "eventId": "849829",
+          "name": "Chicago White Sox at Cleveland Guardians",
+          "status": "Scheduled",
+          "start": "2026-10-03T17:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Chicago White Sox",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "Cleveland Guardians",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849828",
+          "name": "Atlanta Braves at Los Angeles Dodgers",
+          "status": "Scheduled",
+          "start": "2026-10-03T20:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Atlanta Braves",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "Los Angeles Dodgers",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849835",
+          "name": "New York Yankees at Tampa Bay Rays",
+          "status": "Scheduled",
+          "start": "2026-10-03T22:30:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "New York Yankees",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "Tampa Bay Rays",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849830",
+          "name": "San Diego Padres at Milwaukee Brewers",
+          "status": "Scheduled",
+          "start": "2026-10-04T00:30:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "San Diego Padres",
+              "score": null,
+              "record": "0-0"
+            },
+            {
+              "side": "home",
+              "name": "Milwaukee Brewers",
+              "score": null,
+              "record": "0-0"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        }
+      ]
     }
   }
 }

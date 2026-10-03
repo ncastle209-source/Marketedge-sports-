@@ -1,6 +1,60 @@
 {
-  "umpires": [],
-  "savant": [],
+  "umpires": [
+    {
+      "eventId": "849829",
+      "home": "Cleveland Guardians",
+      "away": "Chicago White Sox",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849828",
+      "home": "Los Angeles Dodgers",
+      "away": "Atlanta Braves",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849835",
+      "home": "Tampa Bay Rays",
+      "away": "New York Yankees",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849830",
+      "home": "Milwaukee Brewers",
+      "away": "San Diego Padres",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    }
+  ],
+  "savant": [
+    {
+      "gamePk": 849829,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849829"
+    },
+    {
+      "gamePk": 849828,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849828"
+    },
+    {
+      "gamePk": 849835,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849835"
+    },
+    {
+      "gamePk": 849830,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849830"
+    }
+  ],
   "weather": [
     {
       "league": "nfl",
@@ -55,7 +109,7 @@
     {
       "league": "nfl",
       "name": "JAX @ CIN",
-      "temp": 69,
+      "temp": 68,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -75,7 +129,7 @@
     {
       "league": "nfl",
       "name": "ARI @ NYG",
-      "temp": 66,
+      "temp": 64,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -115,7 +169,7 @@
     {
       "league": "nfl",
       "name": "GB @ TB",
-      "temp": 87,
+      "temp": 88,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -175,7 +229,7 @@
     {
       "league": "nfl",
       "name": "MIA @ MIN",
-      "temp": 65,
+      "temp": 64,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -195,7 +249,7 @@
     {
       "league": "nfl",
       "name": "KC @ LV",
-      "temp": 92,
+      "temp": 93,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -215,7 +269,7 @@
     {
       "league": "nfl",
       "name": "DEN @ SF",
-      "temp": 90,
+      "temp": 91,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -235,7 +289,7 @@
     {
       "league": "nfl",
       "name": "LAC @ SEA",
-      "temp": 66,
+      "temp": 67,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -255,7 +309,7 @@
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 64,
+      "temp": 67,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -275,7 +329,7 @@
     {
       "league": "nfl",
       "name": "ATL @ NO",
-      "temp": 79,
+      "temp": 80,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -315,7 +369,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ MSST",
-      "temp": 79,
+      "temp": 80,
       "condition": "16",
       "gust": null,
       "wind": {
@@ -335,7 +389,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ HOU",
-      "temp": 80,
+      "temp": 81,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -355,7 +409,7 @@
     {
       "league": "ncaaf",
       "name": "BC @ SMU",
-      "temp": 71,
+      "temp": 70,
       "condition": "13",
       "gust": null,
       "wind": {
@@ -375,7 +429,7 @@
     {
       "league": "ncaaf",
       "name": "VAN @ UGA",
-      "temp": 78,
+      "temp": 79,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -435,7 +489,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ TENN",
-      "temp": 76,
+      "temp": 77,
       "condition": "16",
       "gust": null,
       "wind": {
@@ -475,7 +529,7 @@
     {
       "league": "ncaaf",
       "name": "BYU @ TCU",
-      "temp": 72,
+      "temp": 70,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -495,8 +549,8 @@
     {
       "league": "ncaaf",
       "name": "MIA @ CLEM",
-      "temp": 75,
-      "condition": "4",
+      "temp": 76,
+      "condition": "16",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -615,7 +669,7 @@
     {
       "league": "mlb",
       "name": "CHW @ CLE",
-      "temp": 65,
+      "temp": 64,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -635,7 +689,7 @@
     {
       "league": "mlb",
       "name": "ATL @ LAD",
-      "temp": 98,
+      "temp": 100,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -675,7 +729,7 @@
     {
       "league": "mlb",
       "name": "SD @ MIL",
-      "temp": 55,
+      "temp": 56,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -697,6 +751,36 @@
     "nfl": [
       {
         "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Out",
+        "detail": "Taylor-Demerson (back) has been ruled out ahead of Sunday's game against the Giants, Zach Gershman of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Josh Sweat",
+        "status": "Questionable",
+        "detail": "Sweat (groin) is listed as questionable ahead of Sunday's game against the Giants, Zach Gershman of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Roy Lopez",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Hjalte Froholdt",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Walter Nolen III",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
         "player": "Mack Wilson Sr.",
         "status": "Active",
         "detail": "Wilson (thumb) was a full participant at the Cardinals' practice Thursday, Bo Brack of GoPHNX.com reports."
@@ -706,30 +790,6 @@
         "player": "Andrew Wingard",
         "status": "Active",
         "detail": "Wingard made 10 tackles (one solo) in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Dadrion Taylor-Demerson",
-        "status": "Questionable",
-        "detail": "Taylor-Demerson (back) didn't participate in Wednesday's practice, Tyler Drake of ArizonaSports.com reports."
-      },
-      {
-        "team": null,
-        "player": "Roy Lopez",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Walter Nolen III",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Hjalte Froholdt",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -841,9 +901,9 @@
       },
       {
         "team": null,
-        "player": "Isaiah Adams",
-        "status": "Active",
-        "detail": "Adams (knee) is active for Sunday's game against the Seahawks."
+        "player": "Kendal Daniels",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
@@ -988,12 +1048,6 @@
         "player": "Nick Muse",
         "status": "Active",
         "detail": "Muse (shoulder) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Brandon Dorlus",
-        "status": "Active",
-        "detail": "Dorlus (thumb) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -1463,8 +1517,20 @@
       },
       {
         "team": null,
+        "player": "Tyron Guerrero",
+        "status": "Out",
+        "detail": "The Red Sox placed Guerrero on the 15-day injured list Sunday, retroactive to Sept. 24, with a right shoulder strain."
+      },
+      {
+        "team": null,
+        "player": "Masataka Yoshida",
+        "status": "Out",
+        "detail": "Interim manager Chad Tracy revealed Tuesday that Yoshida has a \"significant\" left hamstring injury that will keep him out until close to the end of the season, at minimum, Tim Healey of The Boston Globe reports."
+      },
+      {
+        "team": null,
         "player": "Mickey Gasper",
-        "status": "10-Day-IL",
+        "status": "Out",
         "detail": "Gasper is expected to be sidelined 4-to-6 month after undergoing distal right biceps tendon surgery Friday, Tim Healey of The Boston Globe reports."
       },
       {
@@ -1493,27 +1559,9 @@
       },
       {
         "team": null,
-        "player": "Tyron Guerrero",
-        "status": "15-Day-IL",
-        "detail": "The Red Sox placed Guerrero on the 15-day injured list Sunday, retroactive to Sept. 24, with a right shoulder strain."
-      },
-      {
-        "team": null,
         "player": "Johan Oviedo",
         "status": "60-Day-IL",
         "detail": "Ovideo (elbow) allowed one run on two hits and one walk while striking out four for Triple-A Worcester on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Anthony Seigler",
-        "status": "10-Day-IL",
-        "detail": "The Red Sox placed Seigler on the 10-day injured list Sunday due to right wrist inflammation."
-      },
-      {
-        "team": null,
-        "player": "Kristian Campbell",
-        "status": "Day-To-Day",
-        "detail": "Campbell was placed on the 7-day injured list at Triple-A Worcester on Thursday with a left foot contusion, Chris Cotillo of MassLive.com reports."
       },
       {
         "team": null,
@@ -1526,12 +1574,6 @@
         "player": "Eduardo Rivera",
         "status": "60-Day-IL",
         "detail": "The Red Sox recalled Rivera from Triple-A Worcester and placed him on the 60-day injured list Tuesday due to a lumbar strain."
-      },
-      {
-        "team": null,
-        "player": "Masataka Yoshida",
-        "status": "10-Day-IL",
-        "detail": "Interim manager Chad Tracy revealed Tuesday that Yoshida has a \"significant\" left hamstring injury that will keep him out until close to the end of the season, at minimum, Tim Healey of The Boston Globe reports."
       },
       {
         "team": null,
@@ -1553,21 +1595,9 @@
       },
       {
         "team": null,
-        "player": "Edward Cabrera",
-        "status": "Bereavement",
-        "detail": "The Cubs placed Cabrera on the family medical emergency list Friday, Meghan Montemurro of the Chicago Tribune reports."
-      },
-      {
-        "team": null,
         "player": "Shelby Miller",
         "status": "60-Day-IL",
         "detail": "Manager Craig Counsell said Tuesday that the Cubs have shut down Miller's (elbow) rehab, Meghan Montemurro of the Chicago Tribune reports."
-      },
-      {
-        "team": null,
-        "player": "Trent Thornton",
-        "status": "15-Day-IL",
-        "detail": "Thornton (5-4) worked around a walk to pitch a scoreless inning of relief and earn the win in Thursday's 3-2, extra-innings victory over the Blue Jays. He struck out one."
       },
       {
         "team": null,
@@ -1676,6 +1706,30 @@
         "player": "Tony Santillan",
         "status": "15-Day-IL",
         "detail": "Santillan will undergo surgery Thursday to repair a left hip labral tear, Gordon Wittenmyer of The Cincinnati Enquirer reports."
+      },
+      {
+        "team": null,
+        "player": "Spencer Steer",
+        "status": "60-Day-IL",
+        "detail": "Steer will undergo right wrist surgery next Wednesday, Gordon Wittenmyer of the Cincinnati Enquirer reports."
+      },
+      {
+        "team": null,
+        "player": "Chase Burns",
+        "status": "15-Day-IL",
+        "detail": "Burns (groin) worked on adding a sinker in his September outings before getting placed on the 15-day injured list to end his season, Charlie Goldsmith of FOX19 reports."
+      },
+      {
+        "team": null,
+        "player": "Julian Garcia",
+        "status": "15-Day-IL",
+        "detail": "The Reds placed Garcia on the 15-day injured list Friday with loose bodies in his right elbow."
+      },
+      {
+        "team": null,
+        "player": "Blake Dunn",
+        "status": "60-Day-IL",
+        "detail": "Dunn will have ulnar nerve transposition surgery on his right elbow Wednesday, Charlie Goldsmith of Fox 19 Now Cincinnati reports."
       }
     ],
     "wnba": [
@@ -1756,12 +1810,6 @@
         "player": "Kennedy Burke",
         "status": "Out",
         "detail": "The Sun announced Monday that Burke suffered a sprained AC joint in the FIBA World Cup and will miss the rest of the season."
-      },
-      {
-        "team": null,
-        "player": "Awak Kuier",
-        "status": "Day-To-Day",
-        "detail": "Kuier is listed as probable for Game 3 of the first round of the playoffs Friday against Golden State due to a right wrist injury."
       },
       {
         "team": null,
@@ -1982,7 +2030,7 @@
     ]
   },
   "closeArchive": {
-    "count": 299
+    "count": 302
   },
   "nflverse": [
     {
@@ -9926,7 +9974,36 @@
       }
     ]
   },
-  "pitchers": [],
+  "pitchers": [
+    {
+      "eventId": "849829",
+      "homeTeam": "Cleveland Guardians",
+      "homePitcher": "Parker Messick",
+      "awayTeam": "Chicago White Sox",
+      "awayPitcher": "Hagen Smith"
+    },
+    {
+      "eventId": "849828",
+      "homeTeam": "Los Angeles Dodgers",
+      "homePitcher": "Tarik Skubal",
+      "awayTeam": "Atlanta Braves",
+      "awayPitcher": null
+    },
+    {
+      "eventId": "849835",
+      "homeTeam": "Tampa Bay Rays",
+      "homePitcher": "Drew Rasmussen",
+      "awayTeam": "New York Yankees",
+      "awayPitcher": "Gerrit Cole"
+    },
+    {
+      "eventId": "849830",
+      "homeTeam": "Milwaukee Brewers",
+      "homePitcher": "Jacob Misiorowski",
+      "awayTeam": "San Diego Padres",
+      "awayPitcher": "Robbie Ray"
+    }
+  ],
   "tennis": {
     "atp": {
       "leagueName": "ATP",
