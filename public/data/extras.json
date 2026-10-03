@@ -4,9 +4,34 @@
       "eventId": "849829",
       "home": "Cleveland Guardians",
       "away": "Chicago White Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Cory Blaser",
+      "crew": [
+        {
+          "name": "Cory Blaser",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Gabe Morales",
+          "type": "First Base"
+        },
+        {
+          "name": "Todd Tichenor",
+          "type": "Second Base"
+        },
+        {
+          "name": "Jansen Visconti",
+          "type": "Third Base"
+        },
+        {
+          "name": "Vic Carapazza",
+          "type": "Left Field"
+        },
+        {
+          "name": "Tom Hanahan",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849828",
@@ -36,7 +61,7 @@
   "savant": [
     {
       "gamePk": 849829,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849829"
     },
     {
@@ -129,7 +154,7 @@
     {
       "league": "nfl",
       "name": "ARI @ NYG",
-      "temp": 64,
+      "temp": 62,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -169,7 +194,7 @@
     {
       "league": "nfl",
       "name": "GB @ TB",
-      "temp": 87,
+      "temp": 88,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -229,7 +254,7 @@
     {
       "league": "nfl",
       "name": "MIA @ MIN",
-      "temp": 67,
+      "temp": 65,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -309,8 +334,8 @@
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 65,
-      "condition": "7",
+      "temp": 67,
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -350,7 +375,7 @@
       "league": "ncaaf",
       "name": "ND @ UNC",
       "temp": 76,
-      "condition": "6",
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -370,7 +395,7 @@
       "league": "ncaaf",
       "name": "ALA @ MSST",
       "temp": 79,
-      "condition": "4",
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -409,8 +434,8 @@
     {
       "league": "ncaaf",
       "name": "BC @ SMU",
-      "temp": 71,
-      "condition": "7",
+      "temp": 72,
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -430,7 +455,7 @@
       "league": "ncaaf",
       "name": "VAN @ UGA",
       "temp": 79,
-      "condition": "4",
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -530,7 +555,7 @@
       "league": "ncaaf",
       "name": "BYU @ TCU",
       "temp": 71,
-      "condition": "13",
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -649,7 +674,7 @@
     {
       "league": "ncaaf",
       "name": "IU @ RUTG",
-      "temp": 63,
+      "temp": 62,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -668,13 +693,83 @@
     },
     {
       "league": "mlb",
-      "name": "PHI @ ATL",
-      "temp": null,
-      "condition": null,
+      "name": "CHW @ CLE",
+      "temp": 66,
+      "condition": "2",
       "gust": null,
-      "wind": null,
-      "city": "Atlanta",
-      "state": "Georgia"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Cleveland",
+      "state": "Ohio"
+    },
+    {
+      "league": "mlb",
+      "name": "ATL @ LAD",
+      "temp": 100,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "90090"
+        ],
+        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/hourly-weather-forecast/30524_poi?day=1&hbhhour=13&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Los Angeles",
+      "state": "California"
+    },
+    {
+      "league": "mlb",
+      "name": "NYY @ TB",
+      "temp": 82,
+      "condition": "16",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "33705"
+        ],
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=18&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "St. Petersburg",
+      "state": "Florida"
+    },
+    {
+      "league": "mlb",
+      "name": "SD @ MIL",
+      "temp": 57,
+      "condition": "35",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "53295"
+        ],
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Milwaukee",
+      "state": "Wisconsin"
     }
   ],
   "injuries": {
@@ -9985,26 +10080,41 @@
   "wnbaRest": {
     "events": [
       {
-        "name": "DAL @ GS",
-        "start": "2026-10-03T01:00Z",
-        "id": "401918294"
+        "name": "NY @ ATL",
+        "start": "2026-10-04T18:00Z",
+        "id": "401918295"
+      },
+      {
+        "name": "LV @ GS",
+        "start": "2026-10-04T20:00Z",
+        "id": "401918296"
       }
     ],
     "rest": [
+      {
+        "team": "Atlanta Dream",
+        "gamesOnBoard": 1,
+        "backToBackLikely": false
+      },
+      {
+        "team": "New York Liberty",
+        "gamesOnBoard": 1,
+        "backToBackLikely": false
+      },
       {
         "team": "Golden State Valkyries",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       },
       {
-        "team": "Dallas Wings",
+        "team": "Las Vegas Aces",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       }
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2307,
-    "gameFiles": 2194
+    "splitsKeys": 2314,
+    "gameFiles": 2201
   }
 }
