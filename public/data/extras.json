@@ -31,23 +31,73 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Player challenge"
     },
     {
       "eventId": "849828",
       "home": "Los Angeles Dodgers",
       "away": "Atlanta Braves",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Roberto Ortiz",
+      "crew": [
+        {
+          "name": "Roberto Ortiz",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Chris Guccione",
+          "type": "First Base"
+        },
+        {
+          "name": "James Hoye",
+          "type": "Second Base"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "Third Base"
+        },
+        {
+          "name": "Jim Wolf",
+          "type": "Left Field"
+        },
+        {
+          "name": "Mike Estabrook",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849835",
       "home": "Tampa Bay Rays",
       "away": "New York Yankees",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Shane Livensparger",
+      "crew": [
+        {
+          "name": "Shane Livensparger",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jeremie Rehak",
+          "type": "First Base"
+        },
+        {
+          "name": "Dan Bellino",
+          "type": "Second Base"
+        },
+        {
+          "name": "Ben May",
+          "type": "Third Base"
+        },
+        {
+          "name": "D.J. Reyburn",
+          "type": "Left Field"
+        },
+        {
+          "name": "Ryan Wills",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849830",
@@ -61,17 +111,17 @@
   "savant": [
     {
       "gamePk": 849829,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849829"
     },
     {
       "gamePk": 849828,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849828"
     },
     {
       "gamePk": 849835,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849835"
     },
     {
@@ -295,7 +345,7 @@
       "league": "nfl",
       "name": "DEN @ SF",
       "temp": 91,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -315,7 +365,7 @@
       "league": "nfl",
       "name": "LAC @ SEA",
       "temp": 67,
-      "condition": "3",
+      "condition": "11",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -374,15 +424,15 @@
     {
       "league": "ncaaf",
       "name": "ND @ UNC",
-      "temp": 76,
-      "condition": "12",
+      "temp": 68,
+      "condition": "Light rain",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "27514"
         ],
-        "href": "http://www.accuweather.com/en/us/kenan-memorial-stadium-nc/27516/hourly-weather-forecast/53605_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/kenan-memorial-stadium-nc/27516/current-weather/53605_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -394,15 +444,15 @@
     {
       "league": "ncaaf",
       "name": "ALA @ MSST",
-      "temp": 79,
-      "condition": "6",
+      "temp": 87,
+      "condition": "Partly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "39762"
         ],
-        "href": "http://www.accuweather.com/en/us/davis-wade-stadium-ms/39759/hourly-weather-forecast/53598_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/davis-wade-stadium-ms/39759/current-weather/53598_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -414,15 +464,15 @@
     {
       "league": "ncaaf",
       "name": "UCF @ HOU",
-      "temp": 82,
-      "condition": "6",
+      "temp": 85,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "77004"
         ],
-        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/current-weather/53653_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -435,14 +485,14 @@
       "league": "ncaaf",
       "name": "BC @ SMU",
       "temp": 72,
-      "condition": "18",
+      "condition": "Rain",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "75205"
         ],
-        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/current-weather/53647_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -454,15 +504,15 @@
     {
       "league": "ncaaf",
       "name": "VAN @ UGA",
-      "temp": 79,
-      "condition": "12",
+      "temp": 83,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "30602"
         ],
-        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/current-weather/53561_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -475,7 +525,7 @@
       "league": "ncaaf",
       "name": "OSU @ IOWA",
       "temp": 68,
-      "condition": "2",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -493,29 +543,9 @@
     },
     {
       "league": "ncaaf",
-      "name": "FLA @ MIZ",
-      "temp": 73,
-      "condition": "2",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "65203"
-        ],
-        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=1&hbhhour=14&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Columbia",
-      "state": "MO"
-    },
-    {
-      "league": "ncaaf",
       "name": "AUB @ TENN",
-      "temp": 74,
-      "condition": "4",
+      "temp": 75,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -533,9 +563,29 @@
     },
     {
       "league": "ncaaf",
+      "name": "FLA @ MIZ",
+      "temp": 71,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "65203"
+        ],
+        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=1&hbhhour=14&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Columbia",
+      "state": "MO"
+    },
+    {
+      "league": "ncaaf",
       "name": "UK @ SC",
-      "temp": 81,
-      "condition": "7",
+      "temp": 82,
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -694,15 +744,15 @@
     {
       "league": "mlb",
       "name": "CHW @ CLE",
-      "temp": 66,
-      "condition": "2",
+      "temp": 64,
+      "condition": "Mostly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "44115"
         ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/current-weather/53619_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -714,7 +764,7 @@
     {
       "league": "mlb",
       "name": "ATL @ LAD",
-      "temp": 100,
+      "temp": 102,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -926,15 +976,21 @@
       },
       {
         "team": null,
-        "player": "Kendal Daniels",
+        "player": "Yasir Abdullah",
         "status": "Questionable",
         "detail": "questionable"
       },
       {
         "team": null,
+        "player": "Kendal Daniels",
+        "status": "Active",
+        "detail": "Daniels (Achilles) does not carry an injury designation ahead of Monday's game against the Saints, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
         "player": "Divine Deablo",
         "status": "Questionable",
-        "detail": "questionable"
+        "detail": "Deablo (hamstring) is listed as questionable for Monday's game against the Saints, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -1067,12 +1123,6 @@
         "player": "Zach Harrison",
         "status": "Active",
         "detail": "The Falcons signed Harrison to the active roster from their practice squad Tuesday, Tori McElhaney of the team's official site reports."
-      },
-      {
-        "team": null,
-        "player": "Nick Muse",
-        "status": "Active",
-        "detail": "Muse (shoulder) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -1226,15 +1276,15 @@
       },
       {
         "team": null,
-        "player": "Keon Coleman",
+        "player": "Joe Andreessen",
         "status": "Active",
-        "detail": "Coleman (ankle) doesn't have an injury designation for Sunday's game against the Patriots."
+        "detail": "Andreessen and the Bills agreed to terms Saturday on a two-year contract extension, Tom Pelissero of Netflix reports."
       },
       {
         "team": null,
-        "player": "Joe Andreessen",
+        "player": "Keon Coleman",
         "status": "Active",
-        "detail": ""
+        "detail": "Coleman (ankle) doesn't have an injury designation for Sunday's game against the Patriots."
       },
       {
         "team": null,
@@ -1395,12 +1445,6 @@
         "player": "Gunnar Hoglund",
         "status": "60-Day-IL",
         "detail": "Hoglund (knee/back) will be sidelined for the rest of the 2026 season after undergoing surgery on his left hip Monday."
-      },
-      {
-        "team": null,
-        "player": "Lane Thomas",
-        "status": "10-Day-IL",
-        "detail": "Atlanta manager Walt Weiss said Friday that Thomas (intercostal) is a candidate to be added to the roster for the NLDS, Harrison Smajovits of SI.com reports."
       },
       {
         "team": null,
@@ -1722,6 +1766,12 @@
       },
       {
         "team": null,
+        "player": "Spencer Steer",
+        "status": "60-Day-IL",
+        "detail": "Steer recently underwent successful surgery on his right wrist, Mike Petraglia of CLNS Media reports."
+      },
+      {
+        "team": null,
         "player": "Dane Myers",
         "status": "Out",
         "detail": "Reds president of baseball operations Nick Krall revealed Thursday that Myers recently underwent arthroscopic surgery to repair the AC joint in his left shoulder, Mike Petraglia of CLNSCincy.com reports."
@@ -1731,12 +1781,6 @@
         "player": "Tony Santillan",
         "status": "15-Day-IL",
         "detail": "Santillan will undergo surgery Thursday to repair a left hip labral tear, Gordon Wittenmyer of The Cincinnati Enquirer reports."
-      },
-      {
-        "team": null,
-        "player": "Spencer Steer",
-        "status": "60-Day-IL",
-        "detail": "Steer will undergo right wrist surgery next Wednesday, Gordon Wittenmyer of the Cincinnati Enquirer reports."
       },
       {
         "team": null,
@@ -1755,6 +1799,12 @@
         "player": "Blake Dunn",
         "status": "60-Day-IL",
         "detail": "Dunn will have ulnar nerve transposition surgery on his right elbow Wednesday, Charlie Goldsmith of Fox 19 Now Cincinnati reports."
+      },
+      {
+        "team": null,
+        "player": "Hunter Greene",
+        "status": "60-Day-IL",
+        "detail": "Greene (elbow) will be out for 12-to-18 months after undergoing his second Tommy John surgery Wednesday, Gordon Wittenmyer of The Cincinnati Enquirer reports."
       }
     ],
     "wnba": [
@@ -10012,7 +10062,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "homePitcher": "Tarik Skubal",
       "awayTeam": "Atlanta Braves",
-      "awayPitcher": null
+      "awayPitcher": "Dylan Dodd"
     },
     {
       "eventId": "849835",
@@ -10114,7 +10164,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2314,
-    "gameFiles": 2201
+    "splitsKeys": 2320,
+    "gameFiles": 2207
   }
 }
