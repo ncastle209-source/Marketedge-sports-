@@ -1,46 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-20T19:52:31.281511+00:00",
-      "gameId": "mlb-baltimore-orioles-milwaukee-brewers",
-      "matchup": "Baltimore Orioles vs. Milwaukee Brewers",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "sharp-t1",
-      "lineTaken": 1.5,
-      "modelSpread": -16.15,
-      "modelEdge": 17.65,
-      "sharpSide": "Milwaukee Brewers",
-      "closeLine": 1.5,
-      "clv": 0.0,
-      "tickets": 22.0,
-      "handle": 18.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-20T19:52:31.298037+00:00",
-      "gameId": "nfl-2h-baltimore-ravens-new-orleans-saints",
-      "matchup": "Baltimore Ravens vs. New Orleans Saints",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "sharp-t1",
-      "lineTaken": -8.5,
-      "modelSpread": 3.5,
-      "modelEdge": -12.0,
-      "sharpSide": "Baltimore Ravens",
-      "closeLine": null,
-      "clv": null,
-      "tickets": 82.0,
-      "handle": 86.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-20T19:52:31.298037+00:00",
       "gameId": "nfl-2h-cincinnati-bengals-houston-texans",
       "matchup": "Cincinnati Bengals vs. Houston Texans",
@@ -13473,10 +13433,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-03T22:23:36.456746+00:00",
+      "gameId": "ncaaf-arst-ull",
+      "matchup": "Arkansas State Red Wolves vs. Louisiana Ragin Cajuns",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -5.0,
+      "modelSpread": -9.0,
+      "modelEdge": 4.0,
+      "sharpSide": "Louisiana Ragin Cajuns",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -6.5,
+      "clv": -1.5,
+      "tickets": 69.0,
+      "handle": 70.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-03T22:23:36.579469+00:00",
+      "gameId": "ncaaf-2h-arst-ull",
+      "matchup": "Arkansas State Red Wolves vs. Louisiana Ragin Cajuns",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -5.0,
+      "modelSpread": -9.0,
+      "modelEdge": 4.0,
+      "sharpSide": "Louisiana Ragin Cajuns",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 69.0,
+      "handle": 70.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-03T19:07:14.193698+00:00"
+  "updated": "2026-10-03T22:23:36.579469+00:00"
 }
