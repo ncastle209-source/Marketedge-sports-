@@ -1,43 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-20T19:47:30.907578+00:00",
-      "gameId": "nfl-2h-arizona-cardinals-seattle-seahawks",
-      "matchup": "Arizona Cardinals vs. Seattle Seahawks",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "deficiency",
-      "lineTaken": 4.0,
-      "closeLine": null,
-      "clv": null,
-      "tickets": 37.0,
-      "handle": 52.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-20T19:52:31.281511+00:00",
-      "gameId": "nfl-baltimore-ravens-new-orleans-saints",
-      "matchup": "Baltimore Ravens vs. New Orleans Saints",
-      "sport": "NFL",
-      "period": "fulltime",
-      "engine": "sharp-t1",
-      "lineTaken": -8.5,
-      "modelSpread": 3.5,
-      "modelEdge": -12.0,
-      "sharpSide": "Baltimore Ravens",
-      "closeLine": -8.5,
-      "clv": 0.0,
-      "tickets": 82.0,
-      "handle": 86.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-20T19:52:31.281511+00:00",
       "gameId": "nfl-cincinnati-bengals-houston-texans",
       "matchup": "Cincinnati Bengals vs. Houston Texans",
@@ -13300,10 +13263,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-03T11:58:02.370968+00:00",
+      "gameId": "ncaaf-fres-wsu",
+      "matchup": "Fresno State Bulldogs vs. Washington State Cougars",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": 6.5,
+      "modelEdge": -8.0,
+      "sharpSide": "Fresno State Bulldogs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -1.5,
+      "clv": 0.0,
+      "tickets": 49.0,
+      "handle": 61.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-03T11:58:02.502665+00:00",
+      "gameId": "ncaaf-2h-fres-wsu",
+      "matchup": "Fresno State Bulldogs vs. Washington State Cougars",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": 6.5,
+      "modelEdge": -8.0,
+      "sharpSide": "Fresno State Bulldogs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 49.0,
+      "handle": 61.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-03T06:10:55.479665+00:00"
+  "updated": "2026-10-03T11:58:02.502665+00:00"
 }

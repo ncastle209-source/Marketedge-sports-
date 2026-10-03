@@ -79,7 +79,7 @@
     {
       "league": "nfl",
       "name": "NE @ BUF",
-      "temp": 66,
+      "temp": 67,
       "condition": "2",
       "gust": null,
       "wind": null,
@@ -109,7 +109,7 @@
     {
       "league": "nfl",
       "name": "JAX @ CIN",
-      "temp": 68,
+      "temp": 69,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -169,7 +169,7 @@
     {
       "league": "nfl",
       "name": "GB @ TB",
-      "temp": 88,
+      "temp": 87,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -190,7 +190,7 @@
       "league": "nfl",
       "name": "TEN @ BAL",
       "temp": 63,
-      "condition": "18",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -229,7 +229,7 @@
     {
       "league": "nfl",
       "name": "MIA @ MIN",
-      "temp": 64,
+      "temp": 67,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -257,7 +257,7 @@
         "rel": [
           "89118"
         ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -270,14 +270,14 @@
       "league": "nfl",
       "name": "DEN @ SF",
       "temp": 91,
-      "condition": "2",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "95054"
         ],
-        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -290,14 +290,14 @@
       "league": "nfl",
       "name": "LAC @ SEA",
       "temp": 67,
-      "condition": "2",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "98134"
         ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -309,7 +309,7 @@
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 67,
+      "temp": 65,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -329,8 +329,8 @@
     {
       "league": "nfl",
       "name": "ATL @ NO",
-      "temp": 80,
-      "condition": "7",
+      "temp": 79,
+      "condition": "36",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -349,8 +349,8 @@
     {
       "league": "ncaaf",
       "name": "ND @ UNC",
-      "temp": 75,
-      "condition": "4",
+      "temp": 76,
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -369,8 +369,8 @@
     {
       "league": "ncaaf",
       "name": "ALA @ MSST",
-      "temp": 80,
-      "condition": "16",
+      "temp": 79,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -389,7 +389,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ HOU",
-      "temp": 81,
+      "temp": 82,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -409,8 +409,8 @@
     {
       "league": "ncaaf",
       "name": "BC @ SMU",
-      "temp": 70,
-      "condition": "13",
+      "temp": 71,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -449,7 +449,7 @@
     {
       "league": "ncaaf",
       "name": "OSU @ IOWA",
-      "temp": 67,
+      "temp": 68,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -489,7 +489,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ TENN",
-      "temp": 77,
+      "temp": 74,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -509,8 +509,8 @@
     {
       "league": "ncaaf",
       "name": "UK @ SC",
-      "temp": 79,
-      "condition": "15",
+      "temp": 81,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -529,8 +529,8 @@
     {
       "league": "ncaaf",
       "name": "BYU @ TCU",
-      "temp": 70,
-      "condition": "4",
+      "temp": 71,
+      "condition": "13",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -549,7 +549,7 @@
     {
       "league": "ncaaf",
       "name": "MIA @ CLEM",
-      "temp": 76,
+      "temp": 75,
       "condition": "16",
       "gust": null,
       "wind": {
@@ -569,7 +569,7 @@
     {
       "league": "ncaaf",
       "name": "TTU @ COLO",
-      "temp": 82,
+      "temp": 81,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -589,7 +589,7 @@
     {
       "league": "ncaaf",
       "name": "WASH @ USC",
-      "temp": 97,
+      "temp": 98,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -597,7 +597,7 @@
         "rel": [
           "90037"
         ],
-        "href": "http://www.accuweather.com/en/us/los-angeles-memorial-coliseum-ca/90012/hourly-weather-forecast/53540_poi?day=2&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/los-angeles-memorial-coliseum-ca/90012/hourly-weather-forecast/53540_poi?day=1&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -609,7 +609,7 @@
     {
       "league": "ncaaf",
       "name": "USU @ BOIS",
-      "temp": 86,
+      "temp": 85,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -629,7 +629,7 @@
     {
       "league": "ncaaf",
       "name": "MCN @ LSU",
-      "temp": 79,
+      "temp": 81,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -649,7 +649,7 @@
     {
       "league": "ncaaf",
       "name": "IU @ RUTG",
-      "temp": 64,
+      "temp": 63,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -9972,6 +9972,12 @@
           "surface": null,
           "venue": null,
           "status": "Final"
+        },
+        {
+          "name": "Suzhou Open",
+          "surface": null,
+          "venue": null,
+          "status": "Scheduled"
         }
       ]
     }
