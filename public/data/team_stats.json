@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-04T07:56:36.377371+00:00",
+  "pulled_at": "2026-10-04T13:50:25.438173+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -11,7 +11,7 @@
           "eventId": "401872965",
           "name": "Indianapolis Colts at Washington Commanders",
           "shortName": "IND VS WSH",
-          "status": "Scheduled",
+          "status": "In Progress",
           "start": "2026-10-04T13:30Z",
           "teams": [
             {
@@ -19,7 +19,7 @@
               "name": "Washington Commanders",
               "abbr": "WSH",
               "id": "28",
-              "score": "0",
+              "score": "3",
               "record": "1-2",
               "winner": false
             },
@@ -33,7 +33,465 @@
               "winner": false
             }
           ],
-          "source": "espn"
+          "source": "espn",
+          "box": {
+            "eventId": "401872965",
+            "players": [
+              {
+                "completions/passingAttempts": "2/3",
+                "passingYards": "4",
+                "yardsPerPassAttempt": "1.3",
+                "passingTouchdowns": "0",
+                "interceptions": "0",
+                "sacks-sackYardsLost": "1-8",
+                "adjQBR": "70.1",
+                "player": "Daniel Jones",
+                "team": "Indianapolis Colts",
+                "group": "passing"
+              },
+              {
+                "rushingAttempts": "1",
+                "rushingYards": "3",
+                "yardsPerRushAttempt": "3.0",
+                "rushingTouchdowns": "0",
+                "longRushing": "3",
+                "player": "Jonathan Taylor",
+                "team": "Indianapolis Colts",
+                "group": "rushing"
+              },
+              {
+                "receptions": "1",
+                "receivingYards": "2",
+                "yardsPerReception": "2.0",
+                "receivingTouchdowns": "0",
+                "longReception": "2",
+                "receivingTargets": "2",
+                "player": "Jonathan Taylor",
+                "team": "Indianapolis Colts",
+                "group": "receiving"
+              },
+              {
+                "receptions": "1",
+                "receivingYards": "2",
+                "yardsPerReception": "2.0",
+                "receivingTouchdowns": "0",
+                "longReception": "2",
+                "receivingTargets": "1",
+                "player": "Josh Downs",
+                "team": "Indianapolis Colts",
+                "group": "receiving"
+              },
+              {
+                "fumbles": "1",
+                "fumblesLost": "1",
+                "fumblesRecovered": "0",
+                "player": "Daniel Jones",
+                "team": "Indianapolis Colts",
+                "group": "fumbles"
+              },
+              {
+                "totalTackles": "3",
+                "soloTackles": "2",
+                "sacks": "0",
+                "tacklesForLoss": "1",
+                "passesDefended": "0",
+                "QBHits": "1",
+                "defensiveTouchdowns": "0",
+                "player": "DeForest Buckner",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "2",
+                "soloTackles": "1",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Akeem Davis-Gaither",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "1",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Austin Ajiake",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "1",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Jaylon Carlies",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Arden Key",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Cam Bynum",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Grover Stewart",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0.5",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "1",
+                "defensiveTouchdowns": "0",
+                "player": "Laiatu Latu",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0.5",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "1",
+                "defensiveTouchdowns": "0",
+                "player": "Adetomiwa Adebawore",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "A.J. Haulcy",
+                "team": "Indianapolis Colts",
+                "group": "defensive"
+              },
+              {
+                "kickReturns": "2",
+                "kickReturnYards": "57",
+                "yardsPerKickReturn": "28.5",
+                "longKickReturn": "29",
+                "kickReturnTouchdowns": "0",
+                "player": "Seth McGowan",
+                "team": "Indianapolis Colts",
+                "group": "kickReturns"
+              },
+              {
+                "punts": "1",
+                "puntYards": "53",
+                "grossAvgPuntYards": "53.0",
+                "touchbacks": "0",
+                "puntsInside20": "1",
+                "longPunt": "53",
+                "player": "Rigoberto Sanchez",
+                "team": "Indianapolis Colts",
+                "group": "punting"
+              },
+              {
+                "completions/passingAttempts": "3/4",
+                "passingYards": "46",
+                "yardsPerPassAttempt": "11.5",
+                "passingTouchdowns": "0",
+                "interceptions": "0",
+                "sacks-sackYardsLost": "1-6",
+                "adjQBR": "112.5",
+                "player": "Marcus Mariota",
+                "team": "Washington Commanders",
+                "group": "passing"
+              },
+              {
+                "rushingAttempts": "1",
+                "rushingYards": "35",
+                "yardsPerRushAttempt": "35.0",
+                "rushingTouchdowns": "0",
+                "longRushing": "35",
+                "player": "Marcus Mariota",
+                "team": "Washington Commanders",
+                "group": "rushing"
+              },
+              {
+                "rushingAttempts": "1",
+                "rushingYards": "2",
+                "yardsPerRushAttempt": "2.0",
+                "rushingTouchdowns": "0",
+                "longRushing": "2",
+                "player": "Kaytron Allen",
+                "team": "Washington Commanders",
+                "group": "rushing"
+              },
+              {
+                "rushingAttempts": "3",
+                "rushingYards": "1",
+                "yardsPerRushAttempt": "0.3",
+                "rushingTouchdowns": "0",
+                "longRushing": "3",
+                "player": "Jacory Croskey-Merritt",
+                "team": "Washington Commanders",
+                "group": "rushing"
+              },
+              {
+                "receptions": "1",
+                "receivingYards": "35",
+                "yardsPerReception": "35.0",
+                "receivingTouchdowns": "0",
+                "longReception": "35",
+                "receivingTargets": "2",
+                "player": "Jacory Croskey-Merritt",
+                "team": "Washington Commanders",
+                "group": "receiving"
+              },
+              {
+                "receptions": "1",
+                "receivingYards": "9",
+                "yardsPerReception": "9.0",
+                "receivingTouchdowns": "0",
+                "longReception": "9",
+                "receivingTargets": "1",
+                "player": "Stefon Diggs",
+                "team": "Washington Commanders",
+                "group": "receiving"
+              },
+              {
+                "receptions": "1",
+                "receivingYards": "2",
+                "yardsPerReception": "2.0",
+                "receivingTouchdowns": "0",
+                "longReception": "2",
+                "receivingTargets": "1",
+                "player": "Chig Okonkwo",
+                "team": "Washington Commanders",
+                "group": "receiving"
+              },
+              {
+                "fumbles": "0",
+                "fumblesLost": "0",
+                "fumblesRecovered": "1",
+                "player": "Odafe Oweh",
+                "team": "Washington Commanders",
+                "group": "fumbles"
+              },
+              {
+                "totalTackles": "2",
+                "soloTackles": "1",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Dyami Brown",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "1",
+                "sacks": "1",
+                "tacklesForLoss": "1",
+                "passesDefended": "0",
+                "QBHits": "1",
+                "defensiveTouchdowns": "0",
+                "player": "Odafe Oweh",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "1",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Jeremy Reaves",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "1",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Amik Robertson",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Frankie Luvu",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Percy Butler",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "1",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "0",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Sonny Styles",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "totalTackles": "0",
+                "soloTackles": "0",
+                "sacks": "0",
+                "tacklesForLoss": "0",
+                "passesDefended": "1",
+                "QBHits": "0",
+                "defensiveTouchdowns": "0",
+                "player": "Javon Kinlaw",
+                "team": "Washington Commanders",
+                "group": "defensive"
+              },
+              {
+                "puntReturns": "1",
+                "puntReturnYards": "8",
+                "yardsPerPuntReturn": "8.0",
+                "longPuntReturn": "8",
+                "puntReturnTouchdowns": "0",
+                "player": "Jaylin Lane",
+                "team": "Washington Commanders",
+                "group": "puntReturns"
+              },
+              {
+                "fieldGoalsMade/fieldGoalAttempts": "1/1",
+                "fieldGoalPct": "100.0",
+                "longFieldGoalMade": "31",
+                "extraPointsMade/extraPointAttempts": "0/0",
+                "totalKickingPoints": "3",
+                "player": "Drew Stevens",
+                "team": "Washington Commanders",
+                "group": "kicking"
+              }
+            ],
+            "teamStats": [
+              {
+                "team": "Indianapolis Colts",
+                "stats": {
+                  "firstDowns": "0",
+                  "firstDownsPassing": "0",
+                  "firstDownsRushing": "0",
+                  "firstDownsPenalty": "0",
+                  "thirdDownEff": "0-1",
+                  "fourthDownEff": "0-0",
+                  "totalOffensivePlays": "5",
+                  "totalYards": "-1",
+                  "yardsPerPlay": "-.2",
+                  "totalDrives": "2",
+                  "netPassingYards": "-4",
+                  "completionAttempts": "2/3",
+                  "yardsPerPass": "-1.0",
+                  "interceptions": "0",
+                  "sacksYardsLost": "1-8",
+                  "rushingYards": "3",
+                  "rushingAttempts": "1",
+                  "yardsPerRushAttempt": "3.0",
+                  "redZoneAttempts": "0-0",
+                  "totalPenaltiesYards": "0-0",
+                  "turnovers": "1",
+                  "fumblesLost": "1",
+                  "defensiveTouchdowns": "0",
+                  "possessionTime": " 2:40"
+                }
+              },
+              {
+                "team": "Washington Commanders",
+                "stats": {
+                  "firstDowns": "2",
+                  "firstDownsPassing": "1",
+                  "firstDownsRushing": "1",
+                  "firstDownsPenalty": "0",
+                  "thirdDownEff": "1-3",
+                  "fourthDownEff": "0-0",
+                  "totalOffensivePlays": "10",
+                  "totalYards": "78",
+                  "yardsPerPlay": "7.8",
+                  "totalDrives": "2",
+                  "netPassingYards": "40",
+                  "completionAttempts": "3/4",
+                  "yardsPerPass": "8.0",
+                  "interceptions": "0",
+                  "sacksYardsLost": "1-6",
+                  "rushingYards": "38",
+                  "rushingAttempts": "5",
+                  "yardsPerRushAttempt": "7.6",
+                  "redZoneAttempts": "0-1",
+                  "totalPenaltiesYards": "0-0",
+                  "turnovers": "0",
+                  "fumblesLost": "0",
+                  "defensiveTouchdowns": "0",
+                  "possessionTime": " 5:15"
+                }
+              }
+            ],
+            "source": "espn"
+          }
         },
         {
           "league": "nfl",
@@ -3530,7 +3988,7 @@
                 "yardsPerPassAttempt": "13.4",
                 "passingTouchdowns": "0",
                 "interceptions": "0",
-                "adjQBR": "95.0",
+                "adjQBR": "95.1",
                 "player": "Jeremy Hecklinski",
                 "team": "Iowa Hawkeyes",
                 "group": "passing"
@@ -5560,7 +6018,7 @@
                 "yardsPerPassAttempt": "7.6",
                 "passingTouchdowns": "3",
                 "interceptions": "2",
-                "adjQBR": "61.9",
+                "adjQBR": "62.0",
                 "player": "Kamario Taylor",
                 "team": "Mississippi State Bulldogs",
                 "group": "passing"
@@ -10533,7 +10991,7 @@
                 "yardsPerPassAttempt": "7.6",
                 "passingTouchdowns": "1",
                 "interceptions": "0",
-                "adjQBR": "38.4",
+                "adjQBR": "38.7",
                 "player": "Demond Williams Jr.",
                 "team": "Washington Huskies",
                 "group": "passing"
@@ -10932,7 +11390,7 @@
                 "yardsPerPassAttempt": "7.2",
                 "passingTouchdowns": "1",
                 "interceptions": "1",
-                "adjQBR": "54.2",
+                "adjQBR": "54.3",
                 "player": "Jayden Maiava",
                 "team": "USC Trojans",
                 "group": "passing"

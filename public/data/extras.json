@@ -43,8 +43,8 @@
     {
       "league": "nfl",
       "name": "NE @ BUF",
-      "temp": 48,
-      "condition": "Clear",
+      "temp": 61,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -63,7 +63,7 @@
     {
       "league": "nfl",
       "name": "NYJ @ CHI",
-      "temp": 67,
+      "temp": 66,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -83,7 +83,7 @@
     {
       "league": "nfl",
       "name": "JAX @ CIN",
-      "temp": 68,
+      "temp": 71,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -103,7 +103,7 @@
     {
       "league": "nfl",
       "name": "ARI @ NYG",
-      "temp": 63,
+      "temp": 64,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -163,7 +163,7 @@
     {
       "league": "nfl",
       "name": "TEN @ BAL",
-      "temp": 63,
+      "temp": 62,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -203,7 +203,7 @@
     {
       "league": "nfl",
       "name": "MIA @ MIN",
-      "temp": 66,
+      "temp": 67,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -283,7 +283,7 @@
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 67,
+      "temp": 66,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -314,7 +314,7 @@
       "league": "nfl",
       "name": "ATL @ NO",
       "temp": 79,
-      "condition": "36",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -841,6 +841,12 @@
       },
       {
         "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (hamstring) is expected to play in Sunday's game against the Titans, Ian Rapoport of NFL Network reports."
+      },
+      {
+        "team": null,
         "player": "Ethan Pocic",
         "status": "Injured Reserve",
         "detail": "Baltimore placed Pocic (knee) on injured reserve Saturday."
@@ -849,19 +855,13 @@
         "team": null,
         "player": "Jovaughn Gwyn",
         "status": "Injured Reserve",
-        "detail": "The Ravens moved Gwyn (lower leg) to injured reserve Saturday."
+        "detail": "The Ravens moved Gwyn (ankle) to injured reserve Saturday."
       },
       {
         "team": null,
         "player": "Ronnie Stanley",
         "status": "Questionable",
         "detail": "Stanley (toe) is listed as questionable for Sunday's game against the Titans."
-      },
-      {
-        "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (hamstring) is questionable for Sunday's game against the Titans after being limited in Friday's practice."
       },
       {
         "team": null,
@@ -985,6 +985,12 @@
       },
       {
         "team": null,
+        "player": "Sam Franklin Jr.",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
         "player": "Joe Andreessen",
         "status": "Active",
         "detail": "Andreessen and the Bills agreed to terms Saturday on a two-year contract extension, Tom Pelissero of Netflix reports."
@@ -1006,12 +1012,6 @@
         "player": "Ray Davis",
         "status": "Questionable",
         "detail": "Davis (hamstring) is questionable for Sunday's game against the Patriots."
-      },
-      {
-        "team": null,
-        "player": "DJ Moore",
-        "status": "Active",
-        "detail": "Moore (shoulder) is practicing in a non-contact jersey Friday, Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
       }
     ],
     "ncaaf": [
@@ -1820,7 +1820,7 @@
     ]
   },
   "closeArchive": {
-    "count": 304
+    "count": 344
   },
   "nflverse": [
     {
@@ -9871,7 +9871,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2322,
-    "gameFiles": 2209
+    "splitsKeys": 2378,
+    "gameFiles": 2265
   }
 }
