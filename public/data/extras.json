@@ -31,189 +31,134 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "849823",
       "home": "Los Angeles Dodgers",
       "away": "Atlanta Braves",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Chris Guccione",
+      "crew": [
+        {
+          "name": "Chris Guccione",
+          "type": "Home Plate"
+        },
+        {
+          "name": "James Hoye",
+          "type": "First Base"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "Second Base"
+        },
+        {
+          "name": "Jim Wolf",
+          "type": "Third Base"
+        },
+        {
+          "name": "Mike Estabrook",
+          "type": "Left Field"
+        },
+        {
+          "name": "Roberto Ortiz",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849825,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849825"
     },
     {
       "gamePk": 849823,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849823"
     }
   ],
   "weather": [
     {
       "league": "nfl",
-      "name": "NE @ BUF",
-      "temp": 68,
-      "condition": "Mostly sunny",
+      "name": "MIA @ MIN",
+      "temp": 69,
+      "condition": "Partly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "14127"
+          "55415"
         ],
-        "href": "http://www.accuweather.com/en/us/highmark-stadium-ny/14127/current-weather/43037_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/us-bank-stadium-mn/55415/current-weather/35911_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Orchard Park",
-      "state": "NY"
+      "city": "Minneapolis",
+      "state": "MN"
     },
     {
       "league": "nfl",
-      "name": "NYJ @ CHI",
-      "temp": 73,
+      "name": "KC @ LV",
+      "temp": 94,
       "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "60605"
+          "89118"
         ],
-        "href": "http://www.accuweather.com/en/us/soldier-field-il/60608/current-weather/18170_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/current-weather/209206_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Chicago",
-      "state": "IL"
+      "city": "Las Vegas",
+      "state": "NV"
     },
     {
       "league": "nfl",
-      "name": "JAX @ CIN",
-      "temp": 74,
-      "condition": "Mostly sunny",
+      "name": "DEN @ SF",
+      "temp": 90,
+      "condition": "Partly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "45202"
+          "95054"
         ],
-        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/current-weather/53622_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/current-weather/53539_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Cincinnati",
-      "state": "OH"
+      "city": "Santa Clara",
+      "state": "CA"
     },
     {
       "league": "nfl",
-      "name": "ARI @ NYG",
-      "temp": 61,
-      "condition": "Light rain",
+      "name": "LAC @ SEA",
+      "temp": 71,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "07073"
+          "98134"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/current-weather/52866_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/current-weather/196601_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "East Rutherford",
-      "state": "NJ"
-    },
-    {
-      "league": "nfl",
-      "name": "LAR @ PHI",
-      "temp": 60,
-      "condition": "Light rain",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "19103"
-        ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/current-weather/43025_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Philadelphia",
-      "state": "PA"
-    },
-    {
-      "league": "nfl",
-      "name": "GB @ TB",
-      "temp": 88,
-      "condition": "Mostly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "33607"
-        ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/current-weather/53558_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Tampa",
-      "state": "FL"
-    },
-    {
-      "league": "nfl",
-      "name": "TEN @ BAL",
-      "temp": 63,
-      "condition": "Cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "21230"
-        ],
-        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/current-weather/43035_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Baltimore",
-      "state": "MD"
-    },
-    {
-      "league": "nfl",
-      "name": "DAL @ HOU",
-      "temp": 77,
-      "condition": "Cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "77054"
-        ],
-        "href": "http://www.accuweather.com/en/us/nrg-stadium-tx/77002/current-weather/43039_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Houston",
-      "state": "TX"
+      "city": "Seattle",
+      "state": "WA"
     },
     {
       "league": "nfl",
@@ -227,88 +172,88 @@
     },
     {
       "league": "nfl",
-      "name": "MIA @ MIN",
-      "temp": 67,
-      "condition": "2",
+      "name": "NE @ BUF",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "55415"
-        ],
-        "href": "http://www.accuweather.com/en/us/us-bank-stadium-mn/55415/hourly-weather-forecast/35911_poi?day=1&hbhhour=15&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Minneapolis",
-      "state": "MN"
+      "wind": null,
+      "city": "Orchard Park",
+      "state": "NY"
     },
     {
       "league": "nfl",
-      "name": "KC @ LV",
-      "temp": 92,
-      "condition": "1",
+      "name": "NYJ @ CHI",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "89118"
-        ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Las Vegas",
-      "state": "NV"
+      "wind": null,
+      "city": "Chicago",
+      "state": "IL"
     },
     {
       "league": "nfl",
-      "name": "DEN @ SF",
-      "temp": 91,
-      "condition": "2",
+      "name": "JAX @ CIN",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "95054"
-        ],
-        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Santa Clara",
-      "state": "CA"
+      "wind": null,
+      "city": "Cincinnati",
+      "state": "OH"
     },
     {
       "league": "nfl",
-      "name": "LAC @ SEA",
-      "temp": 67,
-      "condition": "13",
+      "name": "ARI @ NYG",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "98134"
-        ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Seattle",
-      "state": "WA"
+      "wind": null,
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "league": "nfl",
+      "name": "LAR @ PHI",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "league": "nfl",
+      "name": "GB @ TB",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Tampa",
+      "state": "FL"
+    },
+    {
+      "league": "nfl",
+      "name": "TEN @ BAL",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Baltimore",
+      "state": "MD"
+    },
+    {
+      "league": "nfl",
+      "name": "DAL @ HOU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Houston",
+      "state": "TX"
     },
     {
       "league": "nfl",
       "name": "DET @ CAR",
-      "temp": 66,
+      "temp": 69,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -338,7 +283,7 @@
     {
       "league": "nfl",
       "name": "ATL @ NO",
-      "temp": 79,
+      "temp": 78,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -518,15 +463,15 @@
     {
       "league": "mlb",
       "name": "SD @ MIL",
-      "temp": 67,
-      "condition": "2",
+      "temp": 68,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "53295"
         ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -560,9 +505,27 @@
     "nfl": [
       {
         "team": null,
+        "player": "Paris Johnson Jr.",
+        "status": "Questionable",
+        "detail": "Cardinals coach Mike LaFleur said that Johnson is dealing with a biceps injury after Sunday's 36-24 loss to the Giants, Darren Urban of the team's official sitereports."
+      },
+      {
+        "team": null,
+        "player": "Hunter Long",
+        "status": "Questionable",
+        "detail": "Long (knee) is questionable to return against the Giants on Sunday."
+      },
+      {
+        "team": null,
         "player": "Andrew Wingard",
         "status": "Questionable",
-        "detail": "Wingard suffered a knee injury during Sunday's Week 4 matchup against the Giants and is questionable to return."
+        "detail": "Wingard (knee) has been ruled out for the rest of Sunday's game against the Giants."
+      },
+      {
+        "team": null,
+        "player": "Isaiah Adams",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
@@ -689,24 +652,6 @@
         "player": "Max Melton",
         "status": "Active",
         "detail": "Melton (toe) is active for Sunday's game against the 49ers, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Garrett Williams",
-        "status": "Active",
-        "detail": "Williams (Achilles) does not carry an injury designation ahead of Sunday's game against the 49ers, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Will Johnson",
-        "status": "Injured Reserve",
-        "detail": "The Cardinals placed Johnson (neck) on injured reserve  Wednesday, Darren Urban of the team's official site reports."
-      },
-      {
-        "team": null,
-        "player": "Budda Baker",
-        "status": "Active",
-        "detail": "Baker recorded 11 tackles (seven solo), including 1.0 sacks, and a pass breakup in Sunday's loss to the Seahawks."
       },
       {
         "team": null,
@@ -866,15 +811,33 @@
       },
       {
         "team": null,
-        "player": "Marlon Humphrey",
+        "player": "Ronnie Stanley",
         "status": "Questionable",
-        "detail": "questionable"
+        "detail": "Stanley (toe) was able to complete Sunday's 24-18 win over Tennessee, Jonas Shaffer of TheBaltimoreBanner.com reports."
       },
       {
         "team": null,
-        "player": "Ronnie Stanley",
-        "status": "Active",
-        "detail": "Stanley (toe) is active against the Titans on Sunday."
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (ankle) was seen wearing a walking boot on his left foot after Sunday's 24-18 victory against the Titans, Brian Wacker of The Baltimore Sun reports."
+      },
+      {
+        "team": null,
+        "player": "Durham Smythe",
+        "status": "Out",
+        "detail": "Smythe (Achilles) won't return to Sunday's game against the Titans."
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
+        "status": "Questionable",
+        "detail": "Humphrey (calf) has been ruled out for the rest of Sunday's game against the Titans."
+      },
+      {
+        "team": null,
+        "player": "Andrew Vorhees",
+        "status": "Questionable",
+        "detail": "Vorhees (foot) won't return to Sunday's game against the Titans, Brian Wacker of The Baltimore Sun reports."
       },
       {
         "team": null,
@@ -914,21 +877,9 @@
       },
       {
         "team": null,
-        "player": "Durham Smythe",
-        "status": "Active",
-        "detail": "Smythe (heel) was a full participant in Thursday's practice."
-      },
-      {
-        "team": null,
         "player": "John Simpson",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Active",
-        "detail": "Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports."
       },
       {
         "team": null,
@@ -1004,39 +955,33 @@
       },
       {
         "team": null,
-        "player": "Kyle Hamilton",
+        "player": "Josh Allen",
         "status": "Active",
-        "detail": "Hamilton tallied 13 tackles (seven solo) during the Ravens' 24-17 loss to the Saints on Sunday."
+        "detail": "Allen completed 23 of 33 passes for 253 yards with a touchdown and an interception and added five carries for four yards and another score in the Bills' 29-26 loss to the Patriots on Sunday."
       },
       {
         "team": null,
-        "player": "Davison Igbinosun",
+        "player": "James Cook III",
         "status": "Active",
-        "detail": "Igbinosun is expected to start in Sunday's game against the Patriots, Chris Brown of the Bills Radio Network reports."
+        "detail": "Cook rushed 12 times for 75 yards and a touchdown and brought in both targets for eight yards in the Bills' 29-26 loss to the Patriots on Sunday."
       },
       {
         "team": null,
-        "player": "T.J. Sanders",
-        "status": "Out",
-        "detail": "Sanders (appendix) is inactive for Sunday's game against the Patriots."
+        "player": "Dee Alford",
+        "status": "Questionable",
+        "detail": "Alford (ankle) is questionable to return against the Patriots on Sunday, Lance Lysowski of The Buffalo News reports."
       },
       {
         "team": null,
-        "player": "Christian Benford",
-        "status": "Out",
-        "detail": "Benford (toe) is inactive for Sunday's game against the Patriots."
+        "player": "Ed Oliver",
+        "status": "Questionable",
+        "detail": "Oliver (knee) is questionable to return against the Patriots on Sunday, Lance Lysowski of The Buffalo News reports."
       },
       {
         "team": null,
-        "player": "Ray Davis",
-        "status": "Active",
-        "detail": "Davis (hamstring) is expected to play against the Patriots on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Ar'maj Reed-Adams",
-        "status": "Out",
-        "detail": "inactive"
+        "player": "Te'Cory Couch",
+        "status": "Questionable",
+        "detail": "Couch suffered a hamstring injury Sunday versus New England and is doubtful to return."
       }
     ],
     "ncaaf": [
@@ -1544,6 +1489,12 @@
     "wnba": [
       {
         "team": null,
+        "player": "Allisha Gray",
+        "status": "Out",
+        "detail": "Gray (hand) exited to the locker room in the second quarter of Sunday's Game 1 against the Liberty and will not return, Alexa Philippou of ESPN.com reports. She'll finish with seven points (1-5 FG, 1-3 3Pt, 4-5 FT), one rebound and one steal in 11 minutes."
+      },
+      {
+        "team": null,
         "player": "Matilde Villa",
         "status": "Out",
         "detail": "Villa (coach's decision) has been ruled out for Wednesday's game against New York."
@@ -1649,6 +1600,12 @@
         "player": "Tyasha Harris",
         "status": "Out",
         "detail": "Harris (leg) will miss the rest of the season, WNBA reporter Kareem Copeland reports."
+      },
+      {
+        "team": null,
+        "player": "Jewell Loyd",
+        "status": "Out",
+        "detail": "Loyd suffered a left leg injury in the third quarter of Sunday's Game 1 against the Valkyries and will not return, WNBA reporter Kareem Copeland reports. She'll finish with zero points (0-2 FG, 0-2 3Pt), two rebounds and one assist in 17 minutes."
       },
       {
         "team": null,
@@ -9796,7 +9753,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "homePitcher": "Blake Snell",
       "awayTeam": "Atlanta Braves",
-      "awayPitcher": null
+      "awayPitcher": "Ray Kerr"
     }
   ],
   "tennis": {
