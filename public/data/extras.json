@@ -1,161 +1,32 @@
 {
   "umpires": [
     {
-      "eventId": "849829",
-      "home": "Cleveland Guardians",
-      "away": "Chicago White Sox",
-      "plateUmpire": "Cory Blaser",
-      "crew": [
-        {
-          "name": "Cory Blaser",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Gabe Morales",
-          "type": "First Base"
-        },
-        {
-          "name": "Todd Tichenor",
-          "type": "Second Base"
-        },
-        {
-          "name": "Jansen Visconti",
-          "type": "Third Base"
-        },
-        {
-          "name": "Vic Carapazza",
-          "type": "Left Field"
-        },
-        {
-          "name": "Tom Hanahan",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Final"
-    },
-    {
-      "eventId": "849828",
-      "home": "Los Angeles Dodgers",
-      "away": "Atlanta Braves",
-      "plateUmpire": "Roberto Ortiz",
-      "crew": [
-        {
-          "name": "Roberto Ortiz",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Chris Guccione",
-          "type": "First Base"
-        },
-        {
-          "name": "James Hoye",
-          "type": "Second Base"
-        },
-        {
-          "name": "Tripp Gibson",
-          "type": "Third Base"
-        },
-        {
-          "name": "Jim Wolf",
-          "type": "Left Field"
-        },
-        {
-          "name": "Mike Estabrook",
-          "type": "Right Field"
-        }
-      ],
-      "status": "In Progress"
-    },
-    {
-      "eventId": "849835",
-      "home": "Tampa Bay Rays",
-      "away": "New York Yankees",
-      "plateUmpire": "Shane Livensparger",
-      "crew": [
-        {
-          "name": "Shane Livensparger",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Jeremie Rehak",
-          "type": "First Base"
-        },
-        {
-          "name": "Dan Bellino",
-          "type": "Second Base"
-        },
-        {
-          "name": "Ben May",
-          "type": "Third Base"
-        },
-        {
-          "name": "D.J. Reyburn",
-          "type": "Left Field"
-        },
-        {
-          "name": "Ryan Wills",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Warmup"
-    },
-    {
-      "eventId": "849830",
+      "eventId": "849825",
       "home": "Milwaukee Brewers",
       "away": "San Diego Padres",
-      "plateUmpire": "Nick Mahrley",
-      "crew": [
-        {
-          "name": "Nick Mahrley",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Lance Barrett",
-          "type": "First Base"
-        },
-        {
-          "name": "Alfonso M\u00e1rquez",
-          "type": "Second Base"
-        },
-        {
-          "name": "Nic Lentz",
-          "type": "Third Base"
-        },
-        {
-          "name": "Quinn Wolcott",
-          "type": "Left Field"
-        },
-        {
-          "name": "Brennan Miller",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849823",
+      "home": "Los Angeles Dodgers",
+      "away": "Atlanta Braves",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849829,
-      "status": "F",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849829",
-      "playCount": 68,
-      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
-      "calledPitchesApprox": 0
+      "gamePk": 849825,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849825"
     },
     {
-      "gamePk": 849828,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849828"
-    },
-    {
-      "gamePk": 849835,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849835"
-    },
-    {
-      "gamePk": 849830,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849830"
+      "gamePk": 849823,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849823"
     }
   ],
   "weather": [
@@ -451,83 +322,143 @@
     },
     {
       "league": "ncaaf",
-      "name": "OSU @ IOWA",
-      "temp": 72,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "52242"
-        ],
-        "href": "http://www.accuweather.com/en/us/kinnick-stadium-ia/52240/current-weather/53565_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Iowa City",
-      "state": "IA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "AUB @ TENN",
-      "temp": 77,
+      "name": "BYU @ TCU",
+      "temp": 71,
       "condition": "Cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "37916"
+          "76109"
         ],
-        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/current-weather/53639_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/amon-g-carter-stadium-tx/76104/current-weather/53642_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Knoxville",
-      "state": "TN"
+      "city": "Fort Worth",
+      "state": "TX"
     },
     {
       "league": "ncaaf",
-      "name": "FLA @ MIZ",
-      "temp": 72,
-      "condition": "Sunny",
+      "name": "MIA @ CLEM",
+      "temp": 77,
+      "condition": "Partly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "65203"
+          "29634"
         ],
-        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/current-weather/53597_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-sc/29631/current-weather/53634_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Columbia",
-      "state": "MO"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UK @ SC",
-      "temp": 80,
-      "condition": "Mostly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "29201"
-        ],
-        "href": "http://www.accuweather.com/en/us/williams-brice-stadium-sc/29201/current-weather/53635_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Columbia",
+      "city": "Clemson",
       "state": "SC"
+    },
+    {
+      "league": "ncaaf",
+      "name": "TTU @ COLO",
+      "temp": 68,
+      "condition": "Clear",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "80309"
+        ],
+        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/current-weather/53547_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Boulder",
+      "state": "CO"
+    },
+    {
+      "league": "ncaaf",
+      "name": "WASH @ USC",
+      "temp": 90,
+      "condition": "Mostly clear",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "90037"
+        ],
+        "href": "http://www.accuweather.com/en/us/los-angeles-memorial-coliseum-ca/90012/current-weather/53540_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "USU @ BOIS",
+      "temp": 77,
+      "condition": "Clear",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "83706"
+        ],
+        "href": "http://www.accuweather.com/en/us/albertsons-stadium-id/83702/current-weather/53566_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Boise",
+      "state": "ID"
+    },
+    {
+      "league": "ncaaf",
+      "name": "MCN @ LSU",
+      "temp": 80,
+      "condition": "Cloudy",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "70893"
+        ],
+        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/current-weather/53584_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Baton Rouge",
+      "state": "LA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "IU @ RUTG",
+      "temp": 55,
+      "condition": "Clear",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "08854"
+        ],
+        "href": "http://www.accuweather.com/en/us/shi-stadium-nj/08817/current-weather/53608_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Piscataway",
+      "state": "NJ"
     },
     {
       "league": "ncaaf",
@@ -551,6 +482,16 @@
     },
     {
       "league": "ncaaf",
+      "name": "OSU @ IOWA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Iowa City",
+      "state": "IA"
+    },
+    {
+      "league": "ncaaf",
       "name": "ALA @ MSST",
       "temp": null,
       "condition": null,
@@ -558,6 +499,26 @@
       "wind": null,
       "city": "Starkville",
       "state": "MS"
+    },
+    {
+      "league": "ncaaf",
+      "name": "FLA @ MIZ",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Columbia",
+      "state": "MO"
+    },
+    {
+      "league": "ncaaf",
+      "name": "AUB @ TENN",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Knoxville",
+      "state": "TN"
     },
     {
       "league": "ncaaf",
@@ -581,143 +542,13 @@
     },
     {
       "league": "ncaaf",
-      "name": "BYU @ TCU",
-      "temp": 71,
-      "condition": "18",
+      "name": "UK @ SC",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "76109"
-        ],
-        "href": "http://www.accuweather.com/en/us/amon-g-carter-stadium-tx/76104/hourly-weather-forecast/53642_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Fort Worth",
-      "state": "TX"
-    },
-    {
-      "league": "ncaaf",
-      "name": "MIA @ CLEM",
-      "temp": 75,
-      "condition": "16",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "29634"
-        ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-sc/29631/hourly-weather-forecast/53634_poi?day=1&hbhhour=19&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Clemson",
+      "wind": null,
+      "city": "Columbia",
       "state": "SC"
-    },
-    {
-      "league": "ncaaf",
-      "name": "TTU @ COLO",
-      "temp": 81,
-      "condition": "2",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "80309"
-        ],
-        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=1&hbhhour=17&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Boulder",
-      "state": "CO"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WASH @ USC",
-      "temp": 98,
-      "condition": "1",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90037"
-        ],
-        "href": "http://www.accuweather.com/en/us/los-angeles-memorial-coliseum-ca/90012/hourly-weather-forecast/53540_poi?day=1&hbhhour=16&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Los Angeles",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "USU @ BOIS",
-      "temp": 87,
-      "condition": "1",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "83706"
-        ],
-        "href": "http://www.accuweather.com/en/us/albertsons-stadium-id/83702/hourly-weather-forecast/53566_poi?day=1&hbhhour=17&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Boise",
-      "state": "ID"
-    },
-    {
-      "league": "ncaaf",
-      "name": "MCN @ LSU",
-      "temp": 87,
-      "condition": "15",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "70893"
-        ],
-        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Baton Rouge",
-      "state": "LA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "IU @ RUTG",
-      "temp": 63,
-      "condition": "34",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "08854"
-        ],
-        "href": "http://www.accuweather.com/en/us/shi-stadium-nj/08817/hourly-weather-forecast/53608_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Piscataway",
-      "state": "NJ"
     },
     {
       "league": "mlb",
@@ -732,55 +563,35 @@
     {
       "league": "mlb",
       "name": "ATL @ LAD",
-      "temp": 102,
-      "condition": "Sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90090"
-        ],
-        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/current-weather/30524_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Los Angeles",
       "state": "California"
     },
     {
       "league": "mlb",
       "name": "NYY @ TB",
-      "temp": 86,
-      "condition": "15",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "33705"
-        ],
-        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "St. Petersburg",
       "state": "Florida"
     },
     {
       "league": "mlb",
       "name": "SD @ MIL",
-      "temp": 60,
-      "condition": "35",
+      "temp": 56,
+      "condition": "Partly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "53295"
         ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -946,7 +757,7 @@
         "team": null,
         "player": "Yasir Abdullah",
         "status": "Questionable",
-        "detail": "questionable"
+        "detail": "Abdullah is questionable for Monday's matchup against New Orleans due to an illness, Daniel Flick of The Atlanta Journal-Constitution reports."
       },
       {
         "team": null,
@@ -1102,13 +913,13 @@
         "team": null,
         "player": "Ethan Pocic",
         "status": "Injured Reserve",
-        "detail": "ir"
+        "detail": "Baltimore placed Pocic (knee) on injured reserve Saturday."
       },
       {
         "team": null,
         "player": "Jovaughn Gwyn",
         "status": "Injured Reserve",
-        "detail": "ir"
+        "detail": "The Ravens moved Gwyn (lower leg) to injured reserve Saturday."
       },
       {
         "team": null,
@@ -1887,14 +1698,14 @@
       {
         "team": null,
         "player": "Stephanie Talbot",
-        "status": "Out",
-        "detail": "Talbot (leg) has been ruled out for Thursday's Game 3 of the first round of the playoffs against Indiana."
+        "status": "Day-To-Day",
+        "detail": "Talbot (leg) is listed as questionable for Game 1 of the semifinals versus Golden State on Sunday."
       },
       {
         "team": null,
         "player": "Dana Evans",
         "status": "Out",
-        "detail": "Evans (knee) is listed as out for Game 3 of the first round playoff series versus Indiana."
+        "detail": "Evans (knee) is out for Game 1 of the semifinals against the Valkyries on Sunday."
       },
       {
         "team": null,
@@ -2079,7 +1890,7 @@
     ]
   },
   "closeArchive": {
-    "count": 302
+    "count": 304
   },
   "nflverse": [
     {
@@ -10025,32 +9836,18 @@
   },
   "pitchers": [
     {
-      "eventId": "849829",
-      "homeTeam": "Cleveland Guardians",
-      "homePitcher": "Parker Messick",
-      "awayTeam": "Chicago White Sox",
-      "awayPitcher": "Hagen Smith"
-    },
-    {
-      "eventId": "849828",
-      "homeTeam": "Los Angeles Dodgers",
-      "homePitcher": "Tarik Skubal",
-      "awayTeam": "Atlanta Braves",
-      "awayPitcher": "Dylan Dodd"
-    },
-    {
-      "eventId": "849835",
-      "homeTeam": "Tampa Bay Rays",
-      "homePitcher": "Drew Rasmussen",
-      "awayTeam": "New York Yankees",
-      "awayPitcher": "Gerrit Cole"
-    },
-    {
-      "eventId": "849830",
+      "eventId": "849825",
       "homeTeam": "Milwaukee Brewers",
-      "homePitcher": "Jacob Misiorowski",
+      "homePitcher": "Logan Henderson",
       "awayTeam": "San Diego Padres",
-      "awayPitcher": "Robbie Ray"
+      "awayPitcher": "Michael King"
+    },
+    {
+      "eventId": "849823",
+      "homeTeam": "Los Angeles Dodgers",
+      "homePitcher": "Blake Snell",
+      "awayTeam": "Atlanta Braves",
+      "awayPitcher": null
     }
   ],
   "tennis": {
