@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-04T13:50:31.381937+00:00",
+  "pulled_at": "2026-10-04T18:04:32.725043+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -255,6 +255,16 @@
         "rating": -1.0,
         "source": "espn-nfl-diff"
       },
+      "indianapolis-colts": {
+        "name": "Indianapolis Colts",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
+      "colts": {
+        "name": "Indianapolis Colts",
+        "rating": -0.2,
+        "source": "espn-nfl-diff"
+      },
       "new-york-jets": {
         "name": "New York Jets",
         "rating": 0.3,
@@ -273,16 +283,6 @@
       "patriots": {
         "name": "New England Patriots",
         "rating": -1.5,
-        "source": "espn-nfl-diff"
-      },
-      "indianapolis-colts": {
-        "name": "Indianapolis Colts",
-        "rating": -1.9,
-        "source": "espn-nfl-diff"
-      },
-      "colts": {
-        "name": "Indianapolis Colts",
-        "rating": -1.9,
         "source": "espn-nfl-diff"
       },
       "miami-dolphins": {
@@ -305,16 +305,6 @@
         "rating": -3.2,
         "source": "espn-nfl-diff"
       },
-      "tennessee-titans": {
-        "name": "Tennessee Titans",
-        "rating": -2.2,
-        "source": "espn-nfl-diff"
-      },
-      "titans": {
-        "name": "Tennessee Titans",
-        "rating": -2.2,
-        "source": "espn-nfl-diff"
-      },
       "houston-texans": {
         "name": "Houston Texans",
         "rating": -2.1,
@@ -323,6 +313,16 @@
       "texans": {
         "name": "Houston Texans",
         "rating": -2.1,
+        "source": "espn-nfl-diff"
+      },
+      "tennessee-titans": {
+        "name": "Tennessee Titans",
+        "rating": -2.2,
+        "source": "espn-nfl-diff"
+      },
+      "titans": {
+        "name": "Tennessee Titans",
+        "rating": -2.2,
         "source": "espn-nfl-diff"
       },
       "minnesota-vikings": {
@@ -340,14 +340,14 @@
         "rating": 4.8,
         "source": "espn-nfl-diff"
       },
-      "phi": {
-        "name": "Philadelphia Eagles",
-        "rating": -1.4,
+      "new-york-giants": {
+        "name": "New York Giants",
+        "rating": -0.9,
         "source": "espn-nfl-diff"
       },
-      "eagles": {
-        "name": "Philadelphia Eagles",
-        "rating": -1.4,
+      "giants": {
+        "name": "New York Giants",
+        "rating": -0.9,
         "source": "espn-nfl-diff"
       },
       "detroit-lions": {
@@ -380,14 +380,14 @@
         "rating": 2.5,
         "source": "espn-nfl-diff"
       },
-      "new-york-giants": {
-        "name": "New York Giants",
-        "rating": -0.9,
+      "phi": {
+        "name": "Philadelphia Eagles",
+        "rating": -1.4,
         "source": "espn-nfl-diff"
       },
-      "giants": {
-        "name": "New York Giants",
-        "rating": -0.9,
+      "eagles": {
+        "name": "Philadelphia Eagles",
+        "rating": -1.4,
         "source": "espn-nfl-diff"
       },
       "carolina-panthers": {
@@ -410,19 +410,19 @@
         "rating": -0.2,
         "source": "espn-nfl-diff"
       },
+      "atlanta-falcons": {
+        "name": "Atlanta Falcons",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
+      "falcons": {
+        "name": "Atlanta Falcons",
+        "rating": -1.7,
+        "source": "espn-nfl-diff"
+      },
       "dal": {
         "name": "Dallas Cowboys",
         "rating": 0.6,
-        "source": "espn-nfl-diff"
-      },
-      "washington-commanders": {
-        "name": "Washington Commanders",
-        "rating": -1.7,
-        "source": "espn-nfl-diff"
-      },
-      "commanders": {
-        "name": "Washington Commanders",
-        "rating": -1.7,
         "source": "espn-nfl-diff"
       },
       "new-orleans-saints": {
@@ -433,16 +433,6 @@
       "saints": {
         "name": "New Orleans Saints",
         "rating": -0.2,
-        "source": "espn-nfl-diff"
-      },
-      "atlanta-falcons": {
-        "name": "Atlanta Falcons",
-        "rating": -1.7,
-        "source": "espn-nfl-diff"
-      },
-      "falcons": {
-        "name": "Atlanta Falcons",
-        "rating": -1.7,
         "source": "espn-nfl-diff"
       },
       "green-bay-packers": {
@@ -463,6 +453,16 @@
       "cardinals": {
         "name": "Arizona Cardinals",
         "rating": -1.8,
+        "source": "espn-nfl-diff"
+      },
+      "washington-commanders": {
+        "name": "Washington Commanders",
+        "rating": -3.4,
+        "source": "espn-nfl-diff"
+      },
+      "commanders": {
+        "name": "Washington Commanders",
+        "rating": -3.4,
         "source": "espn-nfl-diff"
       },
       "tampa-bay-buccaneers": {

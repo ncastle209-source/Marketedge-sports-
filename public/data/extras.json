@@ -4,9 +4,34 @@
       "eventId": "849825",
       "home": "Milwaukee Brewers",
       "away": "San Diego Padres",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Lance Barrett",
+      "crew": [
+        {
+          "name": "Lance Barrett",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Alfonso M\u00e1rquez",
+          "type": "First Base"
+        },
+        {
+          "name": "Nic Lentz",
+          "type": "Second Base"
+        },
+        {
+          "name": "Quinn Wolcott",
+          "type": "Third Base"
+        },
+        {
+          "name": "Brennan Miller",
+          "type": "Left Field"
+        },
+        {
+          "name": "Nick Mahrley",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849823",
@@ -20,7 +45,7 @@
   "savant": [
     {
       "gamePk": 849825,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849825"
     },
     {
@@ -32,19 +57,9 @@
   "weather": [
     {
       "league": "nfl",
-      "name": "IND VS WSH",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "London",
-      "state": null
-    },
-    {
-      "league": "nfl",
       "name": "NE @ BUF",
-      "temp": 61,
-      "condition": "Sunny",
+      "temp": 68,
+      "condition": "Mostly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -63,15 +78,15 @@
     {
       "league": "nfl",
       "name": "NYJ @ CHI",
-      "temp": 66,
-      "condition": "2",
+      "temp": 73,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "60605"
         ],
-        "href": "http://www.accuweather.com/en/us/soldier-field-il/60608/hourly-weather-forecast/18170_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/soldier-field-il/60608/current-weather/18170_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -83,15 +98,15 @@
     {
       "league": "nfl",
       "name": "JAX @ CIN",
-      "temp": 71,
-      "condition": "2",
+      "temp": 74,
+      "condition": "Mostly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "45202"
         ],
-        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/current-weather/53622_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -103,15 +118,15 @@
     {
       "league": "nfl",
       "name": "ARI @ NYG",
-      "temp": 64,
-      "condition": "7",
+      "temp": 61,
+      "condition": "Light rain",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/current-weather/52866_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -123,15 +138,15 @@
     {
       "league": "nfl",
       "name": "LAR @ PHI",
-      "temp": 62,
-      "condition": "7",
+      "temp": 60,
+      "condition": "Light rain",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "19103"
         ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/current-weather/43025_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -144,14 +159,14 @@
       "league": "nfl",
       "name": "GB @ TB",
       "temp": 88,
-      "condition": "4",
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "33607"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/current-weather/53558_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -163,15 +178,15 @@
     {
       "league": "nfl",
       "name": "TEN @ BAL",
-      "temp": 62,
-      "condition": "7",
+      "temp": 63,
+      "condition": "Cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "21230"
         ],
-        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/current-weather/43035_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -183,15 +198,15 @@
     {
       "league": "nfl",
       "name": "DAL @ HOU",
-      "temp": 79,
-      "condition": "7",
+      "temp": 77,
+      "condition": "Cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "77054"
         ],
-        "href": "http://www.accuweather.com/en/us/nrg-stadium-tx/77002/hourly-weather-forecast/43039_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/nrg-stadium-tx/77002/current-weather/43039_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -199,6 +214,16 @@
       },
       "city": "Houston",
       "state": "TX"
+    },
+    {
+      "league": "nfl",
+      "name": "IND VS WSH",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "London",
+      "state": null
     },
     {
       "league": "nfl",
@@ -243,7 +268,7 @@
     {
       "league": "nfl",
       "name": "DEN @ SF",
-      "temp": 92,
+      "temp": 91,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -264,7 +289,7 @@
       "league": "nfl",
       "name": "LAC @ SEA",
       "temp": 67,
-      "condition": "11",
+      "condition": "13",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -284,7 +309,7 @@
       "league": "nfl",
       "name": "DET @ CAR",
       "temp": 66,
-      "condition": "18",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -492,58 +517,94 @@
     },
     {
       "league": "mlb",
-      "name": "CHW @ CLE",
-      "temp": null,
-      "condition": null,
+      "name": "SD @ MIL",
+      "temp": 67,
+      "condition": "2",
       "gust": null,
-      "wind": null,
-      "city": "Cleveland",
-      "state": "Ohio"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "53295"
+        ],
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=15&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Milwaukee",
+      "state": "Wisconsin"
     },
     {
       "league": "mlb",
       "name": "ATL @ LAD",
-      "temp": null,
-      "condition": null,
+      "temp": 97,
+      "condition": "1",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "90090"
+        ],
+        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/hourly-weather-forecast/30524_poi?day=1&hbhhour=17&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Los Angeles",
       "state": "California"
-    },
-    {
-      "league": "mlb",
-      "name": "NYY @ TB",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "St. Petersburg",
-      "state": "Florida"
-    },
-    {
-      "league": "mlb",
-      "name": "SD @ MIL",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Milwaukee",
-      "state": "Wisconsin"
     }
   ],
   "injuries": {
     "nfl": [
       {
         "team": null,
-        "player": "Dadrion Taylor-Demerson",
+        "player": "Andrew Wingard",
+        "status": "Questionable",
+        "detail": "Wingard suffered a knee injury during Sunday's Week 4 matchup against the Giants and is questionable to return."
+      },
+      {
+        "team": null,
+        "player": "Reggie Virgil",
         "status": "Out",
-        "detail": "Taylor-Demerson (back) has been ruled out ahead of Sunday's game against the Giants, Zach Gershman of the Cardinals' official site reports."
+        "detail": "Virgil (coach's decision) is inactive for Sunday's battle against the Giants."
+      },
+      {
+        "team": null,
+        "player": "Carson Beck",
+        "status": "Out",
+        "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Giants."
       },
       {
         "team": null,
         "player": "Josh Sweat",
-        "status": "Questionable",
-        "detail": "Sweat (groin) is listed as questionable ahead of Sunday's game against the Giants, Zach Gershman of the Cardinals' official site reports."
+        "status": "Active",
+        "detail": "Sweat (groin) is active for Sunday's Week 4 clash against the Giants."
+      },
+      {
+        "team": null,
+        "player": "Cameron Robertson",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Starling Thomas V",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Josh Fryar",
+        "status": "Out",
+        "detail": "inactive"
       },
       {
         "team": null,
@@ -571,12 +632,6 @@
       },
       {
         "team": null,
-        "player": "Andrew Wingard",
-        "status": "Active",
-        "detail": "Wingard made 10 tackles (one solo) in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
         "player": "Kendrick Bourne",
         "status": "Active",
         "detail": "Bourne hauled in two passes on three targets for 22 yards during the Cardinals' 36-30 loss to the 49ers on Sunday."
@@ -589,19 +644,7 @@
       },
       {
         "team": null,
-        "player": "Josh Fryar",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Andrew Billings",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Reggie Virgil",
         "status": "Active",
         "detail": ""
       },
@@ -649,21 +692,9 @@
       },
       {
         "team": null,
-        "player": "Carson Beck",
-        "status": "Active",
-        "detail": "Beck (coach's decision) is inactive but will serve as the emergency third quarterback against the 49ers on Sunday, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
         "player": "Garrett Williams",
         "status": "Active",
         "detail": "Williams (Achilles) does not carry an injury designation ahead of Sunday's game against the 49ers, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Starling Thomas V",
-        "status": "Active",
-        "detail": "The Cardinals signed Thomas to the active roster from their practice squad Wednesday, Darren Urban of the team's official site reports."
       },
       {
         "team": null,
@@ -676,12 +707,6 @@
         "player": "Budda Baker",
         "status": "Active",
         "detail": "Baker recorded 11 tackles (seven solo), including 1.0 sacks, and a pass breakup in Sunday's loss to the Seahawks."
-      },
-      {
-        "team": null,
-        "player": "Isaac Seumalo",
-        "status": "Active",
-        "detail": "Seumalo (shoulder) is active for Sunday's game against Seattle."
       },
       {
         "team": null,
@@ -836,13 +861,43 @@
       {
         "team": null,
         "player": "Chris Moore",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
         "status": "Questionable",
         "detail": "questionable"
       },
       {
         "team": null,
+        "player": "Ronnie Stanley",
+        "status": "Active",
+        "detail": "Stanley (toe) is active against the Titans on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Out",
+        "detail": "Hendrickson (finger) is inactive for Sunday's game against the Titans."
+      },
+      {
+        "team": null,
+        "player": "Joe Fagnano",
+        "status": "Out",
+        "detail": "Fagnano (coach's decision) is inactive but will serve as the Ravens' emergency third quarterback against the Titans on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Aeneas Peebles",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
         "player": "Zay Flowers",
-        "status": "Questionable",
+        "status": "Active",
         "detail": "Flowers (hamstring) is expected to play in Sunday's game against the Titans, Ian Rapoport of NFL Network reports."
       },
       {
@@ -859,18 +914,6 @@
       },
       {
         "team": null,
-        "player": "Ronnie Stanley",
-        "status": "Questionable",
-        "detail": "Stanley (toe) is listed as questionable for Sunday's game against the Titans."
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Out",
-        "detail": "out"
-      },
-      {
-        "team": null,
         "player": "Durham Smythe",
         "status": "Active",
         "detail": "Smythe (heel) was a full participant in Thursday's practice."
@@ -878,12 +921,6 @@
       {
         "team": null,
         "player": "John Simpson",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Marlon Humphrey",
         "status": "Active",
         "detail": ""
       },
@@ -919,12 +956,6 @@
       },
       {
         "team": null,
-        "player": "Aeneas Peebles",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Tyler Loop",
         "status": "Active",
         "detail": "Loop made both field-goal tries, including a 56-yard game-winning kick as time expired, and all four extra-point attempts in Sunday's 34-31 win over the Cowboys."
@@ -946,12 +977,6 @@
         "player": "Elijah Sarratt",
         "status": "Active",
         "detail": "Sarratt (coach's decision) is inactive for Sunday's game against Dallas."
-      },
-      {
-        "team": null,
-        "player": "Joe Fagnano",
-        "status": "Active",
-        "detail": "Fagnano (coach's decision) is inactive for Sunday's game against Dallas but will be available as the team's emergency quarterback if needed."
       },
       {
         "team": null,
@@ -985,33 +1010,33 @@
       },
       {
         "team": null,
-        "player": "Sam Franklin Jr.",
+        "player": "Davison Igbinosun",
         "status": "Active",
-        "detail": ""
+        "detail": "Igbinosun is expected to start in Sunday's game against the Patriots, Chris Brown of the Bills Radio Network reports."
       },
       {
         "team": null,
-        "player": "Joe Andreessen",
-        "status": "Active",
-        "detail": "Andreessen and the Bills agreed to terms Saturday on a two-year contract extension, Tom Pelissero of Netflix reports."
+        "player": "T.J. Sanders",
+        "status": "Out",
+        "detail": "Sanders (appendix) is inactive for Sunday's game against the Patriots."
       },
       {
         "team": null,
-        "player": "Keon Coleman",
-        "status": "Active",
-        "detail": "Coleman (ankle) doesn't have an injury designation for Sunday's game against the Patriots."
-      },
-      {
-        "team": null,
-        "player": "Damar Hamlin",
-        "status": "Active",
-        "detail": ""
+        "player": "Christian Benford",
+        "status": "Out",
+        "detail": "Benford (toe) is inactive for Sunday's game against the Patriots."
       },
       {
         "team": null,
         "player": "Ray Davis",
-        "status": "Questionable",
-        "detail": "Davis (hamstring) is questionable for Sunday's game against the Patriots."
+        "status": "Active",
+        "detail": "Davis (hamstring) is expected to play against the Patriots on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Ar'maj Reed-Adams",
+        "status": "Out",
+        "detail": "inactive"
       }
     ],
     "ncaaf": [
@@ -1628,8 +1653,8 @@
       {
         "team": null,
         "player": "Stephanie Talbot",
-        "status": "Day-To-Day",
-        "detail": "Talbot (leg) is listed as questionable for Game 1 of the semifinals versus Golden State on Sunday."
+        "status": "Out",
+        "detail": "Talbot (leg) has been ruled out for Game 1 of the semifinals against the Valkyries on Sunday."
       },
       {
         "team": null,
@@ -1684,12 +1709,6 @@
         "player": "Satou Sabally",
         "status": "Out",
         "detail": "out"
-      },
-      {
-        "team": null,
-        "player": "Han Xu",
-        "status": "Day-To-Day",
-        "detail": "Han (illness) is listed as questionable for Game 1 of the semifinals against the Dream on Sunday."
       },
       {
         "team": null,
@@ -1820,7 +1839,7 @@
     ]
   },
   "closeArchive": {
-    "count": 344
+    "count": 363
   },
   "nflverse": [
     {
@@ -9829,7 +9848,7 @@
           "name": "Samsun Open",
           "surface": null,
           "venue": null,
-          "status": "Canceled"
+          "status": "Final"
         }
       ]
     }
@@ -9871,7 +9890,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2378,
-    "gameFiles": 2265
+    "splitsKeys": 2418,
+    "gameFiles": 2305
   }
 }
