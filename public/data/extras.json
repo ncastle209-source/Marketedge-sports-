@@ -32,16 +32,6 @@
   "weather": [
     {
       "league": "nfl",
-      "name": "PIT @ CLE",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Cleveland",
-      "state": "OH"
-    },
-    {
-      "league": "nfl",
       "name": "IND VS WSH",
       "temp": null,
       "condition": null,
@@ -53,10 +43,20 @@
     {
       "league": "nfl",
       "name": "NE @ BUF",
-      "temp": 66,
-      "condition": "2",
+      "temp": 48,
+      "condition": "Clear",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "14127"
+        ],
+        "href": "http://www.accuweather.com/en/us/highmark-stadium-ny/14127/current-weather/43037_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Orchard Park",
       "state": "NY"
     },
@@ -71,7 +71,7 @@
         "rel": [
           "60605"
         ],
-        "href": "http://www.accuweather.com/en/us/soldier-field-il/60608/hourly-weather-forecast/18170_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/soldier-field-il/60608/hourly-weather-forecast/18170_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -91,7 +91,7 @@
         "rel": [
           "45202"
         ],
-        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -111,7 +111,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -123,7 +123,7 @@
     {
       "league": "nfl",
       "name": "LAR @ PHI",
-      "temp": 63,
+      "temp": 62,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -131,7 +131,7 @@
         "rel": [
           "19103"
         ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -151,7 +151,7 @@
         "rel": [
           "33607"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -171,7 +171,7 @@
         "rel": [
           "21230"
         ],
-        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/m-t-bank-stadium-md/21202/hourly-weather-forecast/43035_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -191,7 +191,7 @@
         "rel": [
           "77054"
         ],
-        "href": "http://www.accuweather.com/en/us/nrg-stadium-tx/77002/hourly-weather-forecast/43039_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/nrg-stadium-tx/77002/hourly-weather-forecast/43039_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -211,7 +211,7 @@
         "rel": [
           "55415"
         ],
-        "href": "http://www.accuweather.com/en/us/us-bank-stadium-mn/55415/hourly-weather-forecast/35911_poi?day=2&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/us-bank-stadium-mn/55415/hourly-weather-forecast/35911_poi?day=1&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -231,7 +231,7 @@
         "rel": [
           "89118"
         ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -251,7 +251,7 @@
         "rel": [
           "95054"
         ],
-        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -271,7 +271,7 @@
         "rel": [
           "98134"
         ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -291,7 +291,7 @@
         "rel": [
           "28202"
         ],
-        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/hourly-weather-forecast/53601_poi?day=2&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/hourly-weather-forecast/53601_poi?day=1&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -299,6 +299,16 @@
       },
       "city": "Charlotte",
       "state": "NC"
+    },
+    {
+      "league": "nfl",
+      "name": "PIT @ CLE",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Cleveland",
+      "state": "OH"
     },
     {
       "league": "nfl",
@@ -311,7 +321,7 @@
         "rel": [
           "70112"
         ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=3&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=2&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -319,146 +329,6 @@
       },
       "city": "New Orleans",
       "state": "LA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "BYU @ TCU",
-      "temp": 71,
-      "condition": "Cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "76109"
-        ],
-        "href": "http://www.accuweather.com/en/us/amon-g-carter-stadium-tx/76104/current-weather/53642_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Fort Worth",
-      "state": "TX"
-    },
-    {
-      "league": "ncaaf",
-      "name": "MIA @ CLEM",
-      "temp": 77,
-      "condition": "Partly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "29634"
-        ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-sc/29631/current-weather/53634_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Clemson",
-      "state": "SC"
-    },
-    {
-      "league": "ncaaf",
-      "name": "TTU @ COLO",
-      "temp": 68,
-      "condition": "Clear",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "80309"
-        ],
-        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/current-weather/53547_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Boulder",
-      "state": "CO"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WASH @ USC",
-      "temp": 90,
-      "condition": "Mostly clear",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90037"
-        ],
-        "href": "http://www.accuweather.com/en/us/los-angeles-memorial-coliseum-ca/90012/current-weather/53540_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Los Angeles",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "USU @ BOIS",
-      "temp": 77,
-      "condition": "Clear",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "83706"
-        ],
-        "href": "http://www.accuweather.com/en/us/albertsons-stadium-id/83702/current-weather/53566_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Boise",
-      "state": "ID"
-    },
-    {
-      "league": "ncaaf",
-      "name": "MCN @ LSU",
-      "temp": 80,
-      "condition": "Cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "70893"
-        ],
-        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/current-weather/53584_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Baton Rouge",
-      "state": "LA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "IU @ RUTG",
-      "temp": 55,
-      "condition": "Clear",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "08854"
-        ],
-        "href": "http://www.accuweather.com/en/us/shi-stadium-nj/08817/current-weather/53608_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Piscataway",
-      "state": "NJ"
     },
     {
       "league": "ncaaf",
@@ -482,6 +352,16 @@
     },
     {
       "league": "ncaaf",
+      "name": "MIA @ CLEM",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Clemson",
+      "state": "SC"
+    },
+    {
+      "league": "ncaaf",
       "name": "OSU @ IOWA",
       "temp": null,
       "condition": null,
@@ -489,6 +369,16 @@
       "wind": null,
       "city": "Iowa City",
       "state": "IA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "IU @ RUTG",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Piscataway",
+      "state": "NJ"
     },
     {
       "league": "ncaaf",
@@ -512,6 +402,36 @@
     },
     {
       "league": "ncaaf",
+      "name": "BYU @ TCU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Fort Worth",
+      "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "MCN @ LSU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Baton Rouge",
+      "state": "LA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "TTU @ COLO",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Boulder",
+      "state": "CO"
+    },
+    {
+      "league": "ncaaf",
       "name": "AUB @ TENN",
       "temp": null,
       "condition": null,
@@ -519,6 +439,16 @@
       "wind": null,
       "city": "Knoxville",
       "state": "TN"
+    },
+    {
+      "league": "ncaaf",
+      "name": "WASH @ USC",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Los Angeles",
+      "state": "CA"
     },
     {
       "league": "ncaaf",
@@ -539,6 +469,16 @@
       "wind": null,
       "city": "Dallas",
       "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "USU @ BOIS",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Boise",
+      "state": "ID"
     },
     {
       "league": "ncaaf",
@@ -583,20 +523,10 @@
     {
       "league": "mlb",
       "name": "SD @ MIL",
-      "temp": 56,
-      "condition": "Partly cloudy",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "53295"
-        ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Milwaukee",
       "state": "Wisconsin"
     }
@@ -9893,7 +9823,13 @@
           "name": "Suzhou Open",
           "surface": null,
           "venue": null,
-          "status": "Scheduled"
+          "status": "Final"
+        },
+        {
+          "name": "Samsun Open",
+          "surface": null,
+          "venue": null,
+          "status": "Canceled"
         }
       ]
     }
@@ -9935,7 +9871,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2320,
-    "gameFiles": 2207
+    "splitsKeys": 2322,
+    "gameFiles": 2209
   }
 }
