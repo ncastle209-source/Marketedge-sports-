@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-05T00:34:15.948741+00:00",
+  "pulled_at": "2026-10-05T06:13:17.246846+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -370,14 +370,14 @@
         "rating": 3.2,
         "source": "espn-nfl-diff"
       },
-      "detroit-lions": {
-        "name": "Detroit Lions",
-        "rating": -0.2,
+      "carolina-panthers": {
+        "name": "Carolina Panthers",
+        "rating": 1.2,
         "source": "espn-nfl-diff"
       },
-      "lions": {
-        "name": "Detroit Lions",
-        "rating": -0.2,
+      "panthers": {
+        "name": "Carolina Panthers",
+        "rating": 1.2,
         "source": "espn-nfl-diff"
       },
       "los-angeles-rams": {
@@ -388,6 +388,16 @@
       "rams": {
         "name": "Los Angeles Rams",
         "rating": 0.2,
+        "source": "espn-nfl-diff"
+      },
+      "detroit-lions": {
+        "name": "Detroit Lions",
+        "rating": -0.8,
+        "source": "espn-nfl-diff"
+      },
+      "lions": {
+        "name": "Detroit Lions",
+        "rating": -0.8,
         "source": "espn-nfl-diff"
       },
       "green-bay-packers": {
@@ -413,16 +423,6 @@
       "dal": {
         "name": "Dallas Cowboys",
         "rating": 1.0,
-        "source": "espn-nfl-diff"
-      },
-      "carolina-panthers": {
-        "name": "Carolina Panthers",
-        "rating": 0.6,
-        "source": "espn-nfl-diff"
-      },
-      "panthers": {
-        "name": "Carolina Panthers",
-        "rating": 0.6,
         "source": "espn-nfl-diff"
       },
       "atlanta-falcons": {

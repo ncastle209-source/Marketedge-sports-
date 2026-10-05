@@ -32,23 +32,33 @@
   "weather": [
     {
       "league": "nfl",
-      "name": "DET @ CAR",
-      "temp": 65,
-      "condition": "Cloudy",
+      "name": "ATL @ NO",
+      "temp": 78,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "28202"
+          "70112"
         ],
-        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/current-weather/53601_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=1&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Charlotte",
-      "state": "NC"
+      "city": "New Orleans",
+      "state": "LA"
+    },
+    {
+      "league": "nfl",
+      "name": "PIT @ CLE",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Cleveland",
+      "state": "OH"
     },
     {
       "league": "nfl",
@@ -182,193 +192,393 @@
     },
     {
       "league": "nfl",
-      "name": "PIT @ CLE",
+      "name": "DET @ CAR",
       "temp": null,
       "condition": null,
       "gust": null,
       "wind": null,
-      "city": "Cleveland",
-      "state": "OH"
+      "city": "Charlotte",
+      "state": "NC"
     },
     {
-      "league": "nfl",
-      "name": "ATL @ NO",
-      "temp": 78,
-      "condition": "7",
+      "league": "ncaaf",
+      "name": "IOWA @ WASH",
+      "temp": 63,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "70112"
+          "98195"
         ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=2&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=6&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "New Orleans",
-      "state": "LA"
+      "city": "Seattle",
+      "state": "WA"
     },
     {
       "league": "ncaaf",
-      "name": "VAN @ UGA",
-      "temp": null,
-      "condition": null,
+      "name": "ISU @ BYU",
+      "temp": 75,
+      "condition": "33",
       "gust": null,
-      "wind": null,
-      "city": "Athens",
-      "state": "GA"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "84604"
+        ],
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=5&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Provo",
+      "state": "UT"
     },
     {
       "league": "ncaaf",
-      "name": "ND @ UNC",
-      "temp": null,
-      "condition": null,
+      "name": "IU @ NEB",
+      "temp": 70,
+      "condition": "1",
       "gust": null,
-      "wind": null,
-      "city": "Chapel Hill",
-      "state": "NC"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "68588"
+        ],
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=6&hbhhour=11&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Lincoln",
+      "state": "NE"
     },
     {
       "league": "ncaaf",
-      "name": "MIA @ CLEM",
-      "temp": null,
-      "condition": null,
+      "name": "TA&M @ MIZ",
+      "temp": 72,
+      "condition": "3",
       "gust": null,
-      "wind": null,
-      "city": "Clemson",
-      "state": "SC"
-    },
-    {
-      "league": "ncaaf",
-      "name": "OSU @ IOWA",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Iowa City",
-      "state": "IA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "IU @ RUTG",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Piscataway",
-      "state": "NJ"
-    },
-    {
-      "league": "ncaaf",
-      "name": "ALA @ MSST",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Starkville",
-      "state": "MS"
-    },
-    {
-      "league": "ncaaf",
-      "name": "FLA @ MIZ",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "65203"
+        ],
+        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=6&hbhhour=11&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Columbia",
       "state": "MO"
     },
     {
       "league": "ncaaf",
-      "name": "BYU @ TCU",
-      "temp": null,
-      "condition": null,
+      "name": "UCF @ OKST",
+      "temp": 75,
+      "condition": "1",
       "gust": null,
-      "wind": null,
-      "city": "Fort Worth",
-      "state": "TX"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "74075"
+        ],
+        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/hourly-weather-forecast/53626_poi?day=6&hbhhour=11&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Stillwater",
+      "state": "OK"
     },
     {
       "league": "ncaaf",
-      "name": "MCN @ LSU",
-      "temp": null,
-      "condition": null,
+      "name": "UNC @ PITT",
+      "temp": 65,
+      "condition": "3",
       "gust": null,
-      "wind": null,
-      "city": "Baton Rouge",
-      "state": "LA"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "15212"
+        ],
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=6&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Pittsburgh",
+      "state": "PA"
     },
     {
       "league": "ncaaf",
-      "name": "TTU @ COLO",
-      "temp": null,
-      "condition": null,
+      "name": "SC @ FLA",
+      "temp": 80,
+      "condition": "7",
       "gust": null,
-      "wind": null,
-      "city": "Boulder",
-      "state": "CO"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "32611"
+        ],
+        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=6&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Gainesville",
+      "state": "FL"
     },
     {
       "league": "ncaaf",
-      "name": "AUB @ TENN",
-      "temp": null,
-      "condition": null,
+      "name": "TEX VS OU",
+      "temp": 83,
+      "condition": "4",
       "gust": null,
-      "wind": null,
-      "city": "Knoxville",
-      "state": "TN"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WASH @ USC",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Los Angeles",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UCF @ HOU",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Houston",
-      "state": "TX"
-    },
-    {
-      "league": "ncaaf",
-      "name": "BC @ SMU",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "75210"
+        ],
+        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/hourly-weather-forecast/196691_poi?day=6&hbhhour=14&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Dallas",
       "state": "TX"
     },
     {
       "league": "ncaaf",
-      "name": "USU @ BOIS",
-      "temp": null,
-      "condition": null,
+      "name": "STAN @ ND",
+      "temp": 70,
+      "condition": "4",
       "gust": null,
-      "wind": null,
-      "city": "Boise",
-      "state": "ID"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "46556"
+        ],
+        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=6&hbhhour=15&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Notre Dame",
+      "state": "IN"
     },
     {
       "league": "ncaaf",
-      "name": "UK @ SC",
-      "temp": null,
-      "condition": null,
+      "name": "MISS @ VAN",
+      "temp": 82,
+      "condition": "7",
       "gust": null,
-      "wind": null,
-      "city": "Columbia",
-      "state": "SC"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "37212"
+        ],
+        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/hourly-weather-forecast/53640_poi?day=6&hbhhour=14&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UCLA @ ORE",
+      "temp": 59,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "97401"
+        ],
+        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=7&hbhhour=12&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Eugene",
+      "state": "OR"
+    },
+    {
+      "league": "ncaaf",
+      "name": "HOU @ KSU",
+      "temp": 80,
+      "condition": "1",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "66502"
+        ],
+        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/hourly-weather-forecast/53576_poi?day=6&hbhhour=14&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Manhattan",
+      "state": "KS"
+    },
+    {
+      "league": "ncaaf",
+      "name": "MD @ OSU",
+      "temp": 74,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "43210"
+        ],
+        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=6&hbhhour=16&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Columbus",
+      "state": "OH"
+    },
+    {
+      "league": "ncaaf",
+      "name": "TENN @ ARK",
+      "temp": 85,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "72701"
+        ],
+        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/hourly-weather-forecast/53533_poi?day=6&hbhhour=15&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Fayetteville",
+      "state": "AR"
+    },
+    {
+      "league": "ncaaf",
+      "name": "LSU @ UK",
+      "temp": 71,
+      "condition": "4",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "40502"
+        ],
+        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=6&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Lexington",
+      "state": "KY"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UGA @ ALA",
+      "temp": 75,
+      "condition": "18",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "35401"
+        ],
+        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/hourly-weather-forecast/53527_poi?day=6&hbhhour=18&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Tuscaloosa",
+      "state": "AL"
+    },
+    {
+      "league": "ncaaf",
+      "name": "USC @ PSU",
+      "temp": 62,
+      "condition": "36",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "16802"
+        ],
+        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=6&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "University Park",
+      "state": "PA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "KU @ UTAH",
+      "temp": 73,
+      "condition": "38",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "84112"
+        ],
+        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=7&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Salt Lake City",
+      "state": "UT"
+    },
+    {
+      "league": "ncaaf",
+      "name": "BOIS @ FRES",
+      "temp": 87,
+      "condition": "36",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "93710"
+        ],
+        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=7&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Fresno",
+      "state": "CA"
     },
     {
       "league": "mlb",
@@ -383,26 +593,34 @@
     {
       "league": "mlb",
       "name": "ATL @ LAD",
-      "temp": 96,
-      "condition": "Sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90090"
-        ],
-        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/current-weather/30524_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Los Angeles",
       "state": "California"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Chad Ryland",
+        "status": "Active",
+        "detail": "Ryland made his only field-goal attempt and went 3-for-3 on extra-point tries during Sunday's 36-24 loss to the Giants."
+      },
+      {
+        "team": null,
+        "player": "Tyler Allgeier",
+        "status": "Active",
+        "detail": "Allgeier rushed eight times for 42 yards and a touchdown in Sunday's 36-24 loss to the Giants. He added two catches for seven yards on two targets."
+      },
+      {
+        "team": null,
+        "player": "Isaiah Adams",
+        "status": "Questionable",
+        "detail": "Adams suffered an ankle injury in Sunday's loss to the Giants, Theo Mackie of The Arizona Republic reports."
+      },
       {
         "team": null,
         "player": "Marvin Harrison Jr.",
@@ -425,7 +643,7 @@
         "team": null,
         "player": "Jeremiyah Love",
         "status": "Active",
-        "detail": "Love carried the ball 14 times for 63 yards and caught his only target for minus-eight yards in Sunday's 36-24 loss to the Giants."
+        "detail": "Love carried the ball 14 times for 63 yards and caught his only target for minus-8 yards in Sunday's 36-24 loss to the Giants."
       },
       {
         "team": null,
@@ -450,12 +668,6 @@
         "player": "Andrew Wingard",
         "status": "Questionable",
         "detail": "Wingard (knee) has been ruled out for the rest of Sunday's game against the Giants."
-      },
-      {
-        "team": null,
-        "player": "Isaiah Adams",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -531,21 +743,9 @@
       },
       {
         "team": null,
-        "player": "Tyler Allgeier",
-        "status": "Active",
-        "detail": "Allgeier rushed twice for minus-1 yard and caught all four of his targets for 10 yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
         "player": "Andrew Billings",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Chad Ryland",
-        "status": "Active",
-        "detail": "Ryland hit all three field-goal attempts and all three extra-point tries in Sunday's 36-30 loss to the 49ers."
       },
       {
         "team": null,
@@ -711,6 +911,12 @@
       },
       {
         "team": null,
+        "player": "Tyler Loop",
+        "status": "Active",
+        "detail": "Loop went 1-for-2 on field-goal tries and made all three of his PATs during Sunday's 24-18 win over Tennessee."
+      },
+      {
+        "team": null,
         "player": "Mark Andrews",
         "status": "Active",
         "detail": "Andrews caught five of six targets for 27 yards and a touchdown in Sunday's 24-18 win over Tennessee."
@@ -748,7 +954,7 @@
       {
         "team": null,
         "player": "Durham Smythe",
-        "status": "Out",
+        "status": "Questionable",
         "detail": "Smythe (Achilles) won't return to Sunday's game against the Titans."
       },
       {
@@ -819,12 +1025,6 @@
       },
       {
         "team": null,
-        "player": "Tyler Loop",
-        "status": "Active",
-        "detail": "Loop made both field-goal tries, including a 56-yard game-winning kick as time expired, and all four extra-point attempts in Sunday's 34-31 win over the Cowboys."
-      },
-      {
-        "team": null,
         "player": "Rashod Bateman",
         "status": "Active",
         "detail": "Bateman caught two of three targets for 37 yards in Sunday's 34-31 win over the Cowboys."
@@ -855,6 +1055,18 @@
       },
       {
         "team": null,
+        "player": "Tyler Bass",
+        "status": "Active",
+        "detail": "Bass went 2-for-2 on field-goal attempts and made both of his PATs during Sunday's 29-26 loss to the Patriots."
+      },
+      {
+        "team": null,
+        "player": "DJ Moore",
+        "status": "Questionable",
+        "detail": "Moore (shoulder) is dealing with an injury that isn't considered long-term, Adam Schefter of ESPN reports."
+      },
+      {
+        "team": null,
         "player": "Dalton Kincaid",
         "status": "Active",
         "detail": "Kincaid brought in one of two targets for seven yards in the Bills' 29-26 loss to the Patriots on Sunday."
@@ -870,18 +1082,6 @@
         "player": "Josh Allen",
         "status": "Active",
         "detail": "Allen completed 23 of 33 passes for 253 yards with a touchdown and an interception and added five carries for four yards and another score in the Bills' 29-26 loss to the Patriots on Sunday."
-      },
-      {
-        "team": null,
-        "player": "James Cook III",
-        "status": "Active",
-        "detail": "Cook rushed 12 times for 75 yards and a touchdown and brought in both targets for eight yards in the Bills' 29-26 loss to the Patriots on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Dee Alford",
-        "status": "Questionable",
-        "detail": "Alford (ankle) is questionable to return against the Patriots on Sunday, Lance Lysowski of The Buffalo News reports."
       }
     ],
     "ncaaf": [
@@ -1696,7 +1896,7 @@
     ]
   },
   "closeArchive": {
-    "count": 363
+    "count": 365
   },
   "nflverse": [
     {
@@ -9671,24 +9871,18 @@
           "surface": null,
           "venue": null,
           "status": "Final"
+        },
+        {
+          "name": "Rolex Shanghai Masters",
+          "surface": null,
+          "venue": null,
+          "status": "In Progress"
         }
       ]
     },
     "wta": {
       "leagueName": "WTA",
       "events": [
-        {
-          "name": "Jingshan Tennis Open",
-          "surface": null,
-          "venue": null,
-          "status": "Final"
-        },
-        {
-          "name": "Adana Open",
-          "surface": null,
-          "venue": null,
-          "status": "Final"
-        },
         {
           "name": "China Open",
           "surface": null,
@@ -9747,7 +9941,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2420,
-    "gameFiles": 2307
+    "splitsKeys": 2422,
+    "gameFiles": 2309
   }
 }
