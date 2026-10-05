@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-05T15:13:12.643139+00:00",
+  "pulled_at": "2026-10-05T22:11:40.032822+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -11267,41 +11267,289 @@
           "league": "mlb",
           "eventId": "849834",
           "name": "Chicago White Sox at Cleveland Guardians",
-          "status": "Scheduled",
+          "status": "In Progress",
           "start": "2026-10-05T21:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Chicago White Sox",
-              "score": null,
+              "score": 0,
               "record": "1-0"
             },
             {
               "side": "home",
               "name": "Cleveland Guardians",
-              "score": null,
+              "score": 2,
               "record": "0-1"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "849834",
+            "players": [
+              {
+                "player": "Tristan Peters",
+                "team": "Chicago White Sox",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Anthony Kay",
+                "team": "Chicago White Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 0,
+                "er": 1
+              },
+              {
+                "player": "Munetaka Murakami",
+                "team": "Chicago White Sox",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chase Meidroth",
+                "team": "Chicago White Sox",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Kyle Teel",
+                "team": "Chicago White Sox",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Colson Montgomery",
+                "team": "Chicago White Sox",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Braden Montgomery",
+                "team": "Chicago White Sox",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Andrew Benintendi",
+                "team": "Chicago White Sox",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Sean Burke",
+                "team": "Chicago White Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 2,
+                "er": 0
+              },
+              {
+                "player": "Sean Newcomb",
+                "team": "Chicago White Sox",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 3,
+                "er": 0
+              },
+              {
+                "player": "Sam Antonacci",
+                "team": "Chicago White Sox",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Miguel Vargas",
+                "team": "Chicago White Sox",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chase DeLauter",
+                "team": "Cleveland Guardians",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nathaniel Lowe",
+                "team": "Cleveland Guardians",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Travis Bazzana",
+                "team": "Cleveland Guardians",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Patrick Bailey",
+                "team": "Cleveland Guardians",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Brayan Rocchio",
+                "team": "Cleveland Guardians",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jo Adell",
+                "team": "Cleveland Guardians",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jos\u00e9 Ram\u00edrez",
+                "team": "Cleveland Guardians",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Steven Kwan",
+                "team": "Cleveland Guardians",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Angel Mart\u00ednez",
+                "team": "Cleveland Guardians",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Gavin Williams",
+                "team": "Cleveland Guardians",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "3.0",
+                "k": 6,
+                "er": 0
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
           "eventId": "849839",
           "name": "New York Yankees at Tampa Bay Rays",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-10-06T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "New York Yankees",
-              "score": null,
+              "score": 0,
               "record": "0-1"
             },
             {
               "side": "home",
               "name": "Tampa Bay Rays",
-              "score": null,
+              "score": 0,
               "record": "1-0"
             }
           ],

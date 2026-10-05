@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-05T15:13:17.098047+00:00",
+  "pulled_at": "2026-10-05T22:11:43.889385+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -305,16 +305,6 @@
         "rating": -3.9,
         "source": "espn-nfl-diff"
       },
-      "houston-texans": {
-        "name": "Houston Texans",
-        "rating": -2.5,
-        "source": "espn-nfl-diff"
-      },
-      "texans": {
-        "name": "Houston Texans",
-        "rating": -2.5,
-        "source": "espn-nfl-diff"
-      },
       "tennessee-titans": {
         "name": "Tennessee Titans",
         "rating": -2.8,
@@ -323,6 +313,16 @@
       "titans": {
         "name": "Tennessee Titans",
         "rating": -2.8,
+        "source": "espn-nfl-diff"
+      },
+      "houston-texans": {
+        "name": "Houston Texans",
+        "rating": -2.5,
+        "source": "espn-nfl-diff"
+      },
+      "texans": {
+        "name": "Houston Texans",
+        "rating": -2.5,
         "source": "espn-nfl-diff"
       },
       "minnesota-vikings": {

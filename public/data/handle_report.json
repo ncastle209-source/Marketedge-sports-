@@ -144,7 +144,7 @@
       "source": "sportsbettingdime",
       "sport": "mlb",
       "ok": true,
-      "count": 3
+      "count": 1
     },
     {
       "source": "sportsbettingdime",
@@ -156,7 +156,7 @@
       "source": "sportsbettingdime",
       "sport": "nfl",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "sportsbettingdime",
@@ -166,10 +166,10 @@
     },
     {
       "source": "sportsbettingdime",
-      "filled_this_step": 2
+      "filled_this_step": 0
     }
   ],
-  "filled": 86,
-  "still_missing": 534,
+  "filled": 84,
+  "still_missing": 537,
   "spreads": 83
 }

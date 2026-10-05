@@ -4,28 +4,78 @@
       "eventId": "849834",
       "home": "Cleveland Guardians",
       "away": "Chicago White Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Gabe Morales",
+      "crew": [
+        {
+          "name": "Gabe Morales",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Todd Tichenor",
+          "type": "First Base"
+        },
+        {
+          "name": "Jansen Visconti",
+          "type": "Second Base"
+        },
+        {
+          "name": "Vic Carapazza",
+          "type": "Third Base"
+        },
+        {
+          "name": "Tom Hanahan",
+          "type": "Left Field"
+        },
+        {
+          "name": "Cory Blaser",
+          "type": "Right Field"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "849839",
       "home": "Tampa Bay Rays",
       "away": "New York Yankees",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Jeremie Rehak",
+      "crew": [
+        {
+          "name": "Jeremie Rehak",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Dan Bellino",
+          "type": "First Base"
+        },
+        {
+          "name": "Ben May",
+          "type": "Second Base"
+        },
+        {
+          "name": "D.J. Reyburn",
+          "type": "Third Base"
+        },
+        {
+          "name": "Ryan Wills",
+          "type": "Left Field"
+        },
+        {
+          "name": "Shane Livensparger",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849834,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849834"
     },
     {
       "gamePk": 849839,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849839"
     }
   ],
@@ -33,7 +83,7 @@
     {
       "league": "nfl",
       "name": "ATL @ NO",
-      "temp": 81,
+      "temp": 79,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -203,7 +253,7 @@
     {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
-      "temp": 62,
+      "temp": 61,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -243,7 +293,7 @@
     {
       "league": "ncaaf",
       "name": "IU @ NEB",
-      "temp": 71,
+      "temp": 72,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -263,7 +313,7 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 75,
+      "temp": 76,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -283,7 +333,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ OKST",
-      "temp": 75,
+      "temp": 77,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -303,7 +353,7 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 61,
+      "temp": 66,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -323,7 +373,7 @@
     {
       "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 77,
+      "temp": 79,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -343,7 +393,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 85,
+      "temp": 86,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -363,7 +413,7 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 71,
+      "temp": 75,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -403,7 +453,7 @@
     {
       "league": "ncaaf",
       "name": "UCLA @ ORE",
-      "temp": 59,
+      "temp": 60,
       "condition": "14",
       "gust": null,
       "wind": {
@@ -423,7 +473,7 @@
     {
       "league": "ncaaf",
       "name": "HOU @ KSU",
-      "temp": 81,
+      "temp": 82,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -443,7 +493,7 @@
     {
       "league": "ncaaf",
       "name": "MD @ OSU",
-      "temp": 74,
+      "temp": 79,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -463,7 +513,7 @@
     {
       "league": "ncaaf",
       "name": "TENN @ ARK",
-      "temp": 83,
+      "temp": 88,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -483,7 +533,7 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 72,
+      "temp": 73,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -503,7 +553,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 74,
+      "temp": 73,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -523,7 +573,7 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 63,
+      "temp": 64,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -543,7 +593,7 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 80,
+      "temp": 71,
       "condition": "35",
       "gust": null,
       "wind": {
@@ -583,15 +633,15 @@
     {
       "league": "mlb",
       "name": "CHW @ CLE",
-      "temp": 60,
-      "condition": "2",
+      "temp": 63,
+      "condition": "Partly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "44115"
         ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/current-weather/53619_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -623,6 +673,54 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Paris Johnson Jr.",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Josh Fryar",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Carson Beck",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Starling Thomas V",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Reggie Virgil",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Cameron Robertson",
+        "status": "Active",
+        "detail": ""
+      },
       {
         "team": null,
         "player": "Chad Ryland",
@@ -661,21 +759,9 @@
       },
       {
         "team": null,
-        "player": "Jeremiyah Love",
-        "status": "Active",
-        "detail": "Love carried the ball 14 times for 63 yards and caught his only target for minus-8 yards in Sunday's 36-24 loss to the Giants."
-      },
-      {
-        "team": null,
         "player": "Trey McBride",
         "status": "Active",
         "detail": "McBride caught seven of 12 targets for 31 yards in Sunday's 36-24 loss to the Giants."
-      },
-      {
-        "team": null,
-        "player": "Paris Johnson Jr.",
-        "status": "Questionable",
-        "detail": "Cardinals coach Mike LaFleur said that Johnson is dealing with a biceps injury after Sunday's 36-24 loss to the Giants, Darren Urban of the team's official site reports."
       },
       {
         "team": null,
@@ -691,45 +777,9 @@
       },
       {
         "team": null,
-        "player": "Reggie Virgil",
-        "status": "Out",
-        "detail": "Virgil (coach's decision) is inactive for Sunday's battle against the Giants."
-      },
-      {
-        "team": null,
-        "player": "Carson Beck",
-        "status": "Out",
-        "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Giants."
-      },
-      {
-        "team": null,
         "player": "Josh Sweat",
         "status": "Active",
         "detail": "Sweat (groin) is active for Sunday's Week 4 clash against the Giants."
-      },
-      {
-        "team": null,
-        "player": "Cameron Robertson",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Dadrion Taylor-Demerson",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Starling Thomas V",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Josh Fryar",
-        "status": "Out",
-        "detail": "inactive"
       },
       {
         "team": null,
@@ -927,13 +977,31 @@
         "team": null,
         "player": "Chris Moore",
         "status": "Out",
-        "detail": "inactive"
+        "detail": "out"
       },
       {
         "team": null,
         "player": "Lamar Jackson",
         "status": "Questionable",
-        "detail": "Jackson (ankle) will undergo an MRI on Monday and is considered day-to-day after exiting Sunday's 24-18 win over the Titans, but the Ravens are hopeful he'll be ready to play Week 5 versus the Falcons, Ian Rapoport of NFL Network reports."
+        "detail": "Head coach Jesse Minter said Monday that he's uncertain whether Jackson (ankle) will be ready to play in Sunday's game against the Falcons, Jamison Hensley of ESPN.com reports. \"I don't know the chances yet,\" Minter said. \"We're still gathering a lot of the information and the imaging and things like that, just dealing with a little bit of an ankle and we'll kind of see where that shakes out.\""
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Aeneas Peebles",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Joe Fagnano",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
@@ -988,24 +1056,6 @@
         "player": "Andrew Vorhees",
         "status": "Questionable",
         "detail": "Vorhees (foot) won't return to Sunday's game against the Titans, Brian Wacker of The Baltimore Sun reports."
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Out",
-        "detail": "Hendrickson (finger) is inactive for Sunday's game against the Titans."
-      },
-      {
-        "team": null,
-        "player": "Joe Fagnano",
-        "status": "Out",
-        "detail": "Fagnano (coach's decision) is inactive but will serve as the Ravens' emergency third quarterback against the Titans on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Aeneas Peebles",
-        "status": "Out",
-        "detail": "inactive"
       },
       {
         "team": null,
@@ -1075,33 +1125,33 @@
       },
       {
         "team": null,
-        "player": "Tyler Bass",
-        "status": "Active",
-        "detail": "Bass went 2-for-2 on field-goal attempts and made both of his PATs during Sunday's 29-26 loss to the Patriots."
+        "player": "T.J. Sanders",
+        "status": "Out",
+        "detail": "out"
       },
       {
         "team": null,
-        "player": "DJ Moore",
-        "status": "Questionable",
-        "detail": "Moore (shoulder) is dealing with an injury that isn't considered long-term, Adam Schefter of ESPN reports."
+        "player": "Mike Danna",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
-        "player": "Dalton Kincaid",
+        "player": "Skyler Bell",
         "status": "Active",
-        "detail": "Kincaid brought in one of two targets for seven yards in the Bills' 29-26 loss to the Patriots on Sunday."
+        "detail": ""
       },
       {
         "team": null,
-        "player": "Keon Coleman",
+        "player": "Jude Bowry",
         "status": "Active",
-        "detail": "Coleman secured six of seven targets for 116 yards and a touchdown in the Bills' 29-26 loss to the Patriots on Sunday."
+        "detail": ""
       },
       {
         "team": null,
-        "player": "Josh Allen",
+        "player": "Jalon Kilgore",
         "status": "Active",
-        "detail": "Allen completed 23 of 33 passes for 253 yards with a touchdown and an interception and added five carries for four yards and another score in the Bills' 29-26 loss to the Patriots on Sunday."
+        "detail": ""
       }
     ],
     "ncaaf": [
@@ -1166,6 +1216,12 @@
         "player": "Cristian Mena",
         "status": "60-Day-IL",
         "detail": "Diamondbacks manager Torey Lovullo told reporters Monday that Mena underwent surgery on his right shoulder and will be sidelined for the rest of the season, Jack Sommers of SI.com reports."
+      },
+      {
+        "team": null,
+        "player": "Seth Johnson",
+        "status": "Out",
+        "detail": "Johnson underwent arthroscopic left knee surgery Monday, Martin Gallegos of MLB.com reports."
       },
       {
         "team": null,
@@ -1385,6 +1441,12 @@
       },
       {
         "team": null,
+        "player": "Roman Anthony",
+        "status": "Out",
+        "detail": "Red Sox chief baseball officer Craig Breslow said Monday that Anthony is not expected to require surgery on his injured right hand, Chris Cotillo of MassLive.com reports."
+      },
+      {
+        "team": null,
         "player": "Tyron Guerrero",
         "status": "Out",
         "detail": "The Red Sox placed Guerrero on the 15-day injured list Sunday, retroactive to Sept. 24, with a right shoulder strain."
@@ -1400,12 +1462,6 @@
         "player": "Mickey Gasper",
         "status": "Out",
         "detail": "Gasper is expected to be sidelined 4-to-6 month after undergoing distal right biceps tendon surgery Friday, Tim Healey of The Boston Globe reports."
-      },
-      {
-        "team": null,
-        "player": "Roman Anthony",
-        "status": "Out",
-        "detail": "Anthony will be removed from Boston's wild-card series roster after an MRI showed an aggravation of his previous right hand injury, as well as multiple new strains, Chris Cotillo of MassLive.com reports."
       },
       {
         "team": null,
@@ -1598,12 +1654,6 @@
         "player": "Hunter Greene",
         "status": "60-Day-IL",
         "detail": "Greene (elbow) will be out for 12-to-18 months after undergoing his second Tommy John surgery Wednesday, Gordon Wittenmyer of The Cincinnati Enquirer reports."
-      },
-      {
-        "team": null,
-        "player": "Colin Holderman",
-        "status": "15-Day-IL",
-        "detail": "Holderman will undergo season-ending surgery on his right wrist, Zack Meisel of The Athletic reports."
       }
     ],
     "wnba": [
@@ -9961,7 +10011,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2426,
-    "gameFiles": 2313
+    "splitsKeys": 2447,
+    "gameFiles": 2334
   }
 }
