@@ -33,7 +33,7 @@
     {
       "league": "nfl",
       "name": "ATL @ NO",
-      "temp": 78,
+      "temp": 81,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -203,15 +203,15 @@
     {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
-      "temp": 63,
-      "condition": "4",
+      "temp": 62,
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "98195"
         ],
-        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=6&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=5&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -223,7 +223,7 @@
     {
       "league": "ncaaf",
       "name": "ISU @ BYU",
-      "temp": 75,
+      "temp": 74,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -243,7 +243,7 @@
     {
       "league": "ncaaf",
       "name": "IU @ NEB",
-      "temp": 70,
+      "temp": 71,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -263,8 +263,8 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 72,
-      "condition": "3",
+      "temp": 75,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -284,7 +284,7 @@
       "league": "ncaaf",
       "name": "UCF @ OKST",
       "temp": 75,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -303,8 +303,8 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 65,
-      "condition": "3",
+      "temp": 61,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -323,7 +323,7 @@
     {
       "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 80,
+      "temp": 77,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -343,7 +343,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 83,
+      "temp": 85,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -363,8 +363,8 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 70,
-      "condition": "4",
+      "temp": 71,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -384,7 +384,7 @@
       "league": "ncaaf",
       "name": "MISS @ VAN",
       "temp": 82,
-      "condition": "7",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -404,14 +404,14 @@
       "league": "ncaaf",
       "name": "UCLA @ ORE",
       "temp": 59,
-      "condition": "4",
+      "condition": "14",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "97401"
         ],
-        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=7&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=6&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -423,7 +423,7 @@
     {
       "league": "ncaaf",
       "name": "HOU @ KSU",
-      "temp": 80,
+      "temp": 81,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -444,7 +444,7 @@
       "league": "ncaaf",
       "name": "MD @ OSU",
       "temp": 74,
-      "condition": "4",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -463,8 +463,8 @@
     {
       "league": "ncaaf",
       "name": "TENN @ ARK",
-      "temp": 85,
-      "condition": "4",
+      "temp": 83,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -483,8 +483,8 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 71,
-      "condition": "4",
+      "temp": 72,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -503,7 +503,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 75,
+      "temp": 74,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -523,8 +523,8 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 62,
-      "condition": "36",
+      "temp": 63,
+      "condition": "34",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -543,15 +543,15 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 73,
-      "condition": "38",
+      "temp": 80,
+      "condition": "35",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "84112"
         ],
-        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=7&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=6&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -564,14 +564,14 @@
       "league": "ncaaf",
       "name": "BOIS @ FRES",
       "temp": 87,
-      "condition": "36",
+      "condition": "33",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "93710"
         ],
-        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=7&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=6&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -582,23 +582,43 @@
     },
     {
       "league": "mlb",
-      "name": "SD @ MIL",
-      "temp": null,
-      "condition": null,
+      "name": "CHW @ CLE",
+      "temp": 60,
+      "condition": "2",
       "gust": null,
-      "wind": null,
-      "city": "Milwaukee",
-      "state": "Wisconsin"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=17&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Cleveland",
+      "state": "Ohio"
     },
     {
       "league": "mlb",
-      "name": "ATL @ LAD",
-      "temp": null,
-      "condition": null,
+      "name": "NYY @ TB",
+      "temp": 81,
+      "condition": "7",
       "gust": null,
-      "wind": null,
-      "city": "Los Angeles",
-      "state": "California"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "33705"
+        ],
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "St. Petersburg",
+      "state": "Florida"
     }
   ],
   "injuries": {
@@ -655,7 +675,7 @@
         "team": null,
         "player": "Paris Johnson Jr.",
         "status": "Questionable",
-        "detail": "Cardinals coach Mike LaFleur said that Johnson is dealing with a biceps injury after Sunday's 36-24 loss to the Giants, Darren Urban of the team's official sitereports."
+        "detail": "Cardinals coach Mike LaFleur said that Johnson is dealing with a biceps injury after Sunday's 36-24 loss to the Giants, Darren Urban of the team's official site reports."
       },
       {
         "team": null,
@@ -911,6 +931,12 @@
       },
       {
         "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (ankle) will undergo an MRI on Monday and is considered day-to-day after exiting Sunday's 24-18 win over the Titans, but the Ravens are hopeful he'll be ready to play Week 5 versus the Falcons, Ian Rapoport of NFL Network reports."
+      },
+      {
+        "team": null,
         "player": "Tyler Loop",
         "status": "Active",
         "detail": "Loop went 1-for-2 on field-goal tries and made all three of his PATs during Sunday's 24-18 win over Tennessee."
@@ -944,12 +970,6 @@
         "player": "Ronnie Stanley",
         "status": "Questionable",
         "detail": "Stanley (toe) was able to complete Sunday's 24-18 win over Tennessee, Jonas Shaffer of TheBaltimoreBanner.com reports."
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Questionable",
-        "detail": "Jackson (ankle) was seen wearing a walking boot on his left foot after Sunday's 24-18 victory against the Titans, Brian Wacker of The Baltimore Sun reports."
       },
       {
         "team": null,
@@ -9876,7 +9896,7 @@
           "name": "Rolex Shanghai Masters",
           "surface": null,
           "venue": null,
-          "status": "In Progress"
+          "status": "Final"
         }
       ]
     },
@@ -9908,13 +9928,13 @@
     "events": [
       {
         "name": "NY @ ATL",
-        "start": "2026-10-04T18:00Z",
-        "id": "401918295"
+        "start": "2026-10-07T23:30Z",
+        "id": "401918297"
       },
       {
         "name": "LV @ GS",
-        "start": "2026-10-04T20:00Z",
-        "id": "401918296"
+        "start": "2026-10-08T01:30Z",
+        "id": "401918298"
       }
     ],
     "rest": [
@@ -9941,7 +9961,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2422,
-    "gameFiles": 2309
+    "splitsKeys": 2426,
+    "gameFiles": 2313
   }
 }
