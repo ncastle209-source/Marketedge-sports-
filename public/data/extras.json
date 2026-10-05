@@ -1,164 +1,54 @@
 {
   "umpires": [
     {
-      "eventId": "849825",
-      "home": "Milwaukee Brewers",
-      "away": "San Diego Padres",
-      "plateUmpire": "Lance Barrett",
-      "crew": [
-        {
-          "name": "Lance Barrett",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Alfonso M\u00e1rquez",
-          "type": "First Base"
-        },
-        {
-          "name": "Nic Lentz",
-          "type": "Second Base"
-        },
-        {
-          "name": "Quinn Wolcott",
-          "type": "Third Base"
-        },
-        {
-          "name": "Brennan Miller",
-          "type": "Left Field"
-        },
-        {
-          "name": "Nick Mahrley",
-          "type": "Right Field"
-        }
-      ],
-      "status": "In Progress"
+      "eventId": "849834",
+      "home": "Cleveland Guardians",
+      "away": "Chicago White Sox",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     },
     {
-      "eventId": "849823",
-      "home": "Los Angeles Dodgers",
-      "away": "Atlanta Braves",
-      "plateUmpire": "Chris Guccione",
-      "crew": [
-        {
-          "name": "Chris Guccione",
-          "type": "Home Plate"
-        },
-        {
-          "name": "James Hoye",
-          "type": "First Base"
-        },
-        {
-          "name": "Tripp Gibson",
-          "type": "Second Base"
-        },
-        {
-          "name": "Jim Wolf",
-          "type": "Third Base"
-        },
-        {
-          "name": "Mike Estabrook",
-          "type": "Left Field"
-        },
-        {
-          "name": "Roberto Ortiz",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "eventId": "849839",
+      "home": "Tampa Bay Rays",
+      "away": "New York Yankees",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849825,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849825"
+      "gamePk": 849834,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849834"
     },
     {
-      "gamePk": 849823,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849823"
+      "gamePk": 849839,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849839"
     }
   ],
   "weather": [
     {
       "league": "nfl",
-      "name": "MIA @ MIN",
-      "temp": 69,
-      "condition": "Partly sunny",
+      "name": "DET @ CAR",
+      "temp": 65,
+      "condition": "Cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "55415"
+          "28202"
         ],
-        "href": "http://www.accuweather.com/en/us/us-bank-stadium-mn/55415/current-weather/35911_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/current-weather/53601_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Minneapolis",
-      "state": "MN"
-    },
-    {
-      "league": "nfl",
-      "name": "KC @ LV",
-      "temp": 94,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "89118"
-        ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/current-weather/209206_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Las Vegas",
-      "state": "NV"
-    },
-    {
-      "league": "nfl",
-      "name": "DEN @ SF",
-      "temp": 90,
-      "condition": "Partly sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "95054"
-        ],
-        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/current-weather/53539_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Santa Clara",
-      "state": "CA"
-    },
-    {
-      "league": "nfl",
-      "name": "LAC @ SEA",
-      "temp": 71,
-      "condition": "1",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "98134"
-        ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/current-weather/196601_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Seattle",
-      "state": "WA"
+      "city": "Charlotte",
+      "state": "NC"
     },
     {
       "league": "nfl",
@@ -252,23 +142,43 @@
     },
     {
       "league": "nfl",
-      "name": "DET @ CAR",
-      "temp": 69,
-      "condition": "7",
+      "name": "MIA @ MIN",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "28202"
-        ],
-        "href": "http://www.accuweather.com/en/us/bank-of-america-stadium-nc/28202/hourly-weather-forecast/53601_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Charlotte",
-      "state": "NC"
+      "wind": null,
+      "city": "Minneapolis",
+      "state": "MN"
+    },
+    {
+      "league": "nfl",
+      "name": "KC @ LV",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    {
+      "league": "nfl",
+      "name": "DEN @ SF",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Santa Clara",
+      "state": "CA"
+    },
+    {
+      "league": "nfl",
+      "name": "LAC @ SEA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Seattle",
+      "state": "WA"
     },
     {
       "league": "nfl",
@@ -463,35 +373,25 @@
     {
       "league": "mlb",
       "name": "SD @ MIL",
-      "temp": 68,
-      "condition": "Sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "53295"
-        ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Milwaukee",
       "state": "Wisconsin"
     },
     {
       "league": "mlb",
       "name": "ATL @ LAD",
-      "temp": 97,
-      "condition": "1",
+      "temp": 96,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "90090"
         ],
-        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/hourly-weather-forecast/30524_poi?day=1&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/current-weather/30524_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -503,6 +403,36 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Marvin Harrison Jr.",
+        "status": "Active",
+        "detail": "Harrison caught one of four targets for 12 yards and a touchdown in Sunday's 36-24 loss to the Giants."
+      },
+      {
+        "team": null,
+        "player": "Michael Wilson",
+        "status": "Active",
+        "detail": "Wilson caught seven of 13 targets for 95 yards in Sunday's 36-24 loss to the Giants."
+      },
+      {
+        "team": null,
+        "player": "Jacoby Brissett",
+        "status": "Active",
+        "detail": "Brissett completed 21 of 35 passes for 166 yards and two touchdowns with three interceptions in Sunday's 36-24 loss to the Giants. He added 18 yards on four carries."
+      },
+      {
+        "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Active",
+        "detail": "Love carried the ball 14 times for 63 yards and caught his only target for minus-eight yards in Sunday's 36-24 loss to the Giants."
+      },
+      {
+        "team": null,
+        "player": "Trey McBride",
+        "status": "Active",
+        "detail": "McBride caught seven of 12 targets for 31 yards in Sunday's 36-24 loss to the Giants."
+      },
       {
         "team": null,
         "player": "Paris Johnson Jr.",
@@ -616,36 +546,6 @@
         "player": "Chad Ryland",
         "status": "Active",
         "detail": "Ryland hit all three field-goal attempts and all three extra-point tries in Sunday's 36-30 loss to the 49ers."
-      },
-      {
-        "team": null,
-        "player": "Jacoby Brissett",
-        "status": "Active",
-        "detail": "Brissett completed 38 of 52 passes for 280 yards with two touchdowns and no interceptions and rushed four times for four yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Marvin Harrison Jr.",
-        "status": "Active",
-        "detail": "Harrison brought in three of five targets for 40 yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Michael Wilson",
-        "status": "Active",
-        "detail": "Wilson secured 11 of 17 targets for 89 yards and a touchdown in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Trey McBride",
-        "status": "Active",
-        "detail": "McBride brought in nine of 11 targets for 75 yards in the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Jeremiyah Love",
-        "status": "Active",
-        "detail": "Love rushed 21 times for 90 yards and brought in all five targets for 19 yards and a touchdown in the Cardinals' 36-30 loss to the 49ers on Sunday."
       },
       {
         "team": null,
@@ -811,6 +711,30 @@
       },
       {
         "team": null,
+        "player": "Mark Andrews",
+        "status": "Active",
+        "detail": "Andrews caught five of six targets for 27 yards and a touchdown in Sunday's 24-18 win over Tennessee."
+      },
+      {
+        "team": null,
+        "player": "Tyler Huntley",
+        "status": "Active",
+        "detail": "Huntley completed eight of nine passes for 63 yards while adding 16 yards on four carries in Sunday's 24-18 win over the Titans."
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Active",
+        "detail": "Flowers caught eight of 10 targets for 118 yards and a touchdown in Sunday's 24-18 win over the Titans."
+      },
+      {
+        "team": null,
+        "player": "Derrick Henry",
+        "status": "Active",
+        "detail": "Henry carried the ball 23 times for 73 yards and a touchdown in Sunday's 24-18 win over the Titans. He also caught both his targets for six yards."
+      },
+      {
+        "team": null,
         "player": "Ronnie Stanley",
         "status": "Questionable",
         "detail": "Stanley (toe) was able to complete Sunday's 24-18 win over Tennessee, Jonas Shaffer of TheBaltimoreBanner.com reports."
@@ -859,12 +783,6 @@
       },
       {
         "team": null,
-        "player": "Zay Flowers",
-        "status": "Active",
-        "detail": "Flowers (hamstring) is expected to play in Sunday's game against the Titans, Ian Rapoport of NFL Network reports."
-      },
-      {
-        "team": null,
         "player": "Ethan Pocic",
         "status": "Injured Reserve",
         "detail": "Baltimore placed Pocic (knee) on injured reserve Saturday."
@@ -886,12 +804,6 @@
         "player": "Roquan Smith",
         "status": "Active",
         "detail": "Smith logged nine tackles (three solo), including 1.0 sacks, during the Ravens' 34-31 win over the Cowboys in Rio on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Mark Andrews",
-        "status": "Active",
-        "detail": "Andrews caught three of five targets for 24 yards during Sunday's 34-31 win over the Cowboys."
       },
       {
         "team": null,
@@ -919,12 +831,6 @@
       },
       {
         "team": null,
-        "player": "Derrick Henry",
-        "status": "Active",
-        "detail": "Henry rushed 26 times for 89 yards and two touchdowns while catching his lone target for no gain in Sunday's 34-31 win over the Cowboys."
-      },
-      {
-        "team": null,
         "player": "Elijah Sarratt",
         "status": "Active",
         "detail": "Sarratt (coach's decision) is inactive for Sunday's game against Dallas."
@@ -949,9 +855,15 @@
       },
       {
         "team": null,
-        "player": "Nnamdi Madubuike",
+        "player": "Dalton Kincaid",
         "status": "Active",
-        "detail": "Madubuike (neck) was a full participant in Wednesday's practice."
+        "detail": "Kincaid brought in one of two targets for seven yards in the Bills' 29-26 loss to the Patriots on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Keon Coleman",
+        "status": "Active",
+        "detail": "Coleman secured six of seven targets for 116 yards and a touchdown in the Bills' 29-26 loss to the Patriots on Sunday."
       },
       {
         "team": null,
@@ -970,18 +882,6 @@
         "player": "Dee Alford",
         "status": "Questionable",
         "detail": "Alford (ankle) is questionable to return against the Patriots on Sunday, Lance Lysowski of The Buffalo News reports."
-      },
-      {
-        "team": null,
-        "player": "Ed Oliver",
-        "status": "Questionable",
-        "detail": "Oliver (knee) is questionable to return against the Patriots on Sunday, Lance Lysowski of The Buffalo News reports."
-      },
-      {
-        "team": null,
-        "player": "Te'Cory Couch",
-        "status": "Questionable",
-        "detail": "Couch suffered a hamstring injury Sunday versus New England and is doubtful to return."
       }
     ],
     "ncaaf": [
@@ -9742,18 +9642,18 @@
   },
   "pitchers": [
     {
-      "eventId": "849825",
-      "homeTeam": "Milwaukee Brewers",
-      "homePitcher": "Logan Henderson",
-      "awayTeam": "San Diego Padres",
-      "awayPitcher": "Michael King"
+      "eventId": "849834",
+      "homeTeam": "Cleveland Guardians",
+      "homePitcher": "Gavin Williams",
+      "awayTeam": "Chicago White Sox",
+      "awayPitcher": "Anthony Kay"
     },
     {
-      "eventId": "849823",
-      "homeTeam": "Los Angeles Dodgers",
-      "homePitcher": "Blake Snell",
-      "awayTeam": "Atlanta Braves",
-      "awayPitcher": "Ray Kerr"
+      "eventId": "849839",
+      "homeTeam": "Tampa Bay Rays",
+      "homePitcher": "Freddy Peralta",
+      "awayTeam": "New York Yankees",
+      "awayPitcher": "Cam Schlittler"
     }
   ],
   "tennis": {
@@ -9847,7 +9747,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2418,
-    "gameFiles": 2305
+    "splitsKeys": 2420,
+    "gameFiles": 2307
   }
 }

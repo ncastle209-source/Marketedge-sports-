@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-04T21:51:10.602816+00:00",
+  "pulled_at": "2026-10-05T00:34:15.948741+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -172,17 +172,7 @@
     "nfl": {
       "kc": {
         "name": "Kansas City Chiefs",
-        "rating": 3.8,
-        "source": "espn-nfl-diff"
-      },
-      "las-vegas-raiders": {
-        "name": "Las Vegas Raiders",
-        "rating": 3.4,
-        "source": "espn-nfl-diff"
-      },
-      "raiders": {
-        "name": "Las Vegas Raiders",
-        "rating": 3.4,
+        "rating": 4.1,
         "source": "espn-nfl-diff"
       },
       "jacksonville-jaguars": {
@@ -225,14 +215,14 @@
         "rating": 2.0,
         "source": "espn-nfl-diff"
       },
-      "denver-broncos": {
-        "name": "Denver Broncos",
-        "rating": -1.0,
+      "las-vegas-raiders": {
+        "name": "Las Vegas Raiders",
+        "rating": 3.1,
         "source": "espn-nfl-diff"
       },
-      "broncos": {
-        "name": "Denver Broncos",
-        "rating": -1.0,
+      "raiders": {
+        "name": "Las Vegas Raiders",
+        "rating": 3.1,
         "source": "espn-nfl-diff"
       },
       "new-england-patriots": {
@@ -243,6 +233,16 @@
       "patriots": {
         "name": "New England Patriots",
         "rating": -1.2,
+        "source": "espn-nfl-diff"
+      },
+      "denver-broncos": {
+        "name": "Denver Broncos",
+        "rating": -2.0,
+        "source": "espn-nfl-diff"
+      },
+      "broncos": {
+        "name": "Denver Broncos",
+        "rating": -2.0,
         "source": "espn-nfl-diff"
       },
       "pittsburgh-steelers": {
@@ -287,22 +287,22 @@
       },
       "miami-dolphins": {
         "name": "Miami Dolphins",
-        "rating": -5.0,
+        "rating": -5.5,
         "source": "espn-nfl-diff"
       },
       "dolphins": {
         "name": "Miami Dolphins",
-        "rating": -5.0,
+        "rating": -5.5,
         "source": "espn-nfl-diff"
       },
       "los-angeles-chargers": {
         "name": "Los Angeles Chargers",
-        "rating": -3.2,
+        "rating": -3.9,
         "source": "espn-nfl-diff"
       },
       "chargers": {
         "name": "Los Angeles Chargers",
-        "rating": -3.2,
+        "rating": -3.9,
         "source": "espn-nfl-diff"
       },
       "houston-texans": {
@@ -327,17 +327,17 @@
       },
       "minnesota-vikings": {
         "name": "Minnesota Vikings",
-        "rating": 3.0,
+        "rating": 3.5,
         "source": "espn-nfl-diff"
       },
       "vikings": {
         "name": "Minnesota Vikings",
-        "rating": 3.0,
+        "rating": 3.5,
         "source": "espn-nfl-diff"
       },
       "sf": {
         "name": "San Francisco 49ers",
-        "rating": 4.8,
+        "rating": 5.8,
         "source": "espn-nfl-diff"
       },
       "new-york-giants": {
@@ -360,6 +360,16 @@
         "rating": 4.7,
         "source": "espn-nfl-diff"
       },
+      "seattle-seahawks": {
+        "name": "Seattle Seahawks",
+        "rating": 3.2,
+        "source": "espn-nfl-diff"
+      },
+      "seahawks": {
+        "name": "Seattle Seahawks",
+        "rating": 3.2,
+        "source": "espn-nfl-diff"
+      },
       "detroit-lions": {
         "name": "Detroit Lions",
         "rating": -0.2,
@@ -370,16 +380,6 @@
         "rating": -0.2,
         "source": "espn-nfl-diff"
       },
-      "seattle-seahawks": {
-        "name": "Seattle Seahawks",
-        "rating": 2.5,
-        "source": "espn-nfl-diff"
-      },
-      "seahawks": {
-        "name": "Seattle Seahawks",
-        "rating": 2.5,
-        "source": "espn-nfl-diff"
-      },
       "los-angeles-rams": {
         "name": "Los Angeles Rams",
         "rating": 0.2,
@@ -388,6 +388,16 @@
       "rams": {
         "name": "Los Angeles Rams",
         "rating": 0.2,
+        "source": "espn-nfl-diff"
+      },
+      "green-bay-packers": {
+        "name": "Green Bay Packers",
+        "rating": -3.2,
+        "source": "espn-nfl-diff"
+      },
+      "packers": {
+        "name": "Green Bay Packers",
+        "rating": -3.2,
         "source": "espn-nfl-diff"
       },
       "phi": {
@@ -403,16 +413,6 @@
       "dal": {
         "name": "Dallas Cowboys",
         "rating": 1.0,
-        "source": "espn-nfl-diff"
-      },
-      "green-bay-packers": {
-        "name": "Green Bay Packers",
-        "rating": -3.2,
-        "source": "espn-nfl-diff"
-      },
-      "packers": {
-        "name": "Green Bay Packers",
-        "rating": -3.2,
         "source": "espn-nfl-diff"
       },
       "carolina-panthers": {
