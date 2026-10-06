@@ -32,26 +32,6 @@
   "weather": [
     {
       "league": "nfl",
-      "name": "ATL @ NO",
-      "temp": 78,
-      "condition": "Cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "70112"
-        ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/current-weather/19245_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "New Orleans",
-      "state": "LA"
-    },
-    {
-      "league": "nfl",
       "name": "PIT @ CLE",
       "temp": null,
       "condition": null,
@@ -201,17 +181,27 @@
       "state": "NC"
     },
     {
+      "league": "nfl",
+      "name": "ATL @ NO",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "New Orleans",
+      "state": "LA"
+    },
+    {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
       "temp": 61,
-      "condition": "6",
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "98195"
         ],
-        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=5&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=4&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -224,14 +214,14 @@
       "league": "ncaaf",
       "name": "ISU @ BYU",
       "temp": 74,
-      "condition": "33",
+      "condition": "38",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "84604"
         ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=5&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=4&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -251,7 +241,7 @@
         "rel": [
           "68588"
         ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=6&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=5&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -263,15 +253,15 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 76,
-      "condition": "1",
+      "temp": 75,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "65203"
         ],
-        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=6&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=5&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -291,7 +281,7 @@
         "rel": [
           "74075"
         ],
-        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/hourly-weather-forecast/53626_poi?day=6&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/hourly-weather-forecast/53626_poi?day=5&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -304,14 +294,14 @@
       "league": "ncaaf",
       "name": "UNC @ PITT",
       "temp": 66,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=6&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=5&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -323,15 +313,15 @@
     {
       "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 79,
-      "condition": "7",
+      "temp": 81,
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "32611"
         ],
-        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=6&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=5&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -344,14 +334,14 @@
       "league": "ncaaf",
       "name": "TEX VS OU",
       "temp": 86,
-      "condition": "4",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "75210"
         ],
-        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/hourly-weather-forecast/196691_poi?day=6&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/hourly-weather-forecast/196691_poi?day=5&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -364,14 +354,14 @@
       "league": "ncaaf",
       "name": "STAN @ ND",
       "temp": 75,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "46556"
         ],
-        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=6&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=5&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -391,7 +381,7 @@
         "rel": [
           "37212"
         ],
-        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/hourly-weather-forecast/53640_poi?day=6&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/hourly-weather-forecast/53640_poi?day=5&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -404,14 +394,14 @@
       "league": "ncaaf",
       "name": "UCLA @ ORE",
       "temp": 60,
-      "condition": "14",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "97401"
         ],
-        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=6&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=5&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -423,7 +413,7 @@
     {
       "league": "ncaaf",
       "name": "HOU @ KSU",
-      "temp": 82,
+      "temp": 83,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -431,7 +421,7 @@
         "rel": [
           "66502"
         ],
-        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/hourly-weather-forecast/53576_poi?day=6&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/hourly-weather-forecast/53576_poi?day=5&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -443,15 +433,15 @@
     {
       "league": "ncaaf",
       "name": "MD @ OSU",
-      "temp": 79,
-      "condition": "1",
+      "temp": 75,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "43210"
         ],
-        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=6&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=5&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -471,7 +461,7 @@
         "rel": [
           "72701"
         ],
-        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/hourly-weather-forecast/53533_poi?day=6&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/hourly-weather-forecast/53533_poi?day=5&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -483,15 +473,15 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 73,
-      "condition": "1",
+      "temp": 71,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "40502"
         ],
-        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=6&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=5&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -503,7 +493,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 73,
+      "temp": 72,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -511,7 +501,7 @@
         "rel": [
           "35401"
         ],
-        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/hourly-weather-forecast/53527_poi?day=6&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/hourly-weather-forecast/53527_poi?day=5&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -523,15 +513,15 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 64,
-      "condition": "34",
+      "temp": 62,
+      "condition": "36",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "16802"
         ],
-        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=6&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=5&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -543,15 +533,15 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 71,
-      "condition": "35",
+      "temp": 67,
+      "condition": "38",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "84112"
         ],
-        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=6&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=5&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -563,7 +553,7 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 87,
+      "temp": 86,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -571,7 +561,7 @@
         "rel": [
           "93710"
         ],
-        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=6&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=5&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -593,26 +583,28 @@
     {
       "league": "mlb",
       "name": "NYY @ TB",
-      "temp": 84,
-      "condition": "Mostly cloudy",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "33705"
-        ],
-        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/current-weather/44502_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "St. Petersburg",
       "state": "Florida"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Elijah Higgins",
+        "status": "Active",
+        "detail": "Higgins caught both of his targets for 19 yards and a touchdown in Sunday's loss to the Giants."
+      },
+      {
+        "team": null,
+        "player": "Kendrick Bourne",
+        "status": "Active",
+        "detail": "Bourne wasn't targeted in Sunday's 36-24 loss to the Giants."
+      },
       {
         "team": null,
         "player": "Paris Johnson Jr.",
@@ -747,27 +739,51 @@
       },
       {
         "team": null,
-        "player": "Kendrick Bourne",
-        "status": "Active",
-        "detail": "Bourne hauled in two passes on three targets for 22 yards during the Cardinals' 36-30 loss to the 49ers on Sunday."
-      },
-      {
-        "team": null,
         "player": "Andrew Billings",
         "status": "Active",
         "detail": ""
       },
       {
         "team": null,
-        "player": "Max Melton",
-        "status": "Active",
-        "detail": "Melton (toe) is active for Sunday's game against the 49ers, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
         "player": "Jared Ivey",
         "status": "Out",
         "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Kyle Pitts Sr.",
+        "status": "Active",
+        "detail": "Pitts secured all three targets for 47 yards in the Falcons' 45-24 win over the Saints on Monday night."
+      },
+      {
+        "team": null,
+        "player": "Nick Folk",
+        "status": "Active",
+        "detail": "Folk made his lone field-goal attempt all six PATs in Monday night's 45-24 win over the Saints."
+      },
+      {
+        "team": null,
+        "player": "Brian Robinson Jr.",
+        "status": "Active",
+        "detail": "Robinson rushed 14 times for 62 yards and three touchdowns and brought in his sole target for five yards in the Falcons' 45-24 win over the Saints on Monday night."
+      },
+      {
+        "team": null,
+        "player": "Michael Penix Jr.",
+        "status": "Active",
+        "detail": "Penix completed 15 of 20 passes for 223 yards with one touchdown and no interceptions and rushed twice for minus-2 yards in the Falcons' 45-24 win over the Saints on Monday night."
+      },
+      {
+        "team": null,
+        "player": "Drake London",
+        "status": "Active",
+        "detail": "London brought in five of six targets for 96 yards in the Falcons' 45-24 win over the Saints on Monday night."
+      },
+      {
+        "team": null,
+        "player": "Bijan Robinson",
+        "status": "Active",
+        "detail": "Robinson rushed 19 times for 145 yards and two touchdowns and brought in one of two targets for two yards in the Falcons' 45-24 win over the Saints on Monday night."
       },
       {
         "team": null,
@@ -778,7 +794,7 @@
       {
         "team": null,
         "player": "Za'Darius Smith",
-        "status": "Out",
+        "status": "Questionable",
         "detail": "Smith (concussion) has been ruled out for the remainder of Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
       },
       {
@@ -879,51 +895,45 @@
       },
       {
         "team": null,
-        "player": "Kyle Pitts Sr.",
-        "status": "Active",
-        "detail": "Pitts secured one of two targets for five yards in the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Nick Folk",
-        "status": "Active",
-        "detail": "Folk hit both field-goal attempts and all three extra-point tries in Thursday's 35-14 win over the Packers."
-      },
-      {
-        "team": null,
-        "player": "Brian Robinson Jr.",
-        "status": "Active",
-        "detail": "Robinson rushed 10 times for 50 yards and a touchdown and returned two kickoffs for 54 yards in the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Michael Penix Jr.",
-        "status": "Active",
-        "detail": "Penix completed 18 of 25 passes for 256 yards with one touchdown and one interception while rushing twice for minus-2 yards in the Falcons' 35-14 win over the Packers on Thursday. He also threw a two-point conversion pass."
-      },
-      {
-        "team": null,
-        "player": "Drake London",
-        "status": "Active",
-        "detail": "London secured nine of 10 targets for 194 yards in the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Bijan Robinson",
-        "status": "Active",
-        "detail": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
         "player": "Chris Moore",
         "status": "Out",
         "detail": "out"
       },
       {
         "team": null,
+        "player": "Devontez Walker",
+        "status": "Active",
+        "detail": "Walker caught one of his two targets for 19 yards during Baltimore's win over the Titans on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Elijah Sarratt",
+        "status": "Active",
+        "detail": "Sarratt reeled in one of two targets for 13 yards in a 24-18 win against Tennessee on Sunday."
+      },
+      {
+        "team": null,
+        "player": "Matthew Hibner",
+        "status": "Active",
+        "detail": "Hibner caught both of his targets for 34 yards in Sunday's 24-18 win over the Titans."
+      },
+      {
+        "team": null,
+        "player": "Rashod Bateman",
+        "status": "Active",
+        "detail": "Bateman caught both of his targets for 46 yards in Sunday's win over the Titans."
+      },
+      {
+        "team": null,
+        "player": "Justice Hill",
+        "status": "Active",
+        "detail": "Hill rushed one time for three yards in Sunday's 24-18 win over the Titans. He added two catches for 22 yards on three targets."
+      },
+      {
+        "team": null,
         "player": "Lamar Jackson",
         "status": "Questionable",
-        "detail": "Head coach Jesse Minter said Monday that he's uncertain whether Jackson (ankle) will be ready to play in Sunday's game against the Falcons, Jamison Hensley of ESPN.com reports. \"I don't know the chances yet,\" Minter said. \"We're still gathering a lot of the information and the imaging and things like that, just dealing with a little bit of an ankle and we'll kind of see where that shakes out.\""
+        "detail": "Head coach Jesse Minter said Monday that he's uncertain whether Jackson (ankle) will be ready to play in Sunday's game against the Falcons, Jamison Hensley of ESPN.com reports. \"I don't know the chances yet,\" Minter said. \"We're still gathering a lot of the information and the imaging and things like that, just dealing with a little bit of an ankle, and we'll kind of see where that shakes out.\""
       },
       {
         "team": null,
@@ -1035,33 +1045,15 @@
       },
       {
         "team": null,
-        "player": "Rashod Bateman",
+        "player": "Ty Johnson",
         "status": "Active",
-        "detail": "Bateman caught two of three targets for 37 yards in Sunday's 34-31 win over the Cowboys."
+        "detail": "Johnson rushed once for three yards and caught both of his targets for nine yards Sunday in a loss to New England."
       },
       {
         "team": null,
-        "player": "Elijah Sarratt",
+        "player": "Dawson Knox",
         "status": "Active",
-        "detail": "Sarratt (coach's decision) is inactive for Sunday's game against Dallas."
-      },
-      {
-        "team": null,
-        "player": "Malaki Starks",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Teddye Buchanan",
-        "status": "Active",
-        "detail": "Buchanan (knee) is expected to play in Sunday's game versus Dallas, Matt Zenitz of CBSSports.com reports."
-      },
-      {
-        "team": null,
-        "player": "Zion Young",
-        "status": "Active",
-        "detail": ""
+        "detail": "Knox caught both of his targets for 13 yards in the Bills' 29-26 loss to the Patriots on Sunday."
       },
       {
         "team": null,
@@ -1080,18 +1072,6 @@
         "player": "T.J. Sanders",
         "status": "Out",
         "detail": "out"
-      },
-      {
-        "team": null,
-        "player": "Mike Danna",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Skyler Bell",
-        "status": "Active",
-        "detail": ""
       }
     ],
     "ncaaf": [
@@ -1120,12 +1100,6 @@
         "player": "Corbin Burnes",
         "status": "15-Day-IL",
         "detail": "Burnes said Monday that the right shoulder injury which landed him on the 15-day injured list during the final weekend of the regular season was fatigue-related and he expects to be fine after rest, Steve Gilbert of MLB.com reports."
-      },
-      {
-        "team": null,
-        "player": "Gabriel Moreno",
-        "status": "Day-To-Day",
-        "detail": "Moreno (hamstring) has been removed from Sunday's lineup against the Padres, Alex Weiner of ArizonaSports.com reports."
       },
       {
         "team": null,
@@ -1378,6 +1352,12 @@
         "player": "Cameron Foster",
         "status": "Day-To-Day",
         "detail": "Foster was removed from an appearance at Triple-A Norfolk on Thursday due to right shoulder discomfort, Roch Kubatko of MASNSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Zach Eflin",
+        "status": "60-Day-IL",
+        "detail": "Eflin underwent Tommy John surgery on his right elbow Wednesday, Andy Kostka of TheBaltimoreBanner.com reports."
       },
       {
         "team": null,
@@ -1906,7 +1886,7 @@
     ]
   },
   "closeArchive": {
-    "count": 365
+    "count": 384
   },
   "nflverse": [
     {
