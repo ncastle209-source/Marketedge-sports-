@@ -1,97 +1,47 @@
 {
   "umpires": [
     {
-      "eventId": "849834",
-      "home": "Cleveland Guardians",
-      "away": "Chicago White Sox",
-      "plateUmpire": "Gabe Morales",
-      "crew": [
-        {
-          "name": "Gabe Morales",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Todd Tichenor",
-          "type": "First Base"
-        },
-        {
-          "name": "Jansen Visconti",
-          "type": "Second Base"
-        },
-        {
-          "name": "Vic Carapazza",
-          "type": "Third Base"
-        },
-        {
-          "name": "Tom Hanahan",
-          "type": "Left Field"
-        },
-        {
-          "name": "Cory Blaser",
-          "type": "Right Field"
-        }
-      ],
-      "status": "In Progress"
+      "eventId": "849819",
+      "home": "Atlanta Braves",
+      "away": "Los Angeles Dodgers",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     },
     {
-      "eventId": "849839",
-      "home": "Tampa Bay Rays",
-      "away": "New York Yankees",
-      "plateUmpire": "Jeremie Rehak",
-      "crew": [
-        {
-          "name": "Jeremie Rehak",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Dan Bellino",
-          "type": "First Base"
-        },
-        {
-          "name": "Ben May",
-          "type": "Second Base"
-        },
-        {
-          "name": "D.J. Reyburn",
-          "type": "Third Base"
-        },
-        {
-          "name": "Ryan Wills",
-          "type": "Left Field"
-        },
-        {
-          "name": "Shane Livensparger",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "eventId": "849826",
+      "home": "San Diego Padres",
+      "away": "Milwaukee Brewers",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849834,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849834"
+      "gamePk": 849819,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849819"
     },
     {
-      "gamePk": 849839,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849839"
+      "gamePk": 849826,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849826"
     }
   ],
   "weather": [
     {
       "league": "nfl",
       "name": "ATL @ NO",
-      "temp": 79,
-      "condition": "7",
+      "temp": 78,
+      "condition": "Cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "70112"
         ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=1&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/current-weather/19245_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -633,35 +583,25 @@
     {
       "league": "mlb",
       "name": "CHW @ CLE",
-      "temp": 63,
-      "condition": "Partly sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "44115"
-        ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/current-weather/53619_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Cleveland",
       "state": "Ohio"
     },
     {
       "league": "mlb",
       "name": "NYY @ TB",
-      "temp": 81,
-      "condition": "7",
+      "temp": 84,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "33705"
         ],
-        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/current-weather/44502_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -675,15 +615,21 @@
     "nfl": [
       {
         "team": null,
-        "player": "Jeremiyah Love",
-        "status": "Questionable",
-        "detail": "questionable"
+        "player": "Paris Johnson Jr.",
+        "status": "Out",
+        "detail": "Johnson (biceps) has been ruled out for the remainder of the 2026 season, Dani Sureck of the Cardinals' official site reports."
       },
       {
         "team": null,
-        "player": "Paris Johnson Jr.",
-        "status": "Out",
-        "detail": "out"
+        "player": "Andrew Wingard",
+        "status": "Questionable",
+        "detail": "Wingard suffered a bone bruise in his knee during Sunday's 36-24 loss to the Giants, Jeremy Fowler of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Questionable",
+        "detail": "Coach Mike LaFleur said Monday that Love is dealing with an ankle issue that's not related to the high-ankle sprain he tended to in August, Dani Sureck of the Cardinals' official site reports."
       },
       {
         "team": null,
@@ -771,12 +717,6 @@
       },
       {
         "team": null,
-        "player": "Andrew Wingard",
-        "status": "Questionable",
-        "detail": "Wingard (knee) has been ruled out for the rest of Sunday's game against the Giants."
-      },
-      {
-        "team": null,
         "player": "Josh Sweat",
         "status": "Active",
         "detail": "Sweat (groin) is active for Sunday's Week 4 clash against the Giants."
@@ -825,9 +765,69 @@
       },
       {
         "team": null,
-        "player": "Yasir Abdullah",
+        "player": "Jared Ivey",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Jake Matthews",
         "status": "Questionable",
-        "detail": "Abdullah is questionable for Monday's matchup against New Orleans due to an illness, Daniel Flick of The Atlanta Journal-Constitution reports."
+        "detail": "Matthews (groin) has been downgraded to out for the rest of Monday's game against the Saints, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Za'Darius Smith",
+        "status": "Out",
+        "detail": "Smith (concussion) has been ruled out for the remainder of Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Yasir Abdullah",
+        "status": "Active",
+        "detail": "Abdullah (illness) is active for Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Samson Ebukam",
+        "status": "Active",
+        "detail": "Ebukam (hamstring) is active for Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Divine Deablo",
+        "status": "Active",
+        "detail": "Deablo (hamstring) is active for Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Cooper Rush",
+        "status": "Out",
+        "detail": "Rush (coach's decision) is inactive for Thursday's game against the Saints but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Ethan Onianwa",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Jack Strand",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Robert Longerbeam",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Malcolm DeWalt IV",
+        "status": "Out",
+        "detail": "inactive"
       },
       {
         "team": null,
@@ -837,51 +837,9 @@
       },
       {
         "team": null,
-        "player": "Divine Deablo",
-        "status": "Questionable",
-        "detail": "Deablo (hamstring) is listed as questionable for Monday's game against the Saints, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Gervon Dexter Sr.",
         "status": "Active",
         "detail": "The Falcons signed Dexter to a four-year, $78 million contract extension Wednesday, Adam Schefter of ESPN reports."
-      },
-      {
-        "team": null,
-        "player": "Samson Ebukam",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Jack Strand",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Ethan Onianwa",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Cooper Rush",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Malcolm DeWalt IV",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Robert Longerbeam",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -954,24 +912,6 @@
         "player": "Bijan Robinson",
         "status": "Active",
         "detail": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Billy Bowman Jr.",
-        "status": "Active",
-        "detail": "Bowman (Achilles) is available for Thursday's game versus the Packers."
-      },
-      {
-        "team": null,
-        "player": "Jawaan Taylor",
-        "status": "Active",
-        "detail": "Taylor (ribs) was a full participant in Tuesday's practice, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Zach Harrison",
-        "status": "Active",
-        "detail": "The Falcons signed Harrison to the active roster from their practice squad Tuesday, Tori McElhaney of the team's official site reports."
       },
       {
         "team": null,
@@ -1125,6 +1065,18 @@
       },
       {
         "team": null,
+        "player": "Khalil Shakir",
+        "status": "Active",
+        "detail": "Shakir turned seven catches (on eight targets) into 82 yards during the Bills' 29-26 loss to the Patriots on Sunday. He also lost a fumble."
+      },
+      {
+        "team": null,
+        "player": "Ray Davis",
+        "status": "Active",
+        "detail": "Davis logged a four-yard carry, a three-yard reception and returned one kickoff for 29 yards during the Bills' 29-26 loss to the Patriots in Week 4."
+      },
+      {
+        "team": null,
         "player": "T.J. Sanders",
         "status": "Out",
         "detail": "out"
@@ -1138,18 +1090,6 @@
       {
         "team": null,
         "player": "Skyler Bell",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Jude Bowry",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Jalon Kilgore",
         "status": "Active",
         "detail": ""
       }
@@ -9912,18 +9852,18 @@
   },
   "pitchers": [
     {
-      "eventId": "849834",
-      "homeTeam": "Cleveland Guardians",
-      "homePitcher": "Gavin Williams",
-      "awayTeam": "Chicago White Sox",
-      "awayPitcher": "Anthony Kay"
+      "eventId": "849819",
+      "homeTeam": "Atlanta Braves",
+      "homePitcher": "Chris Sale",
+      "awayTeam": "Los Angeles Dodgers",
+      "awayPitcher": "Yoshinobu Yamamoto"
     },
     {
-      "eventId": "849839",
-      "homeTeam": "Tampa Bay Rays",
-      "homePitcher": "Freddy Peralta",
-      "awayTeam": "New York Yankees",
-      "awayPitcher": "Cam Schlittler"
+      "eventId": "849826",
+      "homeTeam": "San Diego Padres",
+      "homePitcher": "Nick Pivetta",
+      "awayTeam": "Milwaukee Brewers",
+      "awayPitcher": "Dustin May"
     }
   ],
   "tennis": {
@@ -10011,7 +9951,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2447,
-    "gameFiles": 2334
+    "splitsKeys": 2449,
+    "gameFiles": 2336
   }
 }
