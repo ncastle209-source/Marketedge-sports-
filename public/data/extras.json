@@ -4,28 +4,78 @@
       "eventId": "849819",
       "home": "Atlanta Braves",
       "away": "Los Angeles Dodgers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "James Hoye",
+      "crew": [
+        {
+          "name": "James Hoye",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Tripp Gibson",
+          "type": "First Base"
+        },
+        {
+          "name": "Jim Wolf",
+          "type": "Second Base"
+        },
+        {
+          "name": "Mike Estabrook",
+          "type": "Third Base"
+        },
+        {
+          "name": "Roberto Ortiz",
+          "type": "Left Field"
+        },
+        {
+          "name": "Chris Guccione",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849826",
       "home": "San Diego Padres",
       "away": "Milwaukee Brewers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Alfonso M\u00e1rquez",
+      "crew": [
+        {
+          "name": "Alfonso M\u00e1rquez",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Nic Lentz",
+          "type": "First Base"
+        },
+        {
+          "name": "Quinn Wolcott",
+          "type": "Second Base"
+        },
+        {
+          "name": "Brennan Miller",
+          "type": "Third Base"
+        },
+        {
+          "name": "Nick Mahrley",
+          "type": "Left Field"
+        },
+        {
+          "name": "Lance Barrett",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849819,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849819"
     },
     {
       "gamePk": 849826,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849826"
     }
   ],
@@ -593,7 +643,7 @@
     {
       "league": "mlb",
       "name": "MIL @ SD",
-      "temp": 86,
+      "temp": 87,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -615,6 +665,24 @@
     "nfl": [
       {
         "team": null,
+        "player": "Kenny Yeboah",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Hunter Long",
+        "status": "Injured Reserve",
+        "detail": "ir"
+      },
+      {
+        "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
         "player": "Elijah Higgins",
         "status": "Active",
         "detail": "Higgins caught both of his targets for 19 yards and a touchdown in Sunday's loss to the Giants."
@@ -628,7 +696,7 @@
       {
         "team": null,
         "player": "Paris Johnson Jr.",
-        "status": "Out",
+        "status": "Injured Reserve",
         "detail": "Johnson (biceps) has been ruled out for the remainder of the 2026 season, Dani Sureck of the Cardinals' official site reports."
       },
       {
@@ -642,12 +710,6 @@
         "player": "Jeremiyah Love",
         "status": "Questionable",
         "detail": "Coach Mike LaFleur said Monday that Love is dealing with an ankle issue that's not related to the high-ankle sprain he tended to in August, Dani Sureck of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Dadrion Taylor-Demerson",
-        "status": "Out",
-        "detail": "out"
       },
       {
         "team": null,
@@ -723,12 +785,6 @@
       },
       {
         "team": null,
-        "player": "Hunter Long",
-        "status": "Questionable",
-        "detail": "Long (knee) is questionable to return against the Giants on Sunday."
-      },
-      {
-        "team": null,
         "player": "Josh Sweat",
         "status": "Active",
         "detail": "Sweat (groin) is active for Sunday's Week 4 clash against the Giants."
@@ -759,15 +815,33 @@
       },
       {
         "team": null,
-        "player": "Andrew Billings",
+        "player": "Jared Ivey",
         "status": "Active",
         "detail": ""
       },
       {
         "team": null,
-        "player": "Jared Ivey",
-        "status": "Out",
-        "detail": "inactive"
+        "player": "Malcolm DeWalt IV",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Robert Longerbeam",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Jack Strand",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Ethan Onianwa",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
@@ -838,32 +912,8 @@
       {
         "team": null,
         "player": "Cooper Rush",
-        "status": "Out",
+        "status": "Active",
         "detail": "Rush (coach's decision) is inactive for Thursday's game against the Saints but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Ethan Onianwa",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Jack Strand",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Robert Longerbeam",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Malcolm DeWalt IV",
-        "status": "Out",
-        "detail": "inactive"
       },
       {
         "team": null,
@@ -916,14 +966,26 @@
       {
         "team": null,
         "player": "Chris Moore",
-        "status": "Out",
-        "detail": "out"
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
         "player": "Lamar Jackson",
         "status": "Questionable",
-        "detail": "Jackson (ankle) is not dealing with a long-term injury, but he has \"only an outside chance to play\" in Week 5 and \"could end up missing multiple games,\" Ian Rapoport of NFL Network reports."
+        "detail": "Jackson appears \"unlikely\" to play Sunday against the Falcons due to a \"rarer type of ankle sprain\" that could put him at risk of missing multiple games, Ian Rapoport of NFL Network reports."
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Durham Smythe",
+        "status": "Out",
+        "detail": "Smythe was diagnosed with a torn Achilles tendon following an MRI on Monday and will require season-ending surgery, Ian Rapoport of NFL Network reports."
       },
       {
         "team": null,
@@ -954,12 +1016,6 @@
         "player": "Justice Hill",
         "status": "Active",
         "detail": "Hill rushed one time for three yards in Sunday's 24-18 win over the Titans. He added two catches for 22 yards on three targets."
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Out",
-        "detail": "out"
       },
       {
         "team": null,
@@ -1011,12 +1067,6 @@
       },
       {
         "team": null,
-        "player": "Durham Smythe",
-        "status": "Questionable",
-        "detail": "Smythe (Achilles) won't return to Sunday's game against the Titans."
-      },
-      {
-        "team": null,
         "player": "Marlon Humphrey",
         "status": "Questionable",
         "detail": "Humphrey (calf) has been ruled out for the rest of Sunday's game against the Titans."
@@ -1065,6 +1115,18 @@
       },
       {
         "team": null,
+        "player": "T.J. Sanders",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Christian Benford",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
         "player": "Ty Johnson",
         "status": "Active",
         "detail": "Johnson rushed once for three yards and caught both of his targets for nine yards Sunday in a loss to New England."
@@ -1080,18 +1142,6 @@
         "player": "Khalil Shakir",
         "status": "Active",
         "detail": "Shakir turned seven catches (on eight targets) into 82 yards during the Bills' 29-26 loss to the Patriots on Sunday. He also lost a fumble."
-      },
-      {
-        "team": null,
-        "player": "Ray Davis",
-        "status": "Active",
-        "detail": "Davis logged a four-yard carry, a three-yard reception and returned one kickoff for 29 yards during the Bills' 29-26 loss to the Patriots in Week 4."
-      },
-      {
-        "team": null,
-        "player": "T.J. Sanders",
-        "status": "Out",
-        "detail": "out"
       }
     ],
     "ncaaf": [
@@ -1246,12 +1296,6 @@
         "player": "Bryce Elder",
         "status": "15-Day-IL",
         "detail": "Atlanta manager Walt Weiss said Friday that Elder (knee) will not be available for the NLDS against the Dodgers, Aiden Stepansky of MLB.com reports."
-      },
-      {
-        "team": null,
-        "player": "Tyler Mahle",
-        "status": "Day-To-Day",
-        "detail": "Atlanta manager Walt Weiss said after Game 2 of the NL Wild Card Series against the Phillies on Wednesday that Mahle suffered an abdominal injury while warming up and nearly didn't start as scheduled, Grant McAuley of the Marietta Daily Journal reports. The right-hander didn't factor in the decision, giving up one run on six hits with six strikeouts and one walk across seven innings."
       },
       {
         "team": null,
@@ -1594,6 +1638,12 @@
         "player": "Hunter Greene",
         "status": "60-Day-IL",
         "detail": "Greene (elbow) will be out for 12-to-18 months after undergoing his second Tommy John surgery Wednesday, Gordon Wittenmyer of The Cincinnati Enquirer reports."
+      },
+      {
+        "team": null,
+        "player": "Colin Holderman",
+        "status": "15-Day-IL",
+        "detail": "Holderman will undergo season-ending surgery on his right wrist, Zack Meisel of The Athletic reports."
       }
     ],
     "wnba": [
@@ -1601,7 +1651,7 @@
         "team": null,
         "player": "Allisha Gray",
         "status": "Out",
-        "detail": "Gray (hand) exited to the locker room in the second quarter of Sunday's Game 1 against the Liberty and will not return, Alexa Philippou of ESPN.com reports. She'll finish with seven points (1-5 FG, 1-3 3Pt, 4-5 FT), one rebound and one steal in 11 minutes."
+        "detail": "Gray (finger) is out for Wednesday's Game 2 against the Liberty, per Alexa Philippou of ESPN.com."
       },
       {
         "team": null,
@@ -9939,7 +9989,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2466,
-    "gameFiles": 2353
+    "splitsKeys": 2488,
+    "gameFiles": 2375
   }
 }
