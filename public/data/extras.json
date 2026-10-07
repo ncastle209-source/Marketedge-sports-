@@ -4,25 +4,100 @@
       "eventId": "849833",
       "home": "Chicago White Sox",
       "away": "Cleveland Guardians",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Todd Tichenor",
+      "crew": [
+        {
+          "name": "Todd Tichenor",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jansen Visconti",
+          "type": "First Base"
+        },
+        {
+          "name": "Vic Carapazza",
+          "type": "Second Base"
+        },
+        {
+          "name": "Tom Hanahan",
+          "type": "Third Base"
+        },
+        {
+          "name": "Cory Blaser",
+          "type": "Left Field"
+        },
+        {
+          "name": "Gabe Morales",
+          "type": "Right Field"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "849822",
       "home": "Atlanta Braves",
       "away": "Los Angeles Dodgers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Tripp Gibson",
+      "crew": [
+        {
+          "name": "Tripp Gibson",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Jim Wolf",
+          "type": "First Base"
+        },
+        {
+          "name": "Mike Estabrook",
+          "type": "Second Base"
+        },
+        {
+          "name": "Roberto Ortiz",
+          "type": "Third Base"
+        },
+        {
+          "name": "Chris Guccione",
+          "type": "Left Field"
+        },
+        {
+          "name": "James Hoye",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849838",
       "home": "New York Yankees",
       "away": "Tampa Bay Rays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Dan Bellino",
+      "crew": [
+        {
+          "name": "Dan Bellino",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ben May",
+          "type": "First Base"
+        },
+        {
+          "name": "D.J. Reyburn",
+          "type": "Second Base"
+        },
+        {
+          "name": "Ryan Wills",
+          "type": "Third Base"
+        },
+        {
+          "name": "Shane Livensparger",
+          "type": "Left Field"
+        },
+        {
+          "name": "Jeremie Rehak",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     },
     {
       "eventId": "849827",
@@ -36,17 +111,17 @@
   "savant": [
     {
       "gamePk": 849833,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849833"
     },
     {
       "gamePk": 849822,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849822"
     },
     {
       "gamePk": 849838,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849838"
     },
     {
@@ -89,8 +164,8 @@
     {
       "league": "nfl",
       "name": "CHI @ GB",
-      "temp": 73,
-      "condition": "2",
+      "temp": 71,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -109,8 +184,8 @@
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 71,
-      "condition": "7",
+      "temp": 69,
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -130,7 +205,7 @@
       "league": "nfl",
       "name": "CIN @ MIA",
       "temp": 91,
-      "condition": "7",
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -149,8 +224,8 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 70,
-      "condition": "3",
+      "temp": 67,
+      "condition": "5",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -169,7 +244,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 82,
+      "temp": 81,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -189,8 +264,8 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 69,
-      "condition": "6",
+      "temp": 67,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -209,7 +284,7 @@
     {
       "league": "nfl",
       "name": "IND @ PIT",
-      "temp": 67,
+      "temp": 64,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -249,8 +324,8 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 76,
-      "condition": "7",
+      "temp": 81,
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -269,8 +344,8 @@
     {
       "league": "nfl",
       "name": "DET @ ARI",
-      "temp": 79,
-      "condition": "15",
+      "temp": 84,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -310,7 +385,7 @@
       "league": "nfl",
       "name": "BAL @ ATL",
       "temp": 69,
-      "condition": "35",
+      "condition": "36",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -329,7 +404,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 68,
+      "temp": 65,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -370,7 +445,7 @@
       "league": "ncaaf",
       "name": "ISU @ BYU",
       "temp": 71,
-      "condition": "35",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -409,7 +484,7 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 76,
+      "temp": 73,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -449,7 +524,7 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 68,
+      "temp": 66,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -470,7 +545,7 @@
       "league": "ncaaf",
       "name": "SC @ FLA",
       "temp": 84,
-      "condition": "7",
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -509,7 +584,7 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 78,
+      "temp": 79,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -529,7 +604,7 @@
     {
       "league": "ncaaf",
       "name": "MISS @ VAN",
-      "temp": 72,
+      "temp": 68,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -549,7 +624,7 @@
     {
       "league": "ncaaf",
       "name": "UCLA @ ORE",
-      "temp": 57,
+      "temp": 56,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -629,8 +704,8 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 68,
-      "condition": "6",
+      "temp": 66,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -669,7 +744,7 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 65,
+      "temp": 62,
       "condition": "37",
       "gust": null,
       "wind": {
@@ -728,21 +803,81 @@
     },
     {
       "league": "mlb",
-      "name": "LAD @ ATL",
-      "temp": null,
-      "condition": null,
+      "name": "CLE @ CHW",
+      "temp": 75,
+      "condition": "Sunny",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "60616"
+        ],
+        "href": "http://www.accuweather.com/en/us/rate-field-il/60608/current-weather/18118_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Chicago",
+      "state": "Illinois"
+    },
+    {
+      "league": "mlb",
+      "name": "LAD @ ATL",
+      "temp": 76,
+      "condition": "2",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "30339"
+        ],
+        "href": "http://www.accuweather.com/en/us/truist-park-ga/30303/hourly-weather-forecast/196689_poi?day=1&hbhhour=18&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Atlanta",
       "state": "Georgia"
     },
     {
       "league": "mlb",
-      "name": "MIL @ SD",
-      "temp": null,
-      "condition": null,
+      "name": "TB @ NYY",
+      "temp": 62,
+      "condition": "33",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "10451"
+        ],
+        "href": "http://www.accuweather.com/en/us/yankee-stadium-ny/10462/hourly-weather-forecast/23416_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Bronx",
+      "state": "New York"
+    },
+    {
+      "league": "mlb",
+      "name": "MIL @ SD",
+      "temp": 81,
+      "condition": "34",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "92101"
+        ],
+        "href": "http://www.accuweather.com/en/us/petco-park-ca/92101/hourly-weather-forecast/44505_poi?day=1&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "San Diego",
       "state": "California"
     }
@@ -1057,6 +1192,30 @@
       },
       {
         "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Ravens head coach Jesse Minter said that Flowers (hamstring) was a limited participant in Wednesday's practice, Brian Wacker of The Baltimore Sun reports."
+      },
+      {
+        "team": null,
+        "player": "Cam Jurgens",
+        "status": "Questionable",
+        "detail": "The Ravens acquired Jurgens (concussion) and a 2027 seventh-round pick from the Eagles on Wednesday in exchange for a 2027 fifth-round pick and a 2028 second-round pick, Jamison Hensley of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Tyler Huntley",
+        "status": "Active",
+        "detail": "Huntley took the reps with the first-team offense Wednesday and could be trending toward the start Sunday against the Falcons with Lamar Jackson (ankle) appearing unlikely to play, Clifton Brown of the Ravens' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (ankle) wasn't participating in the media-access portion of Wednesday's practice, Jamison Hensley of ESPN.com reports."
+      },
+      {
+        "team": null,
         "player": "Roquan Smith",
         "status": "Active",
         "detail": "Smith recorded six total tackles (one solo) during Sunday's 24-18 win over the Titans."
@@ -1066,12 +1225,6 @@
         "player": "Trenton Simpson",
         "status": "Active",
         "detail": "Simpson recorded nine total tackles (two solo) and an interception during Sunday's 24-18 win over Tennessee."
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Questionable",
-        "detail": "Jackson appears \"unlikely\" to play Sunday against the Falcons due to a \"rarer type of ankle sprain\" that could put him at risk of missing multiple games, Ian Rapoport of NFL Network reports."
       },
       {
         "team": null,
@@ -1141,18 +1294,6 @@
       },
       {
         "team": null,
-        "player": "Tyler Huntley",
-        "status": "Active",
-        "detail": "Huntley completed eight of nine passes for 63 yards while adding 16 yards on four carries in Sunday's 24-18 win over the Titans."
-      },
-      {
-        "team": null,
-        "player": "Zay Flowers",
-        "status": "Active",
-        "detail": "Flowers caught eight of 10 targets for 118 yards and a touchdown in Sunday's 24-18 win over the Titans."
-      },
-      {
-        "team": null,
         "player": "Derrick Henry",
         "status": "Active",
         "detail": "Henry carried the ball 23 times for 73 yards and a touchdown in Sunday's 24-18 win over the Titans. He also caught both his targets for six yards."
@@ -1190,12 +1331,6 @@
       {
         "team": null,
         "player": "John Simpson",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "K'Von Wallace",
         "status": "Active",
         "detail": ""
       },
@@ -1846,6 +1981,12 @@
         "player": "Tyasha Harris",
         "status": "Out",
         "detail": "Harris (leg) will miss the rest of the season, WNBA reporter Kareem Copeland reports."
+      },
+      {
+        "team": null,
+        "player": "Stephanie Talbot",
+        "status": "Day-To-Day",
+        "detail": "day-to-day"
       },
       {
         "team": null,
@@ -10089,7 +10230,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2501,
-    "gameFiles": 2388
+    "splitsKeys": 2505,
+    "gameFiles": 2392
   }
 }

@@ -1,114 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-22T12:27:49.063150+00:00",
-      "gameId": "ncaaf-sdsu-tol",
-      "matchup": "San Diego State vs. Toledo",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -3.0,
-      "modelSpread": -2.0,
-      "modelEdge": -1.0,
-      "sharpSide": "San Diego State",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -2.0,
-      "clv": 1.0,
-      "tickets": 52.0,
-      "handle": 73.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T12:27:49.063150+00:00",
-      "gameId": "ncaaf-nd-pur",
-      "matchup": "Notre Dame vs. Purdue",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 27.5,
-      "modelSpread": 27.5,
-      "modelEdge": 0.0,
-      "sharpSide": "Notre Dame",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 27.5,
-      "clv": 0.0,
-      "tickets": 58.0,
-      "handle": 46.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T12:27:49.063150+00:00",
-      "gameId": "mlb-minnesota-twins-san-francisco-giants",
-      "matchup": "Minnesota Twins vs. San Francisco Giants",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "doggies",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 1.5,
-      "modelSpread": -0.61,
-      "modelEdge": 2.11,
-      "sharpSide": "San Francisco Giants",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 1.5,
-      "clv": 0.0,
-      "tickets": 65.0,
-      "handle": 16.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T12:27:49.063150+00:00",
-      "gameId": "mlb-toronto-blue-jays-baltimore-orioles",
-      "matchup": "Toronto Blue Jays vs. Baltimore Orioles",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "sharp-t1",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 1.5,
-      "modelSpread": -2.33,
-      "modelEdge": 3.83,
-      "sharpSide": "Baltimore Orioles",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -1.5,
-      "clv": -3.0,
-      "tickets": 40.0,
-      "handle": 60.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-22T12:27:49.108543+00:00",
       "gameId": "nfl-2h-buffalo-bills-los-angeles-chargers",
       "matchup": "Buffalo Bills vs. Los Angeles Chargers",
@@ -13905,10 +13797,148 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-07T20:10:13.114825+00:00",
+      "gameId": "ncaaf-iowa-wash",
+      "matchup": "Iowa Hawkeyes vs. Washington Huskies",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -3.5,
+      "modelSpread": 0.2,
+      "modelEdge": -3.7,
+      "sharpSide": "Iowa Hawkeyes",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -2.5,
+      "clv": 1.0,
+      "tickets": 14.0,
+      "handle": 29.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 58,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "98195"
+          ],
+          "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=3&hbhhour=18&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "4",
+        "city": "Seattle"
+      },
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-07T20:10:13.114825+00:00",
+      "gameId": "mlb-chicago-white-sox-cleveland-guardians",
+      "matchup": "Chicago White Sox vs. Cleveland Guardians",
+      "sport": "MLB",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": 1.28,
+      "modelEdge": -2.78,
+      "sharpSide": "Chicago White Sox",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -1.5,
+      "clv": 0.0,
+      "tickets": 80.0,
+      "handle": 68.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-07T20:10:13.335262+00:00",
+      "gameId": "ncaaf-2h-iowa-wash",
+      "matchup": "Iowa Hawkeyes vs. Washington Huskies",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -3.5,
+      "modelSpread": 0.2,
+      "modelEdge": -3.7,
+      "sharpSide": "Iowa Hawkeyes",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 14.0,
+      "handle": 29.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 58,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "98195"
+          ],
+          "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=3&hbhhour=18&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "4",
+        "city": "Seattle"
+      },
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-07T20:10:13.335262+00:00",
+      "gameId": "mlb-2h-chicago-white-sox-cleveland-guardians",
+      "matchup": "Chicago White Sox vs. Cleveland Guardians",
+      "sport": "MLB",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": 1.28,
+      "modelEdge": -2.78,
+      "sharpSide": "Chicago White Sox",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 80.0,
+      "handle": 68.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-07T14:23:47.033923+00:00"
+  "updated": "2026-10-07T20:10:13.335262+00:00"
 }
