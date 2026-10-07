@@ -60,7 +60,7 @@
       "league": "nfl",
       "name": "TB @ DAL",
       "temp": 84,
-      "condition": "5",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -90,7 +90,7 @@
       "league": "nfl",
       "name": "CHI @ GB",
       "temp": 73,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -110,7 +110,7 @@
       "league": "nfl",
       "name": "HOU @ TEN",
       "temp": 71,
-      "condition": "4",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -129,8 +129,8 @@
     {
       "league": "nfl",
       "name": "CIN @ MIA",
-      "temp": 90,
-      "condition": "6",
+      "temp": 91,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -149,8 +149,8 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 66,
-      "condition": "4",
+      "temp": 70,
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -169,7 +169,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 81,
+      "temp": 82,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -189,8 +189,8 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 70,
-      "condition": "3",
+      "temp": 69,
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -209,8 +209,8 @@
     {
       "league": "nfl",
       "name": "IND @ PIT",
-      "temp": 68,
-      "condition": "7",
+      "temp": 67,
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -229,7 +229,7 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 69,
+      "temp": 68,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -249,15 +249,15 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 79,
-      "condition": "4",
+      "temp": 76,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=6&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=5&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -269,15 +269,15 @@
     {
       "league": "nfl",
       "name": "DET @ ARI",
-      "temp": 86,
-      "condition": "6",
+      "temp": 79,
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "85305"
         ],
-        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/hourly-weather-forecast/53536_poi?day=6&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/hourly-weather-forecast/53536_poi?day=5&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -289,7 +289,7 @@
     {
       "league": "nfl",
       "name": "SF @ SEA",
-      "temp": 62,
+      "temp": 59,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -297,7 +297,7 @@
         "rel": [
           "98134"
         ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=6&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=5&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -309,8 +309,8 @@
     {
       "league": "nfl",
       "name": "BAL @ ATL",
-      "temp": 71,
-      "condition": "15",
+      "temp": 69,
+      "condition": "35",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -329,7 +329,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 72,
+      "temp": 68,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -337,7 +337,7 @@
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=7&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=6&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -349,7 +349,7 @@
     {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
-      "temp": 60,
+      "temp": 58,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -357,7 +357,7 @@
         "rel": [
           "98195"
         ],
-        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=4&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=3&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -369,8 +369,8 @@
     {
       "league": "ncaaf",
       "name": "ISU @ BYU",
-      "temp": 75,
-      "condition": "38",
+      "temp": 71,
+      "condition": "35",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -410,7 +410,7 @@
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
       "temp": 76,
-      "condition": "3",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -429,7 +429,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ OKST",
-      "temp": 79,
+      "temp": 78,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -450,7 +450,7 @@
       "league": "ncaaf",
       "name": "UNC @ PITT",
       "temp": 68,
-      "condition": "2",
+      "condition": "5",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -469,8 +469,8 @@
     {
       "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 82,
-      "condition": "15",
+      "temp": 84,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -489,7 +489,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 88,
+      "temp": 89,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -529,7 +529,7 @@
     {
       "league": "ncaaf",
       "name": "MISS @ VAN",
-      "temp": 79,
+      "temp": 72,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -550,14 +550,14 @@
       "league": "ncaaf",
       "name": "UCLA @ ORE",
       "temp": 57,
-      "condition": "4",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "97401"
         ],
-        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=5&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=4&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -569,7 +569,7 @@
     {
       "league": "ncaaf",
       "name": "HOU @ KSU",
-      "temp": 83,
+      "temp": 84,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -590,7 +590,7 @@
       "league": "ncaaf",
       "name": "MD @ OSU",
       "temp": 75,
-      "condition": "4",
+      "condition": "5",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -610,7 +610,7 @@
       "league": "ncaaf",
       "name": "TENN @ ARK",
       "temp": 88,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -629,8 +629,8 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 71,
-      "condition": "4",
+      "temp": 68,
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -649,7 +649,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 72,
+      "temp": 68,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -669,8 +669,8 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 64,
-      "condition": "36",
+      "temp": 65,
+      "condition": "37",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -689,8 +689,8 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 66,
-      "condition": "38",
+      "temp": 68,
+      "condition": "36",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -709,7 +709,7 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 83,
+      "temp": 81,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -717,7 +717,7 @@
         "rel": [
           "93710"
         ],
-        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=5&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=4&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -10089,7 +10089,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2488,
-    "gameFiles": 2375
+    "splitsKeys": 2501,
+    "gameFiles": 2388
   }
 }
