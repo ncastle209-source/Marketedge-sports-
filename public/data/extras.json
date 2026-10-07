@@ -1,82 +1,58 @@
 {
   "umpires": [
     {
-      "eventId": "849819",
-      "home": "Atlanta Braves",
-      "away": "Los Angeles Dodgers",
-      "plateUmpire": "James Hoye",
-      "crew": [
-        {
-          "name": "James Hoye",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Tripp Gibson",
-          "type": "First Base"
-        },
-        {
-          "name": "Jim Wolf",
-          "type": "Second Base"
-        },
-        {
-          "name": "Mike Estabrook",
-          "type": "Third Base"
-        },
-        {
-          "name": "Roberto Ortiz",
-          "type": "Left Field"
-        },
-        {
-          "name": "Chris Guccione",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "eventId": "849833",
+      "home": "Chicago White Sox",
+      "away": "Cleveland Guardians",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     },
     {
-      "eventId": "849826",
+      "eventId": "849822",
+      "home": "Atlanta Braves",
+      "away": "Los Angeles Dodgers",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849838",
+      "home": "New York Yankees",
+      "away": "Tampa Bay Rays",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849827",
       "home": "San Diego Padres",
       "away": "Milwaukee Brewers",
-      "plateUmpire": "Alfonso M\u00e1rquez",
-      "crew": [
-        {
-          "name": "Alfonso M\u00e1rquez",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Nic Lentz",
-          "type": "First Base"
-        },
-        {
-          "name": "Quinn Wolcott",
-          "type": "Second Base"
-        },
-        {
-          "name": "Brennan Miller",
-          "type": "Third Base"
-        },
-        {
-          "name": "Nick Mahrley",
-          "type": "Left Field"
-        },
-        {
-          "name": "Lance Barrett",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849819,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849819"
+      "gamePk": 849833,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849833"
     },
     {
-      "gamePk": 849826,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849826"
+      "gamePk": 849822,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849822"
+    },
+    {
+      "gamePk": 849838,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849838"
+    },
+    {
+      "gamePk": 849827,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849827"
     }
   ],
   "weather": [
@@ -243,7 +219,7 @@
     {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
-      "temp": 61,
+      "temp": 60,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -323,7 +299,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ OKST",
-      "temp": 78,
+      "temp": 79,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -343,7 +319,7 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 66,
+      "temp": 68,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -363,7 +339,7 @@
     {
       "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 81,
+      "temp": 82,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -383,7 +359,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 86,
+      "temp": 88,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -403,7 +379,7 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 76,
+      "temp": 78,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -424,7 +400,7 @@
       "league": "ncaaf",
       "name": "MISS @ VAN",
       "temp": 79,
-      "condition": "4",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -443,7 +419,7 @@
     {
       "league": "ncaaf",
       "name": "UCLA @ ORE",
-      "temp": 59,
+      "temp": 57,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -523,7 +499,7 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 72,
+      "temp": 71,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -543,7 +519,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 71,
+      "temp": 72,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -563,7 +539,7 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 63,
+      "temp": 64,
       "condition": "36",
       "gust": null,
       "wind": {
@@ -583,7 +559,7 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 67,
+      "temp": 66,
       "condition": "38",
       "gust": null,
       "wind": {
@@ -603,8 +579,8 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 86,
-      "condition": "33",
+      "temp": 83,
+      "condition": "34",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -623,15 +599,15 @@
     {
       "league": "mlb",
       "name": "LAD @ ATL",
-      "temp": 75,
-      "condition": "2",
+      "temp": 70,
+      "condition": "Clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "30339"
         ],
-        "href": "http://www.accuweather.com/en/us/truist-park-ga/30303/hourly-weather-forecast/196689_poi?day=1&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/truist-park-ga/30303/current-weather/196689_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -643,7 +619,7 @@
     {
       "league": "mlb",
       "name": "MIL @ SD",
-      "temp": 87,
+      "temp": 89,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -665,15 +641,21 @@
     "nfl": [
       {
         "team": null,
-        "player": "Kenny Yeboah",
+        "player": "Paris Johnson Jr.",
+        "status": "Injured Reserve",
+        "detail": "The Cardinals placed Johnson (biceps) on injured reserve Tuesday."
+      },
+      {
+        "team": null,
+        "player": "Teagan Quitoriano",
         "status": "Active",
-        "detail": ""
+        "detail": "The Cardinals signed Quitoriano from the practice squad to the active roster Tuesday."
       },
       {
         "team": null,
         "player": "Hunter Long",
         "status": "Injured Reserve",
-        "detail": "ir"
+        "detail": "The Cardinals placed Long (knee) on injured reserve Tuesday."
       },
       {
         "team": null,
@@ -692,12 +674,6 @@
         "player": "Kendrick Bourne",
         "status": "Active",
         "detail": "Bourne wasn't targeted in Sunday's 36-24 loss to the Giants."
-      },
-      {
-        "team": null,
-        "player": "Paris Johnson Jr.",
-        "status": "Injured Reserve",
-        "detail": "Johnson (biceps) has been ruled out for the remainder of the 2026 season, Dani Sureck of the Cardinals' official site reports."
       },
       {
         "team": null,
@@ -812,6 +788,30 @@
         "player": "Mack Wilson Sr.",
         "status": "Active",
         "detail": "Wilson (thumb) was a full participant at the Cardinals' practice Thursday, Bo Brack of GoPHNX.com reports."
+      },
+      {
+        "team": null,
+        "player": "Austin Hooper",
+        "status": "Active",
+        "detail": "Hooper caught his only target for nine yards during Monday's 45-24 win at New Orleans."
+      },
+      {
+        "team": null,
+        "player": "Zachariah Branch",
+        "status": "Active",
+        "detail": "Branch caught both of his targets for 10 yards while also adding 65 kickoff-return yards and 25 yards as a punt returner during Monday night's 45-24 win over the Saints."
+      },
+      {
+        "team": null,
+        "player": "Olamide Zaccheaus",
+        "status": "Active",
+        "detail": "Zaccheaus failed to haul in his lone target during the Falcons' 45-24 win over the Saints on Monday."
+      },
+      {
+        "team": null,
+        "player": "Jahan Dotson",
+        "status": "Active",
+        "detail": "Dotson caught two of three passes for 54 yards and a touchdown during the Falcons' 45-24 win over the Saints on Monday."
       },
       {
         "team": null,
@@ -938,30 +938,6 @@
         "player": "Xavier Watts",
         "status": "Active",
         "detail": "Watts recorded five tackles (three solo) and one interception during Thursday's 35-14 win over the Packers."
-      },
-      {
-        "team": null,
-        "player": "Austin Hooper",
-        "status": "Active",
-        "detail": "Hooper caught both of his targets for 11 yards and a touchdown during Atlanta's 35-14 win over Green Bay on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Zachariah Branch",
-        "status": "Active",
-        "detail": "Branch caught one pass on two targets for seven yards while logging an 18-yard punt return and a 22-yard kickoff return during the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Olamide Zaccheaus",
-        "status": "Active",
-        "detail": "Zaccheaus brought in both of his targets for nine yards and returned one punt for four yards during the Falcons' 35-14 win over the Packers on Thursday."
-      },
-      {
-        "team": null,
-        "player": "Jahan Dotson",
-        "status": "Active",
-        "detail": "Dotson caught one pass on three targets for 11 yards during the Falcons' 35-14 win over the Packers on Thursday."
       },
       {
         "team": null,
@@ -1763,9 +1739,15 @@
       },
       {
         "team": null,
+        "player": "Jewell Loyd",
+        "status": "Day-To-Day",
+        "detail": "Loyd (leg) is listed as doubtful for Game 2 of the semifinals versus Golden State on Wednesday."
+      },
+      {
+        "team": null,
         "player": "Dana Evans",
         "status": "Out",
-        "detail": "Evans (knee) is listed as doubtful for Wednesday's Game 2 of the WNBA semifinals against the Valkyries."
+        "detail": "Evans (knee) has been upgraded to questionable for Wednesday's Game 2 matchup with the Valkyries, Alexa Philippou of ESPN.com reports."
       },
       {
         "team": null,
@@ -1944,7 +1926,7 @@
     ]
   },
   "closeArchive": {
-    "count": 384
+    "count": 385
   },
   "nflverse": [
     {
@@ -9890,18 +9872,32 @@
   },
   "pitchers": [
     {
-      "eventId": "849819",
-      "homeTeam": "Atlanta Braves",
-      "homePitcher": "Chris Sale",
-      "awayTeam": "Los Angeles Dodgers",
-      "awayPitcher": "Yoshinobu Yamamoto"
+      "eventId": "849833",
+      "homeTeam": "Chicago White Sox",
+      "homePitcher": "Sean Newcomb",
+      "awayTeam": "Cleveland Guardians",
+      "awayPitcher": "Daniel Espino"
     },
     {
-      "eventId": "849826",
+      "eventId": "849822",
+      "homeTeam": "Atlanta Braves",
+      "homePitcher": "Tyler Mahle",
+      "awayTeam": "Los Angeles Dodgers",
+      "awayPitcher": "Tyler Glasnow"
+    },
+    {
+      "eventId": "849838",
+      "homeTeam": "New York Yankees",
+      "homePitcher": "Max Fried",
+      "awayTeam": "Tampa Bay Rays",
+      "awayPitcher": "Nick Martinez"
+    },
+    {
+      "eventId": "849827",
       "homeTeam": "San Diego Padres",
-      "homePitcher": "Nick Pivetta",
+      "homePitcher": null,
       "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": "Dustin May"
+      "awayPitcher": null
     }
   ],
   "tennis": {
