@@ -70,7 +70,7 @@
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 68,
+      "temp": 66,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -110,7 +110,7 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 66,
+      "temp": 67,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -171,7 +171,7 @@
       "league": "nfl",
       "name": "IND @ PIT",
       "temp": 63,
-      "condition": "7",
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -190,7 +190,7 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 65,
+      "temp": 66,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -210,7 +210,7 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 72,
+      "temp": 71,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -290,8 +290,8 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 69,
-      "condition": "6",
+      "temp": 70,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -310,7 +310,7 @@
     {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
-      "temp": 58,
+      "temp": 57,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -370,7 +370,7 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 76,
+      "temp": 75,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -410,7 +410,7 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 68,
+      "temp": 67,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -450,7 +450,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 88,
+      "temp": 89,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -490,7 +490,7 @@
     {
       "league": "ncaaf",
       "name": "MISS @ VAN",
-      "temp": 69,
+      "temp": 68,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -510,7 +510,7 @@
     {
       "league": "ncaaf",
       "name": "UCLA @ ORE",
-      "temp": 53,
+      "temp": 54,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -550,7 +550,7 @@
     {
       "league": "ncaaf",
       "name": "MD @ OSU",
-      "temp": 74,
+      "temp": 75,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -590,8 +590,8 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 63,
-      "condition": "18",
+      "temp": 64,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -630,7 +630,7 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 62,
+      "temp": 63,
       "condition": "37",
       "gust": null,
       "wind": {
@@ -650,8 +650,8 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 69,
-      "condition": "7",
+      "temp": 68,
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -690,42 +690,22 @@
     {
       "league": "mlb",
       "name": "CLE @ CHW",
-      "temp": null,
-      "condition": null,
+      "temp": 67,
+      "condition": "34",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "60616"
+        ],
+        "href": "http://www.accuweather.com/en/us/rate-field-il/60608/hourly-weather-forecast/18118_poi?day=1&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Chicago",
       "state": "Illinois"
-    },
-    {
-      "league": "mlb",
-      "name": "LAD @ ATL",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Atlanta",
-      "state": "Georgia"
-    },
-    {
-      "league": "mlb",
-      "name": "TB @ NYY",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Bronx",
-      "state": "New York"
-    },
-    {
-      "league": "mlb",
-      "name": "MIL @ SD",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "San Diego",
-      "state": "California"
     }
   ],
   "injuries": {
@@ -746,7 +726,7 @@
         "team": null,
         "player": "Isaiah Adams",
         "status": "Out",
-        "detail": "Adams (ankle) won't play in Sunday's game against Detroit, Darren Urban of the Cardinals' official site reports."
+        "detail": "Cardinals head coach Mike LaFleur said that Adams (ankle) won't play in Sunday's game against Detroit, Darren Urban of the Cardinals' official site reports."
       },
       {
         "team": null,
@@ -882,6 +862,30 @@
       },
       {
         "team": null,
+        "player": "Divine Deablo",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Samson Ebukam",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Cameron Thomas",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Michael Jerrell",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
         "player": "C.J. Henderson",
         "status": "Active",
         "detail": "Henderson recorded 10 tackles (nine solo), a pass defensed, a forced fumble and a fumble recovery during Monday's 45-24 win at New Orleans."
@@ -891,18 +895,6 @@
         "player": "Harold Perkins Jr.",
         "status": "Active",
         "detail": "Perkins recorded 10 tackles (seven solo) including 0.5 sacks and a pass defensed during Monday's 45-24 win at New Orleans."
-      },
-      {
-        "team": null,
-        "player": "Cameron Thomas",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Michael Jerrell",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -1014,18 +1006,6 @@
       },
       {
         "team": null,
-        "player": "Samson Ebukam",
-        "status": "Active",
-        "detail": "Ebukam (hamstring) is active for Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Divine Deablo",
-        "status": "Active",
-        "detail": "Deablo (hamstring) is active for Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Cooper Rush",
         "status": "Active",
         "detail": "Rush (coach's decision) is inactive for Thursday's game against the Saints but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
@@ -1035,6 +1015,12 @@
         "player": "Chris Moore",
         "status": "Questionable",
         "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (ankle) remained absent from practice Thursday, Sam Cohn of the Baltimore Sun reports."
       },
       {
         "team": null,
@@ -1074,15 +1060,9 @@
       },
       {
         "team": null,
-        "player": "Lamar Jackson",
-        "status": "Questionable",
-        "detail": "The Ravens listed Jackson (ankle) as a non-participant in Wednesday's practice."
-      },
-      {
-        "team": null,
         "player": "Zay Flowers",
         "status": "Questionable",
-        "detail": "Flowers (foot) was limited in Wednesday's practice."
+        "detail": "Flowers was a limited participant in Wednesday's practice due to a foot injury."
       },
       {
         "team": null,
@@ -1182,6 +1162,12 @@
       },
       {
         "team": null,
+        "player": "DJ Moore",
+        "status": "Questionable",
+        "detail": "Moore (shoulder) was not participating during the media viewing period of Thursday's practice,  Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
+      },
+      {
+        "team": null,
         "player": "Greg Rousseau",
         "status": "Active",
         "detail": "Rousseau logged four tackles (two solo) and two passes defensed in the Bills' 29-26 loss to the Patriots on Sunday."
@@ -1203,12 +1189,6 @@
         "player": "Ty Johnson",
         "status": "Active",
         "detail": "Johnson rushed once for three yards and caught both of his targets for nine yards Sunday in a loss to New England."
-      },
-      {
-        "team": null,
-        "player": "Dawson Knox",
-        "status": "Active",
-        "detail": "Knox caught both of his targets for 13 yards in the Bills' 29-26 loss to the Patriots on Sunday."
       }
     ],
     "ncaaf": [
@@ -10009,29 +9989,24 @@
   "wnbaRest": {
     "events": [
       {
-        "name": "NY @ ATL",
-        "start": "2026-10-07T23:30Z",
-        "id": "401918297"
+        "name": "ATL @ NY",
+        "start": "2026-10-09T23:30Z",
+        "id": "401918299"
       },
       {
-        "name": "LV @ GS",
-        "start": "2026-10-08T01:30Z",
-        "id": "401918298"
+        "name": "GS @ LV",
+        "start": "2026-10-10T01:30Z",
+        "id": "401918300"
       }
     ],
     "rest": [
-      {
-        "team": "Atlanta Dream",
-        "gamesOnBoard": 1,
-        "backToBackLikely": false
-      },
       {
         "team": "New York Liberty",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       },
       {
-        "team": "Golden State Valkyries",
+        "team": "Atlanta Dream",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       },
@@ -10039,11 +10014,16 @@
         "team": "Las Vegas Aces",
         "gamesOnBoard": 1,
         "backToBackLikely": false
+      },
+      {
+        "team": "Golden State Valkyries",
+        "gamesOnBoard": 1,
+        "backToBackLikely": false
       }
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2531,
-    "gameFiles": 2418
+    "splitsKeys": 2541,
+    "gameFiles": 2428
   }
 }
