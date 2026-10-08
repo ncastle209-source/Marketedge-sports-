@@ -32,7 +32,7 @@
       "source": "actionnetwork",
       "sport": "mlb",
       "ok": true,
-      "count": 4
+      "count": 0
     },
     {
       "source": "actionnetwork",
@@ -50,11 +50,11 @@
       "source": "actionnetwork",
       "sport": "wnba",
       "ok": true,
-      "count": 2
+      "count": 0
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 89
+      "filled_this_step": 78
     },
     {
       "source": "covers",
@@ -128,7 +128,7 @@
       "source": "vegasinsider",
       "sport": "nfl",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "source": "vegasinsider",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 89,
-  "still_missing": 547,
-  "spreads": 89
+  "filled": 78,
+  "still_missing": 564,
+  "spreads": 78
 }
