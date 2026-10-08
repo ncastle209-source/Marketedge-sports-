@@ -2,60 +2,6 @@
   "plays": [
     {
       "at": "2026-09-22T12:27:49.108543+00:00",
-      "gameId": "ncaaf-2h-sdsu-tol",
-      "matchup": "San Diego State vs. Toledo",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -3.0,
-      "modelSpread": -2.0,
-      "modelEdge": -1.0,
-      "sharpSide": "San Diego State",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 52.0,
-      "handle": 73.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T12:27:49.108543+00:00",
-      "gameId": "ncaaf-2h-nd-pur",
-      "matchup": "Notre Dame vs. Purdue",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 27.5,
-      "modelSpread": 27.5,
-      "modelEdge": 0.0,
-      "sharpSide": "Notre Dame",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 58.0,
-      "handle": 46.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T12:27:49.108543+00:00",
       "gameId": "mlb-2h-minnesota-twins-san-francisco-giants",
       "matchup": "Minnesota Twins vs. San Francisco Giants",
       "sport": "MLB",
@@ -13935,10 +13881,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-08T14:02:00.455771+00:00",
+      "gameId": "ncaaf-uab-mem",
+      "matchup": "UAB Blazers vs. Memphis Tigers",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -14.5,
+      "modelSpread": -19.1,
+      "modelEdge": 4.6,
+      "sharpSide": "Memphis Tigers",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -15.5,
+      "clv": -1.0,
+      "tickets": 65.0,
+      "handle": 68.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-08T14:02:00.704543+00:00",
+      "gameId": "ncaaf-2h-uab-mem",
+      "matchup": "UAB Blazers vs. Memphis Tigers",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -14.5,
+      "modelSpread": -19.1,
+      "modelEdge": 4.6,
+      "sharpSide": "Memphis Tigers",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 65.0,
+      "handle": 68.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-08T06:33:35.116139+00:00"
+  "updated": "2026-10-08T14:02:00.704543+00:00"
 }
