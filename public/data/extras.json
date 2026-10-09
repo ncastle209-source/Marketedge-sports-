@@ -1,34 +1,19 @@
 {
-  "umpires": [
-    {
-      "eventId": "849832",
-      "home": "Chicago White Sox",
-      "away": "Cleveland Guardians",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
-    }
-  ],
-  "savant": [
-    {
-      "gamePk": 849832,
-      "status": "S",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849832"
-    }
-  ],
+  "umpires": [],
+  "savant": [],
   "weather": [
     {
       "league": "nfl",
       "name": "TB @ DAL",
       "temp": 85,
-      "condition": "2",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "76011"
         ],
-        "href": "http://www.accuweather.com/en/us/at-t-stadium-tx/76010/hourly-weather-forecast/53644_poi?day=1&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/at-t-stadium-tx/76010/current-weather/53644_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -70,7 +55,7 @@
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 66,
+      "temp": 68,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -110,7 +95,7 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 67,
+      "temp": 63,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -130,7 +115,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 81,
+      "temp": 82,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -150,7 +135,7 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 68,
+      "temp": 66,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -190,7 +175,7 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 66,
+      "temp": 63,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -210,7 +195,7 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 71,
+      "temp": 75,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -230,7 +215,7 @@
     {
       "league": "nfl",
       "name": "DET @ ARI",
-      "temp": 89,
+      "temp": 84,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -270,7 +255,7 @@
     {
       "league": "nfl",
       "name": "BAL @ ATL",
-      "temp": 67,
+      "temp": 64,
       "condition": "36",
       "gust": null,
       "wind": {
@@ -290,7 +275,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 70,
+      "temp": 69,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -350,7 +335,7 @@
     {
       "league": "ncaaf",
       "name": "IU @ NEB",
-      "temp": 74,
+      "temp": 75,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -370,7 +355,7 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 75,
+      "temp": 76,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -390,7 +375,7 @@
     {
       "league": "ncaaf",
       "name": "UCF @ OKST",
-      "temp": 79,
+      "temp": 80,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -410,7 +395,7 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 67,
+      "temp": 68,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -430,7 +415,7 @@
     {
       "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 85,
+      "temp": 84,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -450,7 +435,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 89,
+      "temp": 91,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -470,7 +455,7 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 79,
+      "temp": 77,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -490,7 +475,7 @@
     {
       "league": "ncaaf",
       "name": "MISS @ VAN",
-      "temp": 68,
+      "temp": 66,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -510,7 +495,7 @@
     {
       "league": "ncaaf",
       "name": "UCLA @ ORE",
-      "temp": 54,
+      "temp": 55,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -550,7 +535,7 @@
     {
       "league": "ncaaf",
       "name": "MD @ OSU",
-      "temp": 75,
+      "temp": 74,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -590,7 +575,7 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 64,
+      "temp": 61,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -610,7 +595,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 70,
+      "temp": 68,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -630,7 +615,7 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 63,
+      "temp": 62,
       "condition": "37",
       "gust": null,
       "wind": {
@@ -650,7 +635,7 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 68,
+      "temp": 66,
       "condition": "12",
       "gust": null,
       "wind": {
@@ -670,7 +655,7 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 79,
+      "temp": 77,
       "condition": "38",
       "gust": null,
       "wind": {
@@ -690,15 +675,15 @@
     {
       "league": "mlb",
       "name": "CLE @ CHW",
-      "temp": 67,
-      "condition": "34",
+      "temp": 60,
+      "condition": "Mostly clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "60616"
         ],
-        "href": "http://www.accuweather.com/en/us/rate-field-il/60608/hourly-weather-forecast/18118_poi?day=1&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rate-field-il/60608/current-weather/18118_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -710,6 +695,24 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Walter Nolen III",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Karson Sharar",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Questionable",
+        "detail": "Love (ankle) stayed limited at Thursday's practice, Tyler Drake of ArizonaSports.com reports."
+      },
       {
         "team": null,
         "player": "Dadrion Taylor-Demerson",
@@ -727,12 +730,6 @@
         "player": "Isaiah Adams",
         "status": "Out",
         "detail": "Cardinals head coach Mike LaFleur said that Adams (ankle) won't play in Sunday's game against Detroit, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Jeremiyah Love",
-        "status": "Questionable",
-        "detail": "Love (ankle) practiced on a limited basis Wednesday, Bo Brack of GoPHNX.com reports."
       },
       {
         "team": null,
@@ -847,18 +844,6 @@
         "player": "Josh Sweat",
         "status": "Active",
         "detail": "Sweat (groin) is active for Sunday's Week 4 clash against the Giants."
-      },
-      {
-        "team": null,
-        "player": "Roy Lopez",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Hjalte Froholdt",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -1013,8 +998,38 @@
       {
         "team": null,
         "player": "Chris Moore",
+        "status": "Active",
+        "detail": "Moore (ankle) was a full participant at the Ravens' practice Thursday."
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
         "status": "Questionable",
-        "detail": "questionable"
+        "detail": "Humphrey (calf/hamstring) did not participate at the Ravens' practice Thursday."
+      },
+      {
+        "team": null,
+        "player": "Rashod Bateman",
+        "status": "Active",
+        "detail": "Bateman (shoulder) was a full participant in Thursday's practice."
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (foot) was limited in practice Thursday."
+      },
+      {
+        "team": null,
+        "player": "Ronnie Stanley",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Kyle Hamilton",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
@@ -1042,27 +1057,9 @@
       },
       {
         "team": null,
-        "player": "Rashod Bateman",
-        "status": "Questionable",
-        "detail": "Bateman (shoulder) was limited in Wednesday's practice."
-      },
-      {
-        "team": null,
         "player": "John Simpson",
         "status": "Questionable",
         "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Kyle Hamilton",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers was a limited participant in Wednesday's practice due to a foot injury."
       },
       {
         "team": null,
@@ -1144,51 +1141,39 @@
       },
       {
         "team": null,
-        "player": "Ronnie Stanley",
-        "status": "Questionable",
-        "detail": "Stanley (toe) was able to complete Sunday's 24-18 win over Tennessee, Jonas Shaffer of TheBaltimoreBanner.com reports."
-      },
-      {
-        "team": null,
-        "player": "Marlon Humphrey",
-        "status": "Questionable",
-        "detail": "Humphrey (calf) has been ruled out for the rest of Sunday's game against the Titans."
-      },
-      {
-        "team": null,
         "player": "Andrew Vorhees",
         "status": "Questionable",
         "detail": "Vorhees (foot) won't return to Sunday's game against the Titans, Brian Wacker of The Baltimore Sun reports."
       },
       {
         "team": null,
-        "player": "DJ Moore",
+        "player": "Landon Jackson",
         "status": "Questionable",
-        "detail": "Moore (shoulder) was not participating during the media viewing period of Thursday's practice,  Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
-      },
-      {
-        "team": null,
-        "player": "Greg Rousseau",
-        "status": "Active",
-        "detail": "Rousseau logged four tackles (two solo) and two passes defensed in the Bills' 29-26 loss to the Patriots on Sunday."
+        "detail": "questionable"
       },
       {
         "team": null,
         "player": "T.J. Sanders",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Christian Benford",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Ty Johnson",
         "status": "Active",
-        "detail": "Johnson rushed once for three yards and caught both of his targets for nine yards Sunday in a loss to New England."
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "DJ Moore",
+        "status": "Questionable",
+        "detail": "Moore (shoulder) didn't practice Thursday."
+      },
+      {
+        "team": null,
+        "player": "Dee Alford",
+        "status": "Questionable",
+        "detail": "Alford (ankle) did not participate at practice Thursday, Lance Lysowski of The Buffalo News reports."
+      },
+      {
+        "team": null,
+        "player": "Ed Oliver",
+        "status": "Questionable",
+        "detail": "Oliver (knee) did not participate at practice Thursday, Lance Lysowski of The Buffalo News reports."
       }
     ],
     "ncaaf": [
@@ -1697,8 +1682,8 @@
       {
         "team": null,
         "player": "Allisha Gray",
-        "status": "Out",
-        "detail": "Gray (finger) is out for Wednesday's Game 2 against the Liberty, per Alexa Philippou of ESPN.com."
+        "status": "Day-To-Day",
+        "detail": "Gray (hand) is listed as questionable for Game 3 of the semifinals against New York on Friday."
       },
       {
         "team": null,
@@ -1811,8 +1796,14 @@
       {
         "team": null,
         "player": "Jewell Loyd",
-        "status": "Out",
-        "detail": "Loyd (leg) is out for Game 2 on Wednesday against the Valkyries."
+        "status": "Day-To-Day",
+        "detail": "Loyd (leg) is questionable for Friday's Game 3 of the semifinals against Golden State."
+      },
+      {
+        "team": null,
+        "player": "Stephanie Talbot",
+        "status": "Day-To-Day",
+        "detail": "day-to-day"
       },
       {
         "team": null,
@@ -1991,7 +1982,7 @@
     ]
   },
   "closeArchive": {
-    "count": 385
+    "count": 386
   },
   "nflverse": [
     {
@@ -9935,15 +9926,7 @@
       }
     ]
   },
-  "pitchers": [
-    {
-      "eventId": "849832",
-      "homeTeam": "Chicago White Sox",
-      "homePitcher": "Hagen Smith",
-      "awayTeam": "Cleveland Guardians",
-      "awayPitcher": "Parker Messick"
-    }
-  ],
+  "pitchers": [],
   "tennis": {
     "atp": {
       "leagueName": "ATP",

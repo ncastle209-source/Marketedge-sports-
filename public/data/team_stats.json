@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-08T19:50:34.180135+00:00",
+  "pulled_at": "2026-10-09T00:15:42.062050+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -778,32 +778,9 @@
     },
     "mlb": {
       "ok": true,
-      "count": 1,
+      "count": 0,
       "source": "statsapi.mlb.com",
-      "games": [
-        {
-          "league": "mlb",
-          "eventId": "849832",
-          "name": "Cleveland Guardians at Chicago White Sox",
-          "status": "Scheduled",
-          "start": "2026-10-09T00:00:00Z",
-          "teams": [
-            {
-              "side": "away",
-              "name": "Cleveland Guardians",
-              "score": null,
-              "record": "1-2"
-            },
-            {
-              "side": "home",
-              "name": "Chicago White Sox",
-              "score": null,
-              "record": "2-1"
-            }
-          ],
-          "source": "statsapi.mlb.com"
-        }
-      ]
+      "games": []
     }
   }
 }
