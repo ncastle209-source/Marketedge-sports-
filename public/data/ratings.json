@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-09T00:15:45.964345+00:00",
+  "pulled_at": "2026-10-09T06:35:55.438823+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -305,16 +305,6 @@
         "rating": -3.9,
         "source": "espn-nfl-diff"
       },
-      "houston-texans": {
-        "name": "Houston Texans",
-        "rating": -2.5,
-        "source": "espn-nfl-diff"
-      },
-      "texans": {
-        "name": "Houston Texans",
-        "rating": -2.5,
-        "source": "espn-nfl-diff"
-      },
       "tennessee-titans": {
         "name": "Tennessee Titans",
         "rating": -2.8,
@@ -323,6 +313,16 @@
       "titans": {
         "name": "Tennessee Titans",
         "rating": -2.8,
+        "source": "espn-nfl-diff"
+      },
+      "houston-texans": {
+        "name": "Houston Texans",
+        "rating": -2.5,
+        "source": "espn-nfl-diff"
+      },
+      "texans": {
+        "name": "Houston Texans",
+        "rating": -2.5,
         "source": "espn-nfl-diff"
       },
       "minnesota-vikings": {
@@ -432,7 +432,7 @@
       },
       "dal": {
         "name": "Dallas Cowboys",
-        "rating": 1.0,
+        "rating": 0.2,
         "source": "espn-nfl-diff"
       },
       "washington-commanders": {
@@ -467,12 +467,12 @@
       },
       "tampa-bay-buccaneers": {
         "name": "Tampa Bay Buccaneers",
-        "rating": -2.0,
+        "rating": -1.2,
         "source": "espn-nfl-diff"
       },
       "buccaneers": {
         "name": "Tampa Bay Buccaneers",
-        "rating": -2.0,
+        "rating": -1.2,
         "source": "espn-nfl-diff"
       }
     },

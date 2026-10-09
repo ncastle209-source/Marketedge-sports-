@@ -5,20 +5,10 @@
     {
       "league": "nfl",
       "name": "TB @ DAL",
-      "temp": 85,
-      "condition": "Sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "76011"
-        ],
-        "href": "http://www.accuweather.com/en/us/at-t-stadium-tx/76010/current-weather/53644_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Arlington",
       "state": "TX"
     },
@@ -43,7 +33,7 @@
         "rel": [
           "54304"
         ],
-        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=4&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=3&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -63,7 +53,7 @@
         "rel": [
           "37213"
         ],
-        "href": "http://www.accuweather.com/en/us/nissan-stadium-tn/37219/hourly-weather-forecast/53638_poi?day=4&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/nissan-stadium-tn/37219/hourly-weather-forecast/53638_poi?day=3&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -83,7 +73,7 @@
         "rel": [
           "33056"
         ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -103,7 +93,7 @@
         "rel": [
           "02035"
         ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -123,7 +113,7 @@
         "rel": [
           "70112"
         ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=4&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=3&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -143,7 +133,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -163,7 +153,7 @@
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -183,7 +173,7 @@
         "rel": [
           "20785"
         ],
-        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -263,7 +253,7 @@
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=4&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=3&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -323,7 +313,7 @@
         "rel": [
           "84604"
         ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=2&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=1&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -343,7 +333,7 @@
         "rel": [
           "68588"
         ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=3&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=2&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -356,14 +346,14 @@
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
       "temp": 76,
-      "condition": "2",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "65203"
         ],
-        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=3&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=2&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -383,7 +373,7 @@
         "rel": [
           "74075"
         ],
-        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/hourly-weather-forecast/53626_poi?day=3&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/hourly-weather-forecast/53626_poi?day=2&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -403,7 +393,7 @@
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=3&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=2&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -423,7 +413,7 @@
         "rel": [
           "32611"
         ],
-        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=3&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=2&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -443,7 +433,7 @@
         "rel": [
           "75210"
         ],
-        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/hourly-weather-forecast/196691_poi?day=3&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/hourly-weather-forecast/196691_poi?day=2&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -456,14 +446,14 @@
       "league": "ncaaf",
       "name": "STAN @ ND",
       "temp": 77,
-      "condition": "2",
+      "condition": "5",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "46556"
         ],
-        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=3&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=2&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -483,7 +473,7 @@
         "rel": [
           "37212"
         ],
-        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/hourly-weather-forecast/53640_poi?day=3&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/hourly-weather-forecast/53640_poi?day=2&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -523,7 +513,7 @@
         "rel": [
           "66502"
         ],
-        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/hourly-weather-forecast/53576_poi?day=3&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/hourly-weather-forecast/53576_poi?day=2&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -543,7 +533,7 @@
         "rel": [
           "43210"
         ],
-        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=3&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=2&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -563,7 +553,7 @@
         "rel": [
           "72701"
         ],
-        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/hourly-weather-forecast/53533_poi?day=3&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/hourly-weather-forecast/53533_poi?day=2&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -583,7 +573,7 @@
         "rel": [
           "40502"
         ],
-        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=3&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=2&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -603,7 +593,7 @@
         "rel": [
           "35401"
         ],
-        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/hourly-weather-forecast/53527_poi?day=3&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/hourly-weather-forecast/53527_poi?day=2&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -623,7 +613,7 @@
         "rel": [
           "16802"
         ],
-        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=3&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=2&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -643,7 +633,7 @@
         "rel": [
           "84112"
         ],
-        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=3&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=2&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -655,7 +645,7 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 77,
+      "temp": 79,
       "condition": "38",
       "gust": null,
       "wind": {
@@ -675,20 +665,10 @@
     {
       "league": "mlb",
       "name": "CLE @ CHW",
-      "temp": 60,
-      "condition": "Mostly clear",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "60616"
-        ],
-        "href": "http://www.accuweather.com/en/us/rate-field-il/60608/current-weather/18118_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Chicago",
       "state": "Illinois"
     }
@@ -847,6 +827,12 @@
       },
       {
         "team": null,
+        "player": "Jake Matthews",
+        "status": "Questionable",
+        "detail": "Matthews (groin) was limited during Thursday's practice, Tori McElhaney of the team's official site reports."
+      },
+      {
+        "team": null,
         "player": "Divine Deablo",
         "status": "Questionable",
         "detail": "questionable"
@@ -976,12 +962,6 @@
         "player": "Bijan Robinson",
         "status": "Active",
         "detail": "Robinson rushed 19 times for 145 yards and two touchdowns and brought in one of two targets for two yards in the Falcons' 45-24 win over the Saints on Monday night."
-      },
-      {
-        "team": null,
-        "player": "Jake Matthews",
-        "status": "Questionable",
-        "detail": "Matthews (groin) has been downgraded to out for the rest of Monday's game against the Saints, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -1147,21 +1127,21 @@
       },
       {
         "team": null,
+        "player": "T.J. Sanders",
+        "status": "Active",
+        "detail": "Sanders (appendix) practiced in full Thursday."
+      },
+      {
+        "team": null,
+        "player": "Christian Benford",
+        "status": "Questionable",
+        "detail": "Benford (toe) practiced in a limited capacity Thursday."
+      },
+      {
+        "team": null,
         "player": "Landon Jackson",
         "status": "Questionable",
         "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "T.J. Sanders",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "DJ Moore",
-        "status": "Questionable",
-        "detail": "Moore (shoulder) didn't practice Thursday."
       },
       {
         "team": null,
@@ -1795,15 +1775,15 @@
       },
       {
         "team": null,
-        "player": "Jewell Loyd",
+        "player": "Stephanie Talbot",
         "status": "Day-To-Day",
-        "detail": "Loyd (leg) is questionable for Friday's Game 3 of the semifinals against Golden State."
+        "detail": "Talbot (leg) is listed as questionable for Game 3 of the semifinals against the Valkyries on Friday."
       },
       {
         "team": null,
-        "player": "Stephanie Talbot",
+        "player": "Jewell Loyd",
         "status": "Day-To-Day",
-        "detail": "day-to-day"
+        "detail": "Loyd (leg) is questionable for Friday's Game 3 of the semifinals against Golden State."
       },
       {
         "team": null,
