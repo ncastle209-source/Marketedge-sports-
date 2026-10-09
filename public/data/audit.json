@@ -2,60 +2,6 @@
   "plays": [
     {
       "at": "2026-09-22T23:14:51.449959+00:00",
-      "gameId": "nfl-phi-chicago-bears",
-      "matchup": "Philadelphia Eagles vs. Chicago Bears",
-      "sport": "NFL",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": 4.5,
-      "modelSpread": null,
-      "modelEdge": 0.0,
-      "sharpSide": "Philadelphia Eagles",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": 4.5,
-      "clv": 0.0,
-      "tickets": 38.0,
-      "handle": 19.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.449959+00:00",
-      "gameId": "nfl-los-angeles-rams-denver-broncos",
-      "matchup": "Los Angeles Rams vs. Denver Broncos",
-      "sport": "NFL",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": 2.5,
-      "modelSpread": null,
-      "modelEdge": 0.0,
-      "sharpSide": "Los Angeles Rams",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": 2.5,
-      "clv": 0.0,
-      "tickets": 39.0,
-      "handle": 26.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.449959+00:00",
       "gameId": "ncaaf-clem-cal",
       "matchup": "Clemson Tigers vs. California Golden Bears",
       "sport": "NCAAF",
@@ -13939,10 +13885,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-09T19:43:08.549809+00:00",
+      "gameId": "ncaaf-cmu-ohio",
+      "matchup": "Central Michigan Chippewas vs. Ohio Bobcats",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -3.0,
+      "modelSpread": -10.7,
+      "modelEdge": 7.7,
+      "sharpSide": "Ohio Bobcats",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -3.5,
+      "clv": -0.5,
+      "tickets": 55.0,
+      "handle": 41.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-09T19:43:08.796495+00:00",
+      "gameId": "ncaaf-2h-cmu-ohio",
+      "matchup": "Central Michigan Chippewas vs. Ohio Bobcats",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -3.0,
+      "modelSpread": -10.7,
+      "modelEdge": 7.7,
+      "sharpSide": "Ohio Bobcats",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 55.0,
+      "handle": 41.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-09T14:15:47.880990+00:00"
+  "updated": "2026-10-09T19:43:08.796495+00:00"
 }
