@@ -45,7 +45,7 @@
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 67,
+      "temp": 68,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -105,7 +105,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 82,
+      "temp": 83,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -125,7 +125,7 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 66,
+      "temp": 63,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -145,7 +145,7 @@
     {
       "league": "nfl",
       "name": "IND @ PIT",
-      "temp": 65,
+      "temp": 64,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -165,7 +165,7 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 64,
+      "temp": 63,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -185,7 +185,7 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 75,
+      "temp": 74,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -205,7 +205,7 @@
     {
       "league": "nfl",
       "name": "DET @ ARI",
-      "temp": 88,
+      "temp": 83,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -265,7 +265,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 67,
+      "temp": 69,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -285,8 +285,8 @@
     {
       "league": "ncaaf",
       "name": "IOWA @ WASH",
-      "temp": 53,
-      "condition": "3",
+      "temp": 52,
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -305,7 +305,7 @@
     {
       "league": "ncaaf",
       "name": "ISU @ BYU",
-      "temp": 74,
+      "temp": 76,
       "condition": "38",
       "gust": null,
       "wind": {
@@ -345,7 +345,7 @@
     {
       "league": "ncaaf",
       "name": "TA&M @ MIZ",
-      "temp": 75,
+      "temp": 76,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -425,7 +425,7 @@
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 90,
+      "temp": 92,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -445,7 +445,7 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 75,
+      "temp": 76,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -465,7 +465,7 @@
     {
       "league": "ncaaf",
       "name": "MISS @ VAN",
-      "temp": 67,
+      "temp": 65,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -525,7 +525,7 @@
     {
       "league": "ncaaf",
       "name": "MD @ OSU",
-      "temp": 73,
+      "temp": 72,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -545,7 +545,7 @@
     {
       "league": "ncaaf",
       "name": "TENN @ ARK",
-      "temp": 87,
+      "temp": 89,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -565,7 +565,7 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 61,
+      "temp": 62,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -585,7 +585,7 @@
     {
       "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 67,
+      "temp": 65,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -605,7 +605,7 @@
     {
       "league": "ncaaf",
       "name": "USC @ PSU",
-      "temp": 62,
+      "temp": 61,
       "condition": "37",
       "gust": null,
       "wind": {
@@ -645,7 +645,7 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 78,
+      "temp": 77,
       "condition": "35",
       "gust": null,
       "wind": {
@@ -689,13 +689,19 @@
         "team": null,
         "player": "Andrew Wingard",
         "status": "Out",
-        "detail": "out"
+        "detail": "Wingard (knee) has been ruled out for Sunday's game against the Lions, Bo Brack of GoPHNX.com reports."
+      },
+      {
+        "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
         "player": "Jeremiyah Love",
-        "status": "Questionable",
-        "detail": "Head coach Mike LaFleur said Friday that Love (ankle) is \"trending in the right direction\" ahead of Sunday's game against the Lions, Tyler Drake of ArizonaSports.com reports."
+        "status": "Active",
+        "detail": "Love (ankle) doesn't have a designation for Sunday's contest versus the Lions, Theo Mackie of The Arizona Republic reports."
       },
       {
         "team": null,
@@ -708,12 +714,6 @@
         "player": "Karson Sharar",
         "status": "Questionable",
         "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Dadrion Taylor-Demerson",
-        "status": "Questionable",
-        "detail": "Taylor-Demerson (back) was limited in Wednesday's practice, Bo Brack of GoPHNX.com reports."
       },
       {
         "team": null,
@@ -837,6 +837,12 @@
       },
       {
         "team": null,
+        "player": "Divine Deablo",
+        "status": "Questionable",
+        "detail": "Deablo (hamstring) is listed as questionable ahead of Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
+      },
+      {
+        "team": null,
         "player": "Yasir Abdullah",
         "status": "Out",
         "detail": "out"
@@ -846,12 +852,6 @@
         "player": "Jake Matthews",
         "status": "Questionable",
         "detail": "Matthews (groin) was limited during Thursday's practice, Tori McElhaney of the team's official site reports."
-      },
-      {
-        "team": null,
-        "player": "Divine Deablo",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -987,6 +987,30 @@
       },
       {
         "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (foot) is listed as questionable for Sunday night's game against the Falcons."
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "John Simpson",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Cam Jurgens",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
         "player": "Ja'Kobi Lane",
         "status": "Injured Reserve",
         "detail": "Ravens coach Jesse Minter said Friday that Lane (wrist) is \"doing really well\" and \"has put himself in a great position to be ready to roll when the time permits.\""
@@ -1023,12 +1047,6 @@
       },
       {
         "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (foot) was limited in practice Thursday."
-      },
-      {
-        "team": null,
         "player": "Ronnie Stanley",
         "status": "Active",
         "detail": ""
@@ -1047,27 +1065,9 @@
       },
       {
         "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Questionable",
-        "detail": "Hendrickson (finger) did not practice Wednesday, Brian Wacker of The Baltimore Sun reports."
-      },
-      {
-        "team": null,
         "player": "Nick Vannett",
         "status": "Active",
         "detail": "The Ravens signed Vannett to the active roster off their practice squad Wednesday."
-      },
-      {
-        "team": null,
-        "player": "John Simpson",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Cam Jurgens",
-        "status": "Questionable",
-        "detail": "The Ravens acquired Jurgens (concussion) and a 2027 seventh-round pick from the Eagles on Wednesday in exchange for a 2027 fifth-round pick and a 2028 second-round pick, Jamison Hensley of ESPN.com reports."
       },
       {
         "team": null,
@@ -1139,7 +1139,7 @@
         "team": null,
         "player": "DJ Moore",
         "status": "Questionable",
-        "detail": "Moore (shoulder) was not on the field for the start of Friday's practice open to the media, Joe Buscaglia of The Athletic reports."
+        "detail": "Moore (shoulder) remained a non-participant in Friday's practice for the Bills."
       },
       {
         "team": null,
@@ -1672,8 +1672,8 @@
       {
         "team": null,
         "player": "Allisha Gray",
-        "status": "Day-To-Day",
-        "detail": "Gray (hand) is a game-time call ahead of Friday's Game 3 against New York, according to WNBA reporter Kareem Copeland."
+        "status": "Out",
+        "detail": "Gray (hand) is out for Friday's Game 3 of the semifinals against New York."
       },
       {
         "team": null,
@@ -1782,18 +1782,6 @@
         "player": "Tyasha Harris",
         "status": "Out",
         "detail": "Harris (leg) will miss the rest of the season, WNBA reporter Kareem Copeland reports."
-      },
-      {
-        "team": null,
-        "player": "Stephanie Talbot",
-        "status": "Day-To-Day",
-        "detail": "Talbot (leg) has been upgraded to probable for Friday's Game 3 of the semifinals against the Valkyries."
-      },
-      {
-        "team": null,
-        "player": "Jewell Loyd",
-        "status": "Day-To-Day",
-        "detail": "Loyd (leg) is questionable for Friday's Game 3 of the semifinals against Golden State."
       },
       {
         "team": null,
