@@ -1,6 +1,21 @@
 {
-  "umpires": [],
-  "savant": [],
+  "umpires": [
+    {
+      "eventId": "849831",
+      "home": "Cleveland Guardians",
+      "away": "Chicago White Sox",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    }
+  ],
+  "savant": [
+    {
+      "gamePk": 849831,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849831"
+    }
+  ],
   "weather": [
     {
       "league": "nfl",
@@ -73,7 +88,7 @@
         "rel": [
           "33056"
         ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -93,7 +108,7 @@
         "rel": [
           "02035"
         ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -133,7 +148,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -153,7 +168,7 @@
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -173,7 +188,7 @@
         "rel": [
           "20785"
         ],
-        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -253,7 +268,7 @@
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=3&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=2&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -284,36 +299,16 @@
     },
     {
       "league": "ncaaf",
-      "name": "IOWA @ WASH",
-      "temp": 52,
-      "condition": "12",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "98195"
-        ],
-        "href": "http://www.accuweather.com/en/us/alaska-airlines-field-at-husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Seattle",
-      "state": "WA"
-    },
-    {
-      "league": "ncaaf",
       "name": "ISU @ BYU",
-      "temp": 76,
-      "condition": "38",
+      "temp": 73,
+      "condition": "Light rain",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "84604"
         ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=1&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/current-weather/53655_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -393,7 +388,7 @@
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -413,7 +408,7 @@
         "rel": [
           "32611"
         ],
-        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -453,7 +448,7 @@
         "rel": [
           "46556"
         ],
-        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=2&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=1&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -533,7 +528,7 @@
         "rel": [
           "43210"
         ],
-        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=2&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=1&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -573,7 +568,7 @@
         "rel": [
           "40502"
         ],
-        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=2&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=1&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -613,7 +608,7 @@
         "rel": [
           "16802"
         ],
-        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=2&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=1&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -625,7 +620,7 @@
     {
       "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 65,
+      "temp": 70,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -633,7 +628,7 @@
         "rel": [
           "84112"
         ],
-        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=2&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=2&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -663,28 +658,40 @@
       "state": "CA"
     },
     {
-      "league": "mlb",
-      "name": "CHW @ CLE",
-      "temp": 70,
-      "condition": "34",
+      "league": "ncaaf",
+      "name": "IOWA @ WASH",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "44115"
-        ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=2&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Cleveland",
-      "state": "Ohio"
+      "wind": null,
+      "city": "Seattle",
+      "state": "WA"
+    },
+    {
+      "league": "mlb",
+      "name": "CLE @ CHW",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Chicago",
+      "state": "Illinois"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Walter Nolen III",
+        "status": "Questionable",
+        "detail": "Nolen (calf) is questionable against the Lions on Sunday, Zach Gershman of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Dadrion Taylor-Demerson",
+        "status": "Active",
+        "detail": "Taylor-Demerson (back) does not have an injury designation against the Lions on Sunday, Zach Gershman of the Cardinals' official site reports."
+      },
       {
         "team": null,
         "player": "Andrew Wingard",
@@ -693,21 +700,9 @@
       },
       {
         "team": null,
-        "player": "Dadrion Taylor-Demerson",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Jeremiyah Love",
         "status": "Active",
         "detail": "Love (ankle) doesn't have a designation for Sunday's contest versus the Lions, Theo Mackie of The Arizona Republic reports."
-      },
-      {
-        "team": null,
-        "player": "Walter Nolen III",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -837,21 +832,27 @@
       },
       {
         "team": null,
-        "player": "Divine Deablo",
+        "player": "Jake Matthews",
         "status": "Questionable",
-        "detail": "Deablo (hamstring) is listed as questionable ahead of Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
+        "detail": "Matthews (groin) is questionable for Sunday's game against the Ravens."
       },
       {
         "team": null,
         "player": "Yasir Abdullah",
         "status": "Out",
-        "detail": "out"
+        "detail": "Abdullah (hamstring) has been ruled out for Sunday's game against the Ravens, Will McFadden of the Falcons' official site reports."
       },
       {
         "team": null,
-        "player": "Jake Matthews",
+        "player": "Za'Darius Smith",
         "status": "Questionable",
-        "detail": "Matthews (groin) was limited during Thursday's practice, Tori McElhaney of the team's official site reports."
+        "detail": "Smith (concussion/neck) is listed as questionable for Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
+      },
+      {
+        "team": null,
+        "player": "Divine Deablo",
+        "status": "Questionable",
+        "detail": "Deablo (hamstring) is listed as questionable ahead of Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
       },
       {
         "team": null,
@@ -975,15 +976,27 @@
       },
       {
         "team": null,
-        "player": "Za'Darius Smith",
-        "status": "Questionable",
-        "detail": "Smith (concussion) has been ruled out for the remainder of Monday night's game against the Saints, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Cooper Rush",
         "status": "Active",
         "detail": "Rush (coach's decision) is inactive for Thursday's game against the Saints but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Cam Jurgens",
+        "status": "Out",
+        "detail": "Jurgens (concussion) has been ruled out ahead of Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
+        "status": "Questionable",
+        "detail": "Humphrey (calf/hamstring) is listed as questionable for Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Out",
+        "detail": "Hendrickson (finger) has been ruled out ahead of Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
       },
       {
         "team": null,
@@ -993,21 +1006,9 @@
       },
       {
         "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Out",
-        "detail": "out"
-      },
-      {
-        "team": null,
         "player": "John Simpson",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Cam Jurgens",
-        "status": "Out",
-        "detail": "out"
       },
       {
         "team": null,
@@ -1032,12 +1033,6 @@
         "player": "Chris Moore",
         "status": "Active",
         "detail": "Moore (ankle) was a full participant at the Ravens' practice Thursday."
-      },
-      {
-        "team": null,
-        "player": "Marlon Humphrey",
-        "status": "Questionable",
-        "detail": "Humphrey (calf/hamstring) did not participate at the Ravens' practice Thursday."
       },
       {
         "team": null,
@@ -1447,6 +1442,12 @@
       },
       {
         "team": null,
+        "player": "Garrett Whitlock",
+        "status": "Out",
+        "detail": "Whitlock allowed a walk in a scoreless and hitless inning to earn the save in Thursday's 4-3 win over the Rangers."
+      },
+      {
+        "team": null,
         "player": "Roman Anthony",
         "status": "Out",
         "detail": "Red Sox chief baseball officer Craig Breslow said Monday that Anthony is not expected to require surgery on his injured right hand, Chris Cotillo of MassLive.com reports."
@@ -1660,12 +1661,6 @@
         "player": "Hunter Greene",
         "status": "60-Day-IL",
         "detail": "Greene (elbow) will be out for 12-to-18 months after undergoing his second Tommy John surgery Wednesday, Gordon Wittenmyer of The Cincinnati Enquirer reports."
-      },
-      {
-        "team": null,
-        "player": "Colin Holderman",
-        "status": "15-Day-IL",
-        "detail": "Holderman will undergo season-ending surgery on his right wrist, Zack Meisel of The Athletic reports."
       }
     ],
     "wnba": [
@@ -9904,7 +9899,15 @@
       }
     ]
   },
-  "pitchers": [],
+  "pitchers": [
+    {
+      "eventId": "849831",
+      "homeTeam": "Cleveland Guardians",
+      "homePitcher": "Gavin Williams",
+      "awayTeam": "Chicago White Sox",
+      "awayPitcher": "Sean Burke"
+    }
+  ],
   "tennis": {
     "atp": {
       "leagueName": "ATP",
@@ -9948,7 +9951,7 @@
           "name": "Dongfeng Voyah Wuhan Open",
           "surface": null,
           "venue": null,
-          "status": "Scheduled"
+          "status": "Retired"
         }
       ]
     }
