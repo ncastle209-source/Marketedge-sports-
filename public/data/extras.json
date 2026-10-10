@@ -31,7 +31,7 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "Warmup"
     }
   ],
   "savant": [
@@ -85,7 +85,7 @@
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 66,
+      "temp": 67,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -105,7 +105,7 @@
     {
       "league": "nfl",
       "name": "CIN @ MIA",
-      "temp": 92,
+      "temp": 93,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -125,7 +125,7 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 63,
+      "temp": 61,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -145,7 +145,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 82,
+      "temp": 81,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -165,7 +165,7 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 62,
+      "temp": 60,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -185,7 +185,7 @@
     {
       "league": "nfl",
       "name": "IND @ PIT",
-      "temp": 63,
+      "temp": 61,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -225,7 +225,7 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 73,
+      "temp": 72,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -265,7 +265,7 @@
     {
       "league": "nfl",
       "name": "SF @ SEA",
-      "temp": 58,
+      "temp": 57,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -285,7 +285,7 @@
     {
       "league": "nfl",
       "name": "BAL @ ATL",
-      "temp": 63,
+      "temp": 64,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -305,7 +305,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 68,
+      "temp": 67,
       "condition": "13",
       "gust": null,
       "wind": {
@@ -324,123 +324,73 @@
     },
     {
       "league": "ncaaf",
-      "name": "SC @ FLA",
-      "temp": 87,
-      "condition": "Thunderstorm",
+      "name": "LSU @ UK",
+      "temp": 59,
+      "condition": "Mostly clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "32611"
+          "40502"
         ],
-        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/current-weather/53550_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/current-weather/53578_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Gainesville",
-      "state": "FL"
+      "city": "Lexington",
+      "state": "KY"
+    },
+    {
+      "league": "ncaaf",
+      "name": "USC @ PSU",
+      "temp": 61,
+      "condition": "Mostly cloudy",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "16802"
+        ],
+        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/current-weather/53631_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "University Park",
+      "state": "PA"
     },
     {
       "league": "ncaaf",
       "name": "TEX VS OU",
-      "temp": 91,
-      "condition": "Sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "75210"
-        ],
-        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/current-weather/196691_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Dallas",
       "state": "TX"
     },
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 76,
-      "condition": "Mostly cloudy",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "46556"
-        ],
-        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/current-weather/53573_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Notre Dame",
       "state": "IN"
     },
     {
       "league": "ncaaf",
-      "name": "MISS @ VAN",
-      "temp": 64,
-      "condition": "Cloudy",
+      "name": "MD @ OSU",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "37212"
-        ],
-        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/current-weather/53640_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Nashville",
-      "state": "TN"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UCLA @ ORE",
-      "temp": 57,
-      "condition": "A shower",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "97401"
-        ],
-        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/current-weather/53629_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Eugene",
-      "state": "OR"
-    },
-    {
-      "league": "ncaaf",
-      "name": "HOU @ KSU",
-      "temp": 88,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "66502"
-        ],
-        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/current-weather/53576_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Manhattan",
-      "state": "KS"
+      "wind": null,
+      "city": "Columbus",
+      "state": "OH"
     },
     {
       "league": "ncaaf",
@@ -454,6 +404,26 @@
     },
     {
       "league": "ncaaf",
+      "name": "MISS @ VAN",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UCLA @ ORE",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Eugene",
+      "state": "OR"
+    },
+    {
+      "league": "ncaaf",
       "name": "TA&M @ MIZ",
       "temp": null,
       "condition": null,
@@ -461,6 +431,26 @@
       "wind": null,
       "city": "Columbia",
       "state": "MO"
+    },
+    {
+      "league": "ncaaf",
+      "name": "TENN @ ARK",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Fayetteville",
+      "state": "AR"
+    },
+    {
+      "league": "ncaaf",
+      "name": "SC @ FLA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Gainesville",
+      "state": "FL"
     },
     {
       "league": "ncaaf",
@@ -474,6 +464,16 @@
     },
     {
       "league": "ncaaf",
+      "name": "HOU @ KSU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Manhattan",
+      "state": "KS"
+    },
+    {
+      "league": "ncaaf",
       "name": "UNC @ PITT",
       "temp": null,
       "condition": null,
@@ -484,76 +484,16 @@
     },
     {
       "league": "ncaaf",
-      "name": "MD @ OSU",
-      "temp": 68,
-      "condition": "A shower",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "43210"
-        ],
-        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/current-weather/53621_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Columbus",
-      "state": "OH"
-    },
-    {
-      "league": "ncaaf",
-      "name": "TENN @ ARK",
-      "temp": 88,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "72701"
-        ],
-        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/current-weather/53533_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Fayetteville",
-      "state": "AR"
-    },
-    {
-      "league": "ncaaf",
-      "name": "LSU @ UK",
-      "temp": 61,
-      "condition": "18",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "40502"
-        ],
-        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/hourly-weather-forecast/53578_poi?day=1&hbhhour=19&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Lexington",
-      "state": "KY"
-    },
-    {
-      "league": "ncaaf",
       "name": "UGA @ ALA",
-      "temp": 64,
-      "condition": "7",
+      "temp": 62,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "35401"
         ],
-        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/hourly-weather-forecast/53527_poi?day=1&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/current-weather/53527_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -564,28 +504,8 @@
     },
     {
       "league": "ncaaf",
-      "name": "USC @ PSU",
-      "temp": 62,
-      "condition": "38",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "16802"
-        ],
-        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=1&hbhhour=19&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "University Park",
-      "state": "PA"
-    },
-    {
-      "league": "ncaaf",
       "name": "KU @ UTAH",
-      "temp": 68,
+      "temp": 71,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -646,7 +566,7 @@
       "league": "mlb",
       "name": "CHW @ CLE",
       "temp": 69,
-      "condition": "35",
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -665,6 +585,12 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Isaiah Adams",
+        "status": "Injured Reserve",
+        "detail": "ir"
+      },
       {
         "team": null,
         "player": "Marvin Harrison Jr.",
@@ -700,12 +626,6 @@
         "player": "Karson Sharar",
         "status": "Questionable",
         "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Isaiah Adams",
-        "status": "Out",
-        "detail": "Cardinals head coach Mike LaFleur said that Adams (ankle) won't play in Sunday's game against Detroit, Darren Urban of the Cardinals' official site reports."
       },
       {
         "team": null,
@@ -817,20 +737,20 @@
       },
       {
         "team": null,
+        "player": "Yasir Abdullah",
+        "status": "Injured Reserve",
+        "detail": "ir"
+      },
+      {
+        "team": null,
         "player": "Jake Matthews",
         "status": "Questionable",
         "detail": "Matthews (groin) is questionable for Sunday's game against the Ravens."
       },
       {
         "team": null,
-        "player": "Yasir Abdullah",
-        "status": "Out",
-        "detail": "Abdullah (hamstring) has been ruled out for Sunday's game against the Ravens, Will McFadden of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Za'Darius Smith",
-        "status": "Questionable",
+        "status": "Out",
         "detail": "Smith (concussion/neck) is listed as questionable for Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
       },
       {
