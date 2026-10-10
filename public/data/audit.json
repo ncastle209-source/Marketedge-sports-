@@ -1,60 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-22T23:14:51.449959+00:00",
-      "gameId": "wnba-toronto-tempo-chicago-sky",
-      "matchup": "Toronto Tempo vs. Chicago Sky",
-      "sport": "WNBA",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -5.5,
-      "modelSpread": -5.5,
-      "modelEdge": 0.0,
-      "sharpSide": "Toronto Tempo",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -5.5,
-      "clv": 0.0,
-      "tickets": 53.0,
-      "handle": 41.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.573747+00:00",
-      "gameId": "nfl-2h-new-york-jets-detroit-lions",
-      "matchup": "New York Jets vs. Detroit Lions",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "doggies",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": -6.5,
-      "modelSpread": null,
-      "modelEdge": 0.0,
-      "sharpSide": "New York Jets",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 69.0,
-      "handle": 54.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-22T23:14:51.573747+00:00",
       "gameId": "nfl-2h-los-angeles-chargers-buffalo-bills",
       "matchup": "Los Angeles Chargers vs. Buffalo Bills",
@@ -13999,10 +13945,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-10T16:17:26.194890+00:00",
+      "gameId": "ncaaf-duke-gt",
+      "matchup": "Duke Blue Devils vs. Georgia Tech Yellow Jackets",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 4.5,
+      "modelSpread": 7.8,
+      "modelEdge": -3.3,
+      "sharpSide": "Duke Blue Devils",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 6.5,
+      "clv": 2.0,
+      "tickets": 79.0,
+      "handle": 70.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-10T16:17:26.445797+00:00",
+      "gameId": "ncaaf-2h-duke-gt",
+      "matchup": "Duke Blue Devils vs. Georgia Tech Yellow Jackets",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 4.5,
+      "modelSpread": 7.8,
+      "modelEdge": -3.3,
+      "sharpSide": "Duke Blue Devils",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 79.0,
+      "handle": 70.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-10T11:05:23.813211+00:00"
+  "updated": "2026-10-10T16:17:26.445797+00:00"
 }

@@ -61,7 +61,7 @@
       "league": "nfl",
       "name": "HOU @ TEN",
       "temp": 66,
-      "condition": "18",
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -80,7 +80,7 @@
     {
       "league": "nfl",
       "name": "CIN @ MIA",
-      "temp": 91,
+      "temp": 92,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -100,7 +100,7 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 62,
+      "temp": 63,
       "condition": "5",
       "gust": null,
       "wind": {
@@ -140,7 +140,7 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 61,
+      "temp": 62,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -160,7 +160,7 @@
     {
       "league": "nfl",
       "name": "IND @ PIT",
-      "temp": 64,
+      "temp": 63,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -180,7 +180,7 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 63,
+      "temp": 64,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -200,7 +200,7 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 71,
+      "temp": 73,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -220,8 +220,8 @@
     {
       "league": "nfl",
       "name": "DET @ ARI",
-      "temp": 77,
-      "condition": "16",
+      "temp": 88,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -280,7 +280,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 67,
+      "temp": 68,
       "condition": "13",
       "gust": null,
       "wind": {
@@ -299,36 +299,16 @@
     },
     {
       "league": "ncaaf",
-      "name": "IU @ NEB",
-      "temp": 77,
-      "condition": "1",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "68588"
-        ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=1&hbhhour=11&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Lincoln",
-      "state": "NE"
-    },
-    {
-      "league": "ncaaf",
       "name": "TA&M @ MIZ",
       "temp": 76,
-      "condition": "3",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "65203"
         ],
-        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/hourly-weather-forecast/53597_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/current-weather/53597_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -340,15 +320,15 @@
     {
       "league": "ncaaf",
       "name": "UCF @ OKST",
-      "temp": 81,
-      "condition": "1",
+      "temp": 80,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "74075"
         ],
-        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/hourly-weather-forecast/53626_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/current-weather/53626_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -360,15 +340,15 @@
     {
       "league": "ncaaf",
       "name": "UNC @ PITT",
-      "temp": 67,
-      "condition": "5",
+      "temp": 65,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/current-weather/53633_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -379,9 +359,29 @@
     },
     {
       "league": "ncaaf",
+      "name": "IU @ NEB",
+      "temp": 77,
+      "condition": "Sunny",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "68588"
+        ],
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/current-weather/53607_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Lincoln",
+      "state": "NE"
+    },
+    {
+      "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 85,
-      "condition": "7",
+      "temp": 82,
+      "condition": "15",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -421,7 +421,7 @@
       "league": "ncaaf",
       "name": "STAN @ ND",
       "temp": 77,
-      "condition": "5",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -501,7 +501,7 @@
       "league": "ncaaf",
       "name": "MD @ OSU",
       "temp": 71,
-      "condition": "5",
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -581,7 +581,7 @@
       "league": "ncaaf",
       "name": "USC @ PSU",
       "temp": 62,
-      "condition": "37",
+      "condition": "38",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -620,7 +620,7 @@
     {
       "league": "ncaaf",
       "name": "BOIS @ FRES",
-      "temp": 79,
+      "temp": 80,
       "condition": "35",
       "gust": null,
       "wind": {
@@ -659,17 +659,33 @@
     },
     {
       "league": "mlb",
-      "name": "CLE @ CHW",
-      "temp": null,
-      "condition": null,
+      "name": "CHW @ CLE",
+      "temp": 69,
+      "condition": "35",
       "gust": null,
-      "wind": null,
-      "city": "Chicago",
-      "state": "Illinois"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Cleveland",
+      "state": "Ohio"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Marvin Harrison Jr.",
+        "status": "Out",
+        "detail": "A trade for Harrison will not be completed \"until after Sunday's games are played,\" but the Cardinals \"feel comfortable enough\" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports."
+      },
       {
         "team": null,
         "player": "Walter Nolen III",
@@ -789,12 +805,6 @@
         "player": "Tyler Allgeier",
         "status": "Active",
         "detail": "Allgeier rushed eight times for 42 yards and a touchdown in Sunday's 36-24 loss to the Giants. He added two catches for seven yards on two targets."
-      },
-      {
-        "team": null,
-        "player": "Marvin Harrison Jr.",
-        "status": "Active",
-        "detail": "Harrison caught one of four targets for 12 yards and a touchdown in Sunday's 36-24 loss to the Giants."
       },
       {
         "team": null,
@@ -1010,7 +1020,7 @@
         "team": null,
         "player": "Tyler Huntley",
         "status": "Active",
-        "detail": "Huntley will start Sunday night's game against the Falcons after Lamar Jackson (ankle) was ruled out Friday, Jeff Zrebiec of The Athletic Zrebiec reports."
+        "detail": "Huntley will start Sunday night's game against the Falcons after Lamar Jackson (ankle) was ruled out Friday, Jeff Zrebiec of The Athletic reports."
       },
       {
         "team": null,
@@ -1122,6 +1132,18 @@
       },
       {
         "team": null,
+        "player": "Joshua Palmer",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Landon Jackson",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
         "player": "DJ Moore",
         "status": "Questionable",
         "detail": "Moore (shoulder) remained a non-participant in Friday's practice for the Bills."
@@ -1137,18 +1159,6 @@
         "player": "Christian Benford",
         "status": "Questionable",
         "detail": "Benford (toe) practiced in a limited capacity Thursday."
-      },
-      {
-        "team": null,
-        "player": "Landon Jackson",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Dee Alford",
-        "status": "Questionable",
-        "detail": "Alford (ankle) did not participate at practice Thursday, Lance Lysowski of The Buffalo News reports."
       }
     ],
     "ncaaf": [
@@ -9949,19 +9959,14 @@
   "wnbaRest": {
     "events": [
       {
-        "name": "ATL @ NY",
-        "start": "2026-10-09T23:30Z",
-        "id": "401918299"
-      },
-      {
-        "name": "GS @ LV",
-        "start": "2026-10-10T01:30Z",
-        "id": "401918300"
+        "name": "ATL @ GS",
+        "start": "2026-10-17T19:30Z",
+        "id": "401918305"
       }
     ],
     "rest": [
       {
-        "team": "New York Liberty",
+        "team": "Golden State Valkyries",
         "gamesOnBoard": 1,
         "backToBackLikely": false
       },
@@ -9969,21 +9974,11 @@
         "team": "Atlanta Dream",
         "gamesOnBoard": 1,
         "backToBackLikely": false
-      },
-      {
-        "team": "Las Vegas Aces",
-        "gamesOnBoard": 1,
-        "backToBackLikely": false
-      },
-      {
-        "team": "Golden State Valkyries",
-        "gamesOnBoard": 1,
-        "backToBackLikely": false
       }
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2549,
-    "gameFiles": 2436
+    "splitsKeys": 2560,
+    "gameFiles": 2447
   }
 }
