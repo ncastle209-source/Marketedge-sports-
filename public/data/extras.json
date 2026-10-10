@@ -4,15 +4,40 @@
       "eventId": "849831",
       "home": "Cleveland Guardians",
       "away": "Chicago White Sox",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Vic Carapazza",
+      "crew": [
+        {
+          "name": "Vic Carapazza",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Tom Hanahan",
+          "type": "First Base"
+        },
+        {
+          "name": "Cory Blaser",
+          "type": "Second Base"
+        },
+        {
+          "name": "Gabe Morales",
+          "type": "Third Base"
+        },
+        {
+          "name": "Todd Tichenor",
+          "type": "Left Field"
+        },
+        {
+          "name": "Jansen Visconti",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849831,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849831"
     }
   ],
@@ -299,96 +324,16 @@
     },
     {
       "league": "ncaaf",
-      "name": "TA&M @ MIZ",
-      "temp": 76,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "65203"
-        ],
-        "href": "http://www.accuweather.com/en/us/faurot-field-at-memorial-stadium-mo/65201/current-weather/53597_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Columbia",
-      "state": "MO"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UCF @ OKST",
-      "temp": 80,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "74075"
-        ],
-        "href": "http://www.accuweather.com/en/us/boone-pickens-stadium-ok/74074/current-weather/53626_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Stillwater",
-      "state": "OK"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UNC @ PITT",
-      "temp": 65,
-      "condition": "Mostly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "15212"
-        ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/current-weather/53633_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Pittsburgh",
-      "state": "PA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "IU @ NEB",
-      "temp": 77,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "68588"
-        ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-ne/68510/current-weather/53607_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Lincoln",
-      "state": "NE"
-    },
-    {
-      "league": "ncaaf",
       "name": "SC @ FLA",
-      "temp": 82,
-      "condition": "15",
+      "temp": 87,
+      "condition": "Thunderstorm",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "32611"
         ],
-        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/hourly-weather-forecast/53550_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ben-hill-griffin-stadium-fl/32601/current-weather/53550_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -401,14 +346,14 @@
       "league": "ncaaf",
       "name": "TEX VS OU",
       "temp": 91,
-      "condition": "1",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "75210"
         ],
-        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/hourly-weather-forecast/196691_poi?day=1&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/cotton-bowl-tx/75201/current-weather/196691_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -420,15 +365,15 @@
     {
       "league": "ncaaf",
       "name": "STAN @ ND",
-      "temp": 77,
-      "condition": "2",
+      "temp": 76,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "46556"
         ],
-        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/hourly-weather-forecast/53573_poi?day=1&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/notre-dame-stadium-in/46637/current-weather/53573_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -440,15 +385,15 @@
     {
       "league": "ncaaf",
       "name": "MISS @ VAN",
-      "temp": 63,
-      "condition": "18",
+      "temp": 64,
+      "condition": "Cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "37212"
         ],
-        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/hourly-weather-forecast/53640_poi?day=1&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/firstbank-stadium-tn/37219/current-weather/53640_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -460,15 +405,15 @@
     {
       "league": "ncaaf",
       "name": "UCLA @ ORE",
-      "temp": 56,
-      "condition": "4",
+      "temp": 57,
+      "condition": "A shower",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "97401"
         ],
-        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/hourly-weather-forecast/53629_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/autzen-stadium-or/97401/current-weather/53629_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -480,15 +425,15 @@
     {
       "league": "ncaaf",
       "name": "HOU @ KSU",
-      "temp": 87,
-      "condition": "1",
+      "temp": 88,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "66502"
         ],
-        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/hourly-weather-forecast/53576_poi?day=1&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/bill-snyder-family-stadium-ks/66502/current-weather/53576_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -499,16 +444,56 @@
     },
     {
       "league": "ncaaf",
+      "name": "IU @ NEB",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Lincoln",
+      "state": "NE"
+    },
+    {
+      "league": "ncaaf",
+      "name": "TA&M @ MIZ",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Columbia",
+      "state": "MO"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UCF @ OKST",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Stillwater",
+      "state": "OK"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UNC @ PITT",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Pittsburgh",
+      "state": "PA"
+    },
+    {
+      "league": "ncaaf",
       "name": "MD @ OSU",
-      "temp": 71,
-      "condition": "4",
+      "temp": 68,
+      "condition": "A shower",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "43210"
         ],
-        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=1&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/ohio-stadium-oh/43215/current-weather/53621_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -521,14 +506,14 @@
       "league": "ncaaf",
       "name": "TENN @ ARK",
       "temp": 88,
-      "condition": "1",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "72701"
         ],
-        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/hourly-weather-forecast/53533_poi?day=1&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/donald-w-reynolds-razorback-stadium-ar/72701/current-weather/53533_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -540,7 +525,7 @@
     {
       "league": "ncaaf",
       "name": "LSU @ UK",
-      "temp": 60,
+      "temp": 61,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -1132,33 +1117,33 @@
       },
       {
         "team": null,
-        "player": "Joshua Palmer",
+        "player": "Christian Benford",
+        "status": "Active",
+        "detail": "Benford (toe) does not carry an injury designation into Monday night's game against the Rams, Joe Buscaglia of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "Dee Alford",
         "status": "Questionable",
-        "detail": "questionable"
+        "detail": "Alford (ankle) is listed as questionable for Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "Ed Oliver",
+        "status": "Out",
+        "detail": "Oliver (knee) has been ruled out ahead of Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "Skyler Bell",
+        "status": "Active",
+        "detail": "Bell will make his NFL regular-season debut against the Rams on Monday due to the absence of Joshua Palmer (shoulder), Cameron Wolfe of NFL Network reports."
       },
       {
         "team": null,
         "player": "Landon Jackson",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "DJ Moore",
         "status": "Questionable",
-        "detail": "Moore (shoulder) remained a non-participant in Friday's practice for the Bills."
-      },
-      {
-        "team": null,
-        "player": "T.J. Sanders",
-        "status": "Active",
-        "detail": "Sanders (appendix) practiced in full Thursday."
-      },
-      {
-        "team": null,
-        "player": "Christian Benford",
-        "status": "Questionable",
-        "detail": "Benford (toe) practiced in a limited capacity Thursday."
+        "detail": "questionable"
       }
     ],
     "ncaaf": [

@@ -2,60 +2,6 @@
   "plays": [
     {
       "at": "2026-09-22T23:14:51.573747+00:00",
-      "gameId": "nfl-2h-los-angeles-chargers-buffalo-bills",
-      "matchup": "Los Angeles Chargers vs. Buffalo Bills",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "doggies",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": -7.0,
-      "modelSpread": null,
-      "modelEdge": 0.0,
-      "sharpSide": "Los Angeles Chargers",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 73.0,
-      "handle": 60.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.573747+00:00",
-      "gameId": "nfl-2h-new-england-patriots-jacksonville-jaguars",
-      "matchup": "New England Patriots vs. Jacksonville Jaguars",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": -3.0,
-      "modelSpread": null,
-      "modelEdge": 0.0,
-      "sharpSide": "New England Patriots",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 34.0,
-      "handle": 50.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.573747+00:00",
       "gameId": "nfl-2h-atlanta-falcons-green-bay-packers",
       "matchup": "Atlanta Falcons vs. Green Bay Packers",
       "sport": "NFL",
@@ -13999,10 +13945,94 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-10T20:19:14.290394+00:00",
+      "gameId": "ncaaf-psu-usc",
+      "matchup": "Penn State vs. Usc Trojans",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 1.5,
+      "modelSpread": -3.4,
+      "modelEdge": 4.9,
+      "sharpSide": "Usc Trojans",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 1.5,
+      "clv": 0.0,
+      "tickets": 29.0,
+      "handle": 73.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 62,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "16802"
+          ],
+          "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=1&hbhhour=19&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "38",
+        "city": "University Park"
+      },
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-10T20:19:14.547124+00:00",
+      "gameId": "ncaaf-2h-psu-usc",
+      "matchup": "Penn State vs. Usc Trojans",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 1.5,
+      "modelSpread": -3.4,
+      "modelEdge": 4.9,
+      "sharpSide": "Usc Trojans",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 29.0,
+      "handle": 73.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 62,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "16802"
+          ],
+          "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/hourly-weather-forecast/53631_poi?day=1&hbhhour=19&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "38",
+        "city": "University Park"
+      },
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-10T16:17:26.445797+00:00"
+  "updated": "2026-10-10T20:19:14.547124+00:00"
 }
