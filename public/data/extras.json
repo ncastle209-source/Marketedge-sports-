@@ -30,7 +30,7 @@
     {
       "league": "nfl",
       "name": "CHI @ GB",
-      "temp": 72,
+      "temp": 74,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -38,7 +38,7 @@
         "rel": [
           "54304"
         ],
-        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -50,7 +50,7 @@
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 67,
+      "temp": 65,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -58,7 +58,7 @@
         "rel": [
           "37213"
         ],
-        "href": "http://www.accuweather.com/en/us/nissan-stadium-tn/37219/hourly-weather-forecast/53638_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/nissan-stadium-tn/37219/hourly-weather-forecast/53638_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -70,7 +70,7 @@
     {
       "league": "nfl",
       "name": "CIN @ MIA",
-      "temp": 93,
+      "temp": 91,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -90,8 +90,8 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 61,
-      "condition": "6",
+      "temp": 59,
+      "condition": "7",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -110,7 +110,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 81,
+      "temp": 82,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -118,7 +118,7 @@
         "rel": [
           "70112"
         ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=2&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=1&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -130,7 +130,7 @@
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 60,
+      "temp": 61,
       "condition": "18",
       "gust": null,
       "wind": {
@@ -170,7 +170,7 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 64,
+      "temp": 63,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -190,15 +190,15 @@
     {
       "league": "nfl",
       "name": "DEN @ LAC",
-      "temp": 72,
-      "condition": "6",
+      "temp": 70,
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -210,7 +210,7 @@
     {
       "league": "nfl",
       "name": "DET @ ARI",
-      "temp": 88,
+      "temp": 87,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -218,7 +218,7 @@
         "rel": [
           "85305"
         ],
-        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/hourly-weather-forecast/53536_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/hourly-weather-forecast/53536_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -231,14 +231,14 @@
       "league": "nfl",
       "name": "SF @ SEA",
       "temp": 57,
-      "condition": "2",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "98134"
         ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -250,7 +250,7 @@
     {
       "league": "nfl",
       "name": "BAL @ ATL",
-      "temp": 64,
+      "temp": 65,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -281,40 +281,20 @@
       "league": "nfl",
       "name": "BUF @ LAR",
       "temp": 67,
-      "condition": "13",
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=3&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=2&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
       "city": "Inglewood",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "BOIS @ FRES",
-      "temp": 72,
-      "condition": "Partly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "93710"
-        ],
-        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/current-weather/53537_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Fresno",
       "state": "CA"
     },
     {
@@ -486,6 +466,16 @@
       "wind": null,
       "city": "Manhattan",
       "state": "KS"
+    },
+    {
+      "league": "ncaaf",
+      "name": "BOIS @ FRES",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Fresno",
+      "state": "CA"
     },
     {
       "league": "ncaaf",
@@ -1785,7 +1775,7 @@
     ]
   },
   "closeArchive": {
-    "count": 387
+    "count": 430
   },
   "nflverse": [
     {
@@ -9782,6 +9772,24 @@
           "surface": null,
           "venue": null,
           "status": "Retired"
+        },
+        {
+          "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        },
+        {
+          "name": "RoveretOpen Citt\u00e0 della Pace",
+          "surface": null,
+          "venue": null,
+          "status": "Final"
+        },
+        {
+          "name": "Lisboa Belem Open",
+          "surface": null,
+          "venue": null,
+          "status": "In Progress"
         }
       ]
     }
@@ -9808,7 +9816,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2585,
-    "gameFiles": 2472
+    "splitsKeys": 2622,
+    "gameFiles": 2509
   }
 }

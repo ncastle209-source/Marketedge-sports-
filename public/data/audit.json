@@ -2,60 +2,6 @@
   "plays": [
     {
       "at": "2026-09-22T23:14:51.573747+00:00",
-      "gameId": "nfl-2h-atlanta-falcons-green-bay-packers",
-      "matchup": "Atlanta Falcons vs. Green Bay Packers",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": -6.0,
-      "modelSpread": null,
-      "modelEdge": 2.5,
-      "sharpSide": "Green Bay Packers",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 58.0,
-      "handle": 46.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.573747+00:00",
-      "gameId": "nfl-2h-phi-chicago-bears",
-      "matchup": "Philadelphia Eagles vs. Chicago Bears",
-      "sport": "NFL",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": 4.5,
-      "modelSpread": null,
-      "modelEdge": 0.0,
-      "sharpSide": "Philadelphia Eagles",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 38.0,
-      "handle": 19.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-22T23:14:51.573747+00:00",
       "gameId": "nfl-2h-los-angeles-rams-denver-broncos",
       "matchup": "Los Angeles Rams vs. Denver Broncos",
       "sport": "NFL",
@@ -14029,10 +13975,64 @@
       },
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-11T11:20:46.936190+00:00",
+      "gameId": "mlb-lad-milwaukee-brewers",
+      "matchup": "Los Angeles Dodgers vs. Milwaukee Brewers",
+      "sport": "MLB",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 1.5,
+      "modelSpread": -2.3,
+      "modelEdge": 3.8,
+      "sharpSide": "Milwaukee Brewers",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 1.5,
+      "clv": 0.0,
+      "tickets": 59.0,
+      "handle": 73.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-11T11:20:47.198882+00:00",
+      "gameId": "mlb-2h-lad-milwaukee-brewers",
+      "matchup": "Los Angeles Dodgers vs. Milwaukee Brewers",
+      "sport": "MLB",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 1.5,
+      "modelSpread": -2.3,
+      "modelEdge": 3.8,
+      "sharpSide": "Milwaukee Brewers",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 59.0,
+      "handle": 73.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-11T04:38:24.597781+00:00"
+  "updated": "2026-10-11T11:20:47.198882+00:00"
 }
