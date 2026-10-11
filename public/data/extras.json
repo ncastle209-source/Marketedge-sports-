@@ -4,19 +4,104 @@
       "eventId": "849809",
       "home": "Milwaukee Brewers",
       "away": "Los Angeles Dodgers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Edwin Moscoso",
+      "crew": [
+        {
+          "name": "Edwin Moscoso",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Mark Wegner",
+          "type": "First Base"
+        },
+        {
+          "name": "Ryan Additon",
+          "type": "Second Base"
+        },
+        {
+          "name": "Alan Porter",
+          "type": "Third Base"
+        },
+        {
+          "name": "David Rackley",
+          "type": "Left Field"
+        },
+        {
+          "name": "John Tumpane",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849809,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849809"
     }
   ],
   "weather": [
+    {
+      "league": "nfl",
+      "name": "DEN @ LAC",
+      "temp": 71,
+      "condition": "Mostly cloudy",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "90301"
+        ],
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/current-weather/209205_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Inglewood",
+      "state": "CA"
+    },
+    {
+      "league": "nfl",
+      "name": "DET @ ARI",
+      "temp": 81,
+      "condition": "Cloudy",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "85305"
+        ],
+        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/current-weather/53536_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Glendale",
+      "state": "AZ"
+    },
+    {
+      "league": "nfl",
+      "name": "SF @ SEA",
+      "temp": 58,
+      "condition": "Mostly sunny",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "98134"
+        ],
+        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/current-weather/53660_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Seattle",
+      "state": "WA"
+    },
     {
       "league": "nfl",
       "name": "PHI VS JAX",
@@ -30,222 +115,82 @@
     {
       "league": "nfl",
       "name": "CHI @ GB",
-      "temp": 74,
-      "condition": "3",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "54304"
-        ],
-        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=1&hbhhour=12&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Green Bay",
       "state": "WI"
     },
     {
       "league": "nfl",
       "name": "HOU @ TEN",
-      "temp": 65,
-      "condition": "7",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "37213"
-        ],
-        "href": "http://www.accuweather.com/en/us/nissan-stadium-tn/37219/hourly-weather-forecast/53638_poi?day=1&hbhhour=12&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Nashville",
       "state": "TN"
     },
     {
       "league": "nfl",
       "name": "CIN @ MIA",
-      "temp": 91,
-      "condition": "3",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "33056"
-        ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Miami Gardens",
       "state": "FL"
     },
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 60,
-      "condition": "12",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "02035"
-        ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Foxborough",
       "state": "MA"
     },
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 83,
-      "condition": "2",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "70112"
-        ],
-        "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=1&hbhhour=12&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "New Orleans",
       "state": "LA"
     },
     {
       "league": "nfl",
       "name": "CLE @ NYJ",
-      "temp": 61,
-      "condition": "18",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "07073"
-        ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "East Rutherford",
       "state": "NJ"
     },
     {
       "league": "nfl",
       "name": "IND @ PIT",
-      "temp": 61,
-      "condition": "12",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "15212"
-        ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Pittsburgh",
       "state": "PA"
     },
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 65,
-      "condition": "18",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "20785"
-        ],
-        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Landover",
       "state": "MD"
-    },
-    {
-      "league": "nfl",
-      "name": "DEN @ LAC",
-      "temp": 70,
-      "condition": "18",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90301"
-        ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Inglewood",
-      "state": "CA"
-    },
-    {
-      "league": "nfl",
-      "name": "DET @ ARI",
-      "temp": 87,
-      "condition": "4",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "85305"
-        ],
-        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/hourly-weather-forecast/53536_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Glendale",
-      "state": "AZ"
-    },
-    {
-      "league": "nfl",
-      "name": "SF @ SEA",
-      "temp": 57,
-      "condition": "1",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "98134"
-        ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/hourly-weather-forecast/53660_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Seattle",
-      "state": "WA"
     },
     {
       "league": "nfl",
@@ -512,21 +457,51 @@
     "nfl": [
       {
         "team": null,
+        "player": "Walter Nolen III",
+        "status": "Active",
+        "detail": "Nolen (calf) is active for Sunday's game against the Lions."
+      },
+      {
+        "team": null,
+        "player": "Carson Beck",
+        "status": "Out",
+        "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Lions."
+      },
+      {
+        "team": null,
+        "player": "Gardner Minshew II",
+        "status": "Active",
+        "detail": "Minshew is active for Sunday's game against the Lions."
+      },
+      {
+        "team": null,
+        "player": "Starling Thomas V",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Andrew Wingard",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Karson Sharar",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Andrew Billings",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
         "player": "Isaiah Adams",
         "status": "Injured Reserve",
         "detail": "The Cardinals placed Adams (ankle) on injured reserve Saturday, Darren Urban of the team's official site reports."
-      },
-      {
-        "team": null,
-        "player": "Marvin Harrison Jr.",
-        "status": "Out",
-        "detail": "A trade for Harrison will not be completed \"until after Sunday's games are played,\" but the Cardinals \"feel comfortable enough\" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports."
-      },
-      {
-        "team": null,
-        "player": "Walter Nolen III",
-        "status": "Questionable",
-        "detail": "Nolen (calf) is questionable against the Lions on Sunday, Zach Gershman of the Cardinals' official site reports."
       },
       {
         "team": null,
@@ -536,21 +511,9 @@
       },
       {
         "team": null,
-        "player": "Andrew Wingard",
-        "status": "Out",
-        "detail": "Wingard (knee) has been ruled out for Sunday's game against the Lions, Bo Brack of GoPHNX.com reports."
-      },
-      {
-        "team": null,
         "player": "Jeremiyah Love",
         "status": "Active",
         "detail": "Love (ankle) doesn't have a designation for Sunday's contest versus the Lions, Theo Mackie of The Arizona Republic reports."
-      },
-      {
-        "team": null,
-        "player": "Karson Sharar",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -602,18 +565,6 @@
       },
       {
         "team": null,
-        "player": "Carson Beck",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Starling Thomas V",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Reggie Virgil",
         "status": "Active",
         "detail": ""
@@ -653,12 +604,6 @@
         "player": "Trey McBride",
         "status": "Active",
         "detail": "McBride caught seven of 12 targets for 31 yards in Sunday's 36-24 loss to the Giants."
-      },
-      {
-        "team": null,
-        "player": "Josh Sweat",
-        "status": "Active",
-        "detail": "Sweat (groin) is active for Sunday's Week 4 clash against the Giants."
       },
       {
         "team": null,
@@ -1134,6 +1079,18 @@
       },
       {
         "team": null,
+        "player": "Spencer Schwellenbach",
+        "status": "60-Day-IL",
+        "detail": "GM Alex Anthopoulos said Sunday that Schwellenbach (elbow) should return to Atlanta's rotation next year, though the organization won't be counting on him to fill that role across the full season, Mark Bowman of MLB.com reports."
+      },
+      {
+        "team": null,
+        "player": "Spencer Strider",
+        "status": "60-Day-IL",
+        "detail": "Atlanta general manager Alex Anthopoulos said Sunday that Strider (elbow) will be a rotation option in 2027, but the organization doesn't plan to count on him to be able to fill that role across the full-season schedule, Mark Bowman of MLB.com reports."
+      },
+      {
+        "team": null,
         "player": "Martin Perez",
         "status": "15-Day-IL",
         "detail": "Atlanta manager Walt Weiss said Friday that Perez (back) will not be available for the NLDS against the Dodgers, Aiden Stepansky of MLB.com reports."
@@ -1161,18 +1118,6 @@
         "player": "Joe Jimenez",
         "status": "60-Day-IL",
         "detail": "Jimenez (knee) will begin a rehab assignment at Triple-A Gwinnett on Tuesday."
-      },
-      {
-        "team": null,
-        "player": "Spencer Strider",
-        "status": "60-Day-IL",
-        "detail": "Strider (elbow) is not expected to return to Atlanta's active roster before the end of this season, Mark Bowman of MLB.com reports."
-      },
-      {
-        "team": null,
-        "player": "Spencer Schwellenbach",
-        "status": "60-Day-IL",
-        "detail": "Schwellenbach will undergo season-ending surgery to repair a fracture in his right elbow, Mark Bowman of MLB.com reports."
       },
       {
         "team": null,
@@ -1785,7 +1730,7 @@
     ]
   },
   "closeArchive": {
-    "count": 437
+    "count": 448
   },
   "nflverse": [
     {
@@ -9826,7 +9771,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2645,
-    "gameFiles": 2532
+    "splitsKeys": 2673,
+    "gameFiles": 2560
   }
 }
