@@ -90,8 +90,8 @@
     {
       "league": "nfl",
       "name": "LV @ NE",
-      "temp": 59,
-      "condition": "7",
+      "temp": 60,
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -110,7 +110,7 @@
     {
       "league": "nfl",
       "name": "MIN @ NO",
-      "temp": 82,
+      "temp": 83,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -151,7 +151,7 @@
       "league": "nfl",
       "name": "IND @ PIT",
       "temp": 61,
-      "condition": "7",
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -170,8 +170,8 @@
     {
       "league": "nfl",
       "name": "NYG @ WSH",
-      "temp": 63,
-      "condition": "7",
+      "temp": 65,
+      "condition": "18",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -250,7 +250,7 @@
     {
       "league": "nfl",
       "name": "BAL @ ATL",
-      "temp": 65,
+      "temp": 64,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -489,13 +489,23 @@
     },
     {
       "league": "mlb",
-      "name": "CHW @ CLE",
-      "temp": null,
-      "condition": null,
+      "name": "LAD @ MIL",
+      "temp": 68,
+      "condition": "34",
       "gust": null,
-      "wind": null,
-      "city": "Cleveland",
-      "state": "Ohio"
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "53295"
+        ],
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=19&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Milwaukee",
+      "state": "Wisconsin"
     }
   ],
   "injuries": {
@@ -802,6 +812,18 @@
       },
       {
         "team": null,
+        "player": "Lamar Jackson",
+        "status": "Out",
+        "detail": "Jackson (ankle), who has been ruled out for Sunday's game against the Falcons, has a \"real chance\" to return to action next week against Cleveland, pending how he responds to rehab, Ian Rapoport of NFL Network reports."
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (foot) is slated to play in Sunday night's game in Atlanta, Adam Schefter of ESPN reports."
+      },
+      {
+        "team": null,
         "player": "Cam Jurgens",
         "status": "Out",
         "detail": "Jurgens (concussion) has been ruled out ahead of Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
@@ -820,12 +842,6 @@
       },
       {
         "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (foot) is listed as questionable for Sunday night's game against the Falcons."
-      },
-      {
-        "team": null,
         "player": "John Simpson",
         "status": "Active",
         "detail": ""
@@ -841,12 +857,6 @@
         "player": "Tyler Huntley",
         "status": "Active",
         "detail": "Huntley will start Sunday night's game against the Falcons after Lamar Jackson (ankle) was ruled out Friday, Jeff Zrebiec of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Out",
-        "detail": "Jackson (ankle) has been ruled out for Sunday night's game against the Falcons, Cordell Woodland of 105.7 The Fan Baltimore reports."
       },
       {
         "team": null,
@@ -1262,6 +1272,12 @@
       },
       {
         "team": null,
+        "player": "Caleb Durbin",
+        "status": "Out",
+        "detail": "The Red Sox announced Sunday that Durbin underwent a successful reconstructive surgery of the PIP joint in his left pinkie finger last week, Tim Healey of The Boston Globe reports."
+      },
+      {
+        "team": null,
         "player": "Garrett Whitlock",
         "status": "Out",
         "detail": "Whitlock allowed a walk in a scoreless and hitless inning to earn the save in Thursday's 4-3 win over the Rangers."
@@ -1475,12 +1491,6 @@
         "player": "Blake Dunn",
         "status": "60-Day-IL",
         "detail": "Dunn will have ulnar nerve transposition surgery on his right elbow Wednesday, Charlie Goldsmith of Fox 19 Now Cincinnati reports."
-      },
-      {
-        "team": null,
-        "player": "Hunter Greene",
-        "status": "60-Day-IL",
-        "detail": "Greene (elbow) will be out for 12-to-18 months after undergoing his second Tommy John surgery Wednesday, Gordon Wittenmyer of The Cincinnati Enquirer reports."
       }
     ],
     "wnba": [
@@ -1775,7 +1785,7 @@
     ]
   },
   "closeArchive": {
-    "count": 430
+    "count": 437
   },
   "nflverse": [
     {
@@ -8384,15 +8394,15 @@
     "sp": [
       {
         "year": 2026,
-        "team": "Georgia",
-        "conference": "SEC",
-        "rating": 30.2,
+        "team": "Ohio State",
+        "conference": "Big Ten",
+        "rating": 29.5,
         "ranking": 1,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
           "ranking": 1,
-          "rating": 41.6,
+          "rating": 41.3,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8404,7 +8414,46 @@
         },
         "defense": {
           "ranking": 1,
-          "rating": 11.8,
+          "rating": 11.7,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": -0.2
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Georgia",
+        "conference": "SEC",
+        "rating": 28.3,
+        "ranking": 2,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 4,
+          "rating": 40.5,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 3,
+          "rating": 12.7,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8423,54 +8472,15 @@
       },
       {
         "year": 2026,
-        "team": "Ohio State",
-        "conference": "Big Ten",
-        "rating": 28.8,
-        "ranking": 2,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 1,
-          "rating": 41.6,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 2,
-          "rating": 12.7,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": -0.1
-        }
-      },
-      {
-        "year": 2026,
         "team": "Notre Dame",
         "conference": "FBS Independents",
-        "rating": 28.1,
+        "rating": 28,
         "ranking": 3,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 4,
-          "rating": 40.5,
+          "ranking": 2,
+          "rating": 41,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8481,8 +8491,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 2,
-          "rating": 12.7,
+          "ranking": 6,
+          "rating": 13.3,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8497,136 +8507,19 @@
         },
         "specialTeams": {
           "rating": 0.2
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Indiana",
-        "conference": "Big Ten",
-        "rating": 26.9,
-        "ranking": 4,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 5,
-          "rating": 40.3,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 7,
-          "rating": 13.7,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.3
         }
       },
       {
         "year": 2026,
         "team": "Miami",
         "conference": "ACC",
-        "rating": 25.7,
-        "ranking": 5,
+        "rating": 27.8,
+        "ranking": 4,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 8,
-          "rating": 39.5,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 8,
-          "rating": 14,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.2
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Alabama",
-        "conference": "SEC",
-        "rating": 23,
-        "ranking": 6,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 7,
-          "rating": 39.6,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 13,
-          "rating": 16.6,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Texas",
-        "conference": "SEC",
-        "rating": 22.4,
-        "ranking": 7,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 16,
-          "rating": 35.7,
+          "ranking": 3,
+          "rating": 40.6,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8638,7 +8531,7 @@
         },
         "defense": {
           "ranking": 5,
-          "rating": 13.6,
+          "rating": 13.1,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8657,15 +8550,15 @@
       },
       {
         "year": 2026,
-        "team": "Oregon",
+        "team": "Indiana",
         "conference": "Big Ten",
-        "rating": 21.6,
-        "ranking": 8,
+        "rating": 26.7,
+        "ranking": 5,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 5,
-          "rating": 40.3,
+          "ranking": 7,
+          "rating": 39.3,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8676,8 +8569,47 @@
           "pace": null
         },
         "defense": {
-          "ranking": 25,
-          "rating": 19,
+          "ranking": 4,
+          "rating": 12.8,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.2
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Texas",
+        "conference": "SEC",
+        "rating": 24.4,
+        "ranking": 6,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 16,
+          "rating": 36.4,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 2,
+          "rating": 12.2,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8698,13 +8630,13 @@
         "year": 2026,
         "team": "Utah",
         "conference": "Big 12",
-        "rating": 21.5,
-        "ranking": 9,
+        "rating": 23.5,
+        "ranking": 7,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 13,
-          "rating": 37.1,
+          "ranking": 8,
+          "rating": 39.1,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8715,8 +8647,47 @@
           "pace": null
         },
         "defense": {
-          "ranking": 11,
+          "ranking": 13,
           "rating": 15.7,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.1
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Alabama",
+        "conference": "SEC",
+        "rating": 23,
+        "ranking": 8,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 5,
+          "rating": 40,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 16,
+          "rating": 17.1,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8737,13 +8708,13 @@
         "year": 2026,
         "team": "LSU",
         "conference": "SEC",
-        "rating": 21.3,
-        "ranking": 10,
+        "rating": 21.7,
+        "ranking": 9,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 22,
-          "rating": 34.7,
+          "ranking": 13,
+          "rating": 36.7,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8754,125 +8725,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 4,
-          "rating": 13.4,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Texas Tech",
-        "conference": "Big 12",
-        "rating": 20.2,
-        "ranking": 11,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 11,
-          "rating": 37.5,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 17,
-          "rating": 17.6,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.3
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Florida",
-        "conference": "SEC",
-        "rating": 18.5,
-        "ranking": 12,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 9,
-          "rating": 38.8,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 31,
-          "rating": 20.8,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.5
-        }
-      },
-      {
-        "year": 2026,
-        "team": "USC",
-        "conference": "Big Ten",
-        "rating": 17.8,
-        "ranking": 13,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 3,
-          "rating": 41.5,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 49,
-          "rating": 23.7,
+          "ranking": 10,
+          "rating": 14.9,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8891,93 +8745,15 @@
       },
       {
         "year": 2026,
-        "team": "Tennessee",
-        "conference": "SEC",
-        "rating": 17.7,
-        "ranking": 14,
+        "team": "Texas Tech",
+        "conference": "Big 12",
+        "rating": 21.6,
+        "ranking": 10,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 14,
-          "rating": 36.8,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 26,
-          "rating": 19.3,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.2
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Nebraska",
-        "conference": "Big Ten",
-        "rating": 16.9,
-        "ranking": 15,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 20,
-          "rating": 35.2,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 22,
-          "rating": 18.3,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Penn State",
-        "conference": "Big Ten",
-        "rating": 16.9,
-        "ranking": 15,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 28,
-          "rating": 32.7,
+          "ranking": 13,
+          "rating": 36.7,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -8989,7 +8765,7 @@
         },
         "defense": {
           "ranking": 12,
-          "rating": 16.1,
+          "rating": 15.4,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9010,13 +8786,13 @@
         "year": 2026,
         "team": "BYU",
         "conference": "Big 12",
-        "rating": 16.3,
-        "ranking": 17,
+        "rating": 21.5,
+        "ranking": 11,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 24,
-          "rating": 34.3,
+          "ranking": 20,
+          "rating": 35,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9027,8 +8803,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 21,
-          "rating": 18.2,
+          "ranking": 9,
+          "rating": 13.8,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9047,93 +8823,15 @@
       },
       {
         "year": 2026,
-        "team": "Mississippi State",
-        "conference": "SEC",
-        "rating": 15.1,
-        "ranking": 18,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 10,
-          "rating": 37.9,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 47,
-          "rating": 23.1,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.3
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Iowa",
+        "team": "Oregon",
         "conference": "Big Ten",
-        "rating": 14.8,
-        "ranking": 19,
+        "rating": 21,
+        "ranking": 12,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 51,
-          "rating": 29,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
           "ranking": 10,
-          "rating": 14.5,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.3
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Pittsburgh",
-        "conference": "ACC",
-        "rating": 14.7,
-        "ranking": 20,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 36,
-          "rating": 32,
+          "rating": 38.2,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9144,7 +8842,7 @@
           "pace": null
         },
         "defense": {
-          "ranking": 15,
+          "ranking": 19,
           "rating": 17.4,
           "success": null,
           "explosiveness": null,
@@ -9159,20 +8857,20 @@
           }
         },
         "specialTeams": {
-          "rating": 0.1
+          "rating": 0.3
         }
       },
       {
         "year": 2026,
-        "team": "Virginia",
-        "conference": "ACC",
-        "rating": 14.4,
-        "ranking": 21,
+        "team": "Missouri",
+        "conference": "SEC",
+        "rating": 18,
+        "ranking": 13,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 29,
-          "rating": 32.4,
+          "ranking": 33,
+          "rating": 33,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9183,47 +8881,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 20,
-          "rating": 18.1,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.1
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Michigan",
-        "conference": "Big Ten",
-        "rating": 14.3,
-        "ranking": 22,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 52,
-          "rating": 28.8,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 9,
-          "rating": 14.4,
+          "ranking": 10,
+          "rating": 14.9,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9242,15 +8901,15 @@
       },
       {
         "year": 2026,
-        "team": "Kansas State",
-        "conference": "Big 12",
-        "rating": 14,
-        "ranking": 23,
+        "team": "Nebraska",
+        "conference": "Big Ten",
+        "rating": 16.9,
+        "ranking": 14,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 21,
-          "rating": 35,
+          "ranking": 22,
+          "rating": 34.7,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9261,8 +8920,125 @@
           "pace": null
         },
         "defense": {
-          "ranking": 34,
-          "rating": 21.2,
+          "ranking": 20,
+          "rating": 17.7,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": -0.1
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Tennessee",
+        "conference": "SEC",
+        "rating": 16.7,
+        "ranking": 15,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 21,
+          "rating": 34.9,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 23,
+          "rating": 18.5,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.3
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Ole Miss",
+        "conference": "SEC",
+        "rating": 15.9,
+        "ranking": 16,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 6,
+          "rating": 39.9,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 55,
+          "rating": 24.4,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.5
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Northwestern",
+        "conference": "Big Ten",
+        "rating": 15.6,
+        "ranking": 17,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 18,
+          "rating": 35.1,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 27,
+          "rating": 19.7,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9283,13 +9059,13 @@
         "year": 2026,
         "team": "UCLA",
         "conference": "Big Ten",
-        "rating": 13.8,
-        "ranking": 24,
+        "rating": 15.3,
+        "ranking": 18,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 16,
-          "rating": 35.7,
+          "ranking": 24,
+          "rating": 34.3,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9300,8 +9076,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 40,
-          "rating": 22,
+          "ranking": 25,
+          "rating": 19.2,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9320,15 +9096,15 @@
       },
       {
         "year": 2026,
-        "team": "Missouri",
-        "conference": "SEC",
-        "rating": 13.7,
-        "ranking": 25,
+        "team": "Arizona",
+        "conference": "Big 12",
+        "rating": 15.2,
+        "ranking": 19,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 40,
-          "rating": 31.2,
+          "ranking": 17,
+          "rating": 35.5,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9339,8 +9115,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 14,
-          "rating": 17.3,
+          "ranking": 28,
+          "rating": 20,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9359,15 +9135,15 @@
       },
       {
         "year": 2026,
-        "team": "SMU",
-        "conference": "ACC",
-        "rating": 13,
-        "ranking": 26,
+        "team": "Houston",
+        "conference": "Big 12",
+        "rating": 15.2,
+        "ranking": 19,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 16,
-          "rating": 35.7,
+          "ranking": 15,
+          "rating": 36.6,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9378,86 +9154,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 41,
-          "rating": 22.3,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": -0.4
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Oklahoma",
-        "conference": "SEC",
-        "rating": 12.8,
-        "ranking": 27,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 75,
-          "rating": 26.1,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 5,
-          "rating": 13.6,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "havoc": {
-            "total": null,
-            "frontSeven": null,
-            "db": null
-          }
-        },
-        "specialTeams": {
-          "rating": 0.2
-        }
-      },
-      {
-        "year": 2026,
-        "team": "Virginia Tech",
-        "conference": "ACC",
-        "rating": 12.3,
-        "ranking": 28,
-        "secondOrderWins": null,
-        "sos": null,
-        "offense": {
-          "ranking": 27,
-          "rating": 32.9,
-          "success": null,
-          "explosiveness": null,
-          "rushing": null,
-          "passing": null,
-          "standardDowns": null,
-          "passingDowns": null,
-          "runRate": null,
-          "pace": null
-        },
-        "defense": {
-          "ranking": 30,
-          "rating": 20.6,
+          "ranking": 35,
+          "rating": 21.5,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9476,15 +9174,15 @@
       },
       {
         "year": 2026,
-        "team": "Washington",
+        "team": "USC",
         "conference": "Big Ten",
-        "rating": 12.1,
-        "ranking": 29,
+        "rating": 14.4,
+        "ranking": 21,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 45,
-          "rating": 29.9,
+          "ranking": 9,
+          "rating": 38.5,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9495,8 +9193,86 @@
           "pace": null
         },
         "defense": {
-          "ranking": 18,
-          "rating": 17.7,
+          "ranking": 54,
+          "rating": 24.2,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.1
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Oklahoma State",
+        "conference": "Big 12",
+        "rating": 13.3,
+        "ranking": 22,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 23,
+          "rating": 34.5,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 35,
+          "rating": 21.5,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.3
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Michigan",
+        "conference": "Big Ten",
+        "rating": 13.1,
+        "ranking": 23,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 67,
+          "rating": 26.6,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 7,
+          "rating": 13.4,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9515,15 +9291,15 @@
       },
       {
         "year": 2026,
-        "team": "Houston",
-        "conference": "Big 12",
-        "rating": 12.1,
-        "ranking": 29,
+        "team": "Iowa",
+        "conference": "Big Ten",
+        "rating": 13,
+        "ranking": 24,
         "secondOrderWins": null,
         "sos": null,
         "offense": {
-          "ranking": 15,
-          "rating": 36.3,
+          "ranking": 50,
+          "rating": 29.3,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9534,8 +9310,8 @@
           "pace": null
         },
         "defense": {
-          "ranking": 53,
-          "rating": 24.2,
+          "ranking": 15,
+          "rating": 16.7,
           "success": null,
           "explosiveness": null,
           "rushing": null,
@@ -9549,7 +9325,241 @@
           }
         },
         "specialTeams": {
-          "rating": -0.1
+          "rating": 0.4
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Louisville",
+        "conference": "ACC",
+        "rating": 13,
+        "ranking": 24,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 11,
+          "rating": 38,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 60,
+          "rating": 25,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0
+        }
+      },
+      {
+        "year": 2026,
+        "team": "SMU",
+        "conference": "ACC",
+        "rating": 12.8,
+        "ranking": 26,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 25,
+          "rating": 34.2,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 31,
+          "rating": 21,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": -0.4
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Baylor",
+        "conference": "Big 12",
+        "rating": 12.7,
+        "ranking": 27,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 42,
+          "rating": 31.3,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 24,
+          "rating": 19,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.3
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Mississippi State",
+        "conference": "SEC",
+        "rating": 12.6,
+        "ranking": 28,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 12,
+          "rating": 37.8,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 65,
+          "rating": 25.5,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.3
+        }
+      },
+      {
+        "year": 2026,
+        "team": "New Mexico",
+        "conference": "Mountain West",
+        "rating": 12.3,
+        "ranking": 29,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 46,
+          "rating": 29.8,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 22,
+          "rating": 17.8,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.3
+        }
+      },
+      {
+        "year": 2026,
+        "team": "Oklahoma",
+        "conference": "SEC",
+        "rating": 12.2,
+        "ranking": 30,
+        "secondOrderWins": null,
+        "sos": null,
+        "offense": {
+          "ranking": 84,
+          "rating": 25.6,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "runRate": null,
+          "pace": null
+        },
+        "defense": {
+          "ranking": 8,
+          "rating": 13.6,
+          "success": null,
+          "explosiveness": null,
+          "rushing": null,
+          "passing": null,
+          "standardDowns": null,
+          "passingDowns": null,
+          "havoc": {
+            "total": null,
+            "frontSeven": null,
+            "db": null
+          }
+        },
+        "specialTeams": {
+          "rating": 0.2
         }
       }
     ]
@@ -9789,7 +9799,7 @@
           "name": "Lisboa Belem Open",
           "surface": null,
           "venue": null,
-          "status": "In Progress"
+          "status": "Final"
         }
       ]
     }
@@ -9816,7 +9826,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2622,
-    "gameFiles": 2509
+    "splitsKeys": 2645,
+    "gameFiles": 2532
   }
 }
