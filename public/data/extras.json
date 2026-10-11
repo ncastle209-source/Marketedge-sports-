@@ -1,57 +1,22 @@
 {
   "umpires": [
     {
-      "eventId": "849831",
-      "home": "Cleveland Guardians",
-      "away": "Chicago White Sox",
-      "plateUmpire": "Vic Carapazza",
-      "crew": [
-        {
-          "name": "Vic Carapazza",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Tom Hanahan",
-          "type": "First Base"
-        },
-        {
-          "name": "Cory Blaser",
-          "type": "Second Base"
-        },
-        {
-          "name": "Gabe Morales",
-          "type": "Third Base"
-        },
-        {
-          "name": "Todd Tichenor",
-          "type": "Left Field"
-        },
-        {
-          "name": "Jansen Visconti",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Warmup"
+      "eventId": "849809",
+      "home": "Milwaukee Brewers",
+      "away": "Los Angeles Dodgers",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849831,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849831"
+      "gamePk": 849809,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849809"
     }
   ],
   "weather": [
-    {
-      "league": "nfl",
-      "name": "TB @ DAL",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Arlington",
-      "state": "TX"
-    },
     {
       "league": "nfl",
       "name": "PHI VS JAX",
@@ -113,7 +78,7 @@
         "rel": [
           "33056"
         ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -126,14 +91,14 @@
       "league": "nfl",
       "name": "LV @ NE",
       "temp": 61,
-      "condition": "5",
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "02035"
         ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -173,7 +138,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -193,7 +158,7 @@
         "rel": [
           "15212"
         ],
-        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/acrisure-stadium-pa/15219/hourly-weather-forecast/53633_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -213,7 +178,7 @@
         "rel": [
           "20785"
         ],
-        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/northwest-stadium-md/20781/hourly-weather-forecast/53589_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -293,7 +258,7 @@
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=2&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=1&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -301,6 +266,16 @@
       },
       "city": "Atlanta",
       "state": "GA"
+    },
+    {
+      "league": "nfl",
+      "name": "TB @ DAL",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Arlington",
+      "state": "TX"
     },
     {
       "league": "nfl",
@@ -324,43 +299,43 @@
     },
     {
       "league": "ncaaf",
-      "name": "LSU @ UK",
-      "temp": 59,
-      "condition": "Mostly clear",
+      "name": "BOIS @ FRES",
+      "temp": 72,
+      "condition": "Partly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "40502"
+          "93710"
         ],
-        "href": "http://www.accuweather.com/en/us/kroger-field-ky/40507/current-weather/53578_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/current-weather/53537_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Lexington",
-      "state": "KY"
+      "city": "Fresno",
+      "state": "CA"
     },
     {
       "league": "ncaaf",
-      "name": "USC @ PSU",
-      "temp": 61,
-      "condition": "Mostly cloudy",
+      "name": "ISU @ BYU",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "16802"
-        ],
-        "href": "http://www.accuweather.com/en/us/beaver-stadium-pa/16802/current-weather/53631_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "University Park",
-      "state": "PA"
+      "wind": null,
+      "city": "Provo",
+      "state": "UT"
+    },
+    {
+      "league": "ncaaf",
+      "name": "IOWA @ WASH",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Seattle",
+      "state": "WA"
     },
     {
       "league": "ncaaf",
@@ -371,6 +346,16 @@
       "wind": null,
       "city": "Dallas",
       "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UGA @ ALA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Tuscaloosa",
+      "state": "AL"
     },
     {
       "league": "ncaaf",
@@ -411,6 +396,26 @@
       "wind": null,
       "city": "Nashville",
       "state": "TN"
+    },
+    {
+      "league": "ncaaf",
+      "name": "LSU @ UK",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Lexington",
+      "state": "KY"
+    },
+    {
+      "league": "ncaaf",
+      "name": "KU @ UTAH",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Salt Lake City",
+      "state": "UT"
     },
     {
       "league": "ncaaf",
@@ -464,6 +469,16 @@
     },
     {
       "league": "ncaaf",
+      "name": "USC @ PSU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "University Park",
+      "state": "PA"
+    },
+    {
+      "league": "ncaaf",
       "name": "HOU @ KSU",
       "temp": null,
       "condition": null,
@@ -483,102 +498,12 @@
       "state": "PA"
     },
     {
-      "league": "ncaaf",
-      "name": "UGA @ ALA",
-      "temp": 62,
-      "condition": "Mostly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "35401"
-        ],
-        "href": "http://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/current-weather/53527_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Tuscaloosa",
-      "state": "AL"
-    },
-    {
-      "league": "ncaaf",
-      "name": "KU @ UTAH",
-      "temp": 71,
-      "condition": "7",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "84112"
-        ],
-        "href": "http://www.accuweather.com/en/us/rice-eccles-stadium-ut/84111/hourly-weather-forecast/53656_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Salt Lake City",
-      "state": "UT"
-    },
-    {
-      "league": "ncaaf",
-      "name": "BOIS @ FRES",
-      "temp": 80,
-      "condition": "35",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "93710"
-        ],
-        "href": "http://www.accuweather.com/en/us/valley-childrens-stadium-ca/93702/hourly-weather-forecast/53537_poi?day=1&hbhhour=19&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Fresno",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "ISU @ BYU",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Provo",
-      "state": "UT"
-    },
-    {
-      "league": "ncaaf",
-      "name": "IOWA @ WASH",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Seattle",
-      "state": "WA"
-    },
-    {
       "league": "mlb",
       "name": "CHW @ CLE",
-      "temp": 69,
-      "condition": "12",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "44115"
-        ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Cleveland",
       "state": "Ohio"
     }
@@ -589,7 +514,7 @@
         "team": null,
         "player": "Isaiah Adams",
         "status": "Injured Reserve",
-        "detail": "ir"
+        "detail": "The Cardinals placed Adams (ankle) on injured reserve Saturday, Darren Urban of the team's official site reports."
       },
       {
         "team": null,
@@ -739,19 +664,19 @@
         "team": null,
         "player": "Yasir Abdullah",
         "status": "Injured Reserve",
-        "detail": "ir"
+        "detail": "The Falcons placed Abdullah (hamstring) on injured reserve Saturday, Tori McElhaney of the team's official site reports."
+      },
+      {
+        "team": null,
+        "player": "Za'Darius Smith",
+        "status": "Out",
+        "detail": "Smith (concussion/neck) has been downgraded to out for Sunday's game against the Ravens, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
         "player": "Jake Matthews",
         "status": "Questionable",
         "detail": "Matthews (groin) is questionable for Sunday's game against the Ravens."
-      },
-      {
-        "team": null,
-        "player": "Za'Darius Smith",
-        "status": "Out",
-        "detail": "Smith (concussion/neck) is listed as questionable for Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
       },
       {
         "team": null,
@@ -1037,6 +962,18 @@
       },
       {
         "team": null,
+        "player": "Davison Igbinosun",
+        "status": "Active",
+        "detail": "Even with Christian Benford (toe) back from injury, Igbinosun is still expected to have a role in the Bills' secondary for Monday's game against the Rams, Nick Suss of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Landon Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (knee) is listed as questionable for Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
+      },
+      {
+        "team": null,
         "player": "Christian Benford",
         "status": "Active",
         "detail": "Benford (toe) does not carry an injury designation into Monday night's game against the Rams, Joe Buscaglia of The Athletic reports."
@@ -1052,18 +989,6 @@
         "player": "Ed Oliver",
         "status": "Out",
         "detail": "Oliver (knee) has been ruled out ahead of Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Skyler Bell",
-        "status": "Active",
-        "detail": "Bell will make his NFL regular-season debut against the Rams on Monday due to the absence of Joshua Palmer (shoulder), Cameron Wolfe of NFL Network reports."
-      },
-      {
-        "team": null,
-        "player": "Landon Jackson",
-        "status": "Questionable",
-        "detail": "questionable"
       }
     ],
     "ncaaf": [
@@ -1860,7 +1785,7 @@
     ]
   },
   "closeArchive": {
-    "count": 386
+    "count": 387
   },
   "nflverse": [
     {
@@ -9806,11 +9731,11 @@
   },
   "pitchers": [
     {
-      "eventId": "849831",
-      "homeTeam": "Cleveland Guardians",
-      "homePitcher": "Gavin Williams",
-      "awayTeam": "Chicago White Sox",
-      "awayPitcher": "Sean Burke"
+      "eventId": "849809",
+      "homeTeam": "Milwaukee Brewers",
+      "homePitcher": "Jacob Misiorowski",
+      "awayTeam": "Los Angeles Dodgers",
+      "awayPitcher": "Tarik Skubal"
     }
   ],
   "tennis": {
@@ -9883,7 +9808,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2560,
-    "gameFiles": 2447
+    "splitsKeys": 2585,
+    "gameFiles": 2472
   }
 }
