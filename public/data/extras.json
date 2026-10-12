@@ -1,107 +1,35 @@
 {
   "umpires": [
     {
-      "eventId": "849809",
+      "eventId": "849812",
       "home": "Milwaukee Brewers",
       "away": "Los Angeles Dodgers",
-      "plateUmpire": "Edwin Moscoso",
-      "crew": [
-        {
-          "name": "Edwin Moscoso",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Mark Wegner",
-          "type": "First Base"
-        },
-        {
-          "name": "Ryan Additon",
-          "type": "Second Base"
-        },
-        {
-          "name": "Alan Porter",
-          "type": "Third Base"
-        },
-        {
-          "name": "David Rackley",
-          "type": "Left Field"
-        },
-        {
-          "name": "John Tumpane",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849820",
+      "home": "Tampa Bay Rays",
+      "away": "Cleveland Guardians",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849809,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849809"
+      "gamePk": 849812,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849812"
+    },
+    {
+      "gamePk": 849820,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849820"
     }
   ],
   "weather": [
-    {
-      "league": "nfl",
-      "name": "DEN @ LAC",
-      "temp": 71,
-      "condition": "Mostly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90301"
-        ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/current-weather/209205_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Inglewood",
-      "state": "CA"
-    },
-    {
-      "league": "nfl",
-      "name": "DET @ ARI",
-      "temp": 81,
-      "condition": "Cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "85305"
-        ],
-        "href": "http://www.accuweather.com/en/us/state-farm-stadium-az/85301/current-weather/53536_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Glendale",
-      "state": "AZ"
-    },
-    {
-      "league": "nfl",
-      "name": "SF @ SEA",
-      "temp": 58,
-      "condition": "Mostly sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "98134"
-        ],
-        "href": "http://www.accuweather.com/en/us/lumen-field-wa/98104/current-weather/53660_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Seattle",
-      "state": "WA"
-    },
     {
       "league": "nfl",
       "name": "PHI VS JAX",
@@ -194,16 +122,46 @@
     },
     {
       "league": "nfl",
+      "name": "DEN @ LAC",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Inglewood",
+      "state": "CA"
+    },
+    {
+      "league": "nfl",
+      "name": "DET @ ARI",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Glendale",
+      "state": "AZ"
+    },
+    {
+      "league": "nfl",
+      "name": "SF @ SEA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Seattle",
+      "state": "WA"
+    },
+    {
+      "league": "nfl",
       "name": "BAL @ ATL",
-      "temp": 64,
-      "condition": "34",
+      "temp": 65,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=1&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/current-weather/17252_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -225,7 +183,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 67,
+      "temp": 68,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -435,15 +393,15 @@
     {
       "league": "mlb",
       "name": "LAD @ MIL",
-      "temp": 68,
-      "condition": "34",
+      "temp": 67,
+      "condition": "Clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "53295"
         ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -455,6 +413,12 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Wydett Williams Jr.",
+        "status": "Questionable",
+        "detail": "Williams suffered a concussion Sunday versus the Lions, Darren Urban of the Cardinals' official site reports."
+      },
       {
         "team": null,
         "player": "Walter Nolen III",
@@ -601,9 +565,57 @@
       },
       {
         "team": null,
-        "player": "Trey McBride",
+        "player": "Jake Matthews",
         "status": "Active",
-        "detail": "McBride caught seven of 12 targets for 31 yards in Sunday's 36-24 loss to the Giants."
+        "detail": "Matthews (groin) is active for Sunday night's game against the Ravens, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Divine Deablo",
+        "status": "Active",
+        "detail": "Deablo (hamstring) is active for Sunday night's game against the Ravens, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Cooper Rush",
+        "status": "Out",
+        "detail": "Rush (coach's decision) is inactive for Sunday's game against the Ravens but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Ethan Onianwa",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Jack Strand",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Robert Longerbeam",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Malcolm DeWalt IV",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Christian Harris",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Samson Ebukam",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
@@ -616,24 +628,6 @@
         "player": "Za'Darius Smith",
         "status": "Out",
         "detail": "Smith (concussion/neck) has been downgraded to out for Sunday's game against the Ravens, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Jake Matthews",
-        "status": "Questionable",
-        "detail": "Matthews (groin) is questionable for Sunday's game against the Ravens."
-      },
-      {
-        "team": null,
-        "player": "Divine Deablo",
-        "status": "Questionable",
-        "detail": "Deablo (hamstring) is listed as questionable ahead of Sunday's game against the Ravens, Will McFadden of the Falcons' official site  reports."
-      },
-      {
-        "team": null,
-        "player": "Samson Ebukam",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -691,30 +685,6 @@
       },
       {
         "team": null,
-        "player": "Malcolm DeWalt IV",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Robert Longerbeam",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Jack Strand",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Ethan Onianwa",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Kyle Pitts Sr.",
         "status": "Active",
         "detail": "Pitts secured all three targets for 47 yards in the Falcons' 45-24 win over the Saints on Monday night."
@@ -745,45 +715,51 @@
       },
       {
         "team": null,
-        "player": "Bijan Robinson",
-        "status": "Active",
-        "detail": "Robinson rushed 19 times for 145 yards and two touchdowns and brought in one of two targets for two yards in the Falcons' 45-24 win over the Saints on Monday night."
+        "player": "Andrew Vorhees",
+        "status": "Out",
+        "detail": "Vorhees (foot) is inactive for Sunday night's matchup with Atlanta."
       },
       {
         "team": null,
-        "player": "Cooper Rush",
+        "player": "Marlon Humphrey",
         "status": "Active",
-        "detail": "Rush (coach's decision) is inactive for Thursday's game against the Saints but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
+        "detail": "Humphrey (calf/hamstring) is active for Sunday night's matchup with Atlanta."
+      },
+      {
+        "team": null,
+        "player": "Elijah Sarratt",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Aeneas Peebles",
+        "status": "Out",
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "Lamar Jackson",
         "status": "Out",
-        "detail": "Jackson (ankle), who has been ruled out for Sunday's game against the Falcons, has a \"real chance\" to return to action next week against Cleveland, pending how he responds to rehab, Ian Rapoport of NFL Network reports."
-      },
-      {
-        "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (foot) is slated to play in Sunday night's game in Atlanta, Adam Schefter of ESPN reports."
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "Cam Jurgens",
         "status": "Out",
-        "detail": "Jurgens (concussion) has been ruled out ahead of Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
-      },
-      {
-        "team": null,
-        "player": "Marlon Humphrey",
-        "status": "Questionable",
-        "detail": "Humphrey (calf/hamstring) is listed as questionable for Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "Trey Hendrickson",
         "status": "Out",
-        "detail": "Hendrickson (finger) has been ruled out ahead of Sunday's game against the Falcons, Adam Caplan of SiriusXM NFL Radio reports."
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Active",
+        "detail": "Flowers (foot) is listed as active for Sunday's game in Atlanta."
       },
       {
         "team": null,
@@ -859,13 +835,7 @@
       },
       {
         "team": null,
-        "player": "Elijah Sarratt",
-        "status": "Active",
-        "detail": "Sarratt reeled in one of two targets for 13 yards in a 24-18 win against Tennessee on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Matthew Hibner",
+        "player": "Matt Hibner",
         "status": "Active",
         "detail": "Hibner caught both of his targets for 34 yards in Sunday's 24-18 win over the Titans."
       },
@@ -874,12 +844,6 @@
         "player": "Justice Hill",
         "status": "Active",
         "detail": "Hill rushed one time for three yards in Sunday's 24-18 win over the Titans. He added two catches for 22 yards on three targets."
-      },
-      {
-        "team": null,
-        "player": "Aeneas Peebles",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -898,12 +862,6 @@
         "player": "Mark Andrews",
         "status": "Active",
         "detail": "Andrews caught five of six targets for 27 yards and a touchdown in Sunday's 24-18 win over Tennessee."
-      },
-      {
-        "team": null,
-        "player": "Derrick Henry",
-        "status": "Active",
-        "detail": "Henry carried the ball 23 times for 73 yards and a touchdown in Sunday's 24-18 win over the Titans. He also caught both his targets for six yards."
       },
       {
         "team": null,
@@ -1730,7 +1688,7 @@
     ]
   },
   "closeArchive": {
-    "count": 448
+    "count": 449
   },
   "nflverse": [
     {
@@ -9676,11 +9634,18 @@
   },
   "pitchers": [
     {
-      "eventId": "849809",
+      "eventId": "849812",
       "homeTeam": "Milwaukee Brewers",
-      "homePitcher": "Jacob Misiorowski",
+      "homePitcher": "Logan Henderson",
       "awayTeam": "Los Angeles Dodgers",
-      "awayPitcher": "Tarik Skubal"
+      "awayPitcher": "Yoshinobu Yamamoto"
+    },
+    {
+      "eventId": "849820",
+      "homeTeam": "Tampa Bay Rays",
+      "homePitcher": "Drew Rasmussen",
+      "awayTeam": "Cleveland Guardians",
+      "awayPitcher": "Foster Griffin"
     }
   ],
   "tennis": {
