@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T00:20:43.058025+00:00",
+  "pulled_at": "2026-10-12T06:24:40.076065+00:00",
   "teams": {
     "nfl": [
       {
@@ -3656,316 +3656,306 @@
       {
         "rank": 1,
         "name": "Elena Rybakina",
-        "points": 9901.0
+        "points": 9696.0
       },
       {
         "rank": 2,
         "name": "Aryna Sabalenka",
-        "points": 7810.0
+        "points": 7550.0
       },
       {
         "rank": 3,
-        "name": "Jessica Pegula",
-        "points": 7265.0
+        "name": "Mirra Andreeva",
+        "points": 6371.0
       },
       {
         "rank": 4,
-        "name": "Coco Gauff",
-        "points": 7244.0
+        "name": "Jessica Pegula",
+        "points": 6225.0
       },
       {
         "rank": 5,
-        "name": "Mirra Andreeva",
-        "points": 5841.0
+        "name": "Coco Gauff",
+        "points": 5974.0
       },
       {
         "rank": 6,
-        "name": "Linda Noskova",
-        "points": 5328.0
+        "name": "Elina Svitolina",
+        "points": 5024.0
       },
       {
         "rank": 7,
-        "name": "Elina Svitolina",
-        "points": 4809.0
+        "name": "Karolina Muchova",
+        "points": 4773.0
       },
       {
         "rank": 8,
-        "name": "Karolina Muchova",
-        "points": 4683.0
+        "name": "Linda Noskova",
+        "points": 4679.0
       },
       {
         "rank": 9,
         "name": "Iga Swiatek",
-        "points": 4119.0
+        "points": 3999.0
       },
       {
         "rank": 10,
         "name": "Marta Kostyuk",
-        "points": 4040.0
+        "points": 3910.0
       },
       {
         "rank": 11,
-        "name": "Amanda Anisimova",
-        "points": 3363.0
+        "name": "Iva Jovic",
+        "points": 2860.0
       },
       {
         "rank": 12,
         "name": "Belinda Bencic",
-        "points": 2925.0
+        "points": 2760.0
       },
       {
         "rank": 13,
-        "name": "Iva Jovic",
-        "points": 2841.0
+        "name": "Diana Shnaider",
+        "points": 2643.0
       },
       {
         "rank": 14,
-        "name": "Diana Shnaider",
-        "points": 2588.0
+        "name": "Elise Mertens",
+        "points": 2540.0
       },
       {
         "rank": 15,
         "name": "Victoria Mboko",
-        "points": 2521.0
+        "points": 2502.0
       },
       {
         "rank": 16,
         "name": "Sorana Cirstea",
-        "points": 2464.0
+        "points": 2424.0
       },
       {
         "rank": 17,
-        "name": "Naomi Osaka",
-        "points": 2296.0
+        "name": "Amanda Anisimova",
+        "points": 2363.0
       },
       {
         "rank": 18,
-        "name": "Alexandra Eala",
-        "points": 2276.0
+        "name": "Naomi Osaka",
+        "points": 2351.0
       },
       {
         "rank": 19,
-        "name": "Elise Mertens",
-        "points": 2165.0
+        "name": "Alexandra Eala",
+        "points": 2241.0
       },
       {
         "rank": 20,
-        "name": "Jasmine Paolini",
-        "points": 2122.0
+        "name": "Madison Keys",
+        "points": 2110.0
       },
       {
         "rank": 21,
-        "name": "Maja Chwalinska",
-        "points": 2082.0
-      },
-      {
-        "rank": 22,
         "name": "Anna Kalinskaya",
         "points": 2043.0
       },
       {
+        "rank": 22,
+        "name": "Maja Chwalinska",
+        "points": 2043.0
+      },
+      {
         "rank": 23,
-        "name": "Madison Keys",
-        "points": 2029.0
+        "name": "Zheng Qinwen",
+        "points": 2018.0
       },
       {
         "rank": 24,
-        "name": "Emma Navarro",
-        "points": 2024.0
+        "name": "Ekaterina Alexandrova",
+        "points": 1906.0
       },
       {
         "rank": 25,
-        "name": "Anastasia Potapova",
-        "points": 1926.0
+        "name": "Leylah Fernandez",
+        "points": 1839.0
       },
       {
         "rank": 26,
-        "name": "Leylah Fernandez",
-        "points": 1894.0
+        "name": "Anastasia Potapova",
+        "points": 1816.0
       },
       {
         "rank": 27,
-        "name": "Marie Bouzkova",
-        "points": 1873.0
+        "name": "Emma Navarro",
+        "points": 1809.0
       },
       {
         "rank": 28,
-        "name": "Ekaterina Alexandrova",
-        "points": 1811.0
+        "name": "Marie Bouzkova",
+        "points": 1763.0
       },
       {
         "rank": 29,
-        "name": "Sara Bejlek",
-        "points": 1710.0
+        "name": "Nikola Bartunkova",
+        "points": 1661.0
       },
       {
         "rank": 30,
-        "name": "Ann Li",
-        "points": 1573.0
+        "name": "Sara Bejlek",
+        "points": 1650.0
       },
       {
         "rank": 31,
-        "name": "Diane Parry",
-        "points": 1551.0
+        "name": "Ann Li",
+        "points": 1648.0
       },
       {
         "rank": 32,
-        "name": "Jelena Ostapenko",
-        "points": 1481.0
+        "name": "Diane Parry",
+        "points": 1541.0
       },
       {
         "rank": 33,
-        "name": "Maria Sakkari",
-        "points": 1462.0
+        "name": "Jasmine Paolini",
+        "points": 1528.0
       },
       {
         "rank": 34,
-        "name": "Nikola Bartunkova",
-        "points": 1352.0
+        "name": "Jelena Ostapenko",
+        "points": 1527.0
       },
       {
         "rank": 35,
-        "name": "Cristina Bucsa",
-        "points": 1349.0
+        "name": "Maria Sakkari",
+        "points": 1492.0
       },
       {
         "rank": 36,
+        "name": "Donna Vekic",
+        "points": 1325.0
+      },
+      {
+        "rank": 37,
         "name": "Peyton Stearns",
         "points": 1316.0
       },
       {
-        "rank": 37,
-        "name": "Talia Gibson",
-        "points": 1301.0
+        "rank": 38,
+        "name": "Cristina Bucsa",
+        "points": 1294.0
       },
       {
-        "rank": 38,
+        "rank": 39,
         "name": "Wang Xinyu",
         "points": 1288.0
       },
       {
-        "rank": 39,
-        "name": "Liudmila Samsonova",
-        "points": 1284.0
-      },
-      {
         "rank": 40,
-        "name": "Donna Vekic",
-        "points": 1278.0
+        "name": "Kimberly Birrell",
+        "points": 1280.0
       },
       {
         "rank": 41,
-        "name": "Kimberly Birrell",
-        "points": 1255.0
+        "name": "Talia Gibson",
+        "points": 1273.0
       },
       {
         "rank": 42,
-        "name": "Hailey Baptiste",
-        "points": 1230.0
+        "name": "Daria Snigur",
+        "points": 1254.0
       },
       {
         "rank": 43,
-        "name": "Barbora Krejcikova",
-        "points": 1198.0
+        "name": "Liudmila Samsonova",
+        "points": 1229.0
       },
       {
         "rank": 44,
-        "name": "Clara Tauson",
-        "points": 1184.0
-      },
-      {
-        "rank": 45,
         "name": "Yuliia Starodubtseva",
         "points": 1165.0
       },
       {
+        "rank": 45,
+        "name": "Hailey Baptiste",
+        "points": 1155.0
+      },
+      {
         "rank": 46,
-        "name": "Daria Snigur",
-        "points": 1163.0
+        "name": "Barbora Krejcikova",
+        "points": 1134.0
       },
       {
         "rank": 47,
-        "name": "Oleksandra Oliynykova",
-        "points": 1126.0
+        "name": "Janice Tjen",
+        "points": 1125.0
       },
       {
         "rank": 48,
-        "name": "Magdalena Frech",
-        "points": 1120.0
+        "name": "Anhelina Kalinina",
+        "points": 1107.0
       },
       {
         "rank": 49,
-        "name": "Janice Tjen",
-        "points": 1120.0
+        "name": "Karolina Pliskova",
+        "points": 1105.0
       },
       {
         "rank": 50,
-        "name": "Anhelina Kalinina",
-        "points": 1112.0
+        "name": "Tamara Korpatsch",
+        "points": 1086.0
       },
       {
         "rank": 51,
-        "name": "Karolina Pliskova",
-        "points": 1106.0
+        "name": "Oleksandra Oliynykova",
+        "points": 1082.0
       },
       {
         "rank": 52,
         "name": "Mayar Sherif",
-        "points": 1105.0
+        "points": 1077.0
       },
       {
         "rank": 53,
-        "name": "Tamara Korpatsch",
-        "points": 1091.0
+        "name": "Clara Tauson",
+        "points": 1065.0
       },
       {
         "rank": 54,
-        "name": "Zheng Qinwen",
-        "points": 1083.0
-      },
-      {
-        "rank": 55,
-        "name": "Katerina Siniakova",
-        "points": 1075.0
-      },
-      {
-        "rank": 56,
         "name": "Katie Boulter",
         "points": 1062.0
       },
       {
+        "rank": 55,
+        "name": "Lilli Tagger",
+        "points": 1054.0
+      },
+      {
+        "rank": 56,
+        "name": "Magdalena Frech",
+        "points": 1045.0
+      },
+      {
         "rank": 57,
-        "name": "Zhang Shuai",
-        "points": 1055.0
+        "name": "Elena-Gabriela Ruse",
+        "points": 1033.0
       },
       {
         "rank": 58,
-        "name": "Zeynep Sonmez",
-        "points": 1052.0
+        "name": "Paula Badosa",
+        "points": 1023.0
       },
       {
         "rank": 59,
-        "name": "Paula Badosa",
-        "points": 1052.0
+        "name": "Zeynep Sonmez",
+        "points": 1022.0
       },
       {
         "rank": 60,
-        "name": "Jaqueline Cristian",
-        "points": 1051.0
+        "name": "Lanlana Tararudee",
+        "points": 1022.0
       }
     ]
   },
   "advancedMatrix": [
-    {
-      "matchup": "Baltimore Ravens vs. Cleveland Browns",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
     {
       "matchup": "Dallas Cowboys vs. Green Bay Packers",
       "sport": "NFL",
@@ -3977,7 +3967,17 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Chicago Bears vs. Atlanta Falcons",
+      "matchup": "Houston Texans vs. Jacksonville Jaguars",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Tennessee Titans vs. Indianapolis Colts",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -3997,17 +3997,27 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Baltimore Ravens vs. Atlanta Falcons",
+      "matchup": "Carolina Panthers vs. Philadelphia Eagles",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 46.0,
-      "handle": 44.0,
-      "advancedScore": 61.5
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
     },
     {
-      "matchup": "Houston Texans vs. Jacksonville Jaguars",
+      "matchup": "New Orleans Saints vs. New York Giants",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
+    },
+    {
+      "matchup": "Pittsburgh Steelers vs. Tampa Bay Buccaneers",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -4027,7 +4037,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Los Angeles Chargers vs. Kansas City Chiefs",
+      "matchup": "Buffalo Bills vs. Las Vegas Raiders",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -4057,37 +4067,17 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Carolina Panthers vs. Philadelphia Eagles",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
-      "matchup": "Pittsburgh Steelers vs. Tampa Bay Buccaneers",
-      "sport": "NFL",
-      "period": "fulltime",
-      "homeRecord": null,
-      "awayRecord": null,
-      "tickets": null,
-      "handle": null,
-      "advancedScore": 50.0
-    },
-    {
       "matchup": "Buffalo Bills vs. Los Angeles Rams",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 21.0,
-      "handle": 25.0,
-      "advancedScore": 57.5
+      "handle": 21.0,
+      "advancedScore": 53.5
     },
     {
-      "matchup": "Tennessee Titans vs. Indianapolis Colts",
+      "matchup": "Los Angeles Chargers vs. Kansas City Chiefs",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -4097,7 +4087,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "Buffalo Bills vs. Las Vegas Raiders",
+      "matchup": "Baltimore Ravens vs. Cleveland Browns",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -4107,7 +4097,7 @@
       "advancedScore": 50.0
     },
     {
-      "matchup": "New Orleans Saints vs. New York Giants",
+      "matchup": "Chicago Bears vs. Atlanta Falcons",
       "sport": "NFL",
       "period": "fulltime",
       "homeRecord": null,
@@ -4115,6 +4105,16 @@
       "tickets": null,
       "handle": null,
       "advancedScore": 50.0
+    },
+    {
+      "matchup": "Baltimore Ravens vs. Atlanta Falcons",
+      "sport": "NFL",
+      "period": "fulltime",
+      "homeRecord": null,
+      "awayRecord": null,
+      "tickets": 47.0,
+      "handle": 46.0,
+      "advancedScore": 60.0
     },
     {
       "matchup": "Chicago Bears vs. Green Bay Packers",
@@ -4232,9 +4232,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 52.0,
-      "handle": 48.0,
-      "advancedScore": 59.0
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
     },
     {
       "matchup": "Tampa Bay Buccaneers vs. Dallas Cowboys",
@@ -4712,9 +4712,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 52.0,
-      "handle": 48.0,
-      "advancedScore": 59.0
+      "tickets": null,
+      "handle": null,
+      "advancedScore": 50.0
     },
     {
       "matchup": "Arizona Cardinals vs. Detroit Lions",
@@ -4732,9 +4732,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 46.0,
-      "handle": 44.0,
-      "advancedScore": 57.0
+      "tickets": 47.0,
+      "handle": 46.0,
+      "advancedScore": 56.5
     },
     {
       "matchup": "Denver Broncos vs. Seattle Seahawks",

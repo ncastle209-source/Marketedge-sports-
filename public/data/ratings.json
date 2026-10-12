@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T00:20:48.380089+00:00",
+  "pulled_at": "2026-10-12T06:24:42.196658+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -175,6 +175,16 @@
         "rating": 4.1,
         "source": "espn-nfl-diff"
       },
+      "baltimore-ravens": {
+        "name": "Baltimore Ravens",
+        "rating": 2.7,
+        "source": "espn-nfl-diff"
+      },
+      "ravens": {
+        "name": "Baltimore Ravens",
+        "rating": 2.7,
+        "source": "espn-nfl-diff"
+      },
       "jacksonville-jaguars": {
         "name": "Jacksonville Jaguars",
         "rating": 5.3,
@@ -183,16 +193,6 @@
       "jaguars": {
         "name": "Jacksonville Jaguars",
         "rating": 5.3,
-        "source": "espn-nfl-diff"
-      },
-      "baltimore-ravens": {
-        "name": "Baltimore Ravens",
-        "rating": 2.0,
-        "source": "espn-nfl-diff"
-      },
-      "ravens": {
-        "name": "Baltimore Ravens",
-        "rating": 2.0,
         "source": "espn-nfl-diff"
       },
       "buffalo-bills": {
@@ -412,12 +412,12 @@
       },
       "atlanta-falcons": {
         "name": "Atlanta Falcons",
-        "rating": 0.4,
+        "rating": -0.3,
         "source": "espn-nfl-diff"
       },
       "falcons": {
         "name": "Atlanta Falcons",
-        "rating": 0.4,
+        "rating": -0.3,
         "source": "espn-nfl-diff"
       },
       "phi": {
