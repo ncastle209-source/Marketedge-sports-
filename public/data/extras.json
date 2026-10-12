@@ -33,7 +33,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 68,
+      "temp": 67,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -41,7 +41,7 @@
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=2&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=1&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -194,7 +194,7 @@
       "league": "ncaaf",
       "name": "OSU @ IU",
       "temp": 51,
-      "condition": "4",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -233,7 +233,7 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 68,
+      "temp": 70,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -253,8 +253,8 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 63,
-      "condition": "4",
+      "temp": 61,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -273,8 +273,8 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 46,
-      "condition": "3",
+      "temp": 49,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -293,7 +293,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ UGA",
-      "temp": 68,
+      "temp": 67,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -313,8 +313,8 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 61,
-      "condition": "2",
+      "temp": 63,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -333,7 +333,7 @@
     {
       "league": "ncaaf",
       "name": "MIZ @ MISS",
-      "temp": 66,
+      "temp": 67,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -353,7 +353,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 57,
+      "temp": 56,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -373,7 +373,7 @@
     {
       "league": "ncaaf",
       "name": "FSU @ MIA",
-      "temp": 80,
+      "temp": 81,
       "condition": "36",
       "gust": null,
       "wind": {
@@ -393,7 +393,7 @@
     {
       "league": "ncaaf",
       "name": "ND @ BYU",
-      "temp": 70,
+      "temp": 69,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -413,7 +413,7 @@
     {
       "league": "ncaaf",
       "name": "WIS @ UCLA",
-      "temp": 93,
+      "temp": 92,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -421,7 +421,7 @@
         "rel": [
           "91103"
         ],
-        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=7&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=6&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -433,8 +433,8 @@
     {
       "league": "ncaaf",
       "name": "UK @ OU",
-      "temp": 59,
-      "condition": "2",
+      "temp": 61,
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -493,7 +493,7 @@
     {
       "league": "ncaaf",
       "name": "WAKE @ CAL",
-      "temp": 72,
+      "temp": 70,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -501,7 +501,7 @@
         "rel": [
           "94720"
         ],
-        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=7&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=6&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -513,12 +513,42 @@
     {
       "league": "mlb",
       "name": "LAD @ MIL",
-      "temp": null,
-      "condition": null,
+      "temp": 83,
+      "condition": "3",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "53295"
+        ],
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=16&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Milwaukee",
       "state": "Wisconsin"
+    },
+    {
+      "league": "mlb",
+      "name": "CLE @ TB",
+      "temp": 80,
+      "condition": "34",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "33705"
+        ],
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "St. Petersburg",
+      "state": "Florida"
     }
   ],
   "injuries": {
@@ -675,6 +705,12 @@
       },
       {
         "team": null,
+        "player": "Michael Penix Jr.",
+        "status": "Questionable",
+        "detail": "Penix is scheduled to undergo an MRI on Monday after exiting Sunday's 30-23 overtime loss to the Ravens due to a rib injury, Adam Schefter of ESPN reports."
+      },
+      {
+        "team": null,
         "player": "Kyle Pitts Sr.",
         "status": "Active",
         "detail": "Pitts caught five of six targets for 42 yards and a touchdown in Sunday's 30-23 overtime loss to the Ravens."
@@ -696,12 +732,6 @@
         "player": "Bijan Robinson",
         "status": "Active",
         "detail": "Robinson rushed 17 times for 86 yards while catching four of seven targets for 32 yards in Sunday's 30-23 overtime loss to the Ravens."
-      },
-      {
-        "team": null,
-        "player": "Michael Penix Jr.",
-        "status": "Questionable",
-        "detail": "Penix (ribs) was listed as questionable to return in overtime of Sunday's game against the Ravens, per Tori McElhaney of the Falcons' official site, and Penix subsequently didn't return to the 30-23 overtime loss."
       },
       {
         "team": null,
@@ -1155,7 +1185,7 @@
         "team": null,
         "player": "Spencer Strider",
         "status": "60-Day-IL",
-        "detail": "Atlanta general manager Alex Anthopoulos said Sunday that Strider (elbow) will be a rotation option in 2027, but the organization doesn't plan to count on him to be able to fill that role across the full-season schedule, Mark Bowman of MLB.com reports."
+        "detail": "Atlanta general manager Alex Anthopoulos said Sunday that Strider (elbow) will be a rotation option in 2027, but the organization won't count on him to pitch a full schedule, Mark Bowman of MLB.com reports."
       },
       {
         "team": null,
@@ -1287,7 +1317,7 @@
         "team": null,
         "player": "Caleb Durbin",
         "status": "Out",
-        "detail": "The Red Sox announced Sunday that Durbin underwent a successful reconstructive surgery of the PIP joint in his left pinkie finger last week, Tim Healey of The Boston Globe reports."
+        "detail": "The Red Sox announced Sunday that Durbin underwent successful reconstructive surgery of the PIP joint in his left pinkie finger last week, Tim Healey of The Boston Globe reports."
       },
       {
         "team": null,
@@ -9822,7 +9852,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2673,
-    "gameFiles": 2560
+    "splitsKeys": 2684,
+    "gameFiles": 2571
   }
 }
