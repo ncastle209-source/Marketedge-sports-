@@ -1,114 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-23T07:32:16.594802+00:00",
-      "gameId": "ncaaf-msu-neb",
-      "matchup": "Michigan State vs. Nebraska",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 5.5,
-      "modelSpread": 4.5,
-      "modelEdge": 1.0,
-      "sharpSide": "Nebraska",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 4.5,
-      "clv": -1.0,
-      "tickets": 57.0,
-      "handle": 45.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-23T07:32:16.594802+00:00",
-      "gameId": "mlb-state-louis-cardinals-pittsburgh-pirates",
-      "matchup": "St. Louis Cardinals vs. Pittsburgh Pirates",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "sharp-t1",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -1.5,
-      "modelSpread": -5.06,
-      "modelEdge": 3.56,
-      "sharpSide": "Pittsburgh Pirates",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -1.5,
-      "clv": 0.0,
-      "tickets": 90.0,
-      "handle": 84.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-23T07:32:16.594802+00:00",
-      "gameId": "mlb-tampa-bay-rays-nyy",
-      "matchup": "Tampa Bay Rays vs. New York Yankees",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "sharp-t1",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -1.5,
-      "modelSpread": -4.56,
-      "modelEdge": 3.06,
-      "sharpSide": "New York Yankees",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -1.5,
-      "clv": 0.0,
-      "tickets": 70.0,
-      "handle": 31.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-23T07:32:16.594802+00:00",
-      "gameId": "mlb-cleveland-guardians-bos",
-      "matchup": "Cleveland Guardians vs. Boston Red Sox",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "sharp-t1",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -1.5,
-      "modelSpread": -6.34,
-      "modelEdge": 4.84,
-      "sharpSide": "Boston Red Sox",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -1.5,
-      "clv": 0.0,
-      "tickets": 69.0,
-      "handle": 64.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-23T07:32:16.704388+00:00",
       "gameId": "ncaaf-2h-neb-msu",
       "matchup": "Nebraska Cornhuskers vs. Michigan State Spartans",
@@ -14074,10 +13966,148 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-12T22:51:03.508156+00:00",
+      "gameId": "ncaaf-nd-byu",
+      "matchup": "Notre Dame Fighting Irish vs. BYU Cougars",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 10.0,
+      "modelSpread": 4.0,
+      "modelEdge": 6.0,
+      "sharpSide": "BYU Cougars",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 11.5,
+      "clv": 1.5,
+      "tickets": 65.0,
+      "handle": 69.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 68,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "84604"
+          ],
+          "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=6&hbhhour=17&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "2",
+        "city": "Provo"
+      },
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-12T22:51:03.508156+00:00",
+      "gameId": "ncaaf-byu-nd",
+      "matchup": "Brigham Young vs. Notre Dame",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 10.0,
+      "modelSpread": -9.0,
+      "modelEdge": 19.0,
+      "sharpSide": "Notre Dame",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 11.5,
+      "clv": 1.5,
+      "tickets": 65.0,
+      "handle": 69.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-12T22:51:03.806025+00:00",
+      "gameId": "ncaaf-2h-nd-byu",
+      "matchup": "Notre Dame Fighting Irish vs. BYU Cougars",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 10.0,
+      "modelSpread": 4.0,
+      "modelEdge": 6.0,
+      "sharpSide": "BYU Cougars",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 65.0,
+      "handle": 69.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 68,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "84604"
+          ],
+          "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=6&hbhhour=17&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "2",
+        "city": "Provo"
+      },
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-12T22:51:03.806025+00:00",
+      "gameId": "ncaaf-2h-byu-nd",
+      "matchup": "Brigham Young vs. Notre Dame",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 10.0,
+      "modelSpread": -9.0,
+      "modelEdge": 19.0,
+      "sharpSide": "Notre Dame",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 65.0,
+      "handle": 69.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-12T15:58:14.865985+00:00"
+  "updated": "2026-10-12T22:51:03.806025+00:00"
 }

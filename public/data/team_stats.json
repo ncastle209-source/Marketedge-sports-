@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T15:58:09.812041+00:00",
+  "pulled_at": "2026-10-12T22:50:51.912908+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -11225,41 +11225,300 @@
           "league": "mlb",
           "eventId": "849812",
           "name": "Los Angeles Dodgers at Milwaukee Brewers",
-          "status": "Scheduled",
+          "status": "In Progress",
           "start": "2026-10-12T21:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Los Angeles Dodgers",
-              "score": null,
+              "score": 4,
               "record": "0-1"
             },
             {
               "side": "home",
               "name": "Milwaukee Brewers",
-              "score": null,
+              "score": 3,
               "record": "1-0"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "849812",
+            "players": [
+              {
+                "player": "Will Smith",
+                "team": "Los Angeles Dodgers",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Alex Vesia",
+                "team": "Los Angeles Dodgers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Kyle Tucker",
+                "team": "Los Angeles Dodgers",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Max Muncy",
+                "team": "Los Angeles Dodgers",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Freddie Freeman",
+                "team": "Los Angeles Dodgers",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Tommy Edman",
+                "team": "Los Angeles Dodgers",
+                "ab": 1,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Shohei Ohtani",
+                "team": "Los Angeles Dodgers",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Teoscar Hern\u00e1ndez",
+                "team": "Los Angeles Dodgers",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Andy Pages",
+                "team": "Los Angeles Dodgers",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Mookie Betts",
+                "team": "Los Angeles Dodgers",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Roki Sasaki",
+                "team": "Los Angeles Dodgers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Yoshinobu Yamamoto",
+                "team": "Los Angeles Dodgers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.2",
+                "k": 1,
+                "er": 3
+              },
+              {
+                "player": "Cooper Pratt",
+                "team": "Milwaukee Brewers",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Logan Henderson",
+                "team": "Milwaukee Brewers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "4.0",
+                "k": 2,
+                "er": 3
+              },
+              {
+                "player": "Jackson Chourio",
+                "team": "Milwaukee Brewers",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Christian Yelich",
+                "team": "Milwaukee Brewers",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 2,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jake Bauers",
+                "team": "Milwaukee Brewers",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Sal Frelick",
+                "team": "Milwaukee Brewers",
+                "ab": 1,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Garrett Mitchell",
+                "team": "Milwaukee Brewers",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "David Hamilton",
+                "team": "Milwaukee Brewers",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "William Contreras",
+                "team": "Milwaukee Brewers",
+                "ab": 2,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Brice Turang",
+                "team": "Milwaukee Brewers",
+                "ab": 1,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Dustin May",
+                "team": "Milwaukee Brewers",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.1",
+                "k": 0,
+                "er": 0
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
           "eventId": "849820",
           "name": "Cleveland Guardians at Tampa Bay Rays",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-10-13T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cleveland Guardians",
-              "score": null,
+              "score": 0,
               "record": "0-0"
             },
             {
               "side": "home",
               "name": "Tampa Bay Rays",
-              "score": null,
+              "score": 0,
               "record": "0-0"
             }
           ],

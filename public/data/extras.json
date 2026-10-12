@@ -4,28 +4,78 @@
       "eventId": "849812",
       "home": "Milwaukee Brewers",
       "away": "Los Angeles Dodgers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Chris Segal",
+      "crew": [
+        {
+          "name": "Chris Segal",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Ryan Additon",
+          "type": "First Base"
+        },
+        {
+          "name": "Alan Porter",
+          "type": "Second Base"
+        },
+        {
+          "name": "David Rackley",
+          "type": "Third Base"
+        },
+        {
+          "name": "John Tumpane",
+          "type": "Left Field"
+        },
+        {
+          "name": "Edwin Moscoso",
+          "type": "Right Field"
+        }
+      ],
+      "status": "In Progress"
     },
     {
       "eventId": "849820",
       "home": "Tampa Bay Rays",
       "away": "Cleveland Guardians",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Nestor Ceja",
+      "crew": [
+        {
+          "name": "Nestor Ceja",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Bill Miller",
+          "type": "First Base"
+        },
+        {
+          "name": "Mark Ripperger",
+          "type": "Second Base"
+        },
+        {
+          "name": "Jordan Baker",
+          "type": "Third Base"
+        },
+        {
+          "name": "Chad Fairchild",
+          "type": "Left Field"
+        },
+        {
+          "name": "Adam Hamari",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849812,
-      "status": "S",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849812"
     },
     {
       "gamePk": 849820,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849820"
     }
   ],
@@ -33,7 +83,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LAR",
-      "temp": 67,
+      "temp": 65,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -194,7 +244,7 @@
       "league": "ncaaf",
       "name": "OSU @ IU",
       "temp": 51,
-      "condition": "3",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -233,7 +283,7 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 70,
+      "temp": 69,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -273,7 +323,7 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 49,
+      "temp": 47,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -293,7 +343,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ UGA",
-      "temp": 67,
+      "temp": 68,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -313,7 +363,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 63,
+      "temp": 62,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -333,7 +383,7 @@
     {
       "league": "ncaaf",
       "name": "MIZ @ MISS",
-      "temp": 67,
+      "temp": 68,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -393,7 +443,7 @@
     {
       "league": "ncaaf",
       "name": "ND @ BYU",
-      "temp": 69,
+      "temp": 68,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -413,7 +463,7 @@
     {
       "league": "ncaaf",
       "name": "WIS @ UCLA",
-      "temp": 92,
+      "temp": 93,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -453,7 +503,7 @@
     {
       "league": "ncaaf",
       "name": "OKST @ HOU",
-      "temp": 77,
+      "temp": 76,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -473,7 +523,7 @@
     {
       "league": "ncaaf",
       "name": "UTAH @ COLO",
-      "temp": 56,
+      "temp": 55,
       "condition": "36",
       "gust": null,
       "wind": {
@@ -494,7 +544,7 @@
       "league": "ncaaf",
       "name": "WAKE @ CAL",
       "temp": 70,
-      "condition": "34",
+      "condition": "35",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -513,15 +563,15 @@
     {
       "league": "mlb",
       "name": "LAD @ MIL",
-      "temp": 83,
-      "condition": "3",
+      "temp": 84,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "53295"
         ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/hourly-weather-forecast/46045_poi?day=1&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -533,8 +583,8 @@
     {
       "league": "mlb",
       "name": "CLE @ TB",
-      "temp": 80,
-      "condition": "34",
+      "temp": 81,
+      "condition": "33",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -553,6 +603,30 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Andrew Wingard",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Andrew Billings",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Starling Thomas V",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Chad Ryland",
+        "status": "Active",
+        "detail": "Ryland made all three of his extra-point attempts but missed his lone field-goal try during the Cardinals' 45-21 loss to the Lions on Sunday."
+      },
       {
         "team": null,
         "player": "Kendrick Bourne",
@@ -604,7 +678,7 @@
       {
         "team": null,
         "player": "Carson Beck",
-        "status": "Out",
+        "status": "Active",
         "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Lions."
       },
       {
@@ -615,27 +689,9 @@
       },
       {
         "team": null,
-        "player": "Starling Thomas V",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Andrew Wingard",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
         "player": "Karson Sharar",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Andrew Billings",
-        "status": "Out",
-        "detail": "inactive"
       },
       {
         "team": null,
@@ -699,15 +755,51 @@
       },
       {
         "team": null,
-        "player": "Chad Ryland",
-        "status": "Active",
-        "detail": "Ryland made his only field-goal attempt and went 3-for-3 on extra-point tries during Sunday's 36-24 loss to the Giants."
+        "player": "Michael Penix Jr.",
+        "status": "Questionable",
+        "detail": "The Falcons have optimism that Penix's rib injury isn't overly serious and that he'll be available to play Sunday against the Bears, Jonathan Jones and Josh Kendall of The Athletic report."
       },
       {
         "team": null,
-        "player": "Michael Penix Jr.",
-        "status": "Questionable",
-        "detail": "Penix is scheduled to undergo an MRI on Monday after exiting Sunday's 30-23 overtime loss to the Ravens due to a rib injury, Adam Schefter of ESPN reports."
+        "player": "Za'Darius Smith",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Jack Strand",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Ethan Onianwa",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Malcolm DeWalt IV",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Christian Harris",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Robert Longerbeam",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Nick Folk",
+        "status": "Active",
+        "detail": "Folk converted all five of his kicks (three field goals, two extra points) during Sunday's 30-23 overtime loss to the Ravens."
       },
       {
         "team": null,
@@ -754,38 +846,8 @@
       {
         "team": null,
         "player": "Cooper Rush",
-        "status": "Out",
+        "status": "Active",
         "detail": "Rush (coach's decision) is inactive for Sunday's game against the Ravens but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Ethan Onianwa",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Jack Strand",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Robert Longerbeam",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Malcolm DeWalt IV",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Christian Harris",
-        "status": "Out",
-        "detail": "inactive"
       },
       {
         "team": null,
@@ -798,12 +860,6 @@
         "player": "Yasir Abdullah",
         "status": "Injured Reserve",
         "detail": "The Falcons placed Abdullah (hamstring) on injured reserve Saturday, Tori McElhaney of the team's official site reports."
-      },
-      {
-        "team": null,
-        "player": "Za'Darius Smith",
-        "status": "Out",
-        "detail": "Smith (concussion/neck) has been downgraded to out for Sunday's game against the Ravens, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -849,9 +905,45 @@
       },
       {
         "team": null,
-        "player": "Jared Ivey",
+        "player": "Ja'Kobi Lane",
+        "status": "Injured Reserve",
+        "detail": "Head coach Jesse Minter said Monday that the Ravens could designate Lane (wrist) to return from injured reserve as soon as Wednesday, Jonas Shaffer of the Baltimore Banner reports."
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Out",
+        "detail": "Head coach Jesse Minter said Monday that Jackson is \"definitely doing better\" in his recovery from a sprained left ankle, Jamison Hensley of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Cam Jurgens",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Elijah Sarratt",
         "status": "Active",
         "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Aeneas Peebles",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Tyler Loop",
+        "status": "Active",
+        "detail": "Loop went 3-for-3 on field-goal attempts and made his lone extra-point try during the Ravens' 30-23 overtime win over the Falcons on Sunday."
       },
       {
         "team": null,
@@ -903,45 +995,9 @@
       },
       {
         "team": null,
-        "player": "Elijah Sarratt",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Aeneas Peebles",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Cam Jurgens",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
         "player": "John Simpson",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Ja'Kobi Lane",
-        "status": "Injured Reserve",
-        "detail": "Ravens coach Jesse Minter said Friday that Lane (wrist) is \"doing really well\" and \"has put himself in a great position to be ready to roll when the time permits.\""
       },
       {
         "team": null,
@@ -999,9 +1055,15 @@
       },
       {
         "team": null,
-        "player": "Justice Hill",
+        "player": "DJ Moore",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Trent Sherfield",
         "status": "Active",
-        "detail": "Hill rushed one time for three yards in Sunday's 24-18 win over the Titans. He added two catches for 22 yards on three targets."
+        "detail": "The Bills elevated Sherfield from the practice squad ahead of Monday's game against the Rams."
       },
       {
         "team": null,
@@ -1020,18 +1082,6 @@
         "player": "Christian Benford",
         "status": "Active",
         "detail": "Benford (toe) does not carry an injury designation into Monday night's game against the Rams, Joe Buscaglia of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Dee Alford",
-        "status": "Questionable",
-        "detail": "Alford (ankle) is listed as questionable for Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Ed Oliver",
-        "status": "Out",
-        "detail": "Oliver (knee) has been ruled out ahead of Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
       }
     ],
     "ncaaf": [
@@ -9852,7 +9902,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2684,
-    "gameFiles": 2571
+    "splitsKeys": 2685,
+    "gameFiles": 2572
   }
 }
