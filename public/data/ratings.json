@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T22:51:02.242082+00:00",
+  "pulled_at": "2026-10-13T10:59:39.785426+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -197,12 +197,12 @@
       },
       "buffalo-bills": {
         "name": "Buffalo Bills",
-        "rating": 2.0,
+        "rating": 2.3,
         "source": "espn-nfl-diff"
       },
       "bills": {
         "name": "Buffalo Bills",
-        "rating": 2.0,
+        "rating": 2.3,
         "source": "espn-nfl-diff"
       },
       "new-england-patriots": {
@@ -360,16 +360,6 @@
         "rating": -0.8,
         "source": "espn-nfl-diff"
       },
-      "chicago-bears": {
-        "name": "Chicago Bears",
-        "rating": 2.3,
-        "source": "espn-nfl-diff"
-      },
-      "bears": {
-        "name": "Chicago Bears",
-        "rating": 2.3,
-        "source": "espn-nfl-diff"
-      },
       "detroit-lions": {
         "name": "Detroit Lions",
         "rating": 1.6,
@@ -378,6 +368,16 @@
       "lions": {
         "name": "Detroit Lions",
         "rating": 1.6,
+        "source": "espn-nfl-diff"
+      },
+      "chicago-bears": {
+        "name": "Chicago Bears",
+        "rating": 2.3,
+        "source": "espn-nfl-diff"
+      },
+      "bears": {
+        "name": "Chicago Bears",
+        "rating": 2.3,
         "source": "espn-nfl-diff"
       },
       "seattle-seahawks": {
@@ -402,12 +402,12 @@
       },
       "los-angeles-rams": {
         "name": "Los Angeles Rams",
-        "rating": 0.2,
+        "rating": -0.1,
         "source": "espn-nfl-diff"
       },
       "rams": {
         "name": "Los Angeles Rams",
-        "rating": 0.2,
+        "rating": -0.1,
         "source": "espn-nfl-diff"
       },
       "atlanta-falcons": {

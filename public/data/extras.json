@@ -1,105 +1,22 @@
 {
   "umpires": [
     {
-      "eventId": "849812",
-      "home": "Milwaukee Brewers",
-      "away": "Los Angeles Dodgers",
-      "plateUmpire": "Chris Segal",
-      "crew": [
-        {
-          "name": "Chris Segal",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Ryan Additon",
-          "type": "First Base"
-        },
-        {
-          "name": "Alan Porter",
-          "type": "Second Base"
-        },
-        {
-          "name": "David Rackley",
-          "type": "Third Base"
-        },
-        {
-          "name": "John Tumpane",
-          "type": "Left Field"
-        },
-        {
-          "name": "Edwin Moscoso",
-          "type": "Right Field"
-        }
-      ],
-      "status": "In Progress"
-    },
-    {
-      "eventId": "849820",
+      "eventId": "849813",
       "home": "Tampa Bay Rays",
       "away": "Cleveland Guardians",
-      "plateUmpire": "Nestor Ceja",
-      "crew": [
-        {
-          "name": "Nestor Ceja",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Bill Miller",
-          "type": "First Base"
-        },
-        {
-          "name": "Mark Ripperger",
-          "type": "Second Base"
-        },
-        {
-          "name": "Jordan Baker",
-          "type": "Third Base"
-        },
-        {
-          "name": "Chad Fairchild",
-          "type": "Left Field"
-        },
-        {
-          "name": "Adam Hamari",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849812,
-      "status": "I",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849812"
-    },
-    {
-      "gamePk": 849820,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849820"
+      "gamePk": 849813,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849813"
     }
   ],
   "weather": [
-    {
-      "league": "nfl",
-      "name": "BUF @ LAR",
-      "temp": 65,
-      "condition": "4",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90301"
-        ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=1&hbhhour=17&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Inglewood",
-      "state": "CA"
-    },
     {
       "league": "nfl",
       "name": "TB @ DAL",
@@ -241,6 +158,16 @@
       "state": "GA"
     },
     {
+      "league": "nfl",
+      "name": "BUF @ LAR",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Inglewood",
+      "state": "CA"
+    },
+    {
       "league": "ncaaf",
       "name": "OSU @ IU",
       "temp": 51,
@@ -251,7 +178,7 @@
         "rel": [
           "47408"
         ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-in/47408/hourly-weather-forecast/53572_poi?day=6&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-in/47408/hourly-weather-forecast/53572_poi?day=5&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -264,14 +191,14 @@
       "league": "ncaaf",
       "name": "FLA @ TEX",
       "temp": 65,
-      "condition": "2",
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "78712"
         ],
-        "href": "http://www.accuweather.com/en/us/darrell-k-royal-texas-memorial-stadium-tx/78701/hourly-weather-forecast/53645_poi?day=6&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/darrell-k-royal-texas-memorial-stadium-tx/78701/hourly-weather-forecast/53645_poi?day=5&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -283,15 +210,15 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 69,
-      "condition": "1",
+      "temp": 67,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "70893"
         ],
-        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=6&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=5&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -303,15 +230,15 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 61,
-      "condition": "1",
+      "temp": 60,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "75205"
         ],
-        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=6&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=5&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -323,7 +250,7 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 47,
+      "temp": 48,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -331,7 +258,7 @@
         "rel": [
           "48824"
         ],
-        "href": "http://www.accuweather.com/en/us/spartan-stadium-mi/48823/hourly-weather-forecast/53594_poi?day=6&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/spartan-stadium-mi/48823/hourly-weather-forecast/53594_poi?day=5&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -343,7 +270,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ UGA",
-      "temp": 68,
+      "temp": 67,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -351,7 +278,7 @@
         "rel": [
           "30602"
         ],
-        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=6&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=5&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -371,7 +298,7 @@
         "rel": [
           "37916"
         ],
-        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=6&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=5&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -383,15 +310,15 @@
     {
       "league": "ncaaf",
       "name": "MIZ @ MISS",
-      "temp": 68,
-      "condition": "4",
+      "temp": 66,
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "38677"
         ],
-        "href": "http://www.accuweather.com/en/us/vaught-hemingway-stadium-ms/38677/hourly-weather-forecast/53600_poi?day=6&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/vaught-hemingway-stadium-ms/38677/hourly-weather-forecast/53600_poi?day=5&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -403,7 +330,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 56,
+      "temp": 57,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -411,7 +338,7 @@
         "rel": [
           "79401"
         ],
-        "href": "http://www.accuweather.com/en/us/jones-at-t-stadium-tx/79401/hourly-weather-forecast/53649_poi?day=6&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/jones-at-t-stadium-tx/79401/hourly-weather-forecast/53649_poi?day=5&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -424,14 +351,14 @@
       "league": "ncaaf",
       "name": "FSU @ MIA",
       "temp": 81,
-      "condition": "36",
+      "condition": "38",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "33056"
         ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=6&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=5&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -443,7 +370,7 @@
     {
       "league": "ncaaf",
       "name": "ND @ BYU",
-      "temp": 68,
+      "temp": 66,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -451,7 +378,7 @@
         "rel": [
           "84604"
         ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=6&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=5&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -463,7 +390,7 @@
     {
       "league": "ncaaf",
       "name": "WIS @ UCLA",
-      "temp": 93,
+      "temp": 89,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -471,7 +398,7 @@
         "rel": [
           "91103"
         ],
-        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=6&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=5&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -483,7 +410,7 @@
     {
       "league": "ncaaf",
       "name": "UK @ OU",
-      "temp": 61,
+      "temp": 60,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -491,7 +418,7 @@
         "rel": [
           "73019"
         ],
-        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/hourly-weather-forecast/53627_poi?day=6&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/hourly-weather-forecast/53627_poi?day=5&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -504,14 +431,14 @@
       "league": "ncaaf",
       "name": "OKST @ HOU",
       "temp": 76,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "77004"
         ],
-        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=6&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=5&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -523,15 +450,15 @@
     {
       "league": "ncaaf",
       "name": "UTAH @ COLO",
-      "temp": 55,
-      "condition": "36",
+      "temp": 57,
+      "condition": "35",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "80309"
         ],
-        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=6&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=5&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -544,14 +471,14 @@
       "league": "ncaaf",
       "name": "WAKE @ CAL",
       "temp": 70,
-      "condition": "35",
+      "condition": "33",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "94720"
         ],
-        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=6&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=5&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -563,46 +490,32 @@
     {
       "league": "mlb",
       "name": "LAD @ MIL",
-      "temp": 84,
-      "condition": "Mostly cloudy",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "53295"
-        ],
-        "href": "http://www.accuweather.com/en/us/american-family-field-wi/53202/current-weather/46045_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Milwaukee",
       "state": "Wisconsin"
     },
     {
       "league": "mlb",
       "name": "CLE @ TB",
-      "temp": 81,
-      "condition": "33",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "33705"
-        ],
-        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "St. Petersburg",
       "state": "Florida"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Tyler Allgeier",
+        "status": "Active",
+        "detail": "Allgeier rushed three times for seven yards and caught both of his targets for nine yards during Sunday's 45-21 loss to the Lions."
+      },
       {
         "team": null,
         "player": "Andrew Wingard",
@@ -749,15 +662,9 @@
       },
       {
         "team": null,
-        "player": "Cameron Robertson",
+        "player": "Brian Robinson Jr.",
         "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Michael Penix Jr.",
-        "status": "Questionable",
-        "detail": "The Falcons have optimism that Penix's rib injury isn't overly serious and that he'll be available to play Sunday against the Bears, Jonathan Jones and Josh Kendall of The Athletic report."
+        "detail": "Robinson handled seven carries for 16 yards and did not catch his only target during Sunday's 30-23 overtime loss versus the Ravens. He also returned two kickoffs for 61 return yards."
       },
       {
         "team": null,
@@ -800,6 +707,12 @@
         "player": "Nick Folk",
         "status": "Active",
         "detail": "Folk converted all five of his kicks (three field goals, two extra points) during Sunday's 30-23 overtime loss to the Ravens."
+      },
+      {
+        "team": null,
+        "player": "Michael Penix Jr.",
+        "status": "Questionable",
+        "detail": "Penix is scheduled to undergo an MRI on Monday after exiting Sunday's 30-23 overtime loss to the Ravens due to a rib injury, Adam Schefter of ESPN reports."
       },
       {
         "team": null,
@@ -899,9 +812,9 @@
       },
       {
         "team": null,
-        "player": "Jahan Dotson",
-        "status": "Active",
-        "detail": "Dotson caught two of three passes for 54 yards and a touchdown during the Falcons' 45-24 win over the Saints on Monday."
+        "player": "Cam Jurgens",
+        "status": "Out",
+        "detail": "Head coach Jesse Minter said Monday that Jurgens is in the \"finishing stages\" of the league's concussion protocol, Jamison Hensley of ESPN.com reports."
       },
       {
         "team": null,
@@ -914,12 +827,6 @@
         "player": "Lamar Jackson",
         "status": "Out",
         "detail": "Head coach Jesse Minter said Monday that Jackson is \"definitely doing better\" in his recovery from a sprained left ankle, Jamison Hensley of ESPN.com reports."
-      },
-      {
-        "team": null,
-        "player": "Cam Jurgens",
-        "status": "Out",
-        "detail": "out"
       },
       {
         "team": null,
@@ -1055,33 +962,33 @@
       },
       {
         "team": null,
-        "player": "DJ Moore",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
-        "player": "Trent Sherfield",
+        "player": "Dalton Kincaid",
         "status": "Active",
-        "detail": "The Bills elevated Sherfield from the practice squad ahead of Monday's game against the Rams."
+        "detail": "Kincaid brought in one of two targets for seven yards and recorded a two-point conversion catch in the Bills' 37-34 overtime win over the Rams on Monday night."
       },
       {
         "team": null,
-        "player": "Davison Igbinosun",
+        "player": "Khalil Shakir",
         "status": "Active",
-        "detail": "Even with Christian Benford (toe) back from injury, Igbinosun is still expected to have a role in the Bills' secondary for Monday's game against the Rams, Nick Suss of ESPN.com reports."
+        "detail": "Shakir brought in all three targets for 80 yards in the Bills' 37-34 overtime win over the Rams on Monday night."
       },
       {
         "team": null,
-        "player": "Landon Jackson",
+        "player": "Josh Allen",
+        "status": "Active",
+        "detail": "Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night."
+      },
+      {
+        "team": null,
+        "player": "James Cook III",
+        "status": "Active",
+        "detail": "Cook rushed 10 times for 121 yards and a touchdown and brought in his only target for seven yards in the Bills' 37-34 overtime win over the Rams on Monday night. He also committed two fumbles, losing one."
+      },
+      {
+        "team": null,
+        "player": "Spencer Brown",
         "status": "Questionable",
-        "detail": "Jackson (knee) is listed as questionable for Monday's game against the Rams, Joe Buscaglia of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Christian Benford",
-        "status": "Active",
-        "detail": "Benford (toe) does not carry an injury designation into Monday night's game against the Rams, Joe Buscaglia of The Athletic reports."
+        "detail": "Brown (back) has been ruled out for the remainder of Monday night's game versus the Rams."
       }
     ],
     "ncaaf": [
@@ -1878,7 +1785,7 @@
     ]
   },
   "closeArchive": {
-    "count": 449
+    "count": 469
   },
   "nflverse": [
     {
@@ -9824,18 +9731,11 @@
   },
   "pitchers": [
     {
-      "eventId": "849812",
-      "homeTeam": "Milwaukee Brewers",
-      "homePitcher": "Logan Henderson",
-      "awayTeam": "Los Angeles Dodgers",
-      "awayPitcher": "Yoshinobu Yamamoto"
-    },
-    {
-      "eventId": "849820",
+      "eventId": "849813",
       "homeTeam": "Tampa Bay Rays",
-      "homePitcher": "Drew Rasmussen",
+      "homePitcher": "Freddy Peralta",
       "awayTeam": "Cleveland Guardians",
-      "awayPitcher": "Foster Griffin"
+      "awayPitcher": "Parker Messick"
     }
   ],
   "tennis": {
@@ -9860,7 +9760,7 @@
           "status": "Retired"
         },
         {
-          "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+          "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
           "surface": null,
           "venue": null,
           "status": "Final"
@@ -9902,7 +9802,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2685,
-    "gameFiles": 2572
+    "splitsKeys": 2687,
+    "gameFiles": 2574
   }
 }
