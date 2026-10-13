@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-13T18:06:33.945064+00:00",
+  "pulled_at": "2026-10-13T23:04:41.420868+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -12191,19 +12191,19 @@
           "league": "mlb",
           "eventId": "849813",
           "name": "Cleveland Guardians at Tampa Bay Rays",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-10-14T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Cleveland Guardians",
-              "score": null,
+              "score": 0,
               "record": "1-0"
             },
             {
               "side": "home",
               "name": "Tampa Bay Rays",
-              "score": null,
+              "score": 0,
               "record": "0-1"
             }
           ],
