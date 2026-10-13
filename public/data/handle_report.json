@@ -38,7 +38,7 @@
       "source": "actionnetwork",
       "sport": "ncaaf",
       "ok": true,
-      "count": 59
+      "count": 62
     },
     {
       "source": "actionnetwork",
@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 87
+      "filled_this_step": 88
     },
     {
       "source": "covers",
@@ -144,7 +144,7 @@
       "source": "sportsbettingdime",
       "sport": "mlb",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "source": "sportsbettingdime",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 87,
+  "filled": 88,
   "still_missing": 604,
-  "spreads": 87
+  "spreads": 88
 }

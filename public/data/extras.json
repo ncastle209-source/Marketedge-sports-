@@ -190,7 +190,7 @@
     {
       "league": "ncaaf",
       "name": "FLA @ TEX",
-      "temp": 65,
+      "temp": 63,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -210,7 +210,7 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 67,
+      "temp": 65,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -230,7 +230,7 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 60,
+      "temp": 59,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -250,7 +250,7 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 48,
+      "temp": 47,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -290,7 +290,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 62,
+      "temp": 60,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -311,7 +311,7 @@
       "league": "ncaaf",
       "name": "MIZ @ MISS",
       "temp": 66,
-      "condition": "2",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -331,7 +331,7 @@
       "league": "ncaaf",
       "name": "ASU @ TTU",
       "temp": 57,
-      "condition": "4",
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -371,7 +371,7 @@
       "league": "ncaaf",
       "name": "ND @ BYU",
       "temp": 66,
-      "condition": "2",
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -430,8 +430,8 @@
     {
       "league": "ncaaf",
       "name": "OKST @ HOU",
-      "temp": 76,
-      "condition": "2",
+      "temp": 74,
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -489,21 +489,21 @@
     },
     {
       "league": "mlb",
-      "name": "LAD @ MIL",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Milwaukee",
-      "state": "Wisconsin"
-    },
-    {
-      "league": "mlb",
       "name": "CLE @ TB",
-      "temp": null,
-      "condition": null,
+      "temp": 83,
+      "condition": "34",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "33705"
+        ],
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "St. Petersburg",
       "state": "Florida"
     }
@@ -512,15 +512,15 @@
     "nfl": [
       {
         "team": null,
-        "player": "Tyler Allgeier",
-        "status": "Active",
-        "detail": "Allgeier rushed three times for seven yards and caught both of his targets for nine yards during Sunday's 45-21 loss to the Lions."
+        "player": "Andrew Wingard",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
-        "player": "Andrew Wingard",
-        "status": "Out",
-        "detail": "out"
+        "player": "Tyler Allgeier",
+        "status": "Active",
+        "detail": "Allgeier rushed three times for seven yards and caught both of his targets for nine yards during Sunday's 45-21 loss to the Lions."
       },
       {
         "team": null,
@@ -662,15 +662,15 @@
       },
       {
         "team": null,
-        "player": "Brian Robinson Jr.",
-        "status": "Active",
-        "detail": "Robinson handled seven carries for 16 yards and did not catch his only target during Sunday's 30-23 overtime loss versus the Ravens. He also returned two kickoffs for 61 return yards."
+        "player": "Za'Darius Smith",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
-        "player": "Za'Darius Smith",
-        "status": "Out",
-        "detail": "out"
+        "player": "Brian Robinson Jr.",
+        "status": "Active",
+        "detail": "Robinson handled seven carries for 16 yards and did not catch his only target during Sunday's 30-23 overtime loss versus the Ravens. He also returned two kickoffs for 61 return yards."
       },
       {
         "team": null,
@@ -812,27 +812,33 @@
       },
       {
         "team": null,
+        "player": "Andrew Vorhees",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
         "player": "Cam Jurgens",
-        "status": "Out",
-        "detail": "Head coach Jesse Minter said Monday that Jurgens is in the \"finishing stages\" of the league's concussion protocol, Jamison Hensley of ESPN.com reports."
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Trey Hendrickson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "questionable"
       },
       {
         "team": null,
         "player": "Ja'Kobi Lane",
         "status": "Injured Reserve",
         "detail": "Head coach Jesse Minter said Monday that the Ravens could designate Lane (wrist) to return from injured reserve as soon as Wednesday, Jonas Shaffer of the Baltimore Banner reports."
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Out",
-        "detail": "Head coach Jesse Minter said Monday that Jackson is \"definitely doing better\" in his recovery from a sprained left ankle, Jamison Hensley of ESPN.com reports."
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
-        "status": "Out",
-        "detail": "out"
       },
       {
         "team": null,
@@ -887,12 +893,6 @@
         "player": "Matt Hibner",
         "status": "Active",
         "detail": "Hibner (hand) has returned to action Sunday night against the Falcons, Jeff Zrebiec of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Andrew Vorhees",
-        "status": "Out",
-        "detail": "Vorhees (foot) is inactive for Sunday night's matchup with Atlanta."
       },
       {
         "team": null,
@@ -962,33 +962,33 @@
       },
       {
         "team": null,
-        "player": "Dalton Kincaid",
-        "status": "Active",
-        "detail": "Kincaid brought in one of two targets for seven yards and recorded a two-point conversion catch in the Bills' 37-34 overtime win over the Rams on Monday night."
-      },
-      {
-        "team": null,
-        "player": "Khalil Shakir",
-        "status": "Active",
-        "detail": "Shakir brought in all three targets for 80 yards in the Bills' 37-34 overtime win over the Rams on Monday night."
-      },
-      {
-        "team": null,
-        "player": "Josh Allen",
-        "status": "Active",
-        "detail": "Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night."
-      },
-      {
-        "team": null,
-        "player": "James Cook III",
-        "status": "Active",
-        "detail": "Cook rushed 10 times for 121 yards and a touchdown and brought in his only target for seven yards in the Bills' 37-34 overtime win over the Rams on Monday night. He also committed two fumbles, losing one."
-      },
-      {
-        "team": null,
-        "player": "Spencer Brown",
+        "player": "DJ Moore",
         "status": "Questionable",
-        "detail": "Brown (back) has been ruled out for the remainder of Monday night's game versus the Rams."
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Ed Oliver",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Joshua Palmer",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Landon Jackson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Dee Alford",
+        "status": "Questionable",
+        "detail": "questionable"
       }
     ],
     "ncaaf": [
@@ -1785,7 +1785,7 @@
     ]
   },
   "closeArchive": {
-    "count": 469
+    "count": 470
   },
   "nflverse": [
     {
@@ -9802,7 +9802,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2687,
-    "gameFiles": 2574
+    "splitsKeys": 2702,
+    "gameFiles": 2589
   }
 }
