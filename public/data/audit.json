@@ -1,60 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-26T12:24:50.086414+00:00",
-      "gameId": "mlb-tampa-bay-rays-philadelphia-phillies",
-      "matchup": "Tampa Bay Rays vs. Philadelphia Phillies",
-      "sport": "MLB",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 1.5,
-      "modelSpread": 2.06,
-      "modelEdge": -0.56,
-      "sharpSide": "Tampa Bay Rays",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": -1.5,
-      "clv": -3.0,
-      "tickets": 37.0,
-      "handle": 61.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-26T12:24:50.176118+00:00",
-      "gameId": "ncaaf-2h-csu-utsa",
-      "matchup": "Colorado State Rams vs. UTSA Roadrunners",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -14.0,
-      "modelSpread": -12.0,
-      "modelEdge": -2.0,
-      "sharpSide": "Colorado State Rams",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 32.0,
-      "handle": 20.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-26T12:24:50.176118+00:00",
       "gameId": "mlb-2h-arizona-diamondbacks-san-diego-padres",
       "matchup": "Arizona Diamondbacks vs. San Diego Padres",
@@ -14321,10 +14267,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-14T21:57:40.801217+00:00",
+      "gameId": "ncaaf-wash-pur",
+      "matchup": "Washington Huskies vs. Purdue Boilermakers",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -3.5,
+      "modelSpread": 3.0,
+      "modelEdge": -6.5,
+      "sharpSide": "Washington Huskies",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -2.5,
+      "clv": 1.0,
+      "tickets": 40.0,
+      "handle": 28.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-14T21:57:41.083951+00:00",
+      "gameId": "ncaaf-2h-wash-pur",
+      "matchup": "Washington Huskies vs. Purdue Boilermakers",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -3.5,
+      "modelSpread": 3.0,
+      "modelEdge": -6.5,
+      "sharpSide": "Washington Huskies",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 40.0,
+      "handle": 28.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-14T18:12:12.674714+00:00"
+  "updated": "2026-10-14T21:57:41.083951+00:00"
 }

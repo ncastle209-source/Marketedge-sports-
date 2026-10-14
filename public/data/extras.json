@@ -4,15 +4,40 @@
       "eventId": "849811",
       "home": "Los Angeles Dodgers",
       "away": "Milwaukee Brewers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Mark Wegner",
+      "crew": [
+        {
+          "name": "Mark Wegner",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Alan Porter",
+          "type": "First Base"
+        },
+        {
+          "name": "David Rackley",
+          "type": "Second Base"
+        },
+        {
+          "name": "John Tumpane",
+          "type": "Third Base"
+        },
+        {
+          "name": "Edwin Moscoso",
+          "type": "Left Field"
+        },
+        {
+          "name": "Chris Segal",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849811,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849811"
     }
   ],
@@ -20,8 +45,8 @@
     {
       "league": "nfl",
       "name": "SEA @ DEN",
-      "temp": 53,
-      "condition": "6",
+      "temp": 54,
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -50,7 +75,7 @@
     {
       "league": "nfl",
       "name": "CHI @ ATL",
-      "temp": 60,
+      "temp": 59,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -70,7 +95,7 @@
     {
       "league": "nfl",
       "name": "BAL @ CLE",
-      "temp": 59,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -90,7 +115,7 @@
     {
       "league": "nfl",
       "name": "TEN @ IND",
-      "temp": 57,
+      "temp": 58,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -110,7 +135,7 @@
     {
       "league": "nfl",
       "name": "NYJ @ NE",
-      "temp": 50,
+      "temp": 51,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -150,7 +175,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 56,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -170,7 +195,7 @@
     {
       "league": "nfl",
       "name": "PIT @ TB",
-      "temp": 79,
+      "temp": 75,
       "condition": "7",
       "gust": null,
       "wind": {
@@ -210,7 +235,7 @@
     {
       "league": "nfl",
       "name": "LAC @ KC",
-      "temp": 65,
+      "temp": 67,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -250,7 +275,7 @@
     {
       "league": "nfl",
       "name": "DAL @ GB",
-      "temp": 56,
+      "temp": 57,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -270,7 +295,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 71,
+      "temp": 69,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -310,7 +335,7 @@
     {
       "league": "ncaaf",
       "name": "FLA @ TEX",
-      "temp": 61,
+      "temp": 60,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -350,7 +375,7 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 56,
+      "temp": 57,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -410,7 +435,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 60,
+      "temp": 57,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -450,7 +475,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 56,
+      "temp": 57,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -470,7 +495,7 @@
     {
       "league": "ncaaf",
       "name": "FSU @ MIA",
-      "temp": 81,
+      "temp": 78,
       "condition": "38",
       "gust": null,
       "wind": {
@@ -490,7 +515,7 @@
     {
       "league": "ncaaf",
       "name": "ND @ BYU",
-      "temp": 68,
+      "temp": 67,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -530,7 +555,7 @@
     {
       "league": "ncaaf",
       "name": "UK @ OU",
-      "temp": 58,
+      "temp": 57,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -632,6 +657,12 @@
     "nfl": [
       {
         "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Questionable",
+        "detail": "Love (ankle) won't practice Wednesday, as head coach Mike LaFleur said the Cardinals want to \"get this ankle right and do it the right way,\" Theo Mackie of The Arizona Republic reports."
+      },
+      {
+        "team": null,
         "player": "Reggie Virgil",
         "status": "Active",
         "detail": "Virgil recorded two receptions for 29 yards on five targets in Sunday's 45-21 loss to the Lions."
@@ -646,7 +677,7 @@
         "team": null,
         "player": "James Conner",
         "status": "Injured Reserve",
-        "detail": "Conner (foot) is \"getting close\" to practicing, but the Cardinals aren't expected to open his 21-day evaluation window this week, John Gambadoro of Arizona Sports 98.7 FM reports."
+        "detail": "Conner (foot) is close to practicing, but the Cardinals aren't expected to open his 21-day evaluation window this week, John Gambadoro of Arizona Sports 98.7 FM reports."
       },
       {
         "team": null,
@@ -695,12 +726,6 @@
         "player": "Michael Wilson",
         "status": "Active",
         "detail": "Wilson brought in four of seven targets for 30 yards and completed his only pass attempt for seven yards in the Cardinals' 45-21 loss to the Lions on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Jeremiyah Love",
-        "status": "Active",
-        "detail": "Love rushed 12 times for 22 yards and failed to bring in his only target in the Cardinals' 45-21 loss to the Lions on Sunday."
       },
       {
         "team": null,
@@ -782,9 +807,15 @@
       },
       {
         "team": null,
-        "player": "Michael Penix Jr.",
+        "player": "C.J. Henderson",
         "status": "Questionable",
-        "detail": "Falcons head coach Kevin Stefanski said that Penix (ribs) will practice Wednesday but will be limited in some fashion, Marc Raimondi of ESPN.com reports."
+        "detail": "Henderson (groin) did not practice Wednesday, Marc Raimondi of ESPN.com reports."
+      },
+      {
+        "team": null,
+        "player": "Michael Penix Jr.",
+        "status": "Active",
+        "detail": "Penix (ribs) was a full practice participant Wednesday, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -863,12 +894,6 @@
         "player": "Bijan Robinson",
         "status": "Active",
         "detail": "Robinson rushed 17 times for 86 yards while catching four of seven targets for 32 yards in Sunday's 30-23 overtime loss to the Ravens."
-      },
-      {
-        "team": null,
-        "player": "C.J. Henderson",
-        "status": "Questionable",
-        "detail": "Henderson (groin) is questionable to return to Sunday night's contest against the Ravens, Josh Kendall of The Athletic reports."
       },
       {
         "team": null,
@@ -1102,7 +1127,7 @@
         "team": null,
         "player": "Keon Coleman",
         "status": "Active",
-        "detail": "Coleman caught a seven-yard touchdown pass (on two targets) during the Bills' 37-34 overtime win over the Rams on Monday."
+        "detail": "Coleman caught a seven-yard touchdown pass on two targets during the Bills' 37-34 overtime win over the Rams on Monday."
       },
       {
         "team": null,
@@ -9922,7 +9947,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2730,
-    "gameFiles": 2617
+    "splitsKeys": 2735,
+    "gameFiles": 2622
   }
 }
