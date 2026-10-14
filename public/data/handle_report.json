@@ -54,7 +54,7 @@
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 88
+      "filled_this_step": 89
     },
     {
       "source": "covers",
@@ -128,7 +128,7 @@
       "source": "vegasinsider",
       "sport": "nfl",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "vegasinsider",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 88,
-  "still_missing": 613,
-  "spreads": 88
+  "filled": 89,
+  "still_missing": 612,
+  "spreads": 89
 }

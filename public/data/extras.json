@@ -1,44 +1,19 @@
 {
   "umpires": [
     {
-      "eventId": "849813",
-      "home": "Tampa Bay Rays",
-      "away": "Cleveland Guardians",
-      "plateUmpire": "Carlos Torres",
-      "crew": [
-        {
-          "name": "Carlos Torres",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Mark Ripperger",
-          "type": "First Base"
-        },
-        {
-          "name": "Jordan Baker",
-          "type": "Second Base"
-        },
-        {
-          "name": "Chad Fairchild",
-          "type": "Third Base"
-        },
-        {
-          "name": "Adam Hamari",
-          "type": "Left Field"
-        },
-        {
-          "name": "Nestor Ceja",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "eventId": "849811",
+      "home": "Los Angeles Dodgers",
+      "away": "Milwaukee Brewers",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849813,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849813"
+      "gamePk": 849811,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849811"
     }
   ],
   "weather": [
@@ -515,15 +490,15 @@
     {
       "league": "mlb",
       "name": "CLE @ TB",
-      "temp": 83,
-      "condition": "33",
+      "temp": 82,
+      "condition": "Clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "33705"
         ],
-        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/hourly-weather-forecast/44502_poi?day=1&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/tropicana-field-fl/33712/current-weather/44502_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -687,6 +662,12 @@
       },
       {
         "team": null,
+        "player": "Jahan Dotson",
+        "status": "Active",
+        "detail": "Dotson caught two of four passes for 54 yards during the Falcons' 30-23 overtime loss to the Ravens on Sunday."
+      },
+      {
+        "team": null,
         "player": "Za'Darius Smith",
         "status": "Questionable",
         "detail": "questionable"
@@ -831,9 +812,9 @@
       },
       {
         "team": null,
-        "player": "Olamide Zaccheaus",
+        "player": "Rashod Bateman",
         "status": "Active",
-        "detail": "Zaccheaus failed to haul in his lone target during the Falcons' 45-24 win over the Saints on Monday."
+        "detail": "Bateman caught five of six passes for 62 yards during the Ravens' 30-23 overtime win over the Falcons on Sunday."
       },
       {
         "team": null,
@@ -933,12 +914,6 @@
       },
       {
         "team": null,
-        "player": "Rashod Bateman",
-        "status": "Active",
-        "detail": "Bateman (shoulder) was a full participant in Thursday's practice."
-      },
-      {
-        "team": null,
         "player": "Ronnie Stanley",
         "status": "Active",
         "detail": ""
@@ -987,6 +962,18 @@
       },
       {
         "team": null,
+        "player": "Ty Johnson",
+        "status": "Active",
+        "detail": "Johnson caught all four of his targets for 72 yards during the Bills' 37-34 overtime win over the Rams on Monday."
+      },
+      {
+        "team": null,
+        "player": "Keon Coleman",
+        "status": "Active",
+        "detail": "Coleman caught a seven-yard touchdown pass (on two targets) during the Bills' 37-34 overtime win over the Rams on Monday."
+      },
+      {
+        "team": null,
         "player": "DJ Moore",
         "status": "Questionable",
         "detail": "questionable"
@@ -1000,18 +987,6 @@
       {
         "team": null,
         "player": "Joshua Palmer",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Landon Jackson",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Dee Alford",
         "status": "Questionable",
         "detail": "questionable"
       }
@@ -1810,7 +1785,7 @@
     ]
   },
   "closeArchive": {
-    "count": 470
+    "count": 471
   },
   "nflverse": [
     {
@@ -9756,11 +9731,11 @@
   },
   "pitchers": [
     {
-      "eventId": "849813",
-      "homeTeam": "Tampa Bay Rays",
-      "homePitcher": "Freddy Peralta",
-      "awayTeam": "Cleveland Guardians",
-      "awayPitcher": "Parker Messick"
+      "eventId": "849811",
+      "homeTeam": "Los Angeles Dodgers",
+      "homePitcher": "Blake Snell",
+      "awayTeam": "Milwaukee Brewers",
+      "awayPitcher": "Robert Gasser"
     }
   ],
   "tennis": {
