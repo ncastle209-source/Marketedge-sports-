@@ -1,44 +1,32 @@
 {
   "umpires": [
     {
-      "eventId": "849811",
+      "eventId": "849818",
+      "home": "Cleveland Guardians",
+      "away": "Tampa Bay Rays",
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
+    },
+    {
+      "eventId": "849810",
       "home": "Los Angeles Dodgers",
       "away": "Milwaukee Brewers",
-      "plateUmpire": "Mark Wegner",
-      "crew": [
-        {
-          "name": "Mark Wegner",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Alan Porter",
-          "type": "First Base"
-        },
-        {
-          "name": "David Rackley",
-          "type": "Second Base"
-        },
-        {
-          "name": "John Tumpane",
-          "type": "Third Base"
-        },
-        {
-          "name": "Edwin Moscoso",
-          "type": "Left Field"
-        },
-        {
-          "name": "Chris Segal",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849811,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849811"
+      "gamePk": 849818,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849818"
+    },
+    {
+      "gamePk": 849810,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849810"
     }
   ],
   "weather": [
@@ -295,7 +283,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 69,
+      "temp": 66,
       "condition": "6",
       "gust": null,
       "wind": {
@@ -635,15 +623,15 @@
     {
       "league": "mlb",
       "name": "MIL @ LAD",
-      "temp": 79,
-      "condition": "1",
+      "temp": 78,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "90090"
         ],
-        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/hourly-weather-forecast/30524_poi?day=1&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/current-weather/30524_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -655,6 +643,18 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Shawn Bowman",
+        "status": "Active",
+        "detail": "Bowman was signed from the practice squad to the active roster Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Wydett Williams Jr.",
+        "status": "Out",
+        "detail": "out"
+      },
       {
         "team": null,
         "player": "Jeremiyah Love",
@@ -741,12 +741,6 @@
       },
       {
         "team": null,
-        "player": "Wydett Williams Jr.",
-        "status": "Questionable",
-        "detail": "Williams suffered a concussion Sunday versus the Lions, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
         "player": "Walter Nolen III",
         "status": "Active",
         "detail": "Nolen (calf) is active for Sunday's game against the Lions."
@@ -801,9 +795,9 @@
       },
       {
         "team": null,
-        "player": "Hunter Long",
-        "status": "Injured Reserve",
-        "detail": "The Cardinals placed Long (knee) on injured reserve Tuesday."
+        "player": "Divine Deablo",
+        "status": "Questionable",
+        "detail": "Deablo (hamstring) was a limited participant at practice Wednesday, Will McFadden of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -903,12 +897,6 @@
       },
       {
         "team": null,
-        "player": "Divine Deablo",
-        "status": "Active",
-        "detail": "Deablo (hamstring) is active for Sunday night's game against the Ravens, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Cooper Rush",
         "status": "Active",
         "detail": "Rush (coach's decision) is inactive for Sunday's game against the Ravens but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
@@ -957,15 +945,75 @@
       },
       {
         "team": null,
-        "player": "Lamar Jackson",
+        "player": "Trey Hendrickson",
+        "status": "Active",
+        "detail": "Hendrickson (finger) was a full participant at practice Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Nick Vannett",
         "status": "Questionable",
-        "detail": "Jackson (ankle) wasn't present for the media-access portion of Wednesday's practice, Cordell Woodland of 105.7 The Fan Baltimore reports."
+        "detail": "Vannett (knee) was a limited participant at practice Wednesday."
+      },
+      {
+        "team": null,
+        "player": "Matt Hibner",
+        "status": "Questionable",
+        "detail": "Hibner (hand) did not participate at practice Wednesday."
       },
       {
         "team": null,
         "player": "Ja'Kobi Lane",
         "status": "Injured Reserve",
-        "detail": "Lane (wrist) \"is expected to return to practice,\" and per head coach Jesse Minter \"has a shot\" to play Sunday against the Browns, Mike Garafolo of NFL Network reports."
+        "detail": "Lane (wrist) was a full participant in practice Wednesday after being designated for return from injured reserve."
+      },
+      {
+        "team": null,
+        "player": "Trenton Simpson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Roger Rosengarten",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "John Simpson",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Marlon Humphrey",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Emery Jones Jr.",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Teddye Buchanan",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Rashod Bateman",
+        "status": "Questionable",
+        "detail": "Bateman (shoulder) was a limited participant in Wednesday's practice."
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (ankle) was a non-participant in Wednesday's practice, Sam Cohn of The Baltimore Sun reports."
       },
       {
         "team": null,
@@ -975,19 +1023,7 @@
       },
       {
         "team": null,
-        "player": "Rashod Bateman",
-        "status": "Active",
-        "detail": "Bateman caught five of six passes for 62 yards during the Ravens' 30-23 overtime win over the Falcons on Sunday."
-      },
-      {
-        "team": null,
         "player": "Andrew Vorhees",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Trey Hendrickson",
         "status": "Questionable",
         "detail": "questionable"
       },
@@ -1047,24 +1083,6 @@
       },
       {
         "team": null,
-        "player": "Matt Hibner",
-        "status": "Active",
-        "detail": "Hibner (hand) has returned to action Sunday night against the Falcons, Jeff Zrebiec of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Marlon Humphrey",
-        "status": "Active",
-        "detail": "Humphrey (calf/hamstring) is active for Sunday night's matchup with Atlanta."
-      },
-      {
-        "team": null,
-        "player": "John Simpson",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Ronnie Stanley",
         "status": "Active",
         "detail": ""
@@ -1077,61 +1095,31 @@
       },
       {
         "team": null,
-        "player": "Durham Smythe",
-        "status": "Injured Reserve",
-        "detail": "The Ravens placed Smythe (Achilles) on their injured reserve list Wednesday, Ryan Mink of the Ravens' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Nick Vannett",
-        "status": "Active",
-        "detail": "The Ravens signed Vannett to the active roster off their practice squad Wednesday."
-      },
-      {
-        "team": null,
-        "player": "Roquan Smith",
-        "status": "Active",
-        "detail": "Smith recorded six total tackles (one solo) during Sunday's 24-18 win over the Titans."
-      },
-      {
-        "team": null,
-        "player": "Trenton Simpson",
-        "status": "Active",
-        "detail": "Simpson recorded nine total tackles (two solo) and an interception during Sunday's 24-18 win over Tennessee."
-      },
-      {
-        "team": null,
-        "player": "Devontez Walker",
-        "status": "Active",
-        "detail": "Walker caught one of his two targets for 19 yards during Baltimore's win over the Titans on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Ray Davis",
-        "status": "Active",
-        "detail": "Davis caught his lone target for 31 yards while adding two carries for two yards and three kickoff returns for 114 yards during the Bills' 37-34 overtime win over the Rams on Monday."
-      },
-      {
-        "team": null,
-        "player": "Mike Danna",
-        "status": "Active",
-        "detail": "Danna re-signed with the Bills on Tuesday."
-      },
-      {
-        "team": null,
         "player": "Ty Johnson",
-        "status": "Active",
-        "detail": "Johnson caught all four of his targets for 72 yards during the Bills' 37-34 overtime win over the Rams on Monday."
+        "status": "Questionable",
+        "detail": "Johnson (hamstring) was considered limited at the Bills' walkthrough practice Wednesday."
       },
       {
         "team": null,
-        "player": "Keon Coleman",
-        "status": "Active",
-        "detail": "Coleman caught a seven-yard touchdown pass on two targets during the Bills' 37-34 overtime win over the Rams on Monday."
+        "player": "Joshua Palmer",
+        "status": "Questionable",
+        "detail": "Palmer (shoulder) was listed as a limited participant at the Bills' walkthrough practice Wednesday."
       },
       {
         "team": null,
         "player": "DJ Moore",
+        "status": "Questionable",
+        "detail": "Moore (shoulder) was listed as a non-participant on Wednesday's estimated injury report."
+      },
+      {
+        "team": null,
+        "player": "Landon Jackson",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "T.J. Sanders",
         "status": "Questionable",
         "detail": "questionable"
       }
@@ -1930,7 +1918,7 @@
     ]
   },
   "closeArchive": {
-    "count": 471
+    "count": 472
   },
   "nflverse": [
     {
@@ -9876,11 +9864,18 @@
   },
   "pitchers": [
     {
-      "eventId": "849811",
+      "eventId": "849818",
+      "homeTeam": "Cleveland Guardians",
+      "homePitcher": "Gavin Williams",
+      "awayTeam": "Tampa Bay Rays",
+      "awayPitcher": "Griffin Jax"
+    },
+    {
+      "eventId": "849810",
       "homeTeam": "Los Angeles Dodgers",
-      "homePitcher": "Blake Snell",
+      "homePitcher": "Tyler Glasnow",
       "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": "Robert Gasser"
+      "awayPitcher": null
     }
   ],
   "tennis": {
@@ -9947,7 +9942,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2735,
-    "gameFiles": 2622
+    "splitsKeys": 2755,
+    "gameFiles": 2642
   }
 }

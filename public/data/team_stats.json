@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-14T21:57:34.717418+00:00",
+  "pulled_at": "2026-10-15T00:24:05.819107+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -749,26 +749,48 @@
     },
     "mlb": {
       "ok": true,
-      "count": 1,
+      "count": 2,
       "source": "statsapi.mlb.com",
       "games": [
         {
           "league": "mlb",
-          "eventId": "849811",
+          "eventId": "849818",
+          "name": "Tampa Bay Rays at Cleveland Guardians",
+          "status": "Scheduled",
+          "start": "2026-10-15T17:00:00Z",
+          "teams": [
+            {
+              "side": "away",
+              "name": "Tampa Bay Rays",
+              "score": null,
+              "record": "1-1"
+            },
+            {
+              "side": "home",
+              "name": "Cleveland Guardians",
+              "score": null,
+              "record": "1-1"
+            }
+          ],
+          "source": "statsapi.mlb.com"
+        },
+        {
+          "league": "mlb",
+          "eventId": "849810",
           "name": "Milwaukee Brewers at Los Angeles Dodgers",
-          "status": "Pre-Game",
-          "start": "2026-10-15T00:00:00Z",
+          "status": "Scheduled",
+          "start": "2026-10-16T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Milwaukee Brewers",
-              "score": 0,
+              "score": null,
               "record": "2-0"
             },
             {
               "side": "home",
               "name": "Los Angeles Dodgers",
-              "score": 0,
+              "score": null,
               "record": "0-2"
             }
           ],
