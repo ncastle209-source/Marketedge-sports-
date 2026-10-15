@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-15T00:24:05.819107+00:00",
+  "pulled_at": "2026-10-15T05:05:48.185532+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -785,13 +785,13 @@
               "side": "away",
               "name": "Milwaukee Brewers",
               "score": null,
-              "record": "2-0"
+              "record": "3-0"
             },
             {
               "side": "home",
               "name": "Los Angeles Dodgers",
               "score": null,
-              "record": "0-2"
+              "record": "0-3"
             }
           ],
           "source": "statsapi.mlb.com"

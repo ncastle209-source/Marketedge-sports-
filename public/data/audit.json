@@ -1,60 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-27T06:24:59.300847+00:00",
-      "gameId": "wnba-2h-washington-mystics-atlanta-dream",
-      "matchup": "Washington Mystics vs. Atlanta Dream",
-      "sport": "WNBA",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -6.5,
-      "modelSpread": -6.5,
-      "modelEdge": 0.0,
-      "sharpSide": "Washington Mystics",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 59.0,
-      "handle": 74.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-27T12:23:18.599568+00:00",
-      "gameId": "nfl-kc-miami-dolphins",
-      "matchup": "Kansas City Chiefs vs. Miami Dolphins",
-      "sport": "NFL",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": 0.0,
-      "lineTaken": 10.0,
-      "modelSpread": null,
-      "modelEdge": -1.5,
-      "sharpSide": "Kansas City Chiefs",
-      "reasons": [
-        "need model before Vegas Leverage NFL prices a play"
-      ],
-      "closeLine": 11.5,
-      "clv": 1.5,
-      "tickets": 13.0,
-      "handle": 33.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-27T12:23:18.756691+00:00",
       "gameId": "nfl-2h-kc-miami-dolphins",
       "matchup": "Kansas City Chiefs vs. Miami Dolphins",
@@ -14321,10 +14267,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-15T05:05:54.870123+00:00",
+      "gameId": "ncaaf-niu-wyo",
+      "matchup": "Northern Illinois Huskies vs. Wyoming Cowboys",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -7.5,
+      "modelSpread": -12.2,
+      "modelEdge": 4.7,
+      "sharpSide": "Wyoming Cowboys",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -7.0,
+      "clv": 0.5,
+      "tickets": 63.0,
+      "handle": 37.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-15T05:05:55.159408+00:00",
+      "gameId": "ncaaf-2h-niu-wyo",
+      "matchup": "Northern Illinois Huskies vs. Wyoming Cowboys",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -7.5,
+      "modelSpread": -12.2,
+      "modelEdge": 4.7,
+      "sharpSide": "Wyoming Cowboys",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 63.0,
+      "handle": 37.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-15T00:24:10.578396+00:00"
+  "updated": "2026-10-15T05:05:55.159408+00:00"
 }
