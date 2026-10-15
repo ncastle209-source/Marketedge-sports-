@@ -4,34 +4,34 @@
       "eventId": "849818",
       "home": "Cleveland Guardians",
       "away": "Tampa Bay Rays",
-      "plateUmpire": "Mark Ripperger",
+      "plateUmpire": "Bill Miller",
       "crew": [
         {
-          "name": "Mark Ripperger",
+          "name": "Bill Miller",
           "type": "Home Plate"
         },
         {
-          "name": "Chad Fairchild",
+          "name": "Jordan Baker",
           "type": "First Base"
         },
         {
-          "name": "Adam Hamari",
+          "name": "Chad Fairchild",
           "type": "Second Base"
         },
         {
-          "name": "Nestor Ceja",
+          "name": "Adam Hamari",
           "type": "Third Base"
         },
         {
-          "name": "Carlos Torres",
+          "name": "Nestor Ceja",
           "type": "Left Field"
         },
         {
-          "name": "Bill Miller",
+          "name": "Carlos Torres",
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "eventId": "849810",
@@ -45,7 +45,7 @@
   "savant": [
     {
       "gamePk": 849818,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849818"
     },
     {
@@ -58,7 +58,7 @@
     {
       "league": "nfl",
       "name": "SEA @ DEN",
-      "temp": 54,
+      "temp": 55,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -308,7 +308,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 66,
+      "temp": 67,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -628,7 +628,7 @@
     {
       "league": "ncaaf",
       "name": "WAKE @ CAL",
-      "temp": 72,
+      "temp": 71,
       "condition": "34",
       "gust": null,
       "wind": {
@@ -649,14 +649,14 @@
       "league": "mlb",
       "name": "TB @ CLE",
       "temp": 63,
-      "condition": "7",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "44115"
         ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/current-weather/53619_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -668,7 +668,7 @@
     {
       "league": "mlb",
       "name": "MIL @ LAD",
-      "temp": 90,
+      "temp": 89,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -990,6 +990,12 @@
       },
       {
         "team": null,
+        "player": "Lamar Jackson",
+        "status": "Questionable",
+        "detail": "Jackson (ankle) wasn't spotted at Thursday's practice, Jeff Zrebiec of The Athletic reports."
+      },
+      {
+        "team": null,
         "player": "Broderick Washington Jr.",
         "status": "Questionable",
         "detail": "Washington (ankle) was a limited participant at the Ravens' practice Wednesday."
@@ -1065,12 +1071,6 @@
         "player": "Rashod Bateman",
         "status": "Questionable",
         "detail": "Bateman (shoulder) was a limited participant in Wednesday's practice."
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Questionable",
-        "detail": "Jackson (ankle) was a non-participant in Wednesday's practice, Sam Cohn of The Baltimore Sun reports."
       },
       {
         "team": null,
@@ -1366,6 +1366,12 @@
       },
       {
         "team": null,
+        "player": "Cade Povich",
+        "status": "Out",
+        "detail": "Povich underwent surgery Wednesday to remove loose bodies from his left elbow, Matt Weyrich of The Baltimore Sun reports."
+      },
+      {
+        "team": null,
         "player": "Jordan Westburg",
         "status": "60-Day-IL",
         "detail": "Orioles president of baseball operations Mike Elias said Monday that Westburg (elbow) will begin a hitting progression this week, Rich Dubroff of BaltimoreBaseball.com reports."
@@ -1441,12 +1447,6 @@
         "player": "Cameron Foster",
         "status": "Day-To-Day",
         "detail": "Foster was removed from an appearance at Triple-A Norfolk on Thursday due to right shoulder discomfort, Roch Kubatko of MASNSports.com reports."
-      },
-      {
-        "team": null,
-        "player": "Zach Eflin",
-        "status": "60-Day-IL",
-        "detail": "Eflin underwent Tommy John surgery on his right elbow Wednesday, Andy Kostka of TheBaltimoreBanner.com reports."
       },
       {
         "team": null,
@@ -9926,7 +9926,7 @@
       "homeTeam": "Los Angeles Dodgers",
       "homePitcher": "Tyler Glasnow",
       "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": null
+      "awayPitcher": "Shane Drohan"
     }
   ],
   "tennis": {
@@ -9993,7 +9993,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2759,
-    "gameFiles": 2646
+    "splitsKeys": 2764,
+    "gameFiles": 2651
   }
 }

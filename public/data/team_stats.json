@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-15T15:19:19.417817+00:00",
+  "pulled_at": "2026-10-15T19:24:02.808859+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -756,23 +756,326 @@
           "league": "mlb",
           "eventId": "849818",
           "name": "Tampa Bay Rays at Cleveland Guardians",
-          "status": "Pre-Game",
+          "status": "In Progress",
           "start": "2026-10-15T17:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Tampa Bay Rays",
-              "score": 0,
+              "score": 2,
               "record": "1-1"
             },
             {
               "side": "home",
               "name": "Cleveland Guardians",
-              "score": 0,
+              "score": 3,
               "record": "1-1"
             }
           ],
-          "source": "statsapi.mlb.com"
+          "source": "statsapi.mlb.com",
+          "box": {
+            "eventId": "849818",
+            "players": [
+              {
+                "player": "Taylor Walls",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Tyler Wells",
+                "team": "Tampa Bay Rays",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "2.0",
+                "k": 4,
+                "er": 0
+              },
+              {
+                "player": "Steven Matz",
+                "team": "Tampa Bay Rays",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Richie Palacios",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jorge Mateo",
+                "team": "Tampa Bay Rays",
+                "ab": 0,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chandler Simpson",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 2,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jonny DeLuca",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Liam Hicks",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jonathan Aranda",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Griffin Jax",
+                "team": "Tampa Bay Rays",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "4.0",
+                "k": 2,
+                "er": 3
+              },
+              {
+                "player": "Yandy D\u00edaz",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Victor Mesa Jr.",
+                "team": "Tampa Bay Rays",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Junior Caminero",
+                "team": "Tampa Bay Rays",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Chase DeLauter",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Nathaniel Lowe",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 1,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Travis Bazzana",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Patrick Bailey",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Brayan Rocchio",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 1,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Petey Halpin",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 1,
+                "hr": 1,
+                "rbi": 2,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Jo Adell",
+                "team": "Cleveland Guardians",
+                "ab": 2,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Cade Smith",
+                "team": "Cleveland Guardians",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.0",
+                "k": 0,
+                "er": 0
+              },
+              {
+                "player": "Jos\u00e9 Ram\u00edrez",
+                "team": "Cleveland Guardians",
+                "ab": 2,
+                "h": 2,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Steven Kwan",
+                "team": "Cleveland Guardians",
+                "ab": 3,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Daniel Espino",
+                "team": "Cleveland Guardians",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Erik Sabrowski",
+                "team": "Cleveland Guardians",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "1.0",
+                "k": 1,
+                "er": 0
+              },
+              {
+                "player": "Gavin Williams",
+                "team": "Cleveland Guardians",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "5.0",
+                "k": 9,
+                "er": 2
+              },
+              {
+                "player": "Hunter Gaddis",
+                "team": "Cleveland Guardians",
+                "ab": null,
+                "h": null,
+                "hr": null,
+                "rbi": null,
+                "ip": "0.2",
+                "k": 0,
+                "er": 0
+              }
+            ],
+            "source": "statsapi.mlb.com"
+          }
         },
         {
           "league": "mlb",
