@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-15T19:24:02.808859+00:00",
+  "pulled_at": "2026-10-15T22:39:21.459063+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -756,20 +756,20 @@
           "league": "mlb",
           "eventId": "849818",
           "name": "Tampa Bay Rays at Cleveland Guardians",
-          "status": "In Progress",
+          "status": "Final",
           "start": "2026-10-15T17:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Tampa Bay Rays",
               "score": 2,
-              "record": "1-1"
+              "record": "1-2"
             },
             {
               "side": "home",
               "name": "Cleveland Guardians",
               "score": 3,
-              "record": "1-1"
+              "record": "2-1"
             }
           ],
           "source": "statsapi.mlb.com",
@@ -805,8 +805,8 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "1.0",
-                "k": 1,
+                "ip": "2.0",
+                "k": 2,
                 "er": 0
               },
               {
@@ -867,7 +867,7 @@
               {
                 "player": "Jonathan Aranda",
                 "team": "Tampa Bay Rays",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -889,7 +889,7 @@
               {
                 "player": "Yandy D\u00edaz",
                 "team": "Tampa Bay Rays",
-                "ab": 3,
+                "ab": 4,
                 "h": 1,
                 "hr": 0,
                 "rbi": 0,
@@ -900,7 +900,7 @@
               {
                 "player": "Victor Mesa Jr.",
                 "team": "Tampa Bay Rays",
-                "ab": 2,
+                "ab": 3,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -911,7 +911,18 @@
               {
                 "player": "Junior Caminero",
                 "team": "Tampa Bay Rays",
-                "ab": 3,
+                "ab": 4,
+                "h": 0,
+                "hr": 0,
+                "rbi": 0,
+                "ip": null,
+                "k": null,
+                "er": null
+              },
+              {
+                "player": "Angel Genao",
+                "team": "Cleveland Guardians",
+                "ab": 0,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -922,7 +933,7 @@
               {
                 "player": "Chase DeLauter",
                 "team": "Cleveland Guardians",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1003,14 +1014,14 @@
                 "h": null,
                 "hr": null,
                 "rbi": null,
-                "ip": "0.0",
-                "k": 0,
+                "ip": "1.1",
+                "k": 2,
                 "er": 0
               },
               {
                 "player": "Jos\u00e9 Ram\u00edrez",
                 "team": "Cleveland Guardians",
-                "ab": 2,
+                "ab": 3,
                 "h": 2,
                 "hr": 0,
                 "rbi": 0,
@@ -1021,7 +1032,7 @@
               {
                 "player": "Steven Kwan",
                 "team": "Cleveland Guardians",
-                "ab": 3,
+                "ab": 4,
                 "h": 0,
                 "hr": 0,
                 "rbi": 0,
@@ -1081,19 +1092,19 @@
           "league": "mlb",
           "eventId": "849810",
           "name": "Milwaukee Brewers at Los Angeles Dodgers",
-          "status": "Scheduled",
+          "status": "Pre-Game",
           "start": "2026-10-16T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Milwaukee Brewers",
-              "score": null,
+              "score": 0,
               "record": "3-0"
             },
             {
               "side": "home",
               "name": "Los Angeles Dodgers",
-              "score": null,
+              "score": 0,
               "record": "0-3"
             }
           ],

@@ -1,114 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-28T01:58:15.522509+00:00",
-      "gameId": "ncaaf-unc-nd",
-      "matchup": "North Carolina vs. Notre Dame",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "doggies",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 21.5,
-      "modelSpread": 21.5,
-      "modelEdge": 0.0,
-      "sharpSide": "North Carolina",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 21.5,
-      "clv": 0.0,
-      "tickets": 66.0,
-      "handle": 37.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T01:58:15.684962+00:00",
-      "gameId": "ncaaf-2h-nd-unc",
-      "matchup": "Notre Dame Fighting Irish vs. North Carolina Tar Heels",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "doggies",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 21.5,
-      "modelSpread": 20.5,
-      "modelEdge": 1.0,
-      "sharpSide": "North Carolina Tar Heels",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 67.0,
-      "handle": 38.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T01:58:15.684962+00:00",
-      "gameId": "ncaaf-2h-unc-nd",
-      "matchup": "North Carolina vs. Notre Dame",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "doggies",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 21.5,
-      "modelSpread": 21.5,
-      "modelEdge": 0.0,
-      "sharpSide": "North Carolina",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 67.0,
-      "handle": 38.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T08:24:43.432231+00:00",
-      "gameId": "ncaaf-mia-clem",
-      "matchup": "Miami Hurricanes vs. Clemson Tigers",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 17.0,
-      "modelSpread": 17.5,
-      "modelEdge": -0.5,
-      "sharpSide": "Miami Hurricanes",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 18.0,
-      "clv": 1.0,
-      "tickets": 53.0,
-      "handle": 41.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-28T08:24:43.432231+00:00",
       "gameId": "ncaaf-ala-msst",
       "matchup": "Alabama Crimson Tide vs. Mississippi State Bulldogs",
@@ -14321,10 +14213,148 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-15T22:39:27.738317+00:00",
+      "gameId": "ncaaf-tol-emu",
+      "matchup": "Toledo Rockets vs. Eastern Michigan Eagles",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 6.5,
+      "modelSpread": 6.6,
+      "modelEdge": -0.1,
+      "sharpSide": "Toledo Rockets",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 5.0,
+      "clv": -1.5,
+      "tickets": 62.0,
+      "handle": 50.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-15T22:39:27.738317+00:00",
+      "gameId": "ncaaf-msst-lsu",
+      "matchup": "Mississippi State Bulldogs vs. LSU Tigers",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -15.5,
+      "modelSpread": -11.6,
+      "modelEdge": -3.9,
+      "sharpSide": "Mississippi State Bulldogs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -11.5,
+      "clv": 4.0,
+      "tickets": 25.0,
+      "handle": 40.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 64,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "70893"
+          ],
+          "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=3&hbhhour=11&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "2",
+        "city": "Baton Rouge"
+      },
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-15T22:39:27.908498+00:00",
+      "gameId": "ncaaf-2h-tol-emu",
+      "matchup": "Toledo Rockets vs. Eastern Michigan Eagles",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 6.5,
+      "modelSpread": 6.6,
+      "modelEdge": -0.1,
+      "sharpSide": "Toledo Rockets",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 62.0,
+      "handle": 50.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-15T22:39:27.908498+00:00",
+      "gameId": "ncaaf-2h-msst-lsu",
+      "matchup": "Mississippi State Bulldogs vs. LSU Tigers",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -15.5,
+      "modelSpread": -11.6,
+      "modelEdge": -3.9,
+      "sharpSide": "Mississippi State Bulldogs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 25.0,
+      "handle": 40.0,
+      "plateUmpire": null,
+      "weather": {
+        "temp": 64,
+        "wind": {
+          "language": "en-US",
+          "rel": [
+            "70893"
+          ],
+          "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=3&hbhhour=11&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        },
+        "condition": "2",
+        "city": "Baton Rouge"
+      },
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-15T19:24:09.405729+00:00"
+  "updated": "2026-10-15T22:39:27.908498+00:00"
 }
