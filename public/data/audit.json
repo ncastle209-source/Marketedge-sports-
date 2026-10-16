@@ -1,60 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-28T08:24:43.432231+00:00",
-      "gameId": "ncaaf-clem-mia",
-      "matchup": "Clemson vs. Miami Fl",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 17.0,
-      "modelSpread": 18.0,
-      "modelEdge": -1.0,
-      "sharpSide": "Clemson",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 18.0,
-      "clv": 1.0,
-      "tickets": 53.0,
-      "handle": 41.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T08:24:43.518898+00:00",
-      "gameId": "ncaaf-2h-mia-clem",
-      "matchup": "Miami Hurricanes vs. Clemson Tigers",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 17.0,
-      "modelSpread": 17.5,
-      "modelEdge": -0.5,
-      "sharpSide": "Miami Hurricanes",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 53.0,
-      "handle": 41.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-28T08:24:43.518898+00:00",
       "gameId": "ncaaf-2h-ala-msst",
       "matchup": "Alabama Crimson Tide vs. Mississippi State Bulldogs",
@@ -14353,10 +14299,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-16T11:51:42.572897+00:00",
+      "gameId": "ncaaf-unlv-af",
+      "matchup": "UNLV Rebels vs. Air Force Falcons",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": -4.8,
+      "modelEdge": 3.3,
+      "sharpSide": "Air Force Falcons",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 1.5,
+      "clv": 3.0,
+      "tickets": 28.0,
+      "handle": 15.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-16T11:51:42.867757+00:00",
+      "gameId": "ncaaf-2h-unlv-af",
+      "matchup": "UNLV Rebels vs. Air Force Falcons",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": -1.5,
+      "modelSpread": -4.8,
+      "modelEdge": 3.3,
+      "sharpSide": "Air Force Falcons",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 28.0,
+      "handle": 15.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-16T06:15:21.338825+00:00"
+  "updated": "2026-10-16T11:51:42.867757+00:00"
 }
