@@ -623,8 +623,8 @@
       {
         "team": null,
         "player": "Jeremiyah Love",
-        "status": "Questionable",
-        "detail": "Love (ankle) remained sidelined at practice Thursday, Adam Schefter of ESPN reports."
+        "status": "Out",
+        "detail": "Love (ankle) has been ruled out for Sunday's game at the Rams, Darren Urban of the Cardinals' official site reports."
       },
       {
         "team": null,
@@ -772,6 +772,30 @@
       },
       {
         "team": null,
+        "player": "Michael Penix Jr.",
+        "status": "Active",
+        "detail": "Penix (ribs) doesn't have a designation for Sunday's game against the Bears, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Kendal Daniels",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Cameron Thomas",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "C.J. Henderson",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
         "player": "Za'Darius Smith",
         "status": "Questionable",
         "detail": "Smith (neck) was a limited participant at practice Thursday, Tori McElhaney of the Falcons' official site reports."
@@ -781,30 +805,6 @@
         "player": "Divine Deablo",
         "status": "Active",
         "detail": "Deablo (hamstring) was a full participant at practice Thursday, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Cameron Thomas",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Kendal Daniels",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Michael Penix Jr.",
-        "status": "Active",
-        "detail": "Penix (ribs) practiced without limitations again Thursday, Daniel Flick of the Atlanta Journal-Constitution reports."
-      },
-      {
-        "team": null,
-        "player": "C.J. Henderson",
-        "status": "Questionable",
-        "detail": "Henderson (groin) did not practice Wednesday, Marc Raimondi of ESPN.com reports."
       },
       {
         "team": null,
@@ -922,6 +922,18 @@
       },
       {
         "team": null,
+        "player": "Lamar Jackson",
+        "status": "Out",
+        "detail": "Head coach Jesse Minter said Friday that the Ravens have ruled out Jackson (ankle) for Sunday's game at Cleveland, Brian Wacker of The Baltimore Sun reports."
+      },
+      {
+        "team": null,
+        "player": "Zay Flowers",
+        "status": "Questionable",
+        "detail": "Flowers (toe) is practicing Friday after being added to the injury report Thursday, Jamison Hensley of ESPN.com reports."
+      },
+      {
+        "team": null,
         "player": "Nick Vannett",
         "status": "Active",
         "detail": "Vannett (knee) practiced in full Thursday."
@@ -955,18 +967,6 @@
         "player": "Rashod Bateman",
         "status": "Questionable",
         "detail": "Bateman (shoulder) didn't practice Thursday."
-      },
-      {
-        "team": null,
-        "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (toe) was a limited participant at Thursday's practice."
-      },
-      {
-        "team": null,
-        "player": "Lamar Jackson",
-        "status": "Questionable",
-        "detail": "Jackson (ankle) officially went down as a non-participant at Thursday's practice."
       },
       {
         "team": null,
@@ -1608,7 +1608,7 @@
         "team": null,
         "player": "Allisha Gray",
         "status": "Out",
-        "detail": "Gray (hand) participated in Thursday's practice, Annie Costabile of The Athletic reports."
+        "detail": "Gray (hand) was a full participant at Friday's practice, Meghan L. Hall of USA Today reports."
       },
       {
         "team": null,
