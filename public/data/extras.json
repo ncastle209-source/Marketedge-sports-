@@ -4,15 +4,40 @@
       "eventId": "849817",
       "home": "Cleveland Guardians",
       "away": "Tampa Bay Rays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Mark Ripperger",
+      "crew": [
+        {
+          "name": "Mark Ripperger",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Chad Fairchild",
+          "type": "First Base"
+        },
+        {
+          "name": "Adam Hamari",
+          "type": "Second Base"
+        },
+        {
+          "name": "Nestor Ceja",
+          "type": "Third Base"
+        },
+        {
+          "name": "Carlos Torres",
+          "type": "Left Field"
+        },
+        {
+          "name": "Bill Miller",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849817,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
     }
   ],
@@ -60,7 +85,7 @@
     {
       "league": "nfl",
       "name": "BAL @ CLE",
-      "temp": 58,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -80,7 +105,7 @@
     {
       "league": "nfl",
       "name": "TEN @ IND",
-      "temp": 57,
+      "temp": 58,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -120,7 +145,7 @@
     {
       "league": "nfl",
       "name": "NO @ NYG",
-      "temp": 55,
+      "temp": 56,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -260,7 +285,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 67,
+      "temp": 66,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -280,7 +305,7 @@
     {
       "league": "ncaaf",
       "name": "OSU @ IU",
-      "temp": 49,
+      "temp": 48,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -320,7 +345,7 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 63,
+      "temp": 64,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -360,7 +385,7 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 47,
+      "temp": 46,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -400,7 +425,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 57,
+      "temp": 58,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -420,7 +445,7 @@
     {
       "league": "ncaaf",
       "name": "MIZ @ MISS",
-      "temp": 63,
+      "temp": 64,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -440,7 +465,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 56,
+      "temp": 55,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -480,7 +505,7 @@
     {
       "league": "ncaaf",
       "name": "ND @ BYU",
-      "temp": 67,
+      "temp": 68,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -520,7 +545,7 @@
     {
       "league": "ncaaf",
       "name": "UK @ OU",
-      "temp": 57,
+      "temp": 58,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -540,7 +565,7 @@
     {
       "league": "ncaaf",
       "name": "OKST @ HOU",
-      "temp": 70,
+      "temp": 71,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -560,7 +585,7 @@
     {
       "league": "ncaaf",
       "name": "UTAH @ COLO",
-      "temp": 62,
+      "temp": 61,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -580,7 +605,7 @@
     {
       "league": "ncaaf",
       "name": "WAKE @ CAL",
-      "temp": 71,
+      "temp": 70,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -601,7 +626,7 @@
       "league": "mlb",
       "name": "TB @ CLE",
       "temp": 54,
-      "condition": "36",
+      "condition": "12",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -622,6 +647,36 @@
     "nfl": [
       {
         "team": null,
+        "player": "Blake Gillikin",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Devin Duvernay",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Andrew Wingard",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Zaven Collins",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
+        "player": "Budda Baker",
+        "status": "Questionable",
+        "detail": "questionable"
+      },
+      {
+        "team": null,
         "player": "Jeremiyah Love",
         "status": "Out",
         "detail": "Love (ankle) has been ruled out for Sunday's game at the Rams, Darren Urban of the Cardinals' official site reports."
@@ -637,18 +692,6 @@
         "player": "Kitan Crawford",
         "status": "Injured Reserve",
         "detail": "The Cardinals opened Crawford's (ankle) 21-day practice window Wednesday."
-      },
-      {
-        "team": null,
-        "player": "Andrew Wingard",
-        "status": "Questionable",
-        "detail": "Wingard (knee) did not participate in Wednesday's practice, Tyler Drake of ArizonaSports.com reports."
-      },
-      {
-        "team": null,
-        "player": "Devin Duvernay",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -751,24 +794,6 @@
         "player": "Karson Sharar",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Isaiah Adams",
-        "status": "Injured Reserve",
-        "detail": "The Cardinals placed Adams (ankle) on injured reserve Saturday, Darren Urban of the team's official site reports."
-      },
-      {
-        "team": null,
-        "player": "Dadrion Taylor-Demerson",
-        "status": "Active",
-        "detail": "Taylor-Demerson (back) does not have an injury designation against the Lions on Sunday, Zach Gershman of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Budda Baker",
-        "status": "Active",
-        "detail": "Baker tallied five tackles (two solo) and an interception during Arizona's loss versus the Giants on Sunday."
       },
       {
         "team": null,
@@ -922,15 +947,63 @@
       },
       {
         "team": null,
-        "player": "Lamar Jackson",
+        "player": "Ja'Kobi Lane",
+        "status": "Injured Reserve",
+        "detail": "Lane (wrist) is listed as questionable for Sunday's game at Cleveland."
+      },
+      {
+        "team": null,
+        "player": "Rashod Bateman",
+        "status": "Active",
+        "detail": "Bateman (shoulder) doesn't have an injury designation for Sunday's game at Cleveland."
+      },
+      {
+        "team": null,
+        "player": "Broderick Washington Jr.",
         "status": "Out",
-        "detail": "Head coach Jesse Minter said Friday that the Ravens have ruled out Jackson (ankle) for Sunday's game at Cleveland, Brian Wacker of The Baltimore Sun reports."
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "Cam Jurgens",
+        "status": "Out",
+        "detail": "out"
+      },
+      {
+        "team": null,
+        "player": "John Simpson",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Teddye Buchanan",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Trenton Simpson",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Mike Green",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
         "player": "Zay Flowers",
-        "status": "Questionable",
-        "detail": "Flowers (toe) is practicing Friday after being added to the injury report Thursday, Jamison Hensley of ESPN.com reports."
+        "status": "Active",
+        "detail": "Flowers (toe) is has been cleared to play for Sunday's game at Cleveland."
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Out",
+        "detail": "Jackson (ankle) isn't practicing Friday, making him unlikely to play Sunday at Cleveland, according to Brian Wacker of The Baltimore Sun."
       },
       {
         "team": null,
@@ -941,7 +1014,7 @@
       {
         "team": null,
         "player": "Matt Hibner",
-        "status": "Questionable",
+        "status": "Out",
         "detail": "Hibner (hand) did not practice Thursday."
       },
       {
@@ -952,33 +1025,9 @@
       },
       {
         "team": null,
-        "player": "Mike Green",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
         "player": "Marlon Humphrey",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Rashod Bateman",
-        "status": "Questionable",
-        "detail": "Bateman (shoulder) didn't practice Thursday."
-      },
-      {
-        "team": null,
-        "player": "Broderick Washington Jr.",
-        "status": "Questionable",
-        "detail": "Washington (ankle) was a limited participant at the Ravens' practice Wednesday."
-      },
-      {
-        "team": null,
-        "player": "Cam Jurgens",
-        "status": "Questionable",
-        "detail": "Jurgens (concussion) was a limited participant at the Ravens' practice Wednesday."
       },
       {
         "team": null,
@@ -988,31 +1037,7 @@
       },
       {
         "team": null,
-        "player": "Ja'Kobi Lane",
-        "status": "Injured Reserve",
-        "detail": "Lane (wrist) was a full participant in practice Wednesday after being designated for return from injured reserve."
-      },
-      {
-        "team": null,
-        "player": "Trenton Simpson",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "John Simpson",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
         "player": "Emery Jones Jr.",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Teddye Buchanan",
         "status": "Questionable",
         "detail": "questionable"
       },
@@ -1073,26 +1098,26 @@
       {
         "team": null,
         "player": "Ty Johnson",
-        "status": "Questionable",
-        "detail": "Johnson (hamstring) was a limited participant at practice Thursday."
+        "status": "Active",
+        "detail": "Johnson (hamstring) doesn't have an injury designation for Sunday's game at Las Vegas, Sam Warren of The Athletic reports."
       },
       {
         "team": null,
         "player": "Joshua Palmer",
         "status": "Questionable",
-        "detail": "Palmer (shoulder) was a limited participant at practice Thursday."
+        "detail": "Palmer (shoulder) and DJ Moore (shoulder) are listed as questionable for Sunday's game at Las Vegas, Sam Warren of The Athletic reports."
+      },
+      {
+        "team": null,
+        "player": "DJ Moore",
+        "status": "Questionable",
+        "detail": "Moore (shoulder) will be listed as questionable for Sunday's game at Las Vegas, Jay Skurski of The Buffalo News reports."
       },
       {
         "team": null,
         "player": "Spencer Brown",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "DJ Moore",
-        "status": "Questionable",
-        "detail": "Moore (shoulder) officially didn't practice Thursday."
       },
       {
         "team": null,
@@ -9930,7 +9955,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2769,
-    "gameFiles": 2656
+    "splitsKeys": 2773,
+    "gameFiles": 2660
   }
 }

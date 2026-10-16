@@ -128,7 +128,7 @@
       "source": "vegasinsider",
       "sport": "nfl",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "source": "vegasinsider",
@@ -170,6 +170,6 @@
     }
   ],
   "filled": 89,
-  "still_missing": 631,
+  "still_missing": 633,
   "spreads": 89
 }
