@@ -2,60 +2,6 @@
   "plays": [
     {
       "at": "2026-09-28T08:24:43.432231+00:00",
-      "gameId": "ncaaf-fla-miz",
-      "matchup": "Florida Gators vs. Missouri Tigers",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 4.5,
-      "modelSpread": 2.5,
-      "modelEdge": 2.0,
-      "sharpSide": "Missouri Tigers",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 4.5,
-      "clv": 0.0,
-      "tickets": 20.0,
-      "handle": 6.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T08:24:43.432231+00:00",
-      "gameId": "ncaaf-osu-iowa",
-      "matchup": "Ohio State Buckeyes vs. Iowa Hawkeyes",
-      "sport": "NCAAF",
-      "period": "fulltime",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 13.5,
-      "modelSpread": 14.0,
-      "modelEdge": -0.5,
-      "sharpSide": "Ohio State Buckeyes",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": 14.5,
-      "clv": 1.0,
-      "tickets": 49.0,
-      "handle": 63.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T08:24:43.432231+00:00",
       "gameId": "ncaaf-clem-mia",
       "matchup": "Clemson vs. Miami Fl",
       "sport": "NCAAF",
@@ -14353,10 +14299,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-16T06:15:21.034626+00:00",
+      "gameId": "mlb-tampa-bay-rays-cleveland-guardians",
+      "matchup": "Tampa Bay Rays vs. Cleveland Guardians",
+      "sport": "MLB",
+      "period": "fulltime",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 1.5,
+      "modelSpread": 3.13,
+      "modelEdge": -1.63,
+      "sharpSide": "Tampa Bay Rays",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": -1.5,
+      "clv": -3.0,
+      "tickets": 50.0,
+      "handle": 12.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-16T06:15:21.338825+00:00",
+      "gameId": "mlb-2h-tampa-bay-rays-cleveland-guardians",
+      "matchup": "Tampa Bay Rays vs. Cleveland Guardians",
+      "sport": "MLB",
+      "period": "2h",
+      "engine": "deficiency",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 1.5,
+      "modelSpread": 3.13,
+      "modelEdge": -1.63,
+      "sharpSide": "Tampa Bay Rays",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 50.0,
+      "handle": 12.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-16T01:07:19.154367+00:00"
+  "updated": "2026-10-16T06:15:21.338825+00:00"
 }

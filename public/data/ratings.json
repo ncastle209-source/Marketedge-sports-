@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-16T01:07:17.387861+00:00",
+  "pulled_at": "2026-10-16T06:15:19.494568+00:00",
   "books": {
     "mlb": 32,
     "nfl": 61,
@@ -205,6 +205,16 @@
         "rating": 2.3,
         "source": "espn-nfl-diff"
       },
+      "denver-broncos": {
+        "name": "Denver Broncos",
+        "rating": -1.1,
+        "source": "espn-nfl-diff"
+      },
+      "broncos": {
+        "name": "Denver Broncos",
+        "rating": -1.1,
+        "source": "espn-nfl-diff"
+      },
       "new-england-patriots": {
         "name": "New England Patriots",
         "rating": 1.6,
@@ -213,16 +223,6 @@
       "patriots": {
         "name": "New England Patriots",
         "rating": 1.6,
-        "source": "espn-nfl-diff"
-      },
-      "denver-broncos": {
-        "name": "Denver Broncos",
-        "rating": -1.4,
-        "source": "espn-nfl-diff"
-      },
-      "broncos": {
-        "name": "Denver Broncos",
-        "rating": -1.4,
         "source": "espn-nfl-diff"
       },
       "las-vegas-raiders": {
@@ -380,16 +380,6 @@
         "rating": 2.3,
         "source": "espn-nfl-diff"
       },
-      "seattle-seahawks": {
-        "name": "Seattle Seahawks",
-        "rating": 2.9,
-        "source": "espn-nfl-diff"
-      },
-      "seahawks": {
-        "name": "Seattle Seahawks",
-        "rating": 2.9,
-        "source": "espn-nfl-diff"
-      },
       "carolina-panthers": {
         "name": "Carolina Panthers",
         "rating": 1.2,
@@ -398,6 +388,16 @@
       "panthers": {
         "name": "Carolina Panthers",
         "rating": 1.2,
+        "source": "espn-nfl-diff"
+      },
+      "seattle-seahawks": {
+        "name": "Seattle Seahawks",
+        "rating": 2.6,
+        "source": "espn-nfl-diff"
+      },
+      "seahawks": {
+        "name": "Seattle Seahawks",
+        "rating": 2.6,
         "source": "espn-nfl-diff"
       },
       "los-angeles-rams": {

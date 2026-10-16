@@ -7,14 +7,6 @@
       "plateUmpire": null,
       "crew": [],
       "status": "Scheduled"
-    },
-    {
-      "eventId": "849808",
-      "home": "Los Angeles Dodgers",
-      "away": "Milwaukee Brewers",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
     }
   ],
   "savant": [
@@ -22,31 +14,16 @@
       "gamePk": 849817,
       "status": "S",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
-    },
-    {
-      "gamePk": 849808,
-      "status": "S",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849808"
     }
   ],
   "weather": [
     {
       "league": "nfl",
       "name": "SEA @ DEN",
-      "temp": 50,
-      "condition": "Clear",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "80204"
-        ],
-        "href": "http://www.accuweather.com/en/us/empower-field-at-mile-high-co/80203/current-weather/45295_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Denver",
       "state": "CO"
     },
@@ -71,7 +48,7 @@
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -91,7 +68,7 @@
         "rel": [
           "44114"
         ],
-        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -111,7 +88,7 @@
         "rel": [
           "46225"
         ],
-        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/hourly-weather-forecast/53571_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/hourly-weather-forecast/53571_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -131,7 +108,7 @@
         "rel": [
           "02035"
         ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -151,7 +128,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -171,7 +148,7 @@
         "rel": [
           "19103"
         ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -191,7 +168,7 @@
         "rel": [
           "33607"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=4&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=3&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -231,7 +208,7 @@
         "rel": [
           "64129"
         ],
-        "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/hourly-weather-forecast/43032_poi?day=4&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/hourly-weather-forecast/43032_poi?day=3&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -271,7 +248,7 @@
         "rel": [
           "54304"
         ],
-        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=4&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=3&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -311,7 +288,7 @@
         "rel": [
           "47408"
         ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-in/47408/hourly-weather-forecast/53572_poi?day=3&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-in/47408/hourly-weather-forecast/53572_poi?day=2&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -331,7 +308,7 @@
         "rel": [
           "78712"
         ],
-        "href": "http://www.accuweather.com/en/us/darrell-k-royal-texas-memorial-stadium-tx/78701/hourly-weather-forecast/53645_poi?day=3&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/darrell-k-royal-texas-memorial-stadium-tx/78701/hourly-weather-forecast/53645_poi?day=2&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -351,7 +328,7 @@
         "rel": [
           "70893"
         ],
-        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=3&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=2&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -371,7 +348,7 @@
         "rel": [
           "75205"
         ],
-        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=3&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=2&hbhhour=11&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -391,7 +368,7 @@
         "rel": [
           "48824"
         ],
-        "href": "http://www.accuweather.com/en/us/spartan-stadium-mi/48823/hourly-weather-forecast/53594_poi?day=3&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/spartan-stadium-mi/48823/hourly-weather-forecast/53594_poi?day=2&hbhhour=12&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -411,7 +388,7 @@
         "rel": [
           "30602"
         ],
-        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=3&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=2&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -431,7 +408,7 @@
         "rel": [
           "37916"
         ],
-        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=3&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/hourly-weather-forecast/53639_poi?day=2&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -451,7 +428,7 @@
         "rel": [
           "38677"
         ],
-        "href": "http://www.accuweather.com/en/us/vaught-hemingway-stadium-ms/38677/hourly-weather-forecast/53600_poi?day=3&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/vaught-hemingway-stadium-ms/38677/hourly-weather-forecast/53600_poi?day=2&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -471,7 +448,7 @@
         "rel": [
           "79401"
         ],
-        "href": "http://www.accuweather.com/en/us/jones-at-t-stadium-tx/79401/hourly-weather-forecast/53649_poi?day=3&hbhhour=14&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/jones-at-t-stadium-tx/79401/hourly-weather-forecast/53649_poi?day=2&hbhhour=14&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -491,7 +468,7 @@
         "rel": [
           "33056"
         ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=3&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=2&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -551,7 +528,7 @@
         "rel": [
           "73019"
         ],
-        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/hourly-weather-forecast/53627_poi?day=3&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/hourly-weather-forecast/53627_poi?day=2&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -571,7 +548,7 @@
         "rel": [
           "77004"
         ],
-        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=3&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=2&hbhhour=18&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -633,20 +610,10 @@
     {
       "league": "mlb",
       "name": "MIL @ LAD",
-      "temp": 85,
-      "condition": "Sunny",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90090"
-        ],
-        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/current-weather/30524_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Los Angeles",
       "state": "California"
     }
@@ -1105,6 +1072,12 @@
       },
       {
         "team": null,
+        "player": "Ty Johnson",
+        "status": "Questionable",
+        "detail": "Johnson (hamstring) was a limited participant at practice Thursday."
+      },
+      {
+        "team": null,
         "player": "Joshua Palmer",
         "status": "Questionable",
         "detail": "Palmer (shoulder) was a limited participant at practice Thursday."
@@ -1126,12 +1099,6 @@
         "player": "Landon Jackson",
         "status": "Active",
         "detail": "Jackson (knee) was a full participant in Wednesday's walkthrough practice."
-      },
-      {
-        "team": null,
-        "player": "Ed Oliver",
-        "status": "Questionable",
-        "detail": "The Bills listed Oliver (knee) as a  non-participant in Wednesday's walk-through practice."
       }
     ],
     "ncaaf": [
@@ -9885,13 +9852,6 @@
       "homePitcher": null,
       "awayTeam": "Tampa Bay Rays",
       "awayPitcher": "Nick Martinez"
-    },
-    {
-      "eventId": "849808",
-      "homeTeam": "Los Angeles Dodgers",
-      "homePitcher": null,
-      "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": null
     }
   ],
   "tennis": {
