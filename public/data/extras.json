@@ -40,7 +40,7 @@
     {
       "league": "nfl",
       "name": "CHI @ ATL",
-      "temp": 59,
+      "temp": 60,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -80,7 +80,7 @@
     {
       "league": "nfl",
       "name": "TEN @ IND",
-      "temp": 58,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -120,7 +120,7 @@
     {
       "league": "nfl",
       "name": "NO @ NYG",
-      "temp": 56,
+      "temp": 55,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -140,7 +140,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 56,
+      "temp": 55,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -220,7 +220,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LV",
-      "temp": 75,
+      "temp": 76,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -240,7 +240,7 @@
     {
       "league": "nfl",
       "name": "DAL @ GB",
-      "temp": 55,
+      "temp": 54,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -380,7 +380,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ UGA",
-      "temp": 69,
+      "temp": 70,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -400,7 +400,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 58,
+      "temp": 57,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -460,7 +460,7 @@
     {
       "league": "ncaaf",
       "name": "FSU @ MIA",
-      "temp": 79,
+      "temp": 78,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -560,7 +560,7 @@
     {
       "league": "ncaaf",
       "name": "UTAH @ COLO",
-      "temp": 61,
+      "temp": 62,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -580,7 +580,7 @@
     {
       "league": "ncaaf",
       "name": "WAKE @ CAL",
-      "temp": 70,
+      "temp": 71,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -600,22 +600,22 @@
     {
       "league": "mlb",
       "name": "TB @ CLE",
-      "temp": null,
-      "condition": null,
+      "temp": 54,
+      "condition": "36",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Cleveland",
       "state": "Ohio"
-    },
-    {
-      "league": "mlb",
-      "name": "MIL @ LAD",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Los Angeles",
-      "state": "California"
     }
   ],
   "injuries": {
@@ -9849,7 +9849,7 @@
     {
       "eventId": "849817",
       "homeTeam": "Cleveland Guardians",
-      "homePitcher": null,
+      "homePitcher": "Shawn Armstrong",
       "awayTeam": "Tampa Bay Rays",
       "awayPitcher": "Nick Martinez"
     }
@@ -9930,7 +9930,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2767,
-    "gameFiles": 2654
+    "splitsKeys": 2769,
+    "gameFiles": 2656
   }
 }
