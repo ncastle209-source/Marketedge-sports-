@@ -1,100 +1,47 @@
 {
   "umpires": [
     {
-      "eventId": "849818",
+      "eventId": "849817",
       "home": "Cleveland Guardians",
       "away": "Tampa Bay Rays",
-      "plateUmpire": "Bill Miller",
-      "crew": [
-        {
-          "name": "Bill Miller",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Jordan Baker",
-          "type": "First Base"
-        },
-        {
-          "name": "Chad Fairchild",
-          "type": "Second Base"
-        },
-        {
-          "name": "Adam Hamari",
-          "type": "Third Base"
-        },
-        {
-          "name": "Nestor Ceja",
-          "type": "Left Field"
-        },
-        {
-          "name": "Carlos Torres",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Final"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     },
     {
-      "eventId": "849810",
+      "eventId": "849808",
       "home": "Los Angeles Dodgers",
       "away": "Milwaukee Brewers",
-      "plateUmpire": "Ryan Additon",
-      "crew": [
-        {
-          "name": "Ryan Additon",
-          "type": "Home Plate"
-        },
-        {
-          "name": "David Rackley",
-          "type": "First Base"
-        },
-        {
-          "name": "John Tumpane",
-          "type": "Second Base"
-        },
-        {
-          "name": "Edwin Moscoso",
-          "type": "Third Base"
-        },
-        {
-          "name": "Chris Segal",
-          "type": "Left Field"
-        },
-        {
-          "name": "Mark Wegner",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849818,
-      "status": "F",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849818",
-      "playCount": 61,
-      "note": "full pitch-by-pitch available on Savant gamefeed; box play count stored",
-      "calledPitchesApprox": 0
+      "gamePk": 849817,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
     },
     {
-      "gamePk": 849810,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849810"
+      "gamePk": 849808,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849808"
     }
   ],
   "weather": [
     {
       "league": "nfl",
       "name": "SEA @ DEN",
-      "temp": 55,
-      "condition": "2",
+      "temp": 50,
+      "condition": "Clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "80204"
         ],
-        "href": "http://www.accuweather.com/en/us/empower-field-at-mile-high-co/80203/hourly-weather-forecast/45295_poi?day=1&hbhhour=18&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/empower-field-at-mile-high-co/80203/current-weather/45295_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -686,15 +633,15 @@
     {
       "league": "mlb",
       "name": "MIL @ LAD",
-      "temp": 89,
-      "condition": "1",
+      "temp": 85,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "90090"
         ],
-        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/hourly-weather-forecast/30524_poi?day=1&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/dodger-stadium-ca/90012/current-weather/30524_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -710,7 +657,7 @@
         "team": null,
         "player": "Jeremiyah Love",
         "status": "Questionable",
-        "detail": "Love (ankle) wasn't present at the portion of Thursday's practice open to the media, Theo Mackie of The Arizona Republic reports."
+        "detail": "Love (ankle) remained sidelined at practice Thursday, Adam Schefter of ESPN reports."
       },
       {
         "team": null,
@@ -858,6 +805,18 @@
       },
       {
         "team": null,
+        "player": "Za'Darius Smith",
+        "status": "Questionable",
+        "detail": "Smith (neck) was a limited participant at practice Thursday, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Divine Deablo",
+        "status": "Active",
+        "detail": "Deablo (hamstring) was a full participant at practice Thursday, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
         "player": "Cameron Thomas",
         "status": "Questionable",
         "detail": "questionable"
@@ -876,12 +835,6 @@
       },
       {
         "team": null,
-        "player": "Divine Deablo",
-        "status": "Active",
-        "detail": "Deablo (hamstring) was a limited participant at practice Wednesday, Will McFadden of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "C.J. Henderson",
         "status": "Questionable",
         "detail": "Henderson (groin) did not practice Wednesday, Marc Raimondi of ESPN.com reports."
@@ -891,12 +844,6 @@
         "player": "Jahan Dotson",
         "status": "Active",
         "detail": "Dotson caught two of four passes for 54 yards during the Falcons' 30-23 overtime loss to the Ravens on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Za'Darius Smith",
-        "status": "Questionable",
-        "detail": "questionable"
       },
       {
         "team": null,
@@ -1008,6 +955,18 @@
       },
       {
         "team": null,
+        "player": "Nick Vannett",
+        "status": "Active",
+        "detail": "Vannett (knee) practiced in full Thursday."
+      },
+      {
+        "team": null,
+        "player": "Matt Hibner",
+        "status": "Questionable",
+        "detail": "Hibner (hand) did not practice Thursday."
+      },
+      {
+        "team": null,
         "player": "Roger Rosengarten",
         "status": "Active",
         "detail": ""
@@ -1059,18 +1018,6 @@
         "player": "Trey Hendrickson",
         "status": "Active",
         "detail": "Hendrickson (finger) was a full participant at practice Wednesday."
-      },
-      {
-        "team": null,
-        "player": "Nick Vannett",
-        "status": "Active",
-        "detail": "Vannett (knee) was a limited participant at practice Wednesday."
-      },
-      {
-        "team": null,
-        "player": "Matt Hibner",
-        "status": "Questionable",
-        "detail": "Hibner (hand) did not participate at practice Wednesday."
       },
       {
         "team": null,
@@ -1158,33 +1105,33 @@
       },
       {
         "team": null,
+        "player": "Joshua Palmer",
+        "status": "Questionable",
+        "detail": "Palmer (shoulder) was a limited participant at practice Thursday."
+      },
+      {
+        "team": null,
+        "player": "Spencer Brown",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
         "player": "DJ Moore",
         "status": "Questionable",
-        "detail": "Moore (shoulder) didn't participate in the media-access portion of Thursday's practice, Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
+        "detail": "Moore (shoulder) officially didn't practice Thursday."
       },
       {
         "team": null,
         "player": "Landon Jackson",
         "status": "Active",
-        "detail": "Jackson (knee) was a full participant in Wednesday's walk-through practice."
+        "detail": "Jackson (knee) was a full participant in Wednesday's walkthrough practice."
       },
       {
         "team": null,
         "player": "Ed Oliver",
         "status": "Questionable",
         "detail": "The Bills listed Oliver (knee) as a  non-participant in Wednesday's walk-through practice."
-      },
-      {
-        "team": null,
-        "player": "Ty Johnson",
-        "status": "Questionable",
-        "detail": "Johnson (hamstring) was considered limited at the Bills' walkthrough practice Wednesday."
-      },
-      {
-        "team": null,
-        "player": "Joshua Palmer",
-        "status": "Questionable",
-        "detail": "Palmer (shoulder) was listed as a limited participant at the Bills' walkthrough practice Wednesday."
       }
     ],
     "ncaaf": [
@@ -9933,18 +9880,18 @@
   },
   "pitchers": [
     {
-      "eventId": "849818",
+      "eventId": "849817",
       "homeTeam": "Cleveland Guardians",
-      "homePitcher": "Gavin Williams",
+      "homePitcher": null,
       "awayTeam": "Tampa Bay Rays",
-      "awayPitcher": "Griffin Jax"
+      "awayPitcher": "Nick Martinez"
     },
     {
-      "eventId": "849810",
+      "eventId": "849808",
       "homeTeam": "Los Angeles Dodgers",
-      "homePitcher": "Tyler Glasnow",
+      "homePitcher": null,
       "awayTeam": "Milwaukee Brewers",
-      "awayPitcher": "Shane Drohan"
+      "awayPitcher": null
     }
   ],
   "tennis": {
