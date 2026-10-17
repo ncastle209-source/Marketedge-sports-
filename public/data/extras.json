@@ -1,44 +1,19 @@
 {
   "umpires": [
     {
-      "eventId": "849817",
+      "eventId": "849816",
       "home": "Cleveland Guardians",
       "away": "Tampa Bay Rays",
-      "plateUmpire": "Mark Ripperger",
-      "crew": [
-        {
-          "name": "Mark Ripperger",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Chad Fairchild",
-          "type": "First Base"
-        },
-        {
-          "name": "Adam Hamari",
-          "type": "Second Base"
-        },
-        {
-          "name": "Nestor Ceja",
-          "type": "Third Base"
-        },
-        {
-          "name": "Carlos Torres",
-          "type": "Left Field"
-        },
-        {
-          "name": "Bill Miller",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849817,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
+      "gamePk": 849816,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849816"
     }
   ],
   "weather": [
@@ -165,7 +140,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 55,
+      "temp": 56,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -625,26 +600,28 @@
     {
       "league": "mlb",
       "name": "TB @ CLE",
-      "temp": 54,
-      "condition": "12",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "44115"
-        ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Cleveland",
       "state": "Ohio"
     }
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Bam Knight",
+        "status": "Active",
+        "detail": "Knight will bump up the Cardinals' RB depth chart in Week 6 with Jeremiyah Love (ankle) ruled out, Tyler Drake of ArizonaSports.com reports."
+      },
+      {
+        "team": null,
+        "player": "Tyler Allgeier",
+        "status": "Active",
+        "detail": "Allgeier is poised for a leading role out of the Cardinals backfield Sunday at the Rams with Jeremiyah Love (ankle) sidelined in Week 6, Tyler Drake of ArizonaSports.com reports."
+      },
       {
         "team": null,
         "player": "Blake Gillikin",
@@ -719,12 +696,6 @@
       },
       {
         "team": null,
-        "player": "Tyler Allgeier",
-        "status": "Active",
-        "detail": "Allgeier rushed three times for seven yards and caught both of his targets for nine yards during Sunday's 45-21 loss to the Lions."
-      },
-      {
-        "team": null,
         "player": "Andrew Billings",
         "status": "Active",
         "detail": ""
@@ -791,9 +762,21 @@
       },
       {
         "team": null,
-        "player": "Karson Sharar",
+        "player": "Za'Darius Smith",
+        "status": "Questionable",
+        "detail": "Smith (neck) is listed as questionable for Sunday's game against the Bears, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "C.J. Henderson",
+        "status": "Out",
+        "detail": "Henderson (groin) has been ruled out for Sunday's game against the Bears, Tori McElhaney of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Tua Tagovailoa",
         "status": "Active",
-        "detail": ""
+        "detail": "With Michael Penix (ribs) cleared to play Sunday against the Bears, Tagovailoa will handle backup duties for the Falcons."
       },
       {
         "team": null,
@@ -812,18 +795,6 @@
         "player": "Cameron Thomas",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "C.J. Henderson",
-        "status": "Out",
-        "detail": "out"
-      },
-      {
-        "team": null,
-        "player": "Za'Darius Smith",
-        "status": "Questionable",
-        "detail": "Smith (neck) was a limited participant at practice Thursday, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -887,12 +858,6 @@
       },
       {
         "team": null,
-        "player": "Tua Tagovailoa",
-        "status": "Active",
-        "detail": "Tagovailoa completed two of three passes for 34 yards and an interception in relief of Michael Penix (ribs) in Sunday's 30-23 overtime loss to the Ravens."
-      },
-      {
-        "team": null,
         "player": "Drake London",
         "status": "Active",
         "detail": "London caught seven of 11 targets for 118 yards in Sunday's 30-23 overtime loss to the Ravens."
@@ -944,6 +909,18 @@
         "player": "Austin Hooper",
         "status": "Active",
         "detail": "Hooper caught his only target for nine yards during Monday's 45-24 win at New Orleans."
+      },
+      {
+        "team": null,
+        "player": "Matt Hibner",
+        "status": "Out",
+        "detail": "Hibner (hand) has been ruled out for Sunday's game against the Browns."
+      },
+      {
+        "team": null,
+        "player": "Tyler Huntley",
+        "status": "Active",
+        "detail": "Huntley will be the Ravens' starting QB against the Browns on Sunday after Lamar Jackson (ankle) was ruled out, Ryan Mink of the Ravens' official site reports."
       },
       {
         "team": null,
@@ -1013,12 +990,6 @@
       },
       {
         "team": null,
-        "player": "Matt Hibner",
-        "status": "Out",
-        "detail": "Hibner (hand) did not practice Thursday."
-      },
-      {
-        "team": null,
         "player": "Roger Rosengarten",
         "status": "Active",
         "detail": ""
@@ -1076,12 +1047,6 @@
         "player": "Mark Andrews",
         "status": "Active",
         "detail": "Andrews caught four of six targets for 28 yards and lost a fumble in Sunday's 30-23 overtime win over the Falcons."
-      },
-      {
-        "team": null,
-        "player": "Tyler Huntley",
-        "status": "Active",
-        "detail": "Huntley completed 24 of 32 passes for 201 yards and two touchdowns while rushing six times for 20 yards and a touchdown in Sunday's 30-23 overtime win over the Falcons."
       },
       {
         "team": null,
@@ -1633,7 +1598,7 @@
         "team": null,
         "player": "Allisha Gray",
         "status": "Out",
-        "detail": "Gray (hand) was a full participant at Friday's practice, Meghan L. Hall of USA Today reports."
+        "detail": "Gray (hand) is listed as questionable for Game 1 of the WNBA Finals against Golden State on Saturday."
       },
       {
         "team": null,
@@ -1926,7 +1891,7 @@
     ]
   },
   "closeArchive": {
-    "count": 472
+    "count": 473
   },
   "nflverse": [
     {
@@ -9872,11 +9837,11 @@
   },
   "pitchers": [
     {
-      "eventId": "849817",
+      "eventId": "849816",
       "homeTeam": "Cleveland Guardians",
-      "homePitcher": "Shawn Armstrong",
+      "homePitcher": null,
       "awayTeam": "Tampa Bay Rays",
-      "awayPitcher": "Nick Martinez"
+      "awayPitcher": null
     }
   ],
   "tennis": {

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-16T22:41:48.759143+00:00",
+  "pulled_at": "2026-10-17T01:12:12.468847+00:00",
   "leagues": {
     "nfl": {
       "ok": true,
@@ -1714,21 +1714,21 @@
       "games": [
         {
           "league": "mlb",
-          "eventId": "849817",
+          "eventId": "849816",
           "name": "Tampa Bay Rays at Cleveland Guardians",
-          "status": "Pre-Game",
-          "start": "2026-10-17T00:00:00Z",
+          "status": "Scheduled",
+          "start": "2026-10-18T00:00:00Z",
           "teams": [
             {
               "side": "away",
               "name": "Tampa Bay Rays",
-              "score": 0,
+              "score": null,
               "record": "1-2"
             },
             {
               "side": "home",
               "name": "Cleveland Guardians",
-              "score": 0,
+              "score": null,
               "record": "2-1"
             }
           ],
