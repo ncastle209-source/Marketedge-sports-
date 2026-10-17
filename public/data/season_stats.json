@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-17T06:01:40.904235+00:00",
+  "pulled_at": "2026-10-17T10:31:16.903499+00:00",
   "teams": {
     "nfl": [
       {
@@ -3962,9 +3962,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 30.0,
+      "tickets": 29.0,
       "handle": 25.0,
-      "advancedScore": 66.0
+      "advancedScore": 65.0
     },
     {
       "matchup": "Carolina Panthers vs. Philadelphia Eagles",
@@ -3982,8 +3982,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 56.0,
-      "handle": 55.0,
+      "tickets": 55.0,
+      "handle": 56.0,
       "advancedScore": 61.0
     },
     {
@@ -4013,8 +4013,8 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 63.0,
-      "handle": 71.0,
-      "advancedScore": 58.0
+      "handle": 70.0,
+      "advancedScore": 57.0
     },
     {
       "matchup": "Tennessee Titans vs. Indianapolis Colts",
@@ -4022,9 +4022,9 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 75.0,
+      "tickets": 76.0,
       "handle": 85.0,
-      "advancedScore": 60.5
+      "advancedScore": 59.5
     },
     {
       "matchup": "Washington Commanders vs. San Francisco 49ers",
@@ -4043,8 +4043,8 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 38.0,
-      "handle": 47.0,
-      "advancedScore": 59.0
+      "handle": 46.0,
+      "advancedScore": 58.0
     },
     {
       "matchup": "Pittsburgh Steelers vs. New Orleans Saints",
@@ -4072,8 +4072,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 46.0,
-      "handle": 39.0,
+      "tickets": 45.0,
+      "handle": 38.0,
       "advancedScore": 64.0
     },
     {
@@ -4113,8 +4113,8 @@
       "homeRecord": null,
       "awayRecord": null,
       "tickets": 73.0,
-      "handle": 73.0,
-      "advancedScore": 50.5
+      "handle": 70.0,
+      "advancedScore": 53.5
     },
     {
       "matchup": "Arizona Cardinals vs. Los Angeles Rams",
@@ -4122,8 +4122,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 67.0,
-      "handle": 62.0,
+      "tickets": 68.0,
+      "handle": 63.0,
       "advancedScore": 60.5
     },
     {
@@ -4142,8 +4142,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 39.0,
-      "handle": 45.0,
+      "tickets": 40.0,
+      "handle": 46.0,
       "advancedScore": 56.5
     },
     {
@@ -4152,8 +4152,8 @@
       "period": "fulltime",
       "homeRecord": null,
       "awayRecord": null,
-      "tickets": 61.0,
-      "handle": 54.0,
+      "tickets": 62.0,
+      "handle": 55.0,
       "advancedScore": 57.0
     },
     {

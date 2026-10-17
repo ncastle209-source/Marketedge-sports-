@@ -80,7 +80,7 @@
     {
       "league": "nfl",
       "name": "TEN @ IND",
-      "temp": 58,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -140,7 +140,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 56,
+      "temp": 55,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -180,7 +180,7 @@
     {
       "league": "nfl",
       "name": "ARI @ LAR",
-      "temp": 87,
+      "temp": 86,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -188,7 +188,7 @@
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -200,7 +200,7 @@
     {
       "league": "nfl",
       "name": "LAC @ KC",
-      "temp": 64,
+      "temp": 66,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -220,7 +220,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LV",
-      "temp": 76,
+      "temp": 75,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -228,7 +228,7 @@
         "rel": [
           "89118"
         ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=3&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=2&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -260,7 +260,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 66,
+      "temp": 65,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -268,7 +268,7 @@
         "rel": [
           "95054"
         ],
-        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=4&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=3&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -280,7 +280,7 @@
     {
       "league": "ncaaf",
       "name": "OSU @ IU",
-      "temp": 48,
+      "temp": 50,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -300,7 +300,7 @@
     {
       "league": "ncaaf",
       "name": "FLA @ TEX",
-      "temp": 59,
+      "temp": 61,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -340,7 +340,7 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 57,
+      "temp": 60,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -360,7 +360,7 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 46,
+      "temp": 48,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -380,7 +380,7 @@
     {
       "league": "ncaaf",
       "name": "AUB @ UGA",
-      "temp": 70,
+      "temp": 69,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -400,7 +400,7 @@
     {
       "league": "ncaaf",
       "name": "ALA @ TENN",
-      "temp": 58,
+      "temp": 57,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -420,7 +420,7 @@
     {
       "league": "ncaaf",
       "name": "MIZ @ MISS",
-      "temp": 64,
+      "temp": 65,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -440,7 +440,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 55,
+      "temp": 56,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -460,7 +460,7 @@
     {
       "league": "ncaaf",
       "name": "FSU @ MIA",
-      "temp": 78,
+      "temp": 80,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -488,7 +488,7 @@
         "rel": [
           "84604"
         ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=2&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=1&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -500,15 +500,15 @@
     {
       "league": "ncaaf",
       "name": "WIS @ UCLA",
-      "temp": 90,
-      "condition": "2",
+      "temp": 89,
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "91103"
         ],
-        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=2&hbhhour=16&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=1&hbhhour=16&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -560,7 +560,7 @@
     {
       "league": "ncaaf",
       "name": "UTAH @ COLO",
-      "temp": 61,
+      "temp": 62,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -568,7 +568,7 @@
         "rel": [
           "80309"
         ],
-        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=2&hbhhour=20&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=1&hbhhour=20&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -580,7 +580,7 @@
     {
       "league": "ncaaf",
       "name": "WAKE @ CAL",
-      "temp": 70,
+      "temp": 71,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -588,7 +588,7 @@
         "rel": [
           "94720"
         ],
-        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=2&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=1&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -974,7 +974,7 @@
         "team": null,
         "player": "Zay Flowers",
         "status": "Active",
-        "detail": "Flowers (toe) is has been cleared to play for Sunday's game at Cleveland."
+        "detail": "Flowers (toe) has been cleared to play in Sunday's game at Cleveland."
       },
       {
         "team": null,
@@ -9864,7 +9864,7 @@
           "name": "Almaty Open",
           "surface": null,
           "venue": null,
-          "status": "Scheduled"
+          "status": "Final"
         }
       ]
     },
