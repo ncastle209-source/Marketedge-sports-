@@ -280,7 +280,7 @@
     {
       "league": "ncaaf",
       "name": "OSU @ IU",
-      "temp": 49,
+      "temp": 54,
       "condition": "Sunny",
       "gust": null,
       "wind": {
@@ -300,7 +300,7 @@
     {
       "league": "ncaaf",
       "name": "FLA @ TEX",
-      "temp": 60,
+      "temp": 64,
       "condition": "Sunny",
       "gust": null,
       "wind": {
@@ -320,7 +320,7 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 65,
+      "temp": 70,
       "condition": "Sunny",
       "gust": null,
       "wind": {
@@ -340,7 +340,7 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 60,
+      "temp": 66,
       "condition": "Mostly sunny",
       "gust": null,
       "wind": {
@@ -360,7 +360,7 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 47,
+      "temp": 52,
       "condition": "Sunny",
       "gust": null,
       "wind": {
@@ -381,7 +381,7 @@
       "league": "ncaaf",
       "name": "AUB @ UGA",
       "temp": 69,
-      "condition": "2",
+      "condition": "1",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -401,7 +401,7 @@
       "league": "ncaaf",
       "name": "ALA @ TENN",
       "temp": 57,
-      "condition": "2",
+      "condition": "3",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -420,7 +420,7 @@
     {
       "league": "ncaaf",
       "name": "MIZ @ MISS",
-      "temp": 65,
+      "temp": 66,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -440,7 +440,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 58,
+      "temp": 56,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -460,7 +460,7 @@
     {
       "league": "ncaaf",
       "name": "FSU @ MIA",
-      "temp": 80,
+      "temp": 78,
       "condition": "15",
       "gust": null,
       "wind": {
@@ -500,7 +500,7 @@
     {
       "league": "ncaaf",
       "name": "WIS @ UCLA",
-      "temp": 89,
+      "temp": 88,
       "condition": "2",
       "gust": null,
       "wind": {
