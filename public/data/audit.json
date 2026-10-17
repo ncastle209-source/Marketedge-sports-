@@ -2,60 +2,6 @@
   "plays": [
     {
       "at": "2026-09-28T22:30:43.457741+00:00",
-      "gameId": "ncaaf-2h-nd-unc",
-      "matchup": "Notre Dame Fighting Irish vs. North Carolina Tar Heels",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 21.0,
-      "modelSpread": 20.5,
-      "modelEdge": 0.5,
-      "sharpSide": "North Carolina Tar Heels",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 64.0,
-      "handle": 49.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T22:30:43.457741+00:00",
-      "gameId": "ncaaf-2h-lib-del",
-      "matchup": "Liberty Flames vs. Delaware Blue Hens",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 7.0,
-      "modelSpread": 7.0,
-      "modelEdge": 0.0,
-      "sharpSide": "Liberty Flames",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 52.0,
-      "handle": 22.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T22:30:43.457741+00:00",
       "gameId": "ncaaf-2h-pitt-vt",
       "matchup": "Pittsburgh Panthers vs. Virginia Tech Hokies",
       "sport": "NCAAF",
@@ -14353,10 +14299,64 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-17T17:05:40.735195+00:00",
+      "gameId": "ncaaf-fres-sdsu",
+      "matchup": "Fresno State Bulldogs vs. San Diego State Aztecs",
+      "sport": "NCAAF",
+      "period": "fulltime",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 7.5,
+      "modelSpread": 11.4,
+      "modelEdge": -3.9,
+      "sharpSide": "Fresno State Bulldogs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": 8.5,
+      "clv": 1.0,
+      "tickets": 43.0,
+      "handle": 31.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-17T17:05:40.967432+00:00",
+      "gameId": "ncaaf-2h-fres-sdsu",
+      "matchup": "Fresno State Bulldogs vs. San Diego State Aztecs",
+      "sport": "NCAAF",
+      "period": "2h",
+      "engine": "sharp-t1",
+      "play": null,
+      "confidence": 1,
+      "ev": null,
+      "kellyQuarter": null,
+      "lineTaken": 7.5,
+      "modelSpread": 11.4,
+      "modelEdge": -3.9,
+      "sharpSide": "Fresno State Bulldogs",
+      "reasons": [
+        "Vegas Leverage NFL only prices NFL"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 43.0,
+      "handle": 31.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-17T13:57:45.863501+00:00"
+  "updated": "2026-10-17T17:05:40.967432+00:00"
 }

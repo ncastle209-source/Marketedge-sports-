@@ -120,7 +120,7 @@
     {
       "league": "nfl",
       "name": "NO @ NYG",
-      "temp": 56,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -140,7 +140,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 57,
+      "temp": 55,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -160,8 +160,8 @@
     {
       "league": "nfl",
       "name": "PIT @ TB",
-      "temp": 78,
-      "condition": "6",
+      "temp": 77,
+      "condition": "4",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -180,7 +180,7 @@
     {
       "league": "nfl",
       "name": "ARI @ LAR",
-      "temp": 86,
+      "temp": 85,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -200,7 +200,7 @@
     {
       "league": "nfl",
       "name": "LAC @ KC",
-      "temp": 66,
+      "temp": 67,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -220,7 +220,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LV",
-      "temp": 75,
+      "temp": 74,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -260,7 +260,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 65,
+      "temp": 66,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -281,14 +281,14 @@
       "league": "ncaaf",
       "name": "OSU @ IU",
       "temp": 49,
-      "condition": "1",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "47408"
         ],
-        "href": "http://www.accuweather.com/en/us/memorial-stadium-in/47408/hourly-weather-forecast/53572_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/memorial-stadium-in/47408/current-weather/53572_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -300,15 +300,15 @@
     {
       "league": "ncaaf",
       "name": "FLA @ TEX",
-      "temp": 61,
-      "condition": "2",
+      "temp": 60,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "78712"
         ],
-        "href": "http://www.accuweather.com/en/us/darrell-k-royal-texas-memorial-stadium-tx/78701/hourly-weather-forecast/53645_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/darrell-k-royal-texas-memorial-stadium-tx/78701/current-weather/53645_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -320,15 +320,15 @@
     {
       "league": "ncaaf",
       "name": "MSST @ LSU",
-      "temp": 64,
-      "condition": "2",
+      "temp": 65,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "70893"
         ],
-        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/hourly-weather-forecast/53584_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/tiger-stadium-la/70806/current-weather/53584_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -340,15 +340,15 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 57,
-      "condition": "2",
+      "temp": 60,
+      "condition": "Mostly sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "75205"
         ],
-        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/hourly-weather-forecast/53647_poi?day=1&hbhhour=11&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gerald-j-ford-stadium-tx/75201/current-weather/53647_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -360,15 +360,15 @@
     {
       "league": "ncaaf",
       "name": "NU @ MSU",
-      "temp": 48,
-      "condition": "2",
+      "temp": 47,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "48824"
         ],
-        "href": "http://www.accuweather.com/en/us/spartan-stadium-mi/48823/hourly-weather-forecast/53594_poi?day=1&hbhhour=12&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/spartan-stadium-mi/48823/current-weather/53594_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -440,7 +440,7 @@
     {
       "league": "ncaaf",
       "name": "ASU @ TTU",
-      "temp": 56,
+      "temp": 58,
       "condition": "3",
       "gust": null,
       "wind": {
@@ -540,7 +540,7 @@
     {
       "league": "ncaaf",
       "name": "OKST @ HOU",
-      "temp": 71,
+      "temp": 72,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -560,7 +560,7 @@
     {
       "league": "ncaaf",
       "name": "UTAH @ COLO",
-      "temp": 62,
+      "temp": 63,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -600,10 +600,20 @@
     {
       "league": "mlb",
       "name": "TB @ CLE",
-      "temp": null,
-      "condition": null,
+      "temp": 50,
+      "condition": "33",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=20&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Cleveland",
       "state": "Ohio"
     }
@@ -912,6 +922,12 @@
       },
       {
         "team": null,
+        "player": "Ja'Kobi Lane",
+        "status": "Injured Reserve",
+        "detail": "Lane (wrist) is \"good to go\" after practicing fully this week and is expected to be activated from injured reserve ahead of Sunday's game against the Browns, Jeremy Fowler of ESPN reports."
+      },
+      {
+        "team": null,
         "player": "Broderick Washington Jr.",
         "status": "Out",
         "detail": "Washington (ankle) has been ruled out for Sunday's game against the Browns."
@@ -933,12 +949,6 @@
         "player": "Tyler Huntley",
         "status": "Active",
         "detail": "Huntley will be the Ravens' starting QB against the Browns on Sunday after Lamar Jackson (ankle) was ruled out, Ryan Mink of the Ravens' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Ja'Kobi Lane",
-        "status": "Injured Reserve",
-        "detail": "Lane (wrist) is listed as questionable for Sunday's game at Cleveland."
       },
       {
         "team": null,
@@ -9932,7 +9942,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2773,
-    "gameFiles": 2660
+    "splitsKeys": 2775,
+    "gameFiles": 2662
   }
 }
