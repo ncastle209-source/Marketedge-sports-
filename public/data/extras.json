@@ -140,7 +140,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 55,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -280,7 +280,7 @@
     {
       "league": "ncaaf",
       "name": "OSU @ IU",
-      "temp": 50,
+      "temp": 49,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -340,7 +340,7 @@
     {
       "league": "ncaaf",
       "name": "UVA @ SMU",
-      "temp": 60,
+      "temp": 57,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -501,7 +501,7 @@
       "league": "ncaaf",
       "name": "WIS @ UCLA",
       "temp": 89,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -9858,7 +9858,7 @@
           "name": "BNP Paribas Fortis European Open",
           "surface": null,
           "venue": null,
-          "status": "Scheduled"
+          "status": "Final"
         },
         {
           "name": "Almaty Open",
