@@ -304,83 +304,113 @@
     },
     {
       "league": "ncaaf",
-      "name": "AUB @ UGA",
-      "temp": 70,
-      "condition": "Sunny",
+      "name": "FSU @ MIA",
+      "temp": 76,
+      "condition": "Rain",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "30602"
+          "33056"
         ],
-        "href": "http://www.accuweather.com/en/us/sanford-stadium-ga/30601/current-weather/53561_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/current-weather/53559_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Athens",
-      "state": "GA"
+      "city": "Miami Gardens",
+      "state": "FL"
     },
     {
       "league": "ncaaf",
-      "name": "ALA @ TENN",
-      "temp": 58,
+      "name": "ND @ BYU",
+      "temp": 72,
+      "condition": "Sunny",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "84604"
+        ],
+        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/current-weather/53655_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Provo",
+      "state": "UT"
+    },
+    {
+      "league": "ncaaf",
+      "name": "WIS @ UCLA",
+      "temp": 88,
       "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "37916"
+          "91103"
         ],
-        "href": "http://www.accuweather.com/en/us/neyland-stadium-tn/37902/current-weather/53639_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/current-weather/53542_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Knoxville",
-      "state": "TN"
+      "city": "Pasadena",
+      "state": "CA"
     },
     {
       "league": "ncaaf",
-      "name": "MIZ @ MISS",
-      "temp": 66,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "38677"
-        ],
-        "href": "http://www.accuweather.com/en/us/vaught-hemingway-stadium-ms/38677/current-weather/53600_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Oxford",
-      "state": "MS"
-    },
-    {
-      "league": "ncaaf",
-      "name": "ASU @ TTU",
+      "name": "UK @ OU",
       "temp": 61,
       "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "79401"
+          "73019"
         ],
-        "href": "http://www.accuweather.com/en/us/jones-at-t-stadium-tx/79401/current-weather/53649_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/current-weather/53627_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Lubbock",
+      "city": "Norman",
+      "state": "OK"
+    },
+    {
+      "league": "ncaaf",
+      "name": "OKST @ HOU",
+      "temp": 68,
+      "condition": "Mostly sunny",
+      "gust": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "77004"
+        ],
+        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/current-weather/53653_poi?lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
+      "city": "Houston",
       "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "AUB @ UGA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Athens",
+      "state": "GA"
     },
     {
       "league": "ncaaf",
@@ -394,12 +424,42 @@
     },
     {
       "league": "ncaaf",
+      "name": "ALA @ TENN",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Knoxville",
+      "state": "TN"
+    },
+    {
+      "league": "ncaaf",
       "name": "FLA @ TEX",
       "temp": null,
       "condition": null,
       "gust": null,
       "wind": null,
       "city": "Austin",
+      "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "MIZ @ MISS",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Oxford",
+      "state": "MS"
+    },
+    {
+      "league": "ncaaf",
+      "name": "ASU @ TTU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Lubbock",
       "state": "TX"
     },
     {
@@ -431,106 +491,6 @@
       "wind": null,
       "city": "East Lansing",
       "state": "MI"
-    },
-    {
-      "league": "ncaaf",
-      "name": "FSU @ MIA",
-      "temp": 79,
-      "condition": "15",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "33056"
-        ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/hourly-weather-forecast/53559_poi?day=1&hbhhour=19&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Miami Gardens",
-      "state": "FL"
-    },
-    {
-      "league": "ncaaf",
-      "name": "ND @ BYU",
-      "temp": 68,
-      "condition": "2",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "84604"
-        ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/hourly-weather-forecast/53655_poi?day=1&hbhhour=17&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Provo",
-      "state": "UT"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WIS @ UCLA",
-      "temp": 88,
-      "condition": "2",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "91103"
-        ],
-        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/hourly-weather-forecast/53542_poi?day=1&hbhhour=16&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Pasadena",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UK @ OU",
-      "temp": 62,
-      "condition": "1",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "73019"
-        ],
-        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/hourly-weather-forecast/53627_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Norman",
-      "state": "OK"
-    },
-    {
-      "league": "ncaaf",
-      "name": "OKST @ HOU",
-      "temp": 72,
-      "condition": "2",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "77004"
-        ],
-        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/hourly-weather-forecast/53653_poi?day=1&hbhhour=18&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Houston",
-      "state": "TX"
     },
     {
       "league": "ncaaf",
@@ -1674,6 +1634,12 @@
         "player": "Costanza Verona",
         "status": "Out",
         "detail": "Verona's contract was temporarily suspended by the Wings Saturday."
+      },
+      {
+        "team": null,
+        "player": "Tiffany Hayes",
+        "status": "Day-To-Day",
+        "detail": "Hayes exited Saturday's 68-64 Game 1 win over the Dream in the fourth quarter and did not return due to an apparent head injury, finishing with three points (1-12 FG, 1-5 3Pt), six rebounds, four assists, one steal and one block across 24 minutes."
       },
       {
         "team": null,
