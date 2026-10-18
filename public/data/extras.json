@@ -4,41 +4,56 @@
       "eventId": "849817",
       "home": "Cleveland Guardians",
       "away": "Tampa Bay Rays",
-      "plateUmpire": null,
-      "crew": [],
-      "status": "Scheduled"
+      "plateUmpire": "Jordan Baker",
+      "crew": [
+        {
+          "name": "Jordan Baker",
+          "type": "Home Plate"
+        },
+        {
+          "name": "Adam Hamari",
+          "type": "First Base"
+        },
+        {
+          "name": "Nestor Ceja",
+          "type": "Second Base"
+        },
+        {
+          "name": "Carlos Torres",
+          "type": "Third Base"
+        },
+        {
+          "name": "Bill Miller",
+          "type": "Left Field"
+        },
+        {
+          "name": "Mark Ripperger",
+          "type": "Right Field"
+        }
+      ],
+      "status": "Pre-Game"
     }
   ],
   "savant": [
     {
       "gamePk": 849817,
-      "status": "S",
+      "status": "P",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
     }
   ],
   "weather": [
     {
       "league": "nfl",
-      "name": "HOU VS JAX",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "London",
-      "state": null
-    },
-    {
-      "league": "nfl",
       "name": "CHI @ ATL",
-      "temp": 60,
-      "condition": "1",
+      "temp": 64,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/current-weather/17252_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -50,15 +65,15 @@
     {
       "league": "nfl",
       "name": "BAL @ CLE",
-      "temp": 60,
-      "condition": "2",
+      "temp": 63,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "44114"
         ],
-        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/current-weather/41494_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -70,15 +85,15 @@
     {
       "league": "nfl",
       "name": "TEN @ IND",
-      "temp": 58,
-      "condition": "1",
+      "temp": 62,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "46225"
         ],
-        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/hourly-weather-forecast/53571_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/current-weather/53571_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -91,14 +106,14 @@
       "league": "nfl",
       "name": "NYJ @ NE",
       "temp": 54,
-      "condition": "1",
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "02035"
         ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/current-weather/53587_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -110,15 +125,15 @@
     {
       "league": "nfl",
       "name": "NO @ NYG",
-      "temp": 57,
-      "condition": "1",
+      "temp": 56,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/current-weather/52866_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -130,15 +145,15 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 56,
-      "condition": "1",
+      "temp": 59,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "19103"
         ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/current-weather/43025_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -150,15 +165,15 @@
     {
       "league": "nfl",
       "name": "PIT @ TB",
-      "temp": 78,
-      "condition": "2",
+      "temp": 80,
+      "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "33607"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=1&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/current-weather/53558_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -166,6 +181,16 @@
       },
       "city": "Tampa",
       "state": "FL"
+    },
+    {
+      "league": "nfl",
+      "name": "HOU VS JAX",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "London",
+      "state": null
     },
     {
       "league": "nfl",
@@ -190,7 +215,7 @@
     {
       "league": "nfl",
       "name": "LAC @ KC",
-      "temp": 65,
+      "temp": 66,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -462,33 +487,75 @@
     "nfl": [
       {
         "team": null,
+        "player": "Wydett Williams Jr.",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Andrew Wingard",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Jerrick Reed II",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Starling Thomas V",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Jeremiyah Love",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Carson Beck",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Andrew Billings",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
         "player": "Kitan Crawford",
-        "status": "Questionable",
-        "detail": "The Cardinals activated Crawford (ankle) from injured reserve Saturday, Darren Urban of the Cardinals' official site reports."
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Blake Gillikin",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Zaven Collins",
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Budda Baker",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
         "player": "Evan Hull",
         "status": "Active",
         "detail": "The Cardinals elevated Hull from the practice squad Saturday ahead of Sunday's game against the Rams."
-      },
-      {
-        "team": null,
-        "player": "Andrew Wingard",
-        "status": "Out",
-        "detail": "Wingard (knee) has been ruled out ahead of Sunday's game against the Rams, Bo Brack of GoPHNX.com reports."
-      },
-      {
-        "team": null,
-        "player": "Zaven Collins",
-        "status": "Questionable",
-        "detail": "Collins (hip) is listed as questionable for Sunday's game against the Rams, Bo Brack of GoPHNX.com reports."
-      },
-      {
-        "team": null,
-        "player": "Budda Baker",
-        "status": "Questionable",
-        "detail": "Baker (groin) is listed as questionable for Sunday's game against the Rams, Bo Brack of GoPHNX.com reports."
       },
       {
         "team": null,
@@ -504,27 +571,9 @@
       },
       {
         "team": null,
-        "player": "Blake Gillikin",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
         "player": "Devin Duvernay",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Jeremiyah Love",
-        "status": "Out",
-        "detail": "Love (ankle) has been ruled out for Sunday's game at the Rams, Darren Urban of the Cardinals' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Wydett Williams Jr.",
-        "status": "Out",
-        "detail": "Coach Mike LaFleur has ruled out Williams (concussion) for Sunday's game against the Rams, Theo Mackie of The Arizona Republic reports."
       },
       {
         "team": null,
@@ -549,18 +598,6 @@
         "player": "James Conner",
         "status": "Injured Reserve",
         "detail": "Conner (foot) is close to practicing, but the Cardinals aren't expected to open his 21-day evaluation window this week, John Gambadoro of Arizona Sports 98.7 FM reports."
-      },
-      {
-        "team": null,
-        "player": "Andrew Billings",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Starling Thomas V",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -600,21 +637,21 @@
       },
       {
         "team": null,
-        "player": "Walter Nolen III",
-        "status": "Active",
-        "detail": "Nolen (calf) is active for Sunday's game against the Lions."
+        "player": "Divine Deablo",
+        "status": "Questionable",
+        "detail": "Deablo (arm) has been ruled out for the remainder of Sunday's game against the Bears, William McFadden of the Falcons' official site reports."
       },
       {
         "team": null,
-        "player": "Carson Beck",
+        "player": "Michael Penix Jr.",
         "status": "Active",
-        "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Lions."
+        "detail": "Penix (undisclosed) reentered Sunday's game versus the Bears, Will McFadden of the Falcons' official site reports."
       },
       {
         "team": null,
         "player": "Za'Darius Smith",
         "status": "Active",
-        "detail": ""
+        "detail": "Smith (neck) is active for Sunday's game against the Bears."
       },
       {
         "team": null,
@@ -666,12 +703,6 @@
       },
       {
         "team": null,
-        "player": "Michael Penix Jr.",
-        "status": "Active",
-        "detail": "Penix (ribs) doesn't have a designation for Sunday's game against the Bears, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Kendal Daniels",
         "status": "Active",
         "detail": ""
@@ -681,12 +712,6 @@
         "player": "Cameron Thomas",
         "status": "Active",
         "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Divine Deablo",
-        "status": "Active",
-        "detail": "Deablo (hamstring) was a full participant at practice Thursday, Tori McElhaney of the Falcons' official site reports."
       },
       {
         "team": null,
@@ -762,21 +787,27 @@
       },
       {
         "team": null,
-        "player": "Ja'Kobi Lane",
-        "status": "Active",
-        "detail": "Lane (wrist) is active for Sunday's game against the Browns."
-      },
-      {
-        "team": null,
-        "player": "Elijah Sarratt",
-        "status": "Out",
-        "detail": "inactive"
+        "player": "Rashod Bateman",
+        "status": "Questionable",
+        "detail": "Bateman sustained a shoulder injury during Sunday's game at Cleveland, Brian Wacker of The Baltimore Sun reports."
       },
       {
         "team": null,
         "player": "Andrew Vorhees",
         "status": "Out",
-        "detail": "inactive"
+        "detail": "Vorhees (foot) is listed as inactive for Sunday's game against the Browns."
+      },
+      {
+        "team": null,
+        "player": "Elijah Sarratt",
+        "status": "Out",
+        "detail": "Sarratt (coach's decision) is listed as inactive for Sunday's game against the Browns."
+      },
+      {
+        "team": null,
+        "player": "Ja'Kobi Lane",
+        "status": "Active",
+        "detail": "Lane (wrist) is active for Sunday's game against the Browns."
       },
       {
         "team": null,
@@ -819,12 +850,6 @@
         "player": "Tyler Huntley",
         "status": "Active",
         "detail": "Huntley will be the Ravens' starting QB against the Browns on Sunday after Lamar Jackson (ankle) was ruled out, Ryan Mink of the Ravens' official site reports."
-      },
-      {
-        "team": null,
-        "player": "Rashod Bateman",
-        "status": "Active",
-        "detail": "Bateman (shoulder) doesn't have an injury designation for Sunday's game at Cleveland."
       },
       {
         "team": null,
@@ -1741,7 +1766,7 @@
     ]
   },
   "closeArchive": {
-    "count": 526
+    "count": 527
   },
   "nflverse": [
     {
@@ -9794,7 +9819,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2853,
-    "gameFiles": 2740
+    "splitsKeys": 2855,
+    "gameFiles": 2742
   }
 }

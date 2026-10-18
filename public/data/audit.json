@@ -1,60 +1,6 @@
 {
   "plays": [
     {
-      "at": "2026-09-28T22:30:43.457741+00:00",
-      "gameId": "ncaaf-2h-pitt-vt",
-      "matchup": "Pittsburgh Panthers vs. Virginia Tech Hokies",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": -3.5,
-      "modelSpread": -5.5,
-      "modelEdge": 2.0,
-      "sharpSide": "Virginia Tech Hokies",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 38.0,
-      "handle": 50.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
-      "at": "2026-09-28T22:30:43.457741+00:00",
-      "gameId": "ncaaf-2h-unc-nd",
-      "matchup": "North Carolina vs. Notre Dame",
-      "sport": "NCAAF",
-      "period": "2h",
-      "engine": "deficiency",
-      "play": null,
-      "confidence": 1,
-      "ev": null,
-      "kellyQuarter": null,
-      "lineTaken": 21.0,
-      "modelSpread": 21.5,
-      "modelEdge": -0.5,
-      "sharpSide": "North Carolina",
-      "reasons": [
-        "Vegas Leverage NFL only prices NFL"
-      ],
-      "closeLine": null,
-      "clv": null,
-      "tickets": 64.0,
-      "handle": 49.0,
-      "plateUmpire": null,
-      "weather": null,
-      "injuries": [],
-      "result": "pending"
-    },
-    {
       "at": "2026-09-29T02:16:59.420341+00:00",
       "gameId": "mlb-philadelphia-phillies-atl",
       "matchup": "Philadelphia Phillies vs. Atlanta Braves",
@@ -14353,10 +14299,68 @@
       "weather": null,
       "injuries": [],
       "result": "pending"
+    },
+    {
+      "at": "2026-10-18T18:52:41.081483+00:00",
+      "gameId": "nfl-chicago-bears-atlanta-falcons",
+      "matchup": "Chicago Bears vs. Atlanta Falcons",
+      "sport": "NFL",
+      "period": "fulltime",
+      "engine": "vegas-leverage",
+      "play": "Atlanta Falcons +10.5",
+      "confidence": 78,
+      "ev": 0.445,
+      "kellyQuarter": 0.1224,
+      "lineTaken": 10.5,
+      "modelSpread": 1.1,
+      "modelEdge": 9.4,
+      "sharpSide": "Atlanta Falcons",
+      "reasons": [
+        "+EV 44.5% vs -110",
+        "model gap 9.4",
+        "Sharp Trap T1"
+      ],
+      "closeLine": 3.5,
+      "clv": -7.0,
+      "tickets": 0.0,
+      "handle": 0.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
+    },
+    {
+      "at": "2026-10-18T18:52:41.382913+00:00",
+      "gameId": "nfl-2h-chicago-bears-atlanta-falcons",
+      "matchup": "Chicago Bears vs. Atlanta Falcons",
+      "sport": "NFL",
+      "period": "2h",
+      "engine": "vegas-leverage",
+      "play": "Atlanta Falcons +10.5",
+      "confidence": 78,
+      "ev": 0.445,
+      "kellyQuarter": 0.1224,
+      "lineTaken": 10.5,
+      "modelSpread": 1.1,
+      "modelEdge": 9.4,
+      "sharpSide": "Atlanta Falcons",
+      "reasons": [
+        "+EV 44.5% vs -110",
+        "model gap 9.4",
+        "Sharp Trap T1"
+      ],
+      "closeLine": null,
+      "clv": null,
+      "tickets": 0.0,
+      "handle": 0.0,
+      "plateUmpire": null,
+      "weather": null,
+      "injuries": [],
+      "result": "pending"
     }
   ],
   "wins": 0,
   "losses": 0,
   "pending": 500,
-  "updated": "2026-10-18T16:28:18.296894+00:00"
+  "updated": "2026-10-18T18:52:41.382913+00:00"
 }
