@@ -50,11 +50,11 @@
       "source": "actionnetwork",
       "sport": "wnba",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "source": "actionnetwork",
-      "filled_this_step": 90
+      "filled_this_step": 89
     },
     {
       "source": "covers",
@@ -169,7 +169,7 @@
       "filled_this_step": 0
     }
   ],
-  "filled": 90,
-  "still_missing": 632,
-  "spreads": 90
+  "filled": 89,
+  "still_missing": 633,
+  "spreads": 89
 }

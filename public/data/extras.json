@@ -1,44 +1,19 @@
 {
   "umpires": [
     {
-      "eventId": "849816",
+      "eventId": "849817",
       "home": "Cleveland Guardians",
       "away": "Tampa Bay Rays",
-      "plateUmpire": "Mark Ripperger",
-      "crew": [
-        {
-          "name": "Mark Ripperger",
-          "type": "Home Plate"
-        },
-        {
-          "name": "Chad Fairchild",
-          "type": "First Base"
-        },
-        {
-          "name": "Adam Hamari",
-          "type": "Second Base"
-        },
-        {
-          "name": "Nestor Ceja",
-          "type": "Third Base"
-        },
-        {
-          "name": "Carlos Torres",
-          "type": "Left Field"
-        },
-        {
-          "name": "Bill Miller",
-          "type": "Right Field"
-        }
-      ],
-      "status": "Pre-Game"
+      "plateUmpire": null,
+      "crew": [],
+      "status": "Scheduled"
     }
   ],
   "savant": [
     {
-      "gamePk": 849816,
-      "status": "P",
-      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849816"
+      "gamePk": 849817,
+      "status": "S",
+      "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
     }
   ],
   "weather": [
@@ -304,103 +279,43 @@
     },
     {
       "league": "ncaaf",
-      "name": "FSU @ MIA",
-      "temp": 76,
-      "condition": "Rain",
+      "name": "UTAH @ COLO",
+      "temp": 55,
+      "condition": "Clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "33056"
+          "80309"
         ],
-        "href": "http://www.accuweather.com/en/us/hard-rock-stadium-fl/33056/current-weather/53559_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/current-weather/53547_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Miami Gardens",
-      "state": "FL"
+      "city": "Boulder",
+      "state": "CO"
     },
     {
       "league": "ncaaf",
-      "name": "ND @ BYU",
-      "temp": 72,
-      "condition": "Sunny",
+      "name": "WAKE @ CAL",
+      "temp": 69,
+      "condition": "Clear",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "84604"
+          "94720"
         ],
-        "href": "http://www.accuweather.com/en/us/lavell-edwards-stadium-ut/84601/current-weather/53655_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/current-weather/53538_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Provo",
-      "state": "UT"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WIS @ UCLA",
-      "temp": 88,
-      "condition": "Mostly cloudy",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "91103"
-        ],
-        "href": "http://www.accuweather.com/en/us/rose-bowl-ca/91101/current-weather/53542_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Pasadena",
+      "city": "Berkeley",
       "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UK @ OU",
-      "temp": 61,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "73019"
-        ],
-        "href": "http://www.accuweather.com/en/us/gaylord-family-oklahoma-memorial-stadium-ok/73071/current-weather/53627_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Norman",
-      "state": "OK"
-    },
-    {
-      "league": "ncaaf",
-      "name": "OKST @ HOU",
-      "temp": 68,
-      "condition": "Mostly sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "77004"
-        ],
-        "href": "http://www.accuweather.com/en/us/space-city-financial-stadium-tx/77002/current-weather/53653_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Houston",
-      "state": "TX"
     },
     {
       "league": "ncaaf",
@@ -411,6 +326,26 @@
       "wind": null,
       "city": "Athens",
       "state": "GA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "ND @ BYU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Provo",
+      "state": "UT"
+    },
+    {
+      "league": "ncaaf",
+      "name": "FSU @ MIA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Miami Gardens",
+      "state": "FL"
     },
     {
       "league": "ncaaf",
@@ -464,6 +399,26 @@
     },
     {
       "league": "ncaaf",
+      "name": "WIS @ UCLA",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Pasadena",
+      "state": "CA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "UK @ OU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Norman",
+      "state": "OK"
+    },
+    {
+      "league": "ncaaf",
       "name": "MSST @ LSU",
       "temp": null,
       "condition": null,
@@ -471,6 +426,16 @@
       "wind": null,
       "city": "Baton Rouge",
       "state": "LA"
+    },
+    {
+      "league": "ncaaf",
+      "name": "OKST @ HOU",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Houston",
+      "state": "TX"
     },
     {
       "league": "ncaaf",
@@ -493,62 +458,12 @@
       "state": "MI"
     },
     {
-      "league": "ncaaf",
-      "name": "UTAH @ COLO",
-      "temp": 62,
-      "condition": "33",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "80309"
-        ],
-        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/hourly-weather-forecast/53547_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Boulder",
-      "state": "CO"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WAKE @ CAL",
-      "temp": 71,
-      "condition": "33",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "94720"
-        ],
-        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/hourly-weather-forecast/53538_poi?day=1&hbhhour=19&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Berkeley",
-      "state": "CA"
-    },
-    {
       "league": "mlb",
       "name": "TB @ CLE",
-      "temp": 49,
-      "condition": "33",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "44115"
-        ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=20&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
+      "wind": null,
       "city": "Cleveland",
       "state": "Ohio"
     }
@@ -559,7 +474,13 @@
         "team": null,
         "player": "Kitan Crawford",
         "status": "Questionable",
-        "detail": "questionable"
+        "detail": "The Cardinals activated Crawford (ankle) from injured reserve Saturday, Darren Urban of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Evan Hull",
+        "status": "Active",
+        "detail": "The Cardinals elevated Hull from the practice squad ahead of Sunday's game against the Rams."
       },
       {
         "team": null,
@@ -698,12 +619,6 @@
         "player": "Carson Beck",
         "status": "Active",
         "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Lions."
-      },
-      {
-        "team": null,
-        "player": "Gardner Minshew II",
-        "status": "Active",
-        "detail": "Minshew is active for Sunday's game against the Lions."
       },
       {
         "team": null,
@@ -9782,11 +9697,11 @@
   },
   "pitchers": [
     {
-      "eventId": "849816",
+      "eventId": "849817",
       "homeTeam": "Cleveland Guardians",
-      "homePitcher": "Shawn Armstrong",
+      "homePitcher": "Parker Messick",
       "awayTeam": "Tampa Bay Rays",
-      "awayPitcher": "Nick Martinez"
+      "awayPitcher": null
     }
   ],
   "tennis": {
