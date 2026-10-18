@@ -31,156 +31,76 @@
           "type": "Right Field"
         }
       ],
-      "status": "Pre-Game"
+      "status": "In Progress"
     }
   ],
   "savant": [
     {
       "gamePk": 849817,
-      "status": "P",
+      "status": "I",
       "savant": "https://baseballsavant.mlb.com/gamefeed?gamePk=849817"
     }
   ],
   "weather": [
     {
       "league": "nfl",
-      "name": "CHI @ ATL",
-      "temp": 64,
+      "name": "ARI @ LAR",
+      "temp": 87,
       "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "30313"
+          "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/current-weather/17252_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/current-weather/209205_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Atlanta",
-      "state": "GA"
+      "city": "Inglewood",
+      "state": "CA"
     },
     {
       "league": "nfl",
-      "name": "BAL @ CLE",
-      "temp": 63,
+      "name": "LAC @ KC",
+      "temp": 68,
       "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "44114"
+          "64129"
         ],
-        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/current-weather/41494_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/current-weather/43032_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Cleveland",
-      "state": "OH"
+      "city": "Kansas City",
+      "state": "MO"
     },
     {
       "league": "nfl",
-      "name": "TEN @ IND",
-      "temp": 62,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "46225"
-        ],
-        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/current-weather/53571_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Indianapolis",
-      "state": "IN"
-    },
-    {
-      "league": "nfl",
-      "name": "NYJ @ NE",
-      "temp": 54,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "02035"
-        ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/current-weather/53587_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Foxborough",
-      "state": "MA"
-    },
-    {
-      "league": "nfl",
-      "name": "NO @ NYG",
-      "temp": 56,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "07073"
-        ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/current-weather/52866_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "East Rutherford",
-      "state": "NJ"
-    },
-    {
-      "league": "nfl",
-      "name": "CAR @ PHI",
-      "temp": 59,
-      "condition": "Sunny",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "19103"
-        ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/current-weather/43025_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Philadelphia",
-      "state": "PA"
-    },
-    {
-      "league": "nfl",
-      "name": "PIT @ TB",
-      "temp": 80,
+      "name": "BUF @ LV",
+      "temp": 74,
       "condition": "Mostly cloudy",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
-          "33607"
+          "89118"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/current-weather/53558_poi?lang=en-us",
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/current-weather/209206_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
-      "city": "Tampa",
-      "state": "FL"
+      "city": "Las Vegas",
+      "state": "NV"
     },
     {
       "league": "nfl",
@@ -194,63 +114,73 @@
     },
     {
       "league": "nfl",
-      "name": "ARI @ LAR",
-      "temp": 86,
-      "condition": "2",
+      "name": "CHI @ ATL",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "90301"
-        ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Inglewood",
-      "state": "CA"
+      "wind": null,
+      "city": "Atlanta",
+      "state": "GA"
     },
     {
       "league": "nfl",
-      "name": "LAC @ KC",
-      "temp": 66,
-      "condition": "1",
+      "name": "BAL @ CLE",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "64129"
-        ],
-        "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/hourly-weather-forecast/43032_poi?day=1&hbhhour=15&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Kansas City",
-      "state": "MO"
+      "wind": null,
+      "city": "Cleveland",
+      "state": "OH"
     },
     {
       "league": "nfl",
-      "name": "BUF @ LV",
-      "temp": 75,
-      "condition": "6",
+      "name": "TEN @ IND",
+      "temp": null,
+      "condition": null,
       "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "89118"
-        ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=1&hbhhour=13&lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Las Vegas",
-      "state": "NV"
+      "wind": null,
+      "city": "Indianapolis",
+      "state": "IN"
+    },
+    {
+      "league": "nfl",
+      "name": "NYJ @ NE",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Foxborough",
+      "state": "MA"
+    },
+    {
+      "league": "nfl",
+      "name": "NO @ NYG",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    {
+      "league": "nfl",
+      "name": "CAR @ PHI",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "league": "nfl",
+      "name": "PIT @ TB",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Tampa",
+      "state": "FL"
     },
     {
       "league": "nfl",
@@ -465,15 +395,15 @@
     {
       "league": "mlb",
       "name": "TB @ CLE",
-      "temp": 66,
-      "condition": "1",
+      "temp": 65,
+      "condition": "Sunny",
       "gust": null,
       "wind": {
         "language": "en-US",
         "rel": [
           "44115"
         ],
-        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/current-weather/53619_poi?lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -485,6 +415,30 @@
   ],
   "injuries": {
     "nfl": [
+      {
+        "team": null,
+        "player": "Carson Beck",
+        "status": "Out",
+        "detail": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Rams, Darren Urban of the Cardinals' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Kitan Crawford",
+        "status": "Active",
+        "detail": "Crawford (ankle) is active for Sunday's game against the Rams."
+      },
+      {
+        "team": null,
+        "player": "Zaven Collins",
+        "status": "Active",
+        "detail": "Collins (hip) is active for Sunday's game against the Rams."
+      },
+      {
+        "team": null,
+        "player": "Budda Baker",
+        "status": "Active",
+        "detail": "Baker (groin) is active for Sunday's game against the Rams."
+      },
       {
         "team": null,
         "player": "Wydett Williams Jr.",
@@ -517,37 +471,13 @@
       },
       {
         "team": null,
-        "player": "Carson Beck",
-        "status": "Out",
-        "detail": "inactive"
-      },
-      {
-        "team": null,
         "player": "Andrew Billings",
         "status": "Out",
         "detail": "inactive"
       },
       {
         "team": null,
-        "player": "Kitan Crawford",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Blake Gillikin",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Zaven Collins",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Budda Baker",
         "status": "Active",
         "detail": ""
       },
@@ -637,6 +567,24 @@
       },
       {
         "team": null,
+        "player": "Kendal Daniels",
+        "status": "Questionable",
+        "detail": "Daniels (neck) is alert and has movement in all his extremities while being evaluated at Grady Memorial Hospital."
+      },
+      {
+        "team": null,
+        "player": "Billy Bowman Jr.",
+        "status": "Questionable",
+        "detail": "Bowman (hamstring) is doubtful to return to Sunday's game against Atlanta, William McFadden of the Falcons' official site reports."
+      },
+      {
+        "team": null,
+        "player": "Avieon Terrell",
+        "status": "Active",
+        "detail": "Terrell (head) returned to Sunday's game against the Bears, William McFadden of the Falcons' official site reports"
+      },
+      {
+        "team": null,
         "player": "Divine Deablo",
         "status": "Questionable",
         "detail": "Deablo (arm) has been ruled out for the remainder of Sunday's game against the Bears, William McFadden of the Falcons' official site reports."
@@ -700,12 +648,6 @@
         "player": "Tua Tagovailoa",
         "status": "Active",
         "detail": "With Michael Penix (ribs) cleared to play Sunday against the Bears, Tagovailoa will handle backup duties for the Falcons."
-      },
-      {
-        "team": null,
-        "player": "Kendal Daniels",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -775,21 +717,9 @@
       },
       {
         "team": null,
-        "player": "Michael Jerrell",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Harold Perkins Jr.",
-        "status": "Active",
-        "detail": "Perkins recorded 10 tackles (seven solo) including 0.5 sacks and a pass defensed during Monday's 45-24 win at New Orleans."
-      },
-      {
-        "team": null,
         "player": "Rashod Bateman",
         "status": "Questionable",
-        "detail": "Bateman sustained a shoulder injury during Sunday's game at Cleveland, Brian Wacker of The Baltimore Sun reports."
+        "detail": "Bateman (shoulder) has been ruled out of Sunday's game in Cleveland."
       },
       {
         "team": null,
@@ -938,32 +868,32 @@
       {
         "team": null,
         "player": "Ed Oliver",
-        "status": "Questionable",
-        "detail": "Oliver (knee) is listed as questionable for Sunday's game against Las Vegas, Sam Warren of The Athletic reports."
+        "status": "Out",
+        "detail": "Oliver (knee) is inactive for Sunday's game against the Raiders."
       },
       {
         "team": null,
         "player": "Dee Alford",
-        "status": "Questionable",
-        "detail": "Alford (ankle) is listed as questionable for Sunday's game against the Raiders, Sam Warren of The Athletic reports."
-      },
-      {
-        "team": null,
-        "player": "Ty Johnson",
         "status": "Active",
-        "detail": "Johnson (hamstring) doesn't have an injury designation for Sunday's game at Las Vegas, Sam Warren of The Athletic reports."
+        "detail": "Alford (ankle) is active for Sunday's game against the Raiders."
       },
       {
         "team": null,
         "player": "Joshua Palmer",
-        "status": "Questionable",
-        "detail": "Palmer (shoulder) and DJ Moore (shoulder) are listed as questionable for Sunday's game at Las Vegas, Sam Warren of The Athletic reports."
+        "status": "Active",
+        "detail": "Palmer (shoulder) is active for Sunday's game against the Raiders."
       },
       {
         "team": null,
-        "player": "DJ Moore",
-        "status": "Questionable",
-        "detail": "Moore (shoulder) will be listed as questionable for Sunday's game at Las Vegas, Jay Skurski of The Buffalo News reports."
+        "player": "Ar'maj Reed-Adams",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Mike Danna",
+        "status": "Out",
+        "detail": "inactive"
       }
     ],
     "ncaaf": [
