@@ -19,16 +19,6 @@
   "weather": [
     {
       "league": "nfl",
-      "name": "SEA @ DEN",
-      "temp": null,
-      "condition": null,
-      "gust": null,
-      "wind": null,
-      "city": "Denver",
-      "state": "CO"
-    },
-    {
-      "league": "nfl",
       "name": "HOU VS JAX",
       "temp": null,
       "condition": null,
@@ -40,7 +30,7 @@
     {
       "league": "nfl",
       "name": "CHI @ ATL",
-      "temp": 60,
+      "temp": 62,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -48,7 +38,7 @@
         "rel": [
           "30313"
         ],
-        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/mercedes-benz-stadium-ga/30303/hourly-weather-forecast/17252_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -60,7 +50,7 @@
     {
       "league": "nfl",
       "name": "BAL @ CLE",
-      "temp": 59,
+      "temp": 60,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -68,7 +58,7 @@
         "rel": [
           "44114"
         ],
-        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/huntington-bank-field-oh/44113/hourly-weather-forecast/41494_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -80,7 +70,7 @@
     {
       "league": "nfl",
       "name": "TEN @ IND",
-      "temp": 57,
+      "temp": 58,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -88,7 +78,7 @@
         "rel": [
           "46225"
         ],
-        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/hourly-weather-forecast/53571_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lucas-oil-stadium-in/46204/hourly-weather-forecast/53571_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -108,7 +98,7 @@
         "rel": [
           "02035"
         ],
-        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/gillette-stadium-ma/02035/hourly-weather-forecast/53587_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -128,7 +118,7 @@
         "rel": [
           "07073"
         ],
-        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/metlife-stadium-nj/07073/hourly-weather-forecast/52866_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -148,7 +138,7 @@
         "rel": [
           "19103"
         ],
-        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -160,7 +150,7 @@
     {
       "league": "nfl",
       "name": "PIT @ TB",
-      "temp": 77,
+      "temp": 78,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -168,7 +158,7 @@
         "rel": [
           "33607"
         ],
-        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/raymond-james-stadium-fl/33602/hourly-weather-forecast/53558_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -188,7 +178,7 @@
         "rel": [
           "90301"
         ],
-        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/sofi-stadium-ca/90301/hourly-weather-forecast/209205_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -208,7 +198,7 @@
         "rel": [
           "64129"
         ],
-        "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/hourly-weather-forecast/43032_poi?day=2&hbhhour=15&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/hourly-weather-forecast/43032_poi?day=1&hbhhour=15&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -220,7 +210,7 @@
     {
       "league": "nfl",
       "name": "BUF @ LV",
-      "temp": 74,
+      "temp": 75,
       "condition": "2",
       "gust": null,
       "wind": {
@@ -228,7 +218,7 @@
         "rel": [
           "89118"
         ],
-        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=2&hbhhour=13&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/allegiant-stadium-nv/89101/hourly-weather-forecast/209206_poi?day=1&hbhhour=13&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -240,7 +230,7 @@
     {
       "league": "nfl",
       "name": "DAL @ GB",
-      "temp": 54,
+      "temp": 56,
       "condition": "33",
       "gust": null,
       "wind": {
@@ -248,7 +238,7 @@
         "rel": [
           "54304"
         ],
-        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=2&hbhhour=19&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/lambeau-field-wi/54303/hourly-weather-forecast/29742_poi?day=1&hbhhour=19&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
@@ -259,8 +249,18 @@
     },
     {
       "league": "nfl",
+      "name": "SEA @ DEN",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 65,
+      "temp": 66,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -268,53 +268,13 @@
         "rel": [
           "95054"
         ],
-        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=3&hbhhour=17&lang=en-us",
+        "href": "http://www.accuweather.com/en/us/levis-stadium-ca/95050/hourly-weather-forecast/53539_poi?day=2&hbhhour=17&lang=en-us",
         "text": "Weather",
         "shortText": "Weather",
         "isExternal": true,
         "isPremium": false
       },
       "city": "Santa Clara",
-      "state": "CA"
-    },
-    {
-      "league": "ncaaf",
-      "name": "UTAH @ COLO",
-      "temp": 55,
-      "condition": "Clear",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "80309"
-        ],
-        "href": "http://www.accuweather.com/en/us/folsom-field-co/80302/current-weather/53547_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Boulder",
-      "state": "CO"
-    },
-    {
-      "league": "ncaaf",
-      "name": "WAKE @ CAL",
-      "temp": 69,
-      "condition": "Clear",
-      "gust": null,
-      "wind": {
-        "language": "en-US",
-        "rel": [
-          "94720"
-        ],
-        "href": "http://www.accuweather.com/en/us/california-memorial-stadium-ca/94704/current-weather/53538_poi?lang=en-us",
-        "text": "Weather",
-        "shortText": "Weather",
-        "isExternal": true,
-        "isPremium": false
-      },
-      "city": "Berkeley",
       "state": "CA"
     },
     {
@@ -399,6 +359,16 @@
     },
     {
       "league": "ncaaf",
+      "name": "UTAH @ COLO",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Boulder",
+      "state": "CO"
+    },
+    {
+      "league": "ncaaf",
       "name": "WIS @ UCLA",
       "temp": null,
       "condition": null,
@@ -436,6 +406,16 @@
       "wind": null,
       "city": "Houston",
       "state": "TX"
+    },
+    {
+      "league": "ncaaf",
+      "name": "WAKE @ CAL",
+      "temp": null,
+      "condition": null,
+      "gust": null,
+      "wind": null,
+      "city": "Berkeley",
+      "state": "CA"
     },
     {
       "league": "ncaaf",
@@ -480,7 +460,7 @@
         "team": null,
         "player": "Evan Hull",
         "status": "Active",
-        "detail": "The Cardinals elevated Hull from the practice squad ahead of Sunday's game against the Rams."
+        "detail": "The Cardinals elevated Hull from the practice squad Saturday ahead of Sunday's game against the Rams."
       },
       {
         "team": null,
@@ -9701,7 +9681,7 @@
       "homeTeam": "Cleveland Guardians",
       "homePitcher": "Parker Messick",
       "awayTeam": "Tampa Bay Rays",
-      "awayPitcher": null
+      "awayPitcher": "Drew Rasmussen"
     }
   ],
   "tennis": {
@@ -9725,6 +9705,12 @@
           "surface": null,
           "venue": null,
           "status": "Final"
+        },
+        {
+          "name": "Grand Prix Auvergne-Rh\u00f4ne-Alpes",
+          "surface": null,
+          "venue": null,
+          "status": "Scheduled"
         }
       ]
     },
