@@ -30,7 +30,7 @@
     {
       "league": "nfl",
       "name": "CHI @ ATL",
-      "temp": 62,
+      "temp": 60,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -110,7 +110,7 @@
     {
       "league": "nfl",
       "name": "NO @ NYG",
-      "temp": 57,
+      "temp": 54,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -130,7 +130,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 56,
+      "temp": 55,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -151,7 +151,7 @@
       "league": "nfl",
       "name": "PIT @ TB",
       "temp": 78,
-      "condition": "4",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -211,7 +211,7 @@
       "league": "nfl",
       "name": "BUF @ LV",
       "temp": 75,
-      "condition": "2",
+      "condition": "6",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -1731,7 +1731,7 @@
     ]
   },
   "closeArchive": {
-    "count": 473
+    "count": 514
   },
   "nflverse": [
     {
@@ -9710,7 +9710,7 @@
           "name": "Grand Prix Auvergne-Rh\u00f4ne-Alpes",
           "surface": null,
           "venue": null,
-          "status": "Scheduled"
+          "status": "Final"
         }
       ]
     },
@@ -9778,7 +9778,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2775,
-    "gameFiles": 2662
+    "splitsKeys": 2815,
+    "gameFiles": 2702
   }
 }
