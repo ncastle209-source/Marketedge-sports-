@@ -51,7 +51,7 @@
       "league": "nfl",
       "name": "BAL @ CLE",
       "temp": 60,
-      "condition": "1",
+      "condition": "2",
       "gust": null,
       "wind": {
         "language": "en-US",
@@ -90,7 +90,7 @@
     {
       "league": "nfl",
       "name": "NYJ @ NE",
-      "temp": 52,
+      "temp": 54,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -110,7 +110,7 @@
     {
       "league": "nfl",
       "name": "NO @ NYG",
-      "temp": 54,
+      "temp": 57,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -130,7 +130,7 @@
     {
       "league": "nfl",
       "name": "CAR @ PHI",
-      "temp": 55,
+      "temp": 56,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -190,7 +190,7 @@
     {
       "league": "nfl",
       "name": "LAC @ KC",
-      "temp": 67,
+      "temp": 65,
       "condition": "1",
       "gust": null,
       "wind": {
@@ -260,7 +260,7 @@
     {
       "league": "nfl",
       "name": "WSH @ SF",
-      "temp": 66,
+      "temp": 65,
       "condition": "4",
       "gust": null,
       "wind": {
@@ -440,10 +440,20 @@
     {
       "league": "mlb",
       "name": "TB @ CLE",
-      "temp": null,
-      "condition": null,
+      "temp": 66,
+      "condition": "1",
       "gust": null,
-      "wind": null,
+      "wind": {
+        "language": "en-US",
+        "rel": [
+          "44115"
+        ],
+        "href": "http://www.accuweather.com/en/us/progressive-field-oh/44113/hourly-weather-forecast/53619_poi?day=1&hbhhour=17&lang=en-us",
+        "text": "Weather",
+        "shortText": "Weather",
+        "isExternal": true,
+        "isPremium": false
+      },
       "city": "Cleveland",
       "state": "Ohio"
     }
@@ -603,14 +613,50 @@
       {
         "team": null,
         "player": "Za'Darius Smith",
-        "status": "Questionable",
-        "detail": "Smith (neck) is listed as questionable for Sunday's game against the Bears, Tori McElhaney of the Falcons' official site reports."
+        "status": "Active",
+        "detail": ""
+      },
+      {
+        "team": null,
+        "player": "Cooper Rush",
+        "status": "Out",
+        "detail": "Rush (coach's decision) is listed as inactive but will serve as the Falcons' emergency third quarterback for Sunday's game against the Bears."
+      },
+      {
+        "team": null,
+        "player": "Jack Strand",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Ethan Onianwa",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Christian Harris",
+        "status": "Out",
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "C.J. Henderson",
         "status": "Out",
-        "detail": "Henderson (groin) has been ruled out for Sunday's game against the Bears, Tori McElhaney of the Falcons' official site reports."
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Drake Jackson",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Malcolm DeWalt IV",
+        "status": "Out",
+        "detail": "inactive"
       },
       {
         "team": null,
@@ -656,30 +702,6 @@
       },
       {
         "team": null,
-        "player": "Jack Strand",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Ethan Onianwa",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Malcolm DeWalt IV",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
-        "player": "Christian Harris",
-        "status": "Active",
-        "detail": ""
-      },
-      {
-        "team": null,
         "player": "Robert Longerbeam",
         "status": "Active",
         "detail": ""
@@ -716,12 +738,6 @@
       },
       {
         "team": null,
-        "player": "Cooper Rush",
-        "status": "Active",
-        "detail": "Rush (coach's decision) is inactive for Sunday's game against the Ravens but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
-      },
-      {
-        "team": null,
         "player": "Samson Ebukam",
         "status": "Active",
         "detail": ""
@@ -746,33 +762,57 @@
       },
       {
         "team": null,
-        "player": "Austin Hooper",
+        "player": "Ja'Kobi Lane",
         "status": "Active",
-        "detail": "Hooper caught his only target for nine yards during Monday's 45-24 win at New Orleans."
+        "detail": "Lane (wrist) is active for Sunday's game against the Browns."
       },
       {
         "team": null,
-        "player": "Ja'Kobi Lane",
-        "status": "Questionable",
-        "detail": "Lane (wrist) was activated from injured reserve by Baltimore on Saturday."
+        "player": "Elijah Sarratt",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Andrew Vorhees",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "K'Von Wallace",
+        "status": "Out",
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "Broderick Washington Jr.",
         "status": "Out",
-        "detail": "Washington (ankle) has been ruled out for Sunday's game against the Browns."
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "Cam Jurgens",
         "status": "Out",
-        "detail": "Jurgens (concussion) has been ruled out for Sunday's game against the Browns."
+        "detail": "inactive"
       },
       {
         "team": null,
         "player": "Matt Hibner",
         "status": "Out",
-        "detail": "Hibner (hand) has been ruled out for Sunday's game against the Browns."
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Lamar Jackson",
+        "status": "Out",
+        "detail": "inactive"
+      },
+      {
+        "team": null,
+        "player": "Emery Jones Jr.",
+        "status": "Active",
+        "detail": ""
       },
       {
         "team": null,
@@ -818,12 +858,6 @@
       },
       {
         "team": null,
-        "player": "Lamar Jackson",
-        "status": "Out",
-        "detail": "Jackson (ankle) isn't practicing Friday, making him unlikely to play Sunday at Cleveland, according to Brian Wacker of The Baltimore Sun."
-      },
-      {
-        "team": null,
         "player": "Nick Vannett",
         "status": "Active",
         "detail": "Vannett (knee) practiced in full Thursday."
@@ -848,27 +882,9 @@
       },
       {
         "team": null,
-        "player": "Emery Jones Jr.",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
         "player": "Justice Hill",
         "status": "Active",
         "detail": "Hill turned four carries into 73 yards and caught two of four targets for five yards during the Ravens' 30-23 overtime win over the Falcons on Sunday."
-      },
-      {
-        "team": null,
-        "player": "Andrew Vorhees",
-        "status": "Questionable",
-        "detail": "questionable"
-      },
-      {
-        "team": null,
-        "player": "Elijah Sarratt",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -893,12 +909,6 @@
         "player": "Derrick Henry",
         "status": "Active",
         "detail": "Henry rushed 24 times for 102 yards while catching one of two targets for an 18-yard touchdown in Sunday's 30-23 overtime win over the Falcons. He also ran in a two-point conversion."
-      },
-      {
-        "team": null,
-        "player": "Ronnie Stanley",
-        "status": "Active",
-        "detail": ""
       },
       {
         "team": null,
@@ -1731,7 +1741,7 @@
     ]
   },
   "closeArchive": {
-    "count": 514
+    "count": 526
   },
   "nflverse": [
     {
@@ -9711,6 +9721,12 @@
           "surface": null,
           "venue": null,
           "status": "Final"
+        },
+        {
+          "name": "Grand Prix Auvergne-Rh\u00f4ne-Alpes",
+          "surface": null,
+          "venue": null,
+          "status": null
         }
       ]
     },
@@ -9760,8 +9776,8 @@
     "events": [
       {
         "name": "ATL @ GS",
-        "start": "2026-10-17T19:30Z",
-        "id": "401918305"
+        "start": "2026-10-20T00:00Z",
+        "id": "401918306"
       }
     ],
     "rest": [
@@ -9778,7 +9794,7 @@
     ]
   },
   "splitsHistory": {
-    "splitsKeys": 2815,
-    "gameFiles": 2702
+    "splitsKeys": 2853,
+    "gameFiles": 2740
   }
 }
